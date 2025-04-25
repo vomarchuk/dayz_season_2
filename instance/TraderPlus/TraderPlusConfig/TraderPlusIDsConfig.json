@@ -152,11 +152,18 @@
     {
       "Id": 9,
       "Categories": [
-        "Weapons",
-        "Mags",
-        "Attachments",
-        "Optics",
-        "Ammo"
+        "IMP WEAPONS",
+        "IMP items",
+        "IMP Muzzle",
+        "IMP ReceiverCover",
+        "IMP Grid",
+        "IMP PistolGrip",
+        "IMP Optics",
+        "IMP Suppressor",
+        "IMP Hndgrd",
+        "IMP Bttstk",
+        "IMP Mags",
+        "IMP AMMO"
       ],
       "LicencesRequired": [],
       "CurrenciesAccepted": []
