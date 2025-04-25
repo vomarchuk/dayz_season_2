@@ -113,11 +113,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="types/TerjeSkills_ce">
 		<file name="Types_Skills.xml" type="types" />
 	</ce>
-	<!-- SCWS -->
-	<ce folder="types/SCWS_ce">
-		<file name="SCWS.xml" type="types" />
-	</ce>
-	<!-- FOG -->
+	<!-- IMP -->
 	<ce folder="types/IMP_ce">
 		<file name="imp_weapon.xml" type="types" />
 	</ce>
