@@ -1,0 +1,32 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Зброя",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "SCWS_AK47G",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 6000,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SellPricePercent": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "PD_Magnum",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SellPricePercent": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

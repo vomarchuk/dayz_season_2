@@ -1,0 +1,443 @@
+{
+  "Version": "2.5",
+  "ConvertTraderConfigToTraderPlus": 0,
+  "ConvertTraderConfigToTraderPlusWithStockBasedOnCE": 0,
+  "UseGarageToTradeCar": 0,
+  "DisableHeightFailSafeForReceiptDeployment": 0,
+  "HideInsuranceBtn": 0,
+  "HideGarageBtn": 0,
+  "HideLicenceBtn": 0,
+  "EnableShowAllPrices": 1,
+  "EnableShowAllCheckBox": 1,
+  "IsReceiptTraderOnly": 1,
+  "IsReceiptSaveLock": 0,
+  "IsReceiptSaveAttachment": 1,
+  "IsReceiptSaveCargo": 1,
+  "LockPickChance": 0.30000001192092896,
+  "LicenceKeyWord": "Licence",
+  "Licences": [
+    "Car Licence",
+    "Admin Licence"
+  ],
+  "AcceptedStates": {
+    "AcceptWorn": 1,
+    "AcceptDamaged": 1,
+    "AcceptBadlyDamaged": 1,
+    "CoefficientWorn": 0.75,
+    "CoefficientDamaged": 0.5,
+    "CoefficientBadlyDamaged": 0.25
+  },
+  "StoreOnlyToPristineState": 0,
+  "Currencies": [
+    {
+      "ClassName": "TraderPlus_Money_Euro500",
+      "Value": 500
+    },
+    {
+      "ClassName": "TraderPlus_Money_Euro200",
+      "Value": 200
+    },
+    {
+      "ClassName": "TraderPlus_Money_Euro100",
+      "Value": 100
+    },
+    {
+      "ClassName": "TraderPlus_Money_Euro50",
+      "Value": 50
+    },
+    {
+      "ClassName": "TraderPlus_Money_Euro20",
+      "Value": 20
+    },
+    {
+      "ClassName": "TraderPlus_Money_Euro10",
+      "Value": 10
+    },
+    {
+      "ClassName": "TraderPlus_Money_Euro5",
+      "Value": 5
+    },
+    {
+      "ClassName": "TraderPlus_Money_Euro2",
+      "Value": 2
+    },
+    {
+      "ClassName": "TraderPlus_Money_Euro1",
+      "Value": 1
+    }
+  ],
+  "Traders": [
+    {
+      "Id": 0,
+      "Name": "SurvivorF_Maria",
+      "GivenName": "Maria",
+      "Role": "Medications Trader",
+      "Position": [
+        1436.089478,
+        329.337250,
+        632.509338
+      ],
+      "Orientation": [
+        -144.000000,
+        0.000000,
+        -0.000000
+      ],
+      "Clothes": [
+        "MedicalScrubsHat_White",
+        "MedicalScrubsPants_White",
+        "MedicalScrubsShirt_White",
+        "SurgicalMask",
+        "SurgicalGloves_White",
+        "DressShoes_Black",
+        "HipPack_Medical"
+      ]
+    },
+    {
+      "Id": 1,
+      "Name": "SurvivorF_Irena",
+      "GivenName": "Irena",
+      "Role": "Медицина",
+      "Position": [
+        3712.570068,
+        402.721893,
+        5972.784668
+      ],
+      "Orientation": [
+        169.43837,
+        0.0,
+        -0.0
+      ],
+      "Clothes": [
+        "ParamedicJacket_Crimson",
+        "ParamedicPants_Crimson",
+        "MedicalScrubsHat_Green",
+        "DressShoes_Black",
+        "CanvasBag_Medical"
+      ]
+    },
+    {
+      "Id": 2,
+      "Name": "SurvivorM_Lewis",
+      "GivenName": "Lewis",
+      "Role": "Хім захист",
+      "Position": [
+        2119.427002,
+        95.713745,
+        3360.794189
+      ],
+      "Orientation": [
+        19,
+        0,
+        0
+      ],
+      "Clothes": [
+        "GasMask",
+        "NBCHoodYellow",
+        "NBCBootsYellow",
+        "NBCPantsYellow",
+        "NBCJacketYellow",
+        "NBCGlovesYellow",
+        "DryBag_Yellow"
+      ]
+    },
+    {
+      "Id": 3,
+      "Name": "SurvivorM_Jose",
+      "GivenName": "Jose",
+      "Role": "Зброя",
+      "Position": [
+        1397.600952,
+        329.374176,
+        647.802795
+      ],
+      "Orientation": [
+        98.999794,
+        0.000000,
+        -0.000000
+      ],
+      "Clothes": [
+        "GorkaHelmet_Green",
+        "TacticalShirt_Olive",
+        "CargoPants_Green",
+        "TacticalGloves_Green",
+        "MilitaryBoots_Black",
+        "Balaclava3Holes_Green",
+        "PlateCarrierVest_Green",
+        "SVD"
+      ]
+    },
+    {
+      "Id": 4,
+      "Name": "SurvivorM_Jose",
+      "GivenName": "Jose",
+      "Role": "Набої та обвіси",
+      "Position": [
+        1404.724243,
+        329.329956,
+        649.807312
+      ],
+      "Orientation": [
+        -171.000122,
+        0.000000,
+        -0.000000
+      ],
+      "Clothes": [
+        "FAMAS",
+        "USMCJacket_Desert",
+        "USMCPants_Desert",
+        "CombatBoots_Black",
+        "TacticalGloves_Green",
+        "PlateCarrierVest",
+        "Mich2001Helmet",
+        "MilitaryBelt"
+      ]
+    },
+    {
+      "Id": 5,
+      "Name": "SurvivorM_Hassan",
+      "GivenName": "Hassan",
+      "Role": "Одяг",
+      "Position": [
+        1410.082764,
+        329.338257,
+        641.032043
+      ],
+      "Orientation": [
+        -117.000084,
+        0.000000,
+        -0.000000
+      ],
+      "Clothes": [
+        "WoolGlovesFingerless_ChristmasRed",
+        "Ushanka_Blue",
+        "QuiltedJacket_Yellow",
+        "Jeans_Grey",
+        "HikingBootsLow_Blue"
+      ]
+    },
+    {
+      "Id": 6,
+      "Name": "SurvivorM_Seth",
+      "GivenName": "Seth",
+      "Role": "Інструменти",
+      "Position": [
+        1394.546021,
+        329.336273,
+        613.621338
+      ],
+      "Orientation": [
+        71.999893,
+        -0.000000,
+        -0.000000
+      ],
+      "Clothes": [
+        "Wrench",
+        "JumpsuitPants_Red",
+        "JumpsuitJacket_Red",
+        "WorkingBoots_Yellow",
+        "ConstructionHelmet_Red"
+      ]
+    },
+    {
+      "Id": 7,
+      "Name": "SurvivorM_Jose",
+      "GivenName": "Jose",
+      "Role": "Продавець модового одягу",
+      "Position": [
+        3687.716064,
+        402.941101,
+        5957.413086
+      ],
+      "Orientation": [
+        30.808481,
+        0.0,
+        -0.0
+      ],
+      "Clothes": [
+        "FOG_Tactical_Fingerless_Gloves_MC",
+        "FOG_Helmet_MICH2000_TanRattle",
+        "FOG_Vest_CPC_AOR1",
+        "FOG_G3_Hoodie_AOR1",
+        "FOG_Pants_Crye_G3_AOR1",
+        "FOG_Bag_SATL_KHK",
+        "FOG_DEFCONVans_Shoes_MCB",
+        "SVD",
+        "SCWS_ACC",
+        "SCWS_M249"
+      ]
+    },
+    {
+      "Id": 8,
+      "Name": "SurvivorM_Jose",
+      "GivenName": "Jose",
+      "Role": "Продукти харчування",
+      "Position": [
+        1424.495483,
+        329.337250,
+        619.711853
+      ],
+      "Orientation": [
+        -19.799997,
+        0.000000,
+        0.000000
+      ],
+      "Clothes": [
+        "SurgicalGloves_LightBlue",
+        "MedicalScrubsHat_Blue",
+        "SlacksPants_White",
+        "DressShoes_Black",
+        "LabCoat"
+      ]
+    },
+    {
+      "Id": 9,
+      "Name": "SurvivorF_Maria",
+      "GivenName": "Maria",
+      "Role": "Продавець модової зброї",
+      "Position": [
+        3681.450684,
+        402.651245,
+        5966.488281
+      ],
+      "Orientation": [
+        33.432823,
+        0.0,
+        -0.0
+      ],
+      "Clothes": [
+        "FOG_Knight_Mask_Black",
+        "FOG_Shirt_ISOF_Jacket_MC2",
+        "FOG_Vest_TacTec_MCB",
+        "FOG_MTF_Pants_MC",
+        "FOG_GunGloves_MC",
+        "FOG_Bag_BlackJack_MCB",
+        "FOG_Operator_Boots_CB",
+        "SVD",
+        "SCWS_CZ_Pink",
+        "SCWS_FAMASF1FALL"
+      ]
+    },
+    {
+      "Id": 10,
+      "Name": "SurvivorM_Mirek",
+      "GivenName": "Mirek",
+      "Role": "Охотник",
+      "Position": [
+        3702.868652,
+        402.651245,
+        5948.369141
+      ],
+      "Orientation": [
+        -16.787212,
+        0.0,
+        0.0
+      ],
+      "Clothes": [
+        "BoonieHat_Winter",
+        "HuntingVest_Winter",
+        "HuntingJacket_Winter",
+        "FOG_FieldPants_White",
+        "HuntingBag_Hannah",
+        "WoolGloves_White",
+        "Bandana_BlackPattern",
+        "HikingBoots_Black",
+        "AviatorGlasses",
+        "Fluffy Pets <3"
+      ]
+    },
+    {
+      "Id": 11,
+      "Name": "SurvivorM_Francis",
+      "GivenName": "Дон Педро",
+      "Role": "Cannabis Trader",
+      "Position": [
+        175.029129,
+        386.918182,
+        12518.526367
+      ],
+      "Orientation": [
+        54.0,
+        0.0,
+        0.0
+      ],
+      "Clothes": [
+        "ManSuit_DarkGrey",
+        "DressShoes_Black",
+        "SlacksPants_Black",
+        "SportGlasses_Black"
+      ]
+    },
+    {
+      "Id": 12,
+      "Name": "SurvivorM_Denis",
+      "GivenName": "Василь",
+      "Role": "Фермер",
+      "Position": [
+        3718.620361,
+        402.651123,
+        5953.166992
+      ],
+      "Orientation": [
+        -39.209656,
+        0.0,
+        0.0
+      ],
+      "Clothes": [
+        "WoolGlovesFingerless_ChristmasRed",
+        "Ushanka_Blue",
+        "QuiltedJacket_Yellow",
+        "Jeans_Grey",
+        "HikingBootsLow_Blue"
+      ]
+    },
+    {
+      "Id": 13,
+      "Name": "SurvivorM_Mirek",
+      "GivenName": "Мірик",
+      "Role": "Авто запчастини",
+      "Position": [
+        3702.921387, 
+        402.360382, 
+        6008.772461
+      ],
+      "Orientation": [
+        111.202003,
+        0.0,
+        -0.0
+      ],
+      "Clothes": [
+        "Ushanka_Black",
+        "DownJacket_Blue",
+        "CargoPants_Black",
+        "WorkingGloves_Yellow",
+        "HikingBoots_Black"
+      ]
+    },
+    {
+      "Id": 14,
+      "Name": "SurvivorM_Denis",
+      "GivenName": "Мясник",
+      "Role": "Частини тіл",
+      "Position": [
+        14124.838867,
+        140.338562,
+        13839.694336
+      ],
+      "Orientation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "Clothes": [
+        "PaydayMask_Hoxton",
+        "DownJacket_Blue",
+        "CargoPants_Black",
+        "WorkingGloves_Yellow",
+        "HikingBoots_Black",
+        "SVD",
+        "FangeKnife"
+      ]
+    }
+  ],
+  "TraderObjects": []
+}

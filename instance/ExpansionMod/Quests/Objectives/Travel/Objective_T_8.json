@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 8,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Йдіть до села",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        13576.200195, 
+        14.526998, 
+        14093.200195
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Йдіть до села",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

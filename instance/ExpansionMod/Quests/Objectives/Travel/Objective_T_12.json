@@ -1,0 +1,16 @@
+{
+    "ConfigVersion": 28,
+    "ID": 12,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Йдіть до прихистку на Алтарі",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        8221.176758, 469.711792, 9057.181641
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Прихисток на Алтарі",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

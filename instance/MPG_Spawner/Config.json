@@ -1,0 +1,12 @@
+{
+    "configVersion": 3,
+    "isModDisabled": 0,
+    "isDebugEnabled": 0,
+    "pointsConfigs": [
+        "100_Stary_Jar",
+        "99_Alkatras",
+        "200_Oilrig",
+        "300_Island",
+        "500_forest_boss"
+    ]
+}

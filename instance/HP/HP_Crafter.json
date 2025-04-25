@@ -1,0 +1,3833 @@
+{
+  "m_CraftClasses": {
+    "m_CustomizationSetting": {
+      "PathToMainBackgroundImg": "my path to main img",
+      "PathTorepairpicImg": "my path to repairpicImg",
+      "PathTopaintpicImg": "my path to paintpicImg",
+      "PathToammopicImg": "my path to ammopicImg",
+      "PathToweaponpicImg": "my path to weaponpicImg",
+      "PathTotoolspicImg": "my path to toolspicImg",
+      "PathTocraftpicImg": "my path to craftpicImg",
+      "PathTosewingkitpicImg": "my path to sewingkitpicImg",
+      "PathTobuildingpicImg": "my path to buildingpicImg",
+      "PathTocarpicImg": "my path to carpicImg",
+      "PathTofurniturepicImg": "my path to furniturepicImg",
+      "PathTomedicpicImg": "my path to medicpicImg",
+      "PathTobookpicImg": "my path to bookpicImg",
+      "PathTohousepicImg": "my path to housepicImg",
+      "PathTodonatepicImg": "my path to donatepicImg",
+      "PathTovoltagepicImg": "my path to voltagepicImg"
+    },
+    "WorkbenchesClassnames": [
+      "HP_Crafter"
+    ],
+    "CraftCategories": [
+      {
+        "CategoryName": "Глушники",
+        "CraftItems": [
+          {
+            "Result": "M4_Suppressor",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "oltagepic",
+            "RecipeName": "Глушник серії М",
+            "CraftComponents": [
+              {
+                "Classname": "Pipe",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "Hacksaw",
+              "PipeWrench"
+            ]
+          },
+          {
+            "Result": "AK_Suppressor",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "oltagepic",
+            "RecipeName": "Глушник серії АК",
+            "CraftComponents": [
+              {
+                "Classname": "Pipe",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "Hacksaw",
+              "PipeWrench"
+            ]
+          }
+        ]
+      },
+      {
+        "CategoryName": "Модові Глушники",
+        "CraftItems": [
+          {
+            "Result": "SCWS_9mm_Suppressor",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "oltagepic",
+            "RecipeName": "Глушник 9mm",
+            "CraftComponents": [
+              {
+                "Classname": "PistolSuppressor",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WD40S",
+                "Amount": 20,
+                "Destroy": 20,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_CuttingDisc",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 2,
+                "Destroy": 2,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "PipeWrench",
+              "HP_Grinde",
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "SCWS_Uni_Suppressor_Black",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "oltagepic",
+            "RecipeName": "Універсальний глушник",
+            "CraftComponents": [
+              {
+                "Classname": "M4_Suppressor",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WD40S",
+                "Amount": 20,
+                "Destroy": 20,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_CuttingDisc",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 2,
+                "Destroy": 2,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "PipeWrench",
+              "HP_Grinde",
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "SCWS_Uni_Suppressor_Black",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "oltagepic",
+            "RecipeName": "Універсальний глушник",
+            "CraftComponents": [
+              {
+                "Classname": "AK_Suppressor",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WD40S",
+                "Amount": 20,
+                "Destroy": 20,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_CuttingDisc",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 2,
+                "Destroy": 2,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "PipeWrench",
+              "HP_Grinde",
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "SCWS_Suppressor_Legion",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "oltagepic",
+            "RecipeName": "Глушник на 338 калібр",
+            "CraftComponents": [
+              {
+                "Classname": "SCWS_Uni_Suppressor_Black",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WD40",
+                "Amount": 70,
+                "Destroy": 70,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_SandpaperS",
+                "Amount": 75,
+                "Destroy": 75,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_CuttingDisc",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "KIWI_WeaponCleaningKit",
+                "Amount": 200,
+                "Destroy": 200,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "PipeWrench",
+              "HP_Grinde",
+              "HP_Drill",
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "SCWS_408_Suppressor",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "oltagepic",
+            "RecipeName": "Глушник на 408 калібр",
+            "CraftComponents": [
+              {
+                "Classname": "SCWS_Suppressor_Legion",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WeaponCleaningSpray_2",
+                "Amount": 50,
+                "Destroy": 50,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_OilPlastic",
+                "Amount": 40,
+                "Destroy": 40,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_CuttingDisc",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Sandpaper",
+                "Amount": 250,
+                "Destroy": 250,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "KIWI_WeaponCleaningKit",
+                "Amount": 600,
+                "Destroy": 600,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "PipeWrench",
+              "HP_Grinde",
+              "HP_Drill",
+              "HP_Vise",
+              "HP_Oiler"
+            ]
+          },
+          {
+            "Result": "SCWS_50_Suppressor",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "oltagepic",
+            "RecipeName": "Глушник на 50 калібр",
+            "CraftComponents": [
+              {
+                "Classname": "SCWS_Suppressor_Legion",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_Pipe",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WeaponCleaningSpray",
+                "Amount": 80,
+                "Destroy": 80,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_CuttingDisc",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_OilPlastic",
+                "Amount": 60,
+                "Destroy": 60,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_SharpeningKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "PipeWrench",
+              "HP_Grinde",
+              "HP_Drill",
+              "HP_Vise",
+              "HP_Oiler"
+            ]
+          }
+        ]
+      },
+      {
+        "CategoryName": "Потрібні речі",
+        "CraftItems": [
+          {
+            "Result": "KIWI_SewingKit_XL",
+            "ResultCount": 1000,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Великий набір кравця",
+            "CraftComponents": [
+              {
+                "Classname": "SewingKit",
+                "Amount": 1000,
+                "Destroy": 1000,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "EpoxyPutty",
+                "Amount": 200,
+                "Destroy": 200,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": []
+          },
+          {
+            "Result": "KIWI_DuctTape_XL",
+            "ResultCount": 1000,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Великий моток скотча",
+            "CraftComponents": [
+              {
+                "Classname": "DuctTape",
+                "Amount": 1000,
+                "Destroy": 1000,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "EpoxyPutty",
+                "Amount": 200,
+                "Destroy": 200,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": []
+          }
+        ]
+      },
+      {
+        "CategoryName": "Подвійні магазини",
+        "CraftItems": [
+          {
+            "Result": "SCWS_MP7A1_DualMagazine",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "oltagepic",
+            "RecipeName": "Подвійні магазин для MP7A1",
+            "CraftComponents": [
+              {
+                "Classname": "SCWS_MP7A1_Magazine",
+                "Amount": 2,
+                "Destroy": 2,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_insulatingtape",
+                "Amount": 70,
+                "Destroy": 70,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": []
+          },
+          {
+            "Result": "SCWS_MCX_DualMagazine",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "oltagepic",
+            "RecipeName": "Подвійні магазин для MCX",
+            "CraftComponents": [
+              {
+                "Classname": "SCWS_MCX_Magazine",
+                "Amount": 2,
+                "Destroy": 2,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_insulatingtape",
+                "Amount": 70,
+                "Destroy": 70,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": []
+          },
+          {
+            "Result": "SCWS_AAC_DualMagazine",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "oltagepic",
+            "RecipeName": "Подвійні магазин для AAC",
+            "CraftComponents": [
+              {
+                "Classname": "SCWS_AAC_Magazine",
+                "Amount": 2,
+                "Destroy": 2,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_insulatingtape",
+                "Amount": 70,
+                "Destroy": 70,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": []
+          },
+          {
+            "Result": "SCWS_APC9_DualMagazine",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "oltagepic",
+            "RecipeName": "Подвійні магазин для APC9",
+            "CraftComponents": [
+              {
+                "Classname": "SCWS_APC9_Magazine",
+                "Amount": 2,
+                "Destroy": 2,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_insulatingtape",
+                "Amount": 70,
+                "Destroy": 70,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": []
+          },
+          {
+            "Result": "SCWS_AK47G_DualMagazine",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "oltagepic",
+            "RecipeName": "Подвійні магазин для AK47G",
+            "CraftComponents": [
+              {
+                "Classname": "SCWS_AK47G_Magazine",
+                "Amount": 2,
+                "Destroy": 2,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_insulatingtape",
+                "Amount": 70,
+                "Destroy": 70,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": []
+          },
+          {
+            "Result": "SCWS_CZ_Dual_Magazine",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "oltagepic",
+            "RecipeName": "Подвійні магазин для Scorpion",
+            "CraftComponents": [
+              {
+                "Classname": "SCWS_CZ_Magazine",
+                "Amount": 2,
+                "Destroy": 2,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_insulatingtape",
+                "Amount": 70,
+                "Destroy": 70,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": []
+          },
+          {
+            "Result": "SCWS_SCARH_DualMagazine",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "oltagepic",
+            "RecipeName": "Подвійні магазин для SCARH",
+            "CraftComponents": [
+              {
+                "Classname": "SCWS_SCARH_Magazine",
+                "Amount": 2,
+                "Destroy": 2,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_insulatingtape",
+                "Amount": 70,
+                "Destroy": 70,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": []
+          }
+        ]
+      },
+      {
+        "CategoryName": "Лінійка крафту M82A1",
+        "CraftItems": [
+          {
+            "Result": "SCWS_MK18",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "weaponpic",
+            "RecipeName": "MK18",
+            "CraftComponents": [
+              {
+                "Classname": "M4A1",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Wrench",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "WeaponCleaningKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WD40S",
+                "Amount": 40,
+                "Destroy": 40,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_bolts",
+                "Amount": 10,
+                "Destroy": 10,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_nuts",
+                "Amount": 10,
+                "Destroy": 10,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "SCWS_AR10",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "weaponpic",
+            "RecipeName": "AR10",
+            "CraftComponents": [
+              {
+                "Classname": "SCWS_MK18",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Wrench",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_OilPlastic",
+                "Amount": 40,
+                "Destroy": 40,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WD40S",
+                "Amount": 80,
+                "Destroy": 80,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WeaponCleaningSpray_2",
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "KIWI_WeaponCleaningKit",
+                "Amount": 600,
+                "Destroy": 600,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 50,
+                "Destroy": 50,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_bolts",
+                "Amount": 25,
+                "Destroy": 25,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_nuts",
+                "Amount": 25,
+                "Destroy": 25,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Oiler",
+              "HP_Anvil",
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "SCWS_SPEAR",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "weaponpic",
+            "RecipeName": "SPEAR",
+            "CraftComponents": [
+              {
+                "Classname": "SCWS_AR10",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Wrench",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_OilPlastic",
+                "Amount": 60,
+                "Destroy": 60,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WD40S",
+                "Amount": 120,
+                "Destroy": 120,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WeaponCleaningSpray_2",
+                "Amount": 150,
+                "Destroy": 150,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_CleaningKitPlastic",
+                "Amount": 90,
+                "Destroy": 90,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_Pipe",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 25,
+                "Destroy": 25,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets2",
+                "Amount": 25,
+                "Destroy": 25,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_bolts",
+                "Amount": 50,
+                "Destroy": 50,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_nuts",
+                "Amount": 50,
+                "Destroy": 50,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Plastik",
+                "Amount": 25,
+                "Destroy": 25,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Oiler",
+              "HP_Anvil",
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "SCWS_M82A1",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "weaponpic",
+            "RecipeName": "M82A1",
+            "CraftComponents": [
+              {
+                "Classname": "SCWS_SPEAR",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Wrench",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_Pipe",
+                "Amount": 2,
+                "Destroy": 2,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_OilPlastic",
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WD40",
+                "Amount": 210,
+                "Destroy": 210,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WeaponCleaningSpray",
+                "Amount": 160,
+                "Destroy": 160,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_CleaningKitPlastic",
+                "Amount": 270,
+                "Destroy": 270,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets2",
+                "Amount": 75,
+                "Destroy": 75,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_bolts",
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_nuts",
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Plastik",
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Drill",
+              "HP_Grinde",
+              "HP_Oiler",
+              "HP_Anvil",
+              "HP_Vise"
+            ]
+          }
+        ]
+      },
+      {
+        "CategoryName": "Лінійка крафту LYNX",
+        "CraftItems": [
+          {
+            "Result": "SCWS_MDR",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "weaponpic",
+            "RecipeName": "MDR",
+            "CraftComponents": [
+              {
+                "Classname": "FAMAS",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Wrench",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "WeaponCleaningKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WD40S",
+                "Amount": 40,
+                "Destroy": 40,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_bolts",
+                "Amount": 10,
+                "Destroy": 10,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_nuts",
+                "Amount": 10,
+                "Destroy": 10,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "SCWS_SCARH",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "weaponpic",
+            "RecipeName": "SCARH",
+            "CraftComponents": [
+              {
+                "Classname": "SCWS_MDR",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Wrench",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_OilPlastic",
+                "Amount": 40,
+                "Destroy": 40,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WD40S",
+                "Amount": 80,
+                "Destroy": 80,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WeaponCleaningSpray_2",
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "KIWI_WeaponCleaningKit",
+                "Amount": 600,
+                "Destroy": 600,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 50,
+                "Destroy": 50,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_bolts",
+                "Amount": 25,
+                "Destroy": 25,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_nuts",
+                "Amount": 25,
+                "Destroy": 25,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Oiler",
+              "HP_Anvil",
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "Aug",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "weaponpic",
+            "RecipeName": "Aug 338",
+            "CraftComponents": [
+              {
+                "Classname": "SCWS_SCARH",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Wrench",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_Pipe",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_OilPlastic",
+                "Amount": 60,
+                "Destroy": 60,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WD40S",
+                "Amount": 120,
+                "Destroy": 120,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WeaponCleaningSpray_2",
+                "Amount": 150,
+                "Destroy": 150,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_CleaningKitPlastic",
+                "Amount": 90,
+                "Destroy": 90,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 25,
+                "Destroy": 25,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets2",
+                "Amount": 25,
+                "Destroy": 25,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_bolts",
+                "Amount": 50,
+                "Destroy": 50,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_nuts",
+                "Amount": 50,
+                "Destroy": 50,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Plastik",
+                "Amount": 25,
+                "Destroy": 25,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Oiler",
+              "HP_Anvil",
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "SCWS_GM6LYNX",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "weaponpic",
+            "RecipeName": "GM6LYNX",
+            "CraftComponents": [
+              {
+                "Classname": "Aug",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Wrench",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_Pipe",
+                "Amount": 2,
+                "Destroy": 2,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_OilPlastic",
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WD40",
+                "Amount": 210,
+                "Destroy": 210,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WeaponCleaningSpray",
+                "Amount": 160,
+                "Destroy": 160,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_CleaningKitPlastic",
+                "Amount": 270,
+                "Destroy": 270,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets2",
+                "Amount": 75,
+                "Destroy": 75,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_bolts",
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_nuts",
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Plastik",
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Drill",
+              "HP_Grinde",
+              "HP_Oiler",
+              "HP_Anvil",
+              "HP_Vise"
+            ]
+          }
+        ]
+      },
+      {
+        "CategoryName": "Лінійка крафту болтовок",
+        "CraftItems": [
+          {
+            "Result": "SCWS_M14",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "weaponpic",
+            "RecipeName": "M14",
+            "CraftComponents": [
+              {
+                "Classname": "Winchester70",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Wrench",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "WeaponCleaningKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WD40S",
+                "Amount": 40,
+                "Destroy": 40,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_bolts",
+                "Amount": 10,
+                "Destroy": 10,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_nuts",
+                "Amount": 10,
+                "Destroy": 10,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "SCWS_TIMBERWOLF",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "weaponpic",
+            "RecipeName": "TIMBERWOLF",
+            "CraftComponents": [
+              {
+                "Classname": "SCWS_M14",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Wrench",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_OilPlastic",
+                "Amount": 40,
+                "Destroy": 40,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WD40S",
+                "Amount": 80,
+                "Destroy": 80,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WeaponCleaningSpray_2",
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "KIWI_WeaponCleaningKit",
+                "Amount": 600,
+                "Destroy": 600,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 50,
+                "Destroy": 50,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_bolts",
+                "Amount": 25,
+                "Destroy": 25,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_nuts",
+                "Amount": 25,
+                "Destroy": 25,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Oiler",
+              "HP_Anvil",
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "SCWS_DT408",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "weaponpic",
+            "RecipeName": "SCWS_DT408",
+            "CraftComponents": [
+              {
+                "Classname": "SCWS_TIMBERWOLF",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Wrench",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_Pipe",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_OilPlastic",
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WD40",
+                "Amount": 210,
+                "Destroy": 210,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WeaponCleaningSpray",
+                "Amount": 240,
+                "Destroy": 240,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_CleaningKitPlastic",
+                "Amount": 270,
+                "Destroy": 270,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets2",
+                "Amount": 75,
+                "Destroy": 75,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_bolts",
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_nuts",
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Plastik",
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Drill",
+              "HP_Grinde",
+              "HP_Oiler",
+              "HP_Anvil",
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "SCWS_M200",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "weaponpic",
+            "RecipeName": "M200",
+            "CraftComponents": [
+              {
+                "Classname": "SCWS_TIMBERWOLF",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Wrench",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_Pipe",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_OilPlastic",
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WD40",
+                "Amount": 210,
+                "Destroy": 210,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WeaponCleaningSpray",
+                "Amount": 240,
+                "Destroy": 240,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_CleaningKitPlastic",
+                "Amount": 270,
+                "Destroy": 270,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets2",
+                "Amount": 75,
+                "Destroy": 75,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_bolts",
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_nuts",
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Plastik",
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Drill",
+              "HP_Grinde",
+              "HP_Oiler",
+              "HP_Anvil",
+              "HP_Vise"
+            ]
+          }
+        ]
+      },
+      {
+        "CategoryName": "Електрика",
+        "CraftItems": [
+          {
+            "Result": "NVGoggles",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "voltagepic",
+            "RecipeName": "Прилад нічного бачення",
+            "CraftComponents": [
+              {
+                "Classname": "Binoculars",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_FPVcam",
+                "Amount": 2,
+                "Destroy": 2,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_Tester",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "ElectronicRepairKit",
+                "Amount": 200,
+                "Destroy": 200,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Screwdriver",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DuctTape",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_sovCap",
+                "Amount": 25,
+                "Destroy": 25,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Payalnik"
+            ]
+          },
+          {
+            "Result": "CodeLock",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "voltagepic",
+            "RecipeName": "Код-лок",
+            "CraftComponents": [
+              {
+                "Classname": "CombinationLock4",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_Tester",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "EpoxyPutty",
+                "Amount": 200,
+                "Destroy": 200,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "ElectronicRepairKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Screwdriver",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DuctTape",
+                "Amount": 200,
+                "Destroy": 200,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_sovCap",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Payalnik"
+            ]
+          },
+          {
+            "Result": "GPSReceiver",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "voltagepic",
+            "RecipeName": "GPS",
+            "CraftComponents": [
+              {
+                "Classname": "PersonalRadio",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "ElectronicRepairKit",
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Screwdriver",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "EpoxyPutty",
+                "Amount": 200,
+                "Destroy": 200,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_sovCap",
+                "Amount": 25,
+                "Destroy": 25,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Payalnik"
+            ]
+          },
+          {
+            "Result": "bl_solar_panel_Kit",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "voltagepic",
+            "RecipeName": "Сонячна панель",
+            "CraftComponents": [
+              {
+                "Classname": "RIP_GlassPK",
+                "Amount": 10,
+                "Destroy": 10,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "MetalPlate",
+                "Amount": 5,
+                "Destroy": 5,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "ElectronicRepairKit",
+                "Amount": 200,
+                "Destroy": 200,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Screwdriver",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "EpoxyPutty",
+                "Amount": 200,
+                "Destroy": 200,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_sovCap",
+                "Amount": 25,
+                "Destroy": 25,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "MetalWire",
+                "Amount": 2,
+                "Destroy": 2,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Payalnik"
+            ]
+          }
+        ]
+      },
+      {
+        "CategoryName": "Кейси",
+        "CraftItems": [
+          {
+            "Result": "Custom_ProtectorCase_25",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Кейс на 25 слотів",
+            "CraftComponents": [
+              {
+                "Classname": "SmallProtectorCase",
+                "Amount": 2,
+                "Destroy": 2,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Pliers",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Rope",
+                "Amount": 5,
+                "Destroy": 5,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "EpoxyPutty",
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DuctTape",
+                "Amount": 200,
+                "Destroy": 200,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "Custom_ProtectorCase_50",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Кейс на 50 слотів",
+            "CraftComponents": [
+              {
+                "Classname": "Custom_ProtectorCase_25",
+                "Amount": 2,
+                "Destroy": 2,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Pliers",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DuctTape",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "EpoxyPutty",
+                "Amount": 200,
+                "Destroy": 200,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Blowtorch",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "SmallGasCanister",
+                "Amount": 60,
+                "Destroy": 60,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Vise",
+              "HP_Drill"
+            ]
+          },
+          {
+            "Result": "Custom_ProtectorCase_100",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Кейс на 100 слотів",
+            "CraftComponents": [
+              {
+                "Classname": "Custom_ProtectorCase_50",
+                "Amount": 2,
+                "Destroy": 2,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Blowtorch",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Pliers",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Glue",
+                "Amount": 120,
+                "Destroy": 120,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "MediumGasCanister",
+                "Amount": 60,
+                "Destroy": 60,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_CuttingDisc",
+                "Amount": 2,
+                "Destroy": 2,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Vise",
+              "HP_Drill",
+              "HP_Grinde"
+            ]
+          },
+          {
+            "Result": "Custom_ProtectorCase_150",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Кейс на 150 слотів",
+            "CraftComponents": [
+              {
+                "Classname": "Custom_ProtectorCase_100",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Custom_ProtectorCase_50",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Blowtorch",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Pliers",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hacksaw",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Glue",
+                "Amount": 120,
+                "Destroy": 120,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "MetalWire",
+                "Amount": 10,
+                "Destroy": 10,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "MediumGasCanister",
+                "Amount": 80,
+                "Destroy": 80,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_CuttingDisc",
+                "Amount": 3,
+                "Destroy": 3,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Vise",
+              "HP_Drill",
+              "HP_Grinde"
+            ]
+          },
+          {
+            "Result": "Custom_ProtectorCase_300",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Кейс на 300 слотів",
+            "CraftComponents": [
+              {
+                "Classname": "Custom_ProtectorCase_150",
+                "Amount": 2,
+                "Destroy": 2,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Blowtorch",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Pliers",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Glue",
+                "Amount": 180,
+                "Destroy": 180,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "LargeGasCanister",
+                "Amount": 80,
+                "Destroy": 80,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_CuttingDisc",
+                "Amount": 5,
+                "Destroy": 5,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Vise",
+              "HP_Drill",
+              "HP_Grinde",
+              "HP_Anvil"
+            ]
+          },
+          {
+            "Result": "Custom_ProtectorCase_600_kiwi",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Кейс на 600 слотів",
+            "CraftComponents": [
+              {
+                "Classname": "Custom_ProtectorCase_300",
+                "Amount": 2,
+                "Destroy": 2,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Blowtorch",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Pliers",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Glue",
+                "Amount": 240,
+                "Destroy": 240,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "LargeGasCanister",
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_CuttingDisc",
+                "Amount": 5,
+                "Destroy": 5,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "BearPelt",
+                "Amount": 3,
+                "Destroy": 3,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Vise",
+              "HP_Drill",
+              "HP_Grinde",
+              "HP_Anvil",
+              "HP_Payalnik"
+            ]
+          }
+        ]
+      },
+      {
+        "CategoryName": "Аптечки",
+        "CraftItems": [
+          {
+            "Result": "FirstAidKit",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "sewingkitpic",
+            "RecipeName": "Мала аптечка",
+            "CraftComponents": [
+              {
+                "Classname": "Rag",
+                "Amount": 20,
+                "Destroy": 20,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RabbitPelt",
+                "Amount": 3,
+                "Destroy": 3,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "SewingKit",
+                "Amount": 200,
+                "Destroy": 200,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "LeatherSewingKit",
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DuctTape",
+                "Amount": 200,
+                "Destroy": 200,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": []
+          },
+          {
+            "Result": "TerjeFirstAidKitMedium",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "sewingkitpic",
+            "RecipeName": "Середня аптечка",
+            "CraftComponents": [
+              {
+                "Classname": "FirstAidKit",
+                "Amount": 2,
+                "Destroy": 2,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Glue",
+                "Amount": 120,
+                "Destroy": 120,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DuctTape",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "FoxPelt",
+                "Amount": 5,
+                "Destroy": 5,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "SewingKit",
+                "Amount": 400,
+                "Destroy": 400,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "LeatherSewingKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "Pliers"
+            ]
+          },
+          {
+            "Result": "TerjeFirstAidKitLarge",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "sewingkitpic",
+            "RecipeName": "Велика аптечка",
+            "CraftComponents": [
+              {
+                "Classname": "TerjeFirstAidKitMedium",
+                "Amount": 2,
+                "Destroy": 2,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Fabric",
+                "Amount": 10,
+                "Destroy": 10,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Rope",
+                "Amount": 5,
+                "Destroy": 5,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Glue",
+                "Amount": 180,
+                "Destroy": 180,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "LeatherSewingKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TireRepairKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "Pliers",
+              "Hammer"
+            ]
+          }
+        ]
+      },
+      {
+        "CategoryName": "Пластини",
+        "CraftItems": [
+          {
+            "Result": "RIP_AP",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Пластина 1 класу",
+            "CraftComponents": [
+              {
+                "Classname": "SledgeHammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hacksaw",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Blowtorch",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "MetalWire",
+                "Amount": 2,
+                "Destroy": 2,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "MetalPlate",
+                "Amount": 5,
+                "Destroy": 5,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "SmallGasCanister",
+                "Amount": 40,
+                "Destroy": 40,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil"
+            ]
+          },
+          {
+            "Result": "RIP_AP2",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Пластина 2 класу",
+            "CraftComponents": [
+              {
+                "Classname": "RIP_AP",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "SledgeHammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hacksaw",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Blowtorch",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "MetalPlate",
+                "Amount": 12,
+                "Destroy": 12,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "EpoxyPutty",
+                "Amount": 200,
+                "Destroy": 200,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "SmallGasCanister",
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Grinde"
+            ]
+          },
+          {
+            "Result": "RIP_AP3",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Пластина 3 класу",
+            "CraftComponents": [
+              {
+                "Classname": "RIP_AP2",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "SledgeHammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hacksaw",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Blowtorch",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "MetalPlate",
+                "Amount": 15,
+                "Destroy": 15,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "EpoxyPutty",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "MediumGasCanister",
+                "Amount": 80,
+                "Destroy": 80,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Grinde",
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "RIP_AP4",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Пластина 4 класу",
+            "CraftComponents": [
+              {
+                "Classname": "RIP_AP3",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "SledgeHammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hacksaw",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Blowtorch",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "MetalPlate",
+                "Amount": 20,
+                "Destroy": 20,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "EpoxyPutty",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "LargeGasCanister",
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Grinde",
+              "HP_Drill",
+              "HP_Vise"
+            ]
+          }
+        ]
+      },
+      {
+        "CategoryName": "Бронежилети",
+        "CraftItems": [
+          {
+            "Result": "KIWI_VEST_V1",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Бронежилет 1 класу",
+            "CraftComponents": [
+              {
+                "Classname": "PlateCarrierVest",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DeerPelt",
+                "Amount": 3,
+                "Destroy": 3,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 10,
+                "Destroy": 10,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "SewingKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 20,
+                "Destroy": 20,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DuctTape",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil"
+            ]
+          },
+          {
+            "Result": "KIWI_VEST_V2",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Бронежилет 2 класу",
+            "CraftComponents": [
+              {
+                "Classname": "KIWI_VEST_V1",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP2",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "WolfPelt",
+                "Amount": 5,
+                "Destroy": 5,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 20,
+                "Destroy": 20,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "SewingKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DuctTape",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "KIWI_VEST_V3",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Бронежилет 3 класу",
+            "CraftComponents": [
+              {
+                "Classname": "KIWI_VEST_V2",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP3",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Pliers",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TannedLeather",
+                "Amount": 12,
+                "Destroy": 12,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Fabric",
+                "Amount": 15,
+                "Destroy": 15,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "LeatherSewingKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets2",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TireRepairKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Drill",
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "KIWI_VEST_V4",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Бронежилет 4 класу",
+            "CraftComponents": [
+              {
+                "Classname": "KIWI_VEST_V3",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP4",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Pliers",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Kevlar",
+                "Amount": 5000,
+                "Destroy": 5000,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 40,
+                "Destroy": 40,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Glue",
+                "Amount": 180,
+                "Destroy": 180,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "LeatherSewingKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets2",
+                "Amount": 50,
+                "Destroy": 50,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TireRepairKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Grinde",
+              "HP_Drill",
+              "HP_Vise"
+            ]
+          }
+        ]
+      },
+      {
+        "CategoryName": "Катани",
+        "CraftItems": [
+          {
+            "Result": "SLC_Ninjato",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Ninjato",
+            "CraftComponents": [
+              {
+                "Classname": "SLC_Wakazashi",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "KukriKnife",
+                "Amount": 2,
+                "Destroy": 2,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Blowtorch",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "SmallGasCanister",
+                "Amount": 60,
+                "Destroy": 60,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Stone",
+                "Amount": 10,
+                "Destroy": 10,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Whetstone",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_SandpaperS",
+                "Amount": 125,
+                "Destroy": 125,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Firewood",
+                "Amount": 3,
+                "Destroy": 3,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "MetalWire",
+                "Amount": 10,
+                "Destroy": 10,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil"
+            ]
+          },
+          {
+            "Result": "SLC_Tachi",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Tachi",
+            "CraftComponents": [
+              {
+                "Classname": "SLC_Ninjato",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Sword",
+                "Amount": 3,
+                "Destroy": 3,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "SledgeHammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Pliers",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Blowtorch",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "MediumGasCanister",
+                "Amount": 80,
+                "Destroy": 80,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Whetstone",
+                "Amount": 1000,
+                "Destroy": 1000,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Sandpaper",
+                "Amount": 250,
+                "Destroy": 250,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_CuttingDisc",
+                "Amount": 5,
+                "Destroy": 5,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_SharpeningKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_insulatingtape",
+                "Amount": 210,
+                "Destroy": 210,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WeaponCleaningSpray_2",
+                "Amount": 150,
+                "Destroy": 150,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_OilPlastic",
+                "Amount": 60,
+                "Destroy": 60,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DuctTape",
+                "Amount": 10,
+                "Destroy": 10,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "SLC_Katana",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Katana",
+            "CraftComponents": [
+              {
+                "Classname": "SLC_Tachi",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "BRDK_Broken_Sword",
+                "Amount": 3,
+                "Destroy": 3,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "SledgeHammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Pliers",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Blowtorch",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "LargeGasCanister",
+                "Amount": 80,
+                "Destroy": 80,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_SharpeningKit",
+                "Amount": 1500,
+                "Destroy": 1500,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Sandpaper",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_CuttingDisc",
+                "Amount": 5,
+                "Destroy": 5,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WeaponCleaningSpray",
+                "Amount": 240,
+                "Destroy": 240,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_OilPlastic",
+                "Amount": 120,
+                "Destroy": 120,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Grinde",
+              "HP_Vise"
+            ]
+          }
+        ]
+      },
+      {
+        "CategoryName": "Покращення сета Хантера",
+        "CraftItems": [
+          {
+            "Result": "VM_Ghost_Vest_V2",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Бронежилет Привида 2 класу",
+            "CraftComponents": [
+              {
+                "Classname": "VM_Ghost_Vest_V1",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DeerPelt",
+                "Amount": 3,
+                "Destroy": 3,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 10,
+                "Destroy": 10,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "SewingKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 20,
+                "Destroy": 20,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DuctTape",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil"
+            ]
+          },
+          {
+            "Result": "VM_Ghost_Vest_V3",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Бронежилет 3 класу",
+            "CraftComponents": [
+              {
+                "Classname": "VM_Ghost_Vest_V2",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP2",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "WolfPelt",
+                "Amount": 5,
+                "Destroy": 5,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 20,
+                "Destroy": 20,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "SewingKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DuctTape",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "VM_Ghost_Vest_V4",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Бронежилет 4 класу",
+            "CraftComponents": [
+              {
+                "Classname": "VM_Ghost_Vest_V3",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP3",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Pliers",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Kevlar",
+                "Amount": 5000,
+                "Destroy": 5000,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Fabric",
+                "Amount": 15,
+                "Destroy": 15,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "LeatherSewingKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets2",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TireRepairKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Drill",
+              "HP_Vise"
+            ]
+          }
+        ]
+      },
+      {
+        "CategoryName": "Покращення сета Привида",
+        "CraftItems": [
+          {
+            "Result": "VM_Ghost_Vest_V2",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Бронежилет Привида 2 класу",
+            "CraftComponents": [
+              {
+                "Classname": "VM_Ghost_Vest_V1",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DeerPelt",
+                "Amount": 3,
+                "Destroy": 3,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 10,
+                "Destroy": 10,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "SewingKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 20,
+                "Destroy": 20,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DuctTape",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil"
+            ]
+          },
+          {
+            "Result": "VM_Ghost_Vest_V3",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Бронежилет 3 класу",
+            "CraftComponents": [
+              {
+                "Classname": "VM_Ghost_Vest_V2",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP2",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "WolfPelt",
+                "Amount": 5,
+                "Destroy": 5,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 20,
+                "Destroy": 20,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "SewingKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DuctTape",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "VM_Ghost_Vest_V4",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Бронежилет 4 класу",
+            "CraftComponents": [
+              {
+                "Classname": "VM_Ghost_Vest_V3",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP3",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Pliers",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Kevlar",
+                "Amount": 5000,
+                "Destroy": 5000,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Fabric",
+                "Amount": 15,
+                "Destroy": 15,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "LeatherSewingKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets2",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TireRepairKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Drill",
+              "HP_Vise"
+            ]
+          }
+        ]
+      },
+      {
+        "CategoryName": "Сет Хімера",
+        "CraftItems": [
+          {
+            "Result": "SSM_Seva_Jacket",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Куртка Хімера",
+            "CraftComponents": [
+              {
+                "Classname": "NBCJacketGray",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TannedLeather",
+                "Amount": 8,
+                "Destroy": 8,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Glue",
+                "Amount": 120,
+                "Destroy": 120,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rubber",
+                "Amount": 450,
+                "Destroy": 450,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "KIWI_DuctTape_XL",
+                "Amount": 750,
+                "Destroy": 750,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TireRepairKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Drill",
+              "HP_Vise",
+              "HP_Payalnik"
+            ]
+          },
+          {
+            "Result": "SSM_Seva_Pants",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Штани Хімера",
+            "CraftComponents": [
+              {
+                "Classname": "NBCPantsGray",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TannedLeather",
+                "Amount": 8,
+                "Destroy": 8,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Glue",
+                "Amount": 120,
+                "Destroy": 120,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rubber",
+                "Amount": 450,
+                "Destroy": 450,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "KIWI_DuctTape_XL",
+                "Amount": 750,
+                "Destroy": 750,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TireRepairKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Drill",
+              "HP_Vise",
+              "HP_Payalnik"
+            ]
+          },
+          {
+            "Result": "SSM_Seva_GasBack_Full",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Газова маска Хімера",
+            "CraftComponents": [
+              {
+                "Classname": "AirborneMask",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "NBCHoodGray",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DryBag_Black",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TannedLeather",
+                "Amount": 12,
+                "Destroy": 12,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Glue",
+                "Amount": 180,
+                "Destroy": 180,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rubber",
+                "Amount": 550,
+                "Destroy": 550,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "KIWI_DuctTape_XL",
+                "Amount": 1500,
+                "Destroy": 1500,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TireRepairKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Drill",
+              "HP_Vise",
+              "HP_Payalnik"
+            ]
+          },
+          {
+            "Result": "SSM_Seva_Gloves",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Рукавиці Хімера",
+            "CraftComponents": [
+              {
+                "Classname": "NBCGlovesGray",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TannedLeather",
+                "Amount": 5,
+                "Destroy": 5,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Glue",
+                "Amount": 60,
+                "Destroy": 60,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "LeatherSewingKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rubber",
+                "Amount": 200,
+                "Destroy": 200,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "KIWI_DuctTape_XL",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TireRepairKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Drill",
+              "HP_Vise",
+              "HP_Payalnik"
+            ]
+          },
+          {
+            "Result": "SSM_Seva_Boots",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Взуття Хімера",
+            "CraftComponents": [
+              {
+                "Classname": "NBCBootsGray",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TannedLeather",
+                "Amount": 5,
+                "Destroy": 5,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Glue",
+                "Amount": 60,
+                "Destroy": 60,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "LeatherSewingKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rubber",
+                "Amount": 200,
+                "Destroy": 200,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "KIWI_DuctTape_XL",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TireRepairKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Drill",
+              "HP_Vise",
+              "HP_Payalnik"
+            ]
+          }
+        ]
+      },
+      {
+        "CategoryName": "Фурнітура",
+        "CraftItems": [
+          {
+            "Result": "rag_baseitems_woodenshelf_small_kit",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Стелаж (400)",
+            "CraftComponents": [
+              {
+                "Classname": "WoodenPlank",
+                "Amount": 20,
+                "Destroy": 20,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Nail",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "Hammer",
+              "Hacksaw"
+            ]
+          },
+          {
+            "Result": "rag_baseitems_wardrobe_kit",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Шкаф (500)",
+            "CraftComponents": [
+              {
+                "Classname": "WoodenPlank",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Nail",
+                "Amount": 50,
+                "Destroy": 50,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "Hammer",
+              "Hacksaw"
+            ]
+          },
+          {
+            "Result": "rag_baseitems_woodenshelf_big_kit",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Сервант (600)",
+            "CraftComponents": [
+              {
+                "Classname": "WoodenPlank",
+                "Amount": 40,
+                "Destroy": 40,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Nail",
+                "Amount": 70,
+                "Destroy": 70,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "Hammer",
+              "Hacksaw"
+            ]
+          },
+          {
+            "Result": "rag_baseitems_lantern_kit",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Ліхтар",
+            "CraftComponents": [
+              {
+                "Classname": "WoodenLog",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Spotlight",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Nail",
+                "Amount": 50,
+                "Destroy": 50,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "SledgeHammer",
+              "Handsaw"
+            ]
+          },
+          {
+            "Result": "rag_baseitems_lantern_wall_kit",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Настінний ліхтар",
+            "CraftComponents": [
+              {
+                "Classname": "MetalPlate",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Spotlight",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Nail",
+                "Amount": 50,
+                "Destroy": 50,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "SledgeHammer",
+              "Hacksaw"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

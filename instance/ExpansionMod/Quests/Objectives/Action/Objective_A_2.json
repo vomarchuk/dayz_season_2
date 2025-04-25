@@ -1,0 +1,16 @@
+{
+    "ConfigVersion": 28,
+    "ID": 2,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Поріж знайдений одяг на тряпки",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionCraftCB"
+    ],
+    "AllowedClassNames": [
+        
+    ],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

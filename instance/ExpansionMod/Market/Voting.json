@@ -1,0 +1,109 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Різне",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "TerjeInjectorAmoxiclav",
+      "MaxPriceThreshold": 2,
+      "MinPriceThreshold": 2,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SellPricePercent": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TerjeInjectorZivirol",
+      "MaxPriceThreshold": 2,
+      "MinPriceThreshold": 2,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SellPricePercent": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "KIWI_WeaponCleaningKit",
+      "MaxPriceThreshold": 12,
+      "MinPriceThreshold": 12,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SellPricePercent": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Custom_ProtectorCase_150",
+      "MaxPriceThreshold": 20,
+      "MinPriceThreshold": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SellPricePercent": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Custom_ProtectorCase_100",
+      "MaxPriceThreshold": 15,
+      "MinPriceThreshold": 15,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SellPricePercent": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Custom_ProtectorCase_50",
+      "MaxPriceThreshold": 10,
+      "MinPriceThreshold": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SellPricePercent": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "FOG_GPNVG_Elite",
+      "MaxPriceThreshold": 18,
+      "MinPriceThreshold": 18,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SellPricePercent": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SLC_Tachi",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SellPricePercent": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "VM_TacticKnife_Standart",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SellPricePercent": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

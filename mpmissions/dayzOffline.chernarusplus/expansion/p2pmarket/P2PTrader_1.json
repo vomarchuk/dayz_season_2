@@ -1,0 +1,56 @@
+{
+  "m_Version": 8,
+  "m_TraderID": 1,
+  "m_ClassName": "ExpansionP2PTraderAIIrena",
+  "m_Position": [
+    3682.138916,
+    402.761047,
+    5977.789063
+  ],
+  "m_Orientation": [
+    -105.666405,
+    0.0,
+    0.0
+  ],
+  "m_LoadoutFile": "YellowKingLoadout",
+  "m_VehicleSpawnPosition": [
+    3698.263184,
+    402.154962,
+    5986.754395
+  ],
+  "m_WatercraftSpawnPosition": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "m_AircraftSpawnPosition": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "m_DisplayName": "П2П",
+  "m_DisplayIcon": "Deliver",
+  "m_Faction": "InvincibleObservers",
+  "m_Waypoints": [],
+  "m_EmoteID": 46,
+  "m_EmoteIsStatic": 0,
+  "m_RequiredFaction": "",
+  "m_UseReputation": 0,
+  "m_MinRequiredReputation": 0,
+  "m_MaxRequiredReputation": 2147483647,
+  "m_RequiredCompletedQuestID": -1,
+  "m_IsGlobalTrader": 0,
+  "m_Currencies": [
+    "TraderPlus_Money_Euro1",
+    "TraderPlus_Money_Euro2",
+    "TraderPlus_Money_Euro5",
+    "TraderPlus_Money_Euro10",
+    "TraderPlus_Money_Euro20",
+    "TraderPlus_Money_Euro50",
+    "TraderPlus_Money_Euro100",
+    "TraderPlus_Money_Euro200",
+    "TraderPlus_Money_Euro500"
+  ],
+  "m_DisplayCurrencyValue": 1,
+  "m_DisplayCurrencyName": ""
+}

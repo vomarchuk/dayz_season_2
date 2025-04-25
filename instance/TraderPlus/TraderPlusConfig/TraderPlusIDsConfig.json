@@ -1,0 +1,201 @@
+{
+  "Version": "2.5",
+  "IDs": [
+    {
+      "Id": 0,
+      "Categories": [
+        "Таблетки",
+        "Medical Supplies"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 1,
+      "Categories": [
+        "Ін'єктори",
+        "Ампули"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 2,
+      "Categories": [
+        "Сет Хімера",
+        "Сет Привида",
+        "Сет Залізний мрець",
+        "Сет Hunter",
+        "Toxic clothes",
+        "Best items",
+        "Toxic tools",
+        "Fluffy Pets <3"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 3,
+      "Categories": [
+        "Ближній бій",
+        "Пістолети",
+        "Пістолети-кулемети",
+        "Дробовики",
+        "Штурмові гвинтівки",
+        "Гвинтівки",
+        "Снайперські гвинтівки"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 4,
+      "Categories": [
+        "Набої",
+        "Гранати",
+        "Магазини",
+        "Оптика",
+        "Приклади",
+        "Глушники",
+        "Компенсатори",
+        "Цев'я",
+        "Багнети",
+        "Ліхтарики"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 5,
+      "Categories": [
+        "Шоломи",
+        "Окуляри",
+        "Маски",
+        "Головні убори",
+        "Рукавиці",
+        "Куртки",
+        "Товстовки & Світера",
+        "Куртки & Пальта",
+        "Жилети",
+        "Штани",
+        "Bзуття",
+        "Маскування",
+        "Кобури & підсумки",
+        "Ремні",
+        "Рюкзаки",
+        "Обладунки"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 6,
+      "Categories": [
+        "Hardware Supplies",
+        "Cooking & Hunting Supplies",
+        "Fire & Lights",
+        "Electronics",
+        "Tools (big)",
+        "Tools (small)",
+        "Furniture",
+        "Others",
+        "Flags"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 7,
+      "Categories": [
+        "Helms",
+        "Gloves",
+        "T-Shirts",
+        "Pants",
+        "Boots",
+        "Belts",
+        "Clothes attachment",
+        "Accessories",
+        "Ghillie",
+        "Bags",
+        "Vests",
+        "Покращений одяг"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 8,
+      "Categories": [
+        "Packaged Food",
+        "Drinks"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 9,
+      "Categories": [
+        "Weapons",
+        "Mags",
+        "Attachments",
+        "Optics",
+        "Ammo"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 10,
+      "Categories": [
+        "М'ясо",
+        "Частини тварин"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 11,
+      "Categories": [
+        "Cannabis seeds",
+        "Cigarette",
+        "Cannabis bricks",
+        "Other for Cannabis"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 12,
+      "Categories": [
+        "Vegetables"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 13,
+      "Categories": [
+        "Jeep Rubicon",
+        "Dodge Ram",
+        "Tahoe",
+        "Bronco",
+        "GMC",
+        "UAZ",
+        "Honda Civic",
+        "Chevrolet NapalmNova",
+        "Dodge Charger Hellcat",
+        "Vehicle Parts"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 14,
+      "Categories": [
+        "Частини тіл"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+    "ConfigVersion": 28,
+    "ID": 3,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Знайди сховок",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ShowDistance": 0,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 0,
+    "MarkerName": "",
+    "MarkerVisibility": 0,
+    "Positions": [  
+        [
+            9135.820313, 
+            258.688721, 
+            4110.861816
+        ]
+    ],
+    "LootItemsAmount": 1,
+    "MaxDistance": 10.0,
+    "Loot": [
+        {
+            "Name": "DNA_KeyCard_Yellow",
+            "Chance": 1.0,
+            "Attachments": [],
+            "QuantityPercent": 30,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "ConfigVersion": 22,
+    "ID": 301,
+    "Type": 1,
+    "Title": "Нове знайомство",
+    "Descriptions": [
+        "Сходи познайомся з дідом",
+        "PLACEHOLDER",
+        "Привіт! Мене звати Михайло. Я просто обожнюю ведмедів. До речі, хочеш собі одного? Він стане твоїм найкращим другом у пригодах, а також ти зможеш покласти в нього деякі речі. Додаткові кишені ніколи не будуть зайвими!"
+    ],
+    "ObjectiveText": "Сходи познайомся з дідом",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [ 
+        {
+            "ClassName": "KIWI_Quest_Bear_Base",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        
+    ],
+    "QuestTurnInIDs": [
+        3
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 101,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

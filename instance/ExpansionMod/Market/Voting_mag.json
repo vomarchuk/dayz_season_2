@@ -1,0 +1,21 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Магазини",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "SCWS_M249_Magazine",
+      "MaxPriceThreshold": 5,
+      "MinPriceThreshold": 5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SellPricePercent": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

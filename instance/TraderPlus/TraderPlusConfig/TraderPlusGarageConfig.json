@@ -1,0 +1,630 @@
+{
+  "Version": "2.5",
+  "UseGarageOnlyToTrade": 0,
+  "VehicleMustHaveLock": 1,
+  "SaveVehicleLock": 0,
+  "SaveVehicleCargo": 1,
+  "SaveVehicleHealth": 1,
+  "SaveVehicleFuel": 1,
+  "SavedVehicleInGarageForTradeInHour": 1,
+  "MaxVehicleStored": 5,
+  "ParkInCost": 0,
+  "ParkOutCost": 0,
+  "PayWithBankAccount": 1,
+  "WhitelistedObjects": [
+    "bldr_panel_concrete_1",
+    "bldr_panel_concrete_2",
+    "bldr_panels_concrete"
+  ],
+  "NPCs": [
+    {
+      "ClassName": "SurvivorF_Linda",
+      "Position": [
+        3722.341309,
+        402.030945,
+        6000.533691
+      ],
+      "Orientation": [
+        43.516964,
+        0.000000,
+        -0.000000
+      ],
+      "ParkingPosition": [
+        3728.472656,
+        402.425922,
+        6000.377930
+      ],
+      "ParkingOrientation": [
+        138.028015,
+        2.458391,
+        0.683063
+      ],
+      "Clothes": [
+        "Skirt_White",
+        "MiniDress_BlueWithDots",
+        "Ballerinas_White",
+        "ChristmasHeadband_Antlers"
+      ]
+    },
+    {
+      "ClassName": "SurvivorF_Linda",
+      "Position": [
+        8218.858398, 
+        469.535858, 
+        9049.728516
+      ],
+      "Orientation": [
+        -18.000004,
+        0.000000,
+        0.000000
+      ],
+      "ParkingPosition": [
+        8212.189453,
+        470.18,
+        9055.710938
+      ],
+      "ParkingOrientation": [
+        -116.472488,
+        1.126300,
+        -3.885513
+      ],
+      "Clothes": [
+        "Skirt_White",
+        "MiniDress_BlueWithDots",
+        "Ballerinas_White",
+        "ChristmasHeadband_Antlers"
+      ]
+    },
+    {
+      "ClassName": "SurvivorM_Kaito",
+      "Position": [
+        12977.099609,
+        6.149030,
+        10078.299805
+      ],
+      "Orientation": [
+        65.341888,
+        0.000000,
+        -0.000000
+      ],
+      "ParkingPosition": [
+        12989.805664,
+        5.967356,
+        10091.220703
+      ],
+      "ParkingOrientation": [
+        103.315941,
+        -0.078021,
+        0.309988
+      ],
+      "Clothes": [
+        "WoolGlovesFingerless_Tan",
+        "CombatBoots_Brown",
+        "BeanieHat_Red",
+        "CargoPants_Blue",
+        "BomberJacket_Grey"
+      ]
+    },
+    {
+      "ClassName": "SurvivorM_Taiki",
+      "Position": [
+        13369.318359,
+        4.674275,
+        6609.870605
+      ],
+      "Orientation": [
+        0.00,
+        0.000000,
+        0.000000
+      ],
+      "ParkingPosition": [
+        13380.400391,
+        4.243666,
+        6615.404297
+      ],
+      "ParkingOrientation": [
+        62.468319,
+        0.026246,
+        0.338930
+      ],
+      "Clothes": [
+        "WoolGlovesFingerless_Tan",
+        "CombatBoots_Brown",
+        "BeanieHat_Red",
+        "CargoPants_Blue",
+        "BomberJacket_Grey"
+      ]
+    },
+    {
+      "ClassName": "SurvivorM_Taiki",
+      "Position": [
+        9519.862305,
+        5.673952,
+        2005.256470
+      ],
+      "Orientation": [
+        -125.0000,
+        0.000000,
+        0.000000
+      ],
+      "ParkingPosition": [
+        9508.669922,
+        5.494972,
+        2005.351929
+      ],
+      "ParkingOrientation": [
+        3.808647,
+        -1.127670,
+        0.184836
+      ],
+      "Clothes": [
+        "WoolGlovesFingerless_Tan",
+        "CombatBoots_Brown",
+        "BeanieHat_Red",
+        "CargoPants_Blue",
+        "BomberJacket_Grey"
+      ]
+    },
+    {
+      "ClassName": "SurvivorM_Taiki",
+      "Position": [
+        5861.560059,
+        9.250780,
+        2212.949951
+      ],
+      "Orientation": [
+        140.397980,
+        0.000000,
+        -0.000000
+      ],
+      "ParkingPosition": [
+        5866.895020,
+        8.994543,
+        2201.965088
+      ],
+      "ParkingOrientation": [
+        -106.165993,
+        -0.310303,
+        0.032064
+      ],
+      "Clothes": [
+        "WoolGlovesFingerless_Tan",
+        "CombatBoots_Brown",
+        "BeanieHat_Red",
+        "CargoPants_Blue",
+        "BomberJacket_Grey"
+      ]
+    },
+    {
+      "ClassName": "SurvivorF_Eva",
+      "Position": [
+        13575.843750,
+        34.333202,
+        13304.829102
+      ],
+      "Orientation": [
+        -35.0000,
+        0.000000,
+        0.000000
+      ],
+      "ParkingPosition": [
+        13568.162109,
+        34.197483,
+        13314.227539
+      ],
+      "ParkingOrientation": [
+        -52.153908,
+        0.254669,
+        0.042514
+      ],
+      "Clothes": [
+        "WoolGlovesFingerless_Tan",
+        "CombatBoots_Brown",
+        "BeanieHat_Red",
+        "CargoPants_Blue",
+        "BomberJacket_Grey"
+      ]
+    },
+    {
+      "ClassName": "SurvivorM_Jose",
+      "Position": [
+        4349.930176,
+        176.794998,
+        13086.799805
+      ],
+      "Orientation": [
+        135.0000,
+        0.000000,
+        0.000000
+      ],
+      "ParkingPosition": [
+        4345.295898,
+        177.755807,
+        13079.065430
+      ],
+      "ParkingOrientation": [
+        107.822151,
+        -1.296357,
+        0.127261
+      ],
+      "Clothes": [
+        "WoolGlovesFingerless_Tan",
+        "CombatBoots_Brown",
+        "BeanieHat_Red",
+        "CargoPants_Blue",
+        "BomberJacket_Grey"
+      ]
+    },
+    {
+      "ClassName": "SurvivorM_Jose",
+      "Position": [
+        1119.890015,
+        5.646620,
+        2417.429932
+      ],
+      "Orientation": [
+        128.518250,
+        0.000000,
+        0.000000
+      ],
+      "ParkingPosition": [
+        1115.058960,
+        5.504698,
+        2404.997070
+      ],
+      "ParkingOrientation": [
+        169.900375,
+        0.831804,
+        1.023524
+      ],
+      "Clothes": [
+        "WoolGlovesFingerless_Tan",
+        "CombatBoots_Brown",
+        "BeanieHat_Red",
+        "CargoPants_Blue",
+        "BomberJacket_Grey"
+      ]
+    },
+    {
+      "ClassName": "SurvivorM_Jose",
+      "Position": [
+        2702.629883,
+        211.074997,
+        5601.120117
+      ],
+      "Orientation": [
+        -115.016106,
+        0.000000,
+        -0.000000
+      ],
+      "ParkingPosition": [
+        2689.357178,
+        210.939484,
+        5589.742676
+      ],
+      "ParkingOrientation": [
+        -89.263123,
+        0.287456,
+        0.009632
+      ],
+      "Clothes": [
+        "WoolGlovesFingerless_Tan",
+        "CombatBoots_Brown",
+        "BeanieHat_Red",
+        "CargoPants_Blue",
+        "BomberJacket_Grey"
+      ]
+    },
+    {
+      "ClassName": "SurvivorM_Jose",
+      "Position": [
+        3000.070068,
+        342.559998,
+        7484.580078
+      ],
+      "Orientation": [
+        -173.340607,
+        0.000000,
+        -0.000000
+      ],
+      "ParkingPosition": [
+        2994.904785,
+        342.312225,
+        7477.820801
+      ],
+      "ParkingOrientation": [
+        -48.290741,
+        0.885433,
+        -0.684160
+      ],
+      "Clothes": [
+        "WoolGlovesFingerless_Tan",
+        "CombatBoots_Brown",
+        "BeanieHat_Red",
+        "CargoPants_Blue",
+        "BomberJacket_Grey"
+      ]
+    },
+    {
+      "ClassName": "SurvivorM_Jose",
+      "Position": [
+        3032.080078,
+        209.587006,
+        12658.299805
+      ],
+      "Orientation": [
+        -133.380646,
+        0.000000,
+        -0.000000
+      ],
+      "ParkingPosition": [
+        3022.362061,
+        209.617203,
+        12644.288086
+      ],
+      "ParkingOrientation": [
+        -164.024597,
+        -0.007989,
+        -1.586182
+      ],
+      "Clothes": [
+        "WoolGlovesFingerless_Tan",
+        "CombatBoots_Brown",
+        "BeanieHat_Red",
+        "CargoPants_Blue",
+        "BomberJacket_Grey"
+      ]
+    },
+    {
+      "ClassName": "SurvivorM_Jose",
+      "Position": [
+        3667.949951,
+        311.575989,
+        9003.759766
+      ],
+      "Orientation": [
+        -174.961227,
+        0.000000,
+        -0.000000
+      ],
+      "ParkingPosition": [
+        3662.262207,
+        311.338379,
+        8995.574219
+      ],
+      "ParkingOrientation": [
+        -66.695137,
+        -0.208825,
+        -0.707275
+      ],
+      "Clothes": [
+        "WoolGlovesFingerless_Tan",
+        "CombatBoots_Brown",
+        "BeanieHat_Red",
+        "CargoPants_Blue",
+        "BomberJacket_Grey"
+      ]
+    },
+    {
+      "ClassName": "SurvivorM_Jose",
+      "Position": [
+        4725.319824,
+        281.842987,
+        6390.299805
+      ],
+      "Orientation": [
+        131.038162,
+        0.000000,
+        -0.000000
+      ],
+      "ParkingPosition": [
+        4727.617676,
+        281.817627,
+        6381.513672
+      ],
+      "ParkingOrientation": [
+        -109.477669,
+        0.078538,
+        0.308585
+      ],
+      "Clothes": [
+        "WoolGlovesFingerless_Tan",
+        "CombatBoots_Brown",
+        "BeanieHat_Red",
+        "CargoPants_Blue",
+        "BomberJacket_Grey"
+      ]
+    },
+    {
+      "ClassName": "SurvivorM_Jose",
+      "Position": [
+        5857.830078,
+        277.661987,
+        10118.700195
+      ],
+      "Orientation": [
+        -175.859375,
+        0.000000,
+        -0.000000
+      ],
+      "ParkingPosition": [
+        5849.820313,
+        277.537994,
+        10114.330078
+      ],
+      "ParkingOrientation": [
+        -41.500034,
+        -0.811053,
+        1.029696
+      ],
+      "Clothes": [
+        "WoolGlovesFingerless_Tan",
+        "CombatBoots_Brown",
+        "BeanieHat_Red",
+        "CargoPants_Blue",
+        "BomberJacket_Grey"
+      ]
+    },
+    {
+      "ClassName": "SurvivorM_Jose",
+      "Position": [
+        6873.220215,
+        7.299130,
+        3094.629883
+      ],
+      "Orientation": [
+        117.178558,
+        0.000000,
+        -0.000000
+      ],
+      "ParkingPosition": [
+        6873.433594,
+        7.235754,
+        3078.370361
+      ],
+      "ParkingOrientation": [
+        -179.326324,
+        0.215243,
+        0.226082
+      ],
+      "Clothes": [
+        "WoolGlovesFingerless_Tan",
+        "CombatBoots_Brown",
+        "BeanieHat_Red",
+        "CargoPants_Blue",
+        "BomberJacket_Grey"
+      ]
+    },
+    {
+      "ClassName": "SurvivorM_Jose",
+      "Position": [
+        7469.020020,
+        121.073997,
+        12659.200195
+      ],
+      "Orientation": [
+        112.861336,
+        0.000000,
+        -0.000000
+      ],
+      "ParkingPosition": [
+        7478.637207,
+        121.009979,
+        12652.343750
+      ],
+      "ParkingOrientation": [
+        -139.944656,
+        -0.445174,
+        0.542964
+      ],
+      "Clothes": [
+        "WoolGlovesFingerless_Tan",
+        "CombatBoots_Brown",
+        "BeanieHat_Red",
+        "CargoPants_Blue",
+        "BomberJacket_Grey"
+      ]
+    },
+    {
+      "ClassName": "SurvivorM_Jose",
+      "Position": [
+        10119.299805,
+        229.574005,
+        5198.109863
+      ],
+      "Orientation": [
+        14.578664,
+        0.000000,
+        -0.000000
+      ],
+      "ParkingPosition": [
+        10122.882813,
+        229.816177,
+        5216.019043
+      ],
+      "ParkingOrientation": [
+        52.753376,
+        3.095278,
+        -0.688490
+      ],
+      "Clothes": [
+        "WoolGlovesFingerless_Tan",
+        "CombatBoots_Brown",
+        "BeanieHat_Red",
+        "CargoPants_Blue",
+        "BomberJacket_Grey"
+      ]
+    },
+    {
+      "ClassName": "SurvivorM_Jose",
+      "Position": [
+        10440.500000,
+        223.136002,
+        8884.700195
+      ],
+      "Orientation": [
+        119.342712,
+        0.000000,
+        -0.000000
+      ],
+      "ParkingPosition": [
+        10455.414063,
+        223.086807,
+        8881.134766
+      ],
+      "ParkingOrientation": [
+        -138.029938,
+        0.129771,
+        0.285954
+      ],
+      "Clothes": [
+        "WoolGlovesFingerless_Tan",
+        "CombatBoots_Brown",
+        "BeanieHat_Red",
+        "CargoPants_Blue",
+        "BomberJacket_Grey"
+      ]
+    },
+    {
+      "ClassName": "SurvivorM_Jose",
+      "Position": [
+        10752.000000,
+        144.408005,
+        10783.000000
+      ],
+      "Orientation": [
+        -82.612488,
+        0.000000,
+        0.000000
+      ],
+      "ParkingPosition": [
+        10750.110352,
+        144.679199,
+        10795.051758
+      ],
+      "ParkingOrientation": [
+        -42.483074,
+        2.221146,
+        -1.093221
+      ],
+      "Clothes": [
+        "WoolGlovesFingerless_Tan",
+        "CombatBoots_Brown",
+        "BeanieHat_Red",
+        "CargoPants_Blue",
+        "BomberJacket_Grey"
+      ]
+    }
+  ],
+  "ParkingNotAvailable": "Парковка недоступна!",
+  "NotEnoughMoney": "У вас недостатньо грошей",
+  "NotRightToPark": "У вас немає прав для паркування цього транспортного засобу!",
+  "CarHasMember": "У машині ще є пасажир!",
+  "ParkInFail": "Машину не вдалося припаркувати правильно",
+  "ParkInSuccess": "Машину успішно припарковано",
+  "ParkOutFail": "Машину не вдалося доставити!",
+  "ParkOutSuccess": "Машину вдалося доставити!",
+  "MaxVehicleStoredReached": "Досягнуто максимальну кількість збережених транспортних засобів!",
+  "TradeVehicleWarning": "Транспортний засіб зберігається вже %1 годин, після цього він буде втрачений, тому або обміняйте його, або заберіть швидко",
+  "TradeVehicleHasBeenDeleted": "Транспортний засіб для обміну був видалений через бездіяльність!"
+}

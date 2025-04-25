@@ -1,0 +1,29 @@
+{
+    "ConfigVersion": 28,
+    "ID": 205,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Вбий 5 мутантів у бункері",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        4386.440918,
+        455.111786,
+        15028.009766
+    ],
+    "MaxDistance": 250.0,
+    "MinDistance": -1.0,
+    "Amount": 5,
+    "ClassNames": [
+        "FC_Zmb_Toxic_Blue",
+        "FC_Zmb_Toxic_Orange",
+        "FC_Zmb_Toxic_White",
+        "FC_Zmb_Toxic_Yellow"
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}
+

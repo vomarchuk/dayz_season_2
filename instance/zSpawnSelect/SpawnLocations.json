@@ -1,0 +1,70 @@
+{
+    "m_SpawnLocations": [
+        {
+            "LocationName": "Kamenka",
+            "SpawnCordinate": "1892.10 0 2244.12",
+            "SpawnRadius": 100,
+            "AllowBodyBlock": 1,
+            "BodyBlockDistance": 300,
+            "BodyBlockTimer": 20
+        },
+        {
+            "LocationName": "Chernogorsk",
+            "SpawnCordinate": "6387.43 0 2699.47",
+            "SpawnRadius": 100,
+            "AllowBodyBlock": 1,
+            "BodyBlockDistance": 300,
+            "BodyBlockTimer": 20
+        },
+        {
+            "LocationName": "Elektrozavodsk",
+            "SpawnCordinate": "10322.40 0 2171.15",
+            "SpawnRadius": 100,
+            "AllowBodyBlock": 1,
+            "BodyBlockDistance": 300,
+            "BodyBlockTimer": 20
+        },
+        {
+            "LocationName": "Kamyshovo",
+            "SpawnCordinate": "12045.70 0 3642.12",
+            "SpawnRadius": 100,
+            "AllowBodyBlock": 1,
+            "BodyBlockDistance": 300,
+            "BodyBlockTimer": 20
+        },
+        {
+            "LocationName": "Solnechny",
+            "SpawnCordinate": "13269.16 0 6249.69",
+            "SpawnRadius": 100,
+            "AllowBodyBlock": 1,
+            "BodyBlockDistance": 300,
+            "BodyBlockTimer": 20
+        },
+        {
+            "LocationName": "Berezino",
+            "SpawnCordinate": "12525.29 0 9717.50",
+            "SpawnRadius": 100,
+            "AllowBodyBlock": 1,
+            "BodyBlockDistance": 300,
+            "BodyBlockTimer": 20
+        },
+        {
+            "LocationName": "Svetloyarsk",
+            "SpawnCordinate": "13775.40 0 13264.29",
+            "SpawnRadius": 100,
+            "AllowBodyBlock": 1,
+            "BodyBlockDistance": 300,
+            "BodyBlockTimer": 20
+        },
+        {
+            "LocationName": "BaseSpawn",
+            "SpawnCordinate": "0 0 0",
+            "SpawnRadius": 100,
+            "AllowBodyBlock": 1,
+            "BodyBlockDistance": 300,
+            "BodyBlockTimer": 20
+        }
+    ],
+    "AllowBaseSpawn": 0,
+    "BaseSpawnItemClassname": "TerritoryFlag"
+}

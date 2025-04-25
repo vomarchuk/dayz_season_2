@@ -1,0 +1,119 @@
+[
+    {
+        "EnableSpawn": 1,
+        "Description": "VoMa_Base_Garage_Door",
+        "DoorClassName": "RZ_MetalGate",
+        "EnableAlarmSound": 0,
+        "AlarmSound": "RZ_KeyCardDoor_Alarm1_Loop_SoundSet",
+        "DoorPosition": [
+            [
+                5710.65,
+                306.7,
+                7253.88
+            ]
+        ],
+        "DoorOrientation": [
+            [
+                141,
+                0,
+                0
+            ]
+        ],
+        "DoorScale": 1.55,
+        "ActionName": "Відкрити ворота",
+        "TimeForOpen": 5.0,
+        "TimeForClose": 15.0,
+        "EnableNotificationForOpen": 0,
+        "NotificationForOpen": "",
+        "NotificationTitle": "",
+        "NotificationTime": 3.0,
+        "NeedItem": {
+            "Item": "RZ_KeycardDD_lvl5",
+            "ModeFlag": 0,
+            "ItemHealthDamage": 0.0,
+            "ItemQuantityDamage": 0.0
+        },
+        "WhiteListAllow": 1,
+        "WhiteList": [
+            "76561198104182080",
+            "76561198161108074"
+        ],
+        "BlackList": []
+    },
+    {
+        "EnableSpawn": 0,
+        "Description": "Island",
+        "DoorClassName": "RZ_FireproofDoubleDoor",
+        "EnableAlarmSound": 1,
+        "AlarmSound": "RZ_KeyCardDoor_Alarm1_Loop_SoundSet",
+        "DoorPosition": [
+            [
+                14101.126953,
+                4.822813,
+                9677.291992
+            ]
+        ],
+        "DoorOrientation": [
+            [
+                -2.648215,
+                0.000000,
+                -0.000000
+            ]
+        ],
+        "DoorScale": 2.0,
+        "ActionName": "Відкрити ворота",
+        "TimeForOpen": 10.0,
+        "TimeForClose": 2700.0,
+        "EnableNotificationForOpen": 0,
+        "NotificationForOpen": "",
+        "NotificationTitle": "",
+        "NotificationTime": 3.0,
+        "NeedItem": {
+            "Item": "DNA_KeyCard_Blue",
+            "ModeFlag": 2,
+            "ItemHealthDamage": 0.0,
+            "ItemQuantityDamage": 0.20
+        },
+        "WhiteListAllow": 0,
+        "WhiteList": [],
+        "BlackList": []
+    },
+    {
+        "EnableSpawn": 0,
+        "Description": "Oilrig",
+        "DoorClassName": "RZ_FireproofDoubleDoor",
+        "EnableAlarmSound": 1,
+        "AlarmSound": "RZ_KeyCardDoor_Alarm1_Loop_SoundSet",
+        "DoorPosition": [
+            [
+                12556.370117,
+                3.052078,
+                1909.163696
+            ]
+        ],
+        "DoorOrientation": [
+            [
+                19.355040,
+                0.000000,
+                -0.000000
+            ]
+        ],
+        "DoorScale": 1.50,
+        "ActionName": "Відкрити ворота",
+        "TimeForOpen": 10.0,
+        "TimeForClose": 2700.0,
+        "EnableNotificationForOpen": 0,
+        "NotificationForOpen": "",
+        "NotificationTitle": "",
+        "NotificationTime": 3.0,
+        "NeedItem": {
+            "Item": "DNA_KeyCard_Yellow",
+            "ModeFlag": 2,
+            "ItemHealthDamage": 0.0,
+            "ItemQuantityDamage": 0.20
+        },
+        "WhiteListAllow": 0,
+        "WhiteList": [],
+        "BlackList": []
+    }
+]

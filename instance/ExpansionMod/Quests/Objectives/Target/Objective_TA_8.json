@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 28,
+    "ID": 8,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Вполювати 10 кролів",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [],
+    "MaxDistance": -1.0,
+    "MinDistance": -1.0,
+    "Amount": 10,
+    "ClassNames": ["Animal_LepusEuropaeus"],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}
+

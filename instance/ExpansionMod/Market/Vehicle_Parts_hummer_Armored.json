@@ -1,0 +1,141 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Запчастини для Hummer",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "rag_hummer_wheel",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "rag_hummer_door_1",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "rag_hummer_door_olive_1",
+                "rag_hummer_door_tan_1",
+                "rag_hummer_door_camo_1",
+                "rag_hummer_door_purple_1",
+                "rag_hummer_door_red_1",
+                "rag_hummer_door_winter_1",
+                "rag_hummer_door_anarchy_1",
+                "rag_hummer_door_gold_1"
+            ]
+        },
+        {
+            "ClassName": "rag_hummer_door_2",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "rag_hummer_door_olive_2",
+                "rag_hummer_door_tan_2",
+                "rag_hummer_door_camo_2",
+                "rag_hummer_door_purple_2",
+                "rag_hummer_door_red_2",
+                "rag_hummer_door_winter_2",
+                "rag_hummer_door_anarchy_2",
+                "rag_hummer_door_gold_2"
+            ]
+        },
+        {
+            "ClassName": "rag_hummer_door_3",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "rag_hummer_door_olive_3",
+                "rag_hummer_door_tan_3",
+                "rag_hummer_door_camo_3",
+                "rag_hummer_door_purple_3",
+                "rag_hummer_door_red_3",
+                "rag_hummer_door_winter_3",
+                "rag_hummer_door_anarchy_3",
+                "rag_hummer_door_gold_3"
+            ]
+        },
+        {
+            "ClassName": "rag_hummer_door_4",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "rag_hummer_door_olive_4",
+                "rag_hummer_door_tan_4",
+                "rag_hummer_door_camo_4",
+                "rag_hummer_door_purple_4",
+                "rag_hummer_door_red_4",
+                "rag_hummer_door_winter_4",
+                "rag_hummer_door_anarchy_4",
+                "rag_hummer_door_gold_4"
+            ]
+        },
+        {
+            "ClassName": "rag_hummer_trunk",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "rag_hummer_trunk_olive",
+                "rag_hummer_trunk_tan",
+                "rag_hummer_trunk_camo",
+                "rag_hummer_trunk_purple",
+                "rag_hummer_trunk_red",
+                "rag_hummer_trunk_winter",
+                "rag_hummer_trunk_anarchy",
+                "rag_hummer_trunk_gold"
+            ]
+        },
+        {
+            "ClassName": "rag_hummer_hood",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "rag_hummer_hood_olive",
+                "rag_hummer_hood_tan",
+                "rag_hummer_hood_camo",
+                "rag_hummer_hood_purple",
+                "rag_hummer_hood_red",
+                "rag_hummer_hood_winter",
+                "rag_hummer_hood_anarchy",
+                "rag_hummer_hood_gold"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "m_WorkingChance": 70,
+    "m_InfectedChance": 5,
+    "m_MinQuantity": 6000,
+    "m_MaxQuantity": 11000,
+    "m_IsBrokenMessage": "Зараза! Эта не работает.",
+    "m_IsEmptyMessage": "Пересохла что-ли...",
+    "m_IsNotEnoughWaterToWashHandsMessage": "Не хватило воды, что бы полностью отмыть руки",
+    "m_RequiredQuantityToWashHands": 500
+}

@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 28,
+    "ID": 9,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Вполювати 3 ведмедя",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [],
+    "MaxDistance": -1.0,
+    "MinDistance": -1.0,
+    "Amount": 3,
+    "ClassNames": ["Animal_UrsusArctos"],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}
+

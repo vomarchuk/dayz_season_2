@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 28,
+    "ID": 2,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Покажи Альоші де знаходиться бункер Старого Яру",
+    "TimeLimit": 1800,
+    "Active": 1,
+    "Position": [
+        4406.066895,
+        469.566315,
+        15059.131836
+    ],
+    "MaxDistance": 10.0,
+    "MarkerName": "",
+    "ShowDistance": 0,
+    "CanLootAI": 0,
+    "NPCLoadoutFile": "SurvivorLoadout",
+    "NPCClassName": "eAI_SurvivorM_Seth",
+    "NPCName": "Альоша"
+}

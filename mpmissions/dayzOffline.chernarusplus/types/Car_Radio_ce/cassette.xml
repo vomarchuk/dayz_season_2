@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+  <type name="OmdRadioCassette_pivo">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>28800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Lunapark"/>
+  </type>
+  <type name="OmdRadioCassette_Disco80Us">
+    <nominal>1</nominal>
+    <lifetime>14400</lifetime>
+    <restock>28800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Lunapark"/>
+  </type>
+  <type name="OmdRadioCassette_boombox">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>28800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Lunapark"/>
+  </type>
+  <type name="OmdRadioCassette_bez">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>28800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Lunapark"/>
+  </type>
+  <type name="OmdRadioCassette_Offspring">
+    <nominal>1</nominal>
+    <lifetime>14400</lifetime>
+    <restock>28800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Lunapark"/>
+  </type>
+  <type name="OmdRadioCassette_okean">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>28800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Lunapark"/>
+  </type>
+  <type name="OmdRadioCassette_kozak">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>28800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Lunapark"/>
+  </type>
+  <type name="OmdRadioCassette_Rammstein">
+    <nominal>1</nominal>
+    <lifetime>14400</lifetime>
+    <restock>28800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Lunapark"/>
+  </type>
+  <type name="OmdRadioCassette_Skofka">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>28800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Lunapark"/>
+  </type>
+  <type name="OmdRadioCassette_yarmak">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>28800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Lunapark"/>
+  </type>
+  <type name="OmdRadioCassette_tnmk">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>28800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Lunapark"/>
+  </type>
+  <type name="OmdRadioPlayer">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>28800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Lunapark"/>
+  </type>
+</types>
