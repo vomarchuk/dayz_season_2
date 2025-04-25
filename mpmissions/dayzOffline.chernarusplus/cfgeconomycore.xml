@@ -50,6 +50,25 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="kiwi_items.xml" type="types" />
 		<file name="sets.xml" type="types" />
 	</ce>
+	<!-- MMG -->
+	<ce folder="types/MMG_ce">
+		<file name="mmg_types_ADMINGEAR.xml" type="types" />
+		<file name="mmg_types_alpine.xml" type="types" />
+		<file name="mmg_types_atacs.xml" type="types" />
+		<file name="mmg_types_black.xml" type="types" />
+		<file name="mmg_types_carbines.xml" type="types" />
+		<file name="mmg_types_dark_woodland.xml" type="types" />
+		<file name="mmg_types_erdl.xml" type="types" />
+		<file name="mmg_types_green.xml" type="types" />
+		<file name="mmg_types_multicam.xml" type="types" />
+		<file name="mmg_types_multicamblack.xml" type="types" />
+		<file name="mmg_types_multicam_tropic.xml" type="types" />
+		<file name="mmg_types_NBC+NVG.xml" type="types" />
+		<file name="mmg_types_patches.xml" type="types" />
+		<file name="mmg_types_police.xml" type="types" />
+		<file name="mmg_types_tan.xml" type="types" />
+		<file name="mmg_types_ucp.xml" type="types" />
+	</ce>
 	<!-- CJ Chests -->
 	<ce folder="types/CJ_Chests_ce">
 		<file name="Lootchest_types.xml" type="types" />
