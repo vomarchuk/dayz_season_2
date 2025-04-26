@@ -192,7 +192,7 @@
 <!--BACKPACKS-->
 
     <type name="MMG_carrier_backpack_multicam">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -206,7 +206,7 @@
         <value name="Tier4"/>
     </type>
     <type name="MMG_supplybag_multicam">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -248,7 +248,7 @@
         <value name="Tier4"/>
     </type>
 	<type name="MMG_mmps_bag_multicam">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
