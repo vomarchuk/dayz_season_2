@@ -145,7 +145,7 @@ class EventsWorldData extends SurvivorMissions
 		MissionEvents.Insert("BearHunt Black_Lake west Berezino");							MissionPositions.Insert("13192.0 93.0 11995.0");
 		MissionEvents.Insert("BearHunt Black_Lake north Berezino");							MissionPositions.Insert("13364.5 80.6 12195.2");
 		MissionEvents.Insert("BearHunt Black_Lake east Berezino");							MissionPositions.Insert("13522.0 53.0 12009.6");
-		MissionEvents.Insert("BearHunt Bor northwest Vysotovo");							MissionPositions.Insert("3597.8 215.7 4011.3");
+		MissionEvents.Insert("BearHunt Bor northeast Vysotovo");							MissionPositions.Insert("3597.8 215.7 4011.3");
 		MissionEvents.Insert("BearHunt Chernaya_Polana southwest Severograd");				MissionPositions.Insert("11930.5 120.5 13579.3");
 		MissionEvents.Insert("BearHunt Devils_Castle northwest Severograd");				MissionPositions.Insert("6748.2 366.3 11613.8");
 		MissionEvents.Insert("BearHunt Devils_Castle north Severograd");					MissionPositions.Insert("7013.2 356.9 11878.4");
