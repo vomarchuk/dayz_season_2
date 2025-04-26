@@ -180,9 +180,6 @@ class ApartmentMission extends SurvivorMissions
 								
 		if (selectedLoadout == 0)
 		{
-			weapon = MissionObject.GetInventory().CreateInInventory("SKS");
-				weapon.GetInventory().CreateAttachment("PUScopeOptic");
-				weapon.GetInventory().CreateAttachment("SKS_Bayonet");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_762x39_20Rnd");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_762x39_20Rnd");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_762x39_20Rnd");
@@ -191,9 +188,6 @@ class ApartmentMission extends SurvivorMissions
 		}
 		if (selectedLoadout == 1)
 		{
-			weapon = MissionObject.GetInventory().CreateInInventory("SKS");
-				weapon.GetInventory().CreateAttachment("PUScopeOptic");
-				weapon.GetInventory().CreateAttachment("SKS_Bayonet");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_762x39_20Rnd");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_762x39_20Rnd");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_762x39_20Rnd");
@@ -202,11 +196,6 @@ class ApartmentMission extends SurvivorMissions
 		}
 		if (selectedLoadout == 2)
 		{
-			weapon = MissionObject.GetInventory().CreateInInventory("UMP45");
-				weapon.GetInventory().CreateAttachment("M68Optic");
-				weapon.GetInventory().CreateAttachment("PistolSuppressor");			
-			MissionObject.GetInventory().CreateInInventory("Mag_UMP_25Rnd");
-			MissionObject.GetInventory().CreateInInventory("Mag_UMP_25Rnd");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_45ACP_25rnd");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_45ACP_25rnd");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_45ACP_25rnd");
@@ -215,9 +204,6 @@ class ApartmentMission extends SurvivorMissions
 		}
 		if (selectedLoadout == 3)
 		{
-			weapon = MissionObject.GetInventory().CreateInInventory("SKS");
-				weapon.GetInventory().CreateAttachment("PUScopeOptic");
-				weapon.GetInventory().CreateAttachment("SKS_Bayonet");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_762x39_20Rnd");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_762x39_20Rnd");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_762x39_20Rnd");
@@ -226,25 +212,13 @@ class ApartmentMission extends SurvivorMissions
 		}
 		if (selectedLoadout == 4)
 		{			
-			weapon = MissionObject.GetInventory().CreateInInventory("Winchester70");
-				weapon.GetInventory().CreateAttachment("HuntingOptic");		
-			MissionObject.GetInventory().CreateInInventory("AmmoBox_308WinTracer_20Rnd");
-			MissionObject.GetInventory().CreateInInventory("AmmoBox_308WinTracer_20Rnd");
 			weapon = MissionObject.GetInventory().CreateInInventory("CZ75");
-				weapon.GetInventory().CreateAttachment("PistolSuppressor");
 				weapon.GetInventory().CreateAttachment("FNP45_MRDSOptic");
 			MissionObject.GetInventory().CreateInInventory("Mag_CZ75_15Rnd");
-			MissionObject.GetInventory().CreateInInventory("Battery9V");
-
-				
+			MissionObject.GetInventory().CreateInInventory("Battery9V");	
 		}
 		if (selectedLoadout == 5)
 		{			
-			weapon = MissionObject.GetInventory().CreateInInventory("UMP45");
-				weapon.GetInventory().CreateAttachment("M68Optic");
-				weapon.GetInventory().CreateAttachment("PistolSuppressor");			
-			MissionObject.GetInventory().CreateInInventory("Mag_UMP_25Rnd");
-			MissionObject.GetInventory().CreateInInventory("Mag_UMP_25Rnd");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_45ACP_25rnd");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_45ACP_25rnd");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_45ACP_25rnd");
@@ -252,9 +226,6 @@ class ApartmentMission extends SurvivorMissions
 		}	
 		if (selectedLoadout == 6)
 		{			
-			weapon = MissionObject.GetInventory().CreateInInventory("VSS");
-				weapon.GetInventory().CreateAttachment("PSO11Optic");		
-			MissionObject.GetInventory().CreateInInventory("Mag_VSS_10Rnd");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_9x39_20Rnd");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_9x39_20Rnd");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_9x39_20Rnd");
@@ -262,25 +233,13 @@ class ApartmentMission extends SurvivorMissions
 		}
 		if (selectedLoadout == 7)
 		{			
-			weapon = MissionObject.GetInventory().CreateInInventory("MP5K");
-				weapon.GetInventory().CreateAttachment("MP5_RailHndgrd");
-				weapon.GetInventory().CreateAttachment("MP5k_StockBttstck");
-				weapon.GetInventory().CreateAttachment("M68Optic");
-				weapon.GetInventory().CreateAttachment("PistolSuppressor");			
-			MissionObject.GetInventory().CreateInInventory("Mag_MP5_30Rnd");
-			MissionObject.GetInventory().CreateInInventory("Mag_MP5_30Rnd");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_9x19_25rnd");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_9x19_25rnd");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_9x19_25rnd");
 			MissionObject.GetInventory().CreateInInventory("Battery9V");				
 		}
 		if (selectedLoadout == 8)
-		{			
-			weapon = MissionObject.GetInventory().CreateInInventory("AK74");
-				weapon.GetInventory().CreateAttachment("AK_RailHndgrd");
-				weapon.GetInventory().CreateAttachment("AK74_WoodBttstck");	
-				weapon.GetInventory().CreateAttachment("KashtanOptic");
-				weapon.GetInventory().CreateAttachment("'AK_Suppressor");			
+		{					
 			MissionObject.GetInventory().CreateInInventory("Mag_AK74_30Rnd");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_545x39_20Rnd");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_545x39_20Rnd");
@@ -290,9 +249,6 @@ class ApartmentMission extends SurvivorMissions
 		}
 		if (selectedLoadout == 9)
 		{			
-			weapon = MissionObject.GetInventory().CreateInInventory("AKS74U");
-				weapon.GetInventory().CreateAttachment("AKS74U_Bttstck");			
-			MissionObject.GetInventory().CreateInInventory("Mag_AK74_30Rnd");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_545x39_20Rnd");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_545x39_20Rnd");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_545x39_20Rnd");
@@ -302,9 +258,6 @@ class ApartmentMission extends SurvivorMissions
 
 		if (selectedLoadout == 10)
 		{			
-			weapon = MissionObject.GetInventory().CreateInInventory("SKS");
-				weapon.GetInventory().CreateAttachment("PUScopeOptic");
-				weapon.GetInventory().CreateAttachment("SKS_Bayonet");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_762x39_20Rnd");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_762x39_20Rnd");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_762x39_20Rnd");
@@ -313,11 +266,6 @@ class ApartmentMission extends SurvivorMissions
 		}
 		if (selectedLoadout == 11)
 		{			
-			weapon = MissionObject.GetInventory().CreateInInventory("UMP45");
-				weapon.GetInventory().CreateAttachment("M68Optic");
-				weapon.GetInventory().CreateAttachment("PistolSuppressor");			
-			MissionObject.GetInventory().CreateInInventory("Mag_UMP_25Rnd");
-			MissionObject.GetInventory().CreateInInventory("Mag_UMP_25Rnd");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_45ACP_25rnd");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_45ACP_25rnd");
 			MissionObject.GetInventory().CreateInInventory("AmmoBox_45ACP_25rnd");
