@@ -83,12 +83,9 @@ class CustomMission : MissionServer
 		// weapon
 		itemEnt = player.GetInventory().CreateInInventory("Crossbow_Autumn");
 		itemBs = ItemBase.Cast(itemEnt);
-		// mag
-		// itemEnt = player.GetInventory().CreateInInventory("Mag_MKII_10Rnd");
-		// itemBs = ItemBase.Cast(itemEnt);
-		// mag
-		// itemEnt = player.GetInventory().CreateInInventory("Mag_MKII_10Rnd");
-		// itemBs = ItemBase.Cast(itemEnt);
+		// ammo
+		itemEnt = player.GetInventory().CreateInInventory("Ammo_ImprovisedBolt_1");
+		itemBs = ItemBase.Cast(itemEnt);
 		// ammo
 		itemEnt = player.GetInventory().CreateInInventory("Ammo_ImprovisedBolt_1");
 		itemBs = ItemBase.Cast(itemEnt);
