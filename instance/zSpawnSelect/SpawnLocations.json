@@ -1,59 +1,59 @@
 {
     "m_SpawnLocations": [
         {
-            "LocationName": "Kamenka",
-            "SpawnCordinate": "1892.10 0 2244.12",
+            "LocationName": "Komarovo",
+            "SpawnCordinate": "3401.25 0 2160.00",
             "SpawnRadius": 100,
             "AllowBodyBlock": 1,
-            "BodyBlockDistance": 300,
+            "BodyBlockDistance": 500,
             "BodyBlockTimer": 20
         },
         {
             "LocationName": "Chernogorsk",
-            "SpawnCordinate": "6387.43 0 2699.47",
+            "SpawnCordinate": "8531.25 0 2681.25",
             "SpawnRadius": 100,
             "AllowBodyBlock": 1,
-            "BodyBlockDistance": 300,
+            "BodyBlockDistance": 500,
             "BodyBlockTimer": 20
         },
         {
             "LocationName": "Elektrozavodsk",
-            "SpawnCordinate": "10322.40 0 2171.15",
+            "SpawnCordinate": "9648.75 0 1845.00",
             "SpawnRadius": 100,
             "AllowBodyBlock": 1,
-            "BodyBlockDistance": 300,
+            "BodyBlockDistance": 500,
             "BodyBlockTimer": 20
         },
         {
             "LocationName": "Kamyshovo",
-            "SpawnCordinate": "12045.70 0 3642.12",
-            "SpawnRadius": 100,
+            "SpawnCordinate": "11728.13 0 3401.25",
+            "SpawnRadius": 75,
             "AllowBodyBlock": 1,
-            "BodyBlockDistance": 300,
+            "BodyBlockDistance": 500,
             "BodyBlockTimer": 20
         },
         {
             "LocationName": "Solnechny",
-            "SpawnCordinate": "13269.16 0 6249.69",
-            "SpawnRadius": 100,
+            "SpawnCordinate": "13411.88 0 6607.50",
+            "SpawnRadius": 75,
             "AllowBodyBlock": 1,
-            "BodyBlockDistance": 300,
+            "BodyBlockDistance": 500,
             "BodyBlockTimer": 20
         },
         {
             "LocationName": "Berezino",
-            "SpawnCordinate": "12525.29 0 9717.50",
+            "SpawnCordinate": "12868.13 0 9325.31",
             "SpawnRadius": 100,
             "AllowBodyBlock": 1,
-            "BodyBlockDistance": 300,
+            "BodyBlockDistance": 500,
             "BodyBlockTimer": 20
         },
         {
             "LocationName": "Svetloyarsk",
-            "SpawnCordinate": "13775.40 0 13264.29",
+            "SpawnCordinate": "14266.88 0 12886.88",
             "SpawnRadius": 100,
             "AllowBodyBlock": 1,
-            "BodyBlockDistance": 300,
+            "BodyBlockDistance": 500,
             "BodyBlockTimer": 20
         },
         {
