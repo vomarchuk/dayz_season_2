@@ -2,7 +2,7 @@
     <type name="MMG_tt_vest_admin">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -17,7 +17,7 @@
     <type name="MMG_striker_helmet_admin">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -32,7 +32,7 @@
     <type name="MMG_combatpants_admin">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -47,7 +47,7 @@
     <type name="MMG_combatshirt_admin">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -62,7 +62,7 @@
     <type name="MMG_balaclava_admin">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>

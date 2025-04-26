@@ -6,7 +6,7 @@
 	<type name="MMG_tt_Vest_police">
 		<nominal>0</nominal>
 		<lifetime>7200</lifetime>
-		<restock>7200</restock>
+		<restock>0</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -18,9 +18,9 @@
 		<value name="Tier4"/>
 	</type>
 		 <type name="MMG_tactical_helmet_police">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -32,9 +32,9 @@
         <value name="Tier4"/>
     </type>
 	 <type name="MMG_combatshirt_police">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -46,9 +46,9 @@
         <value name="Tier4"/>
     </type>
     <type name="MMG_combatpants_police">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>

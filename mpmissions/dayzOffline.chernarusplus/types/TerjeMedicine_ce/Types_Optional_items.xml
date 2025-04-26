@@ -70,7 +70,7 @@
     <type name="TerjeImprovisedSyringeEmpty">
         <nominal>25</nominal>
         <lifetime>14400</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>

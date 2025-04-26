@@ -2061,8 +2061,7 @@
         "MMG_tt_vest_ucp,1,-1,0,88,99",
         "MMG_tt_vest_police,1,-1,0,88,99",
         "MMG_tt_vest_multicam_tropic,1,-1,0,88,99",
-        "MMG_tt_vest_atacs,1,-1,0,88,99",
-        "MMG_tt_vest_admin,1,-1,0,88,99"
+        "MMG_tt_vest_atacs,1,-1,0,88,99"
       ]
     },
     {
@@ -2257,7 +2256,6 @@
         "MMG_striker_helmet_multicamblack,1,-1,0,88,99",
         "MMG_striker_helmet_multicam,1,-1,0,88,99",
         "MMG_striker_helmet_dark_woodland,1,-1,0,88,99",
-        "MMG_striker_helmet_admin,1,-1,0,88,99",
         "MMG_striker_helmet_ucp,1,-1,0,88,99",
         "MMG_striker_helmet_multicam_tropic,1,-1,0,88,99",
         "MMG_striker_helmet_atacs,1,-1,0,88,99"
@@ -2350,7 +2348,6 @@
         "MMG_combatpants_multicam,1,-1,0,88,99",
         "MMG_combatpants_erdl,1,-1,0,88,99",
         "MMG_combatpants_dark_woodland,1,-1,0,88,99",
-        "MMG_combatpants_admin,1,-1,0,88,99",
         "MMG_combatpants_ucp,1,-1,0,88,99",
         "MMG_combatpants_multicam_tropic,1,-1,0,88,99",
         "MMG_combatpants_police,1,-1,0,88,99",
@@ -2385,7 +2382,6 @@
         "MMG_combatshirt_multicamblack,1,-1,0,88,99",
         "MMG_combatshirt_multicam,1,-1,0,88,99",
         "MMG_combatshirt_dark_woodland,1,-1,0,88,99",
-        "MMG_combatshirt_admin,1,-1,0,88,99",
         "MMG_combatshirt_ucp,1,-1,0,88,99",
         "MMG_combatshirt_multicam_tropic,1,-1,0,88,99",
         "MMG_combatshirt_police,1,-1,0,88,99",
@@ -2457,24 +2453,6 @@
       ]
     },
     {
-      "CategoryName": "MMG Facemask",
-      "Products": [
-        "MMG_facemask_green,1,-1,0,88,99",
-        "MMG_facemask_black,1,-1,0,88,99",
-        "MMG_facemask_tan,1,-1,0,88,99",
-        "MMG_facemask_alpine,1,-1,0,88,99",
-        "MMG_facemask_erdl,1,-1,0,88,99",
-        "MMG_facemask_multicamblack,1,-1,0,88,99",
-        "MMG_facemask_multicam,1,-1,0,88,99",
-        "MMG_facemask_dark_woodland,1,-1,0,88,99",
-        "MMG_facemask_ucp,1,-1,0,88,99",
-        "MMG_facemask_multicam_tropic,1,-1,0,88,99",
-        "MMG_facemask_atacs,1,-1,0,88,99",
-        "MMG_facemask_skull,1,-1,0,88,99",
-        "MMG_facemask_joker,1,-1,0,88,99"
-      ]
-    },
-    {
       "CategoryName": "MMG Balaclava",
       "Products": [
         "MMG_balaclava_black,1,-1,0,88,99",
@@ -2485,7 +2463,6 @@
         "MMG_balaclava_multicamblack,1,-1,0,88,99",
         "MMG_balaclava_multicam,1,-1,0,88,99",
         "MMG_balaclava_dark_woodland,1,-1,0,88,99",
-        "MMG_balaclava_admin,1,-1,0,88,99",
         "MMG_balaclava_ucp,1,-1,0,88,99",
         "MMG_balaclava_multicam_tropic,1,-1,0,88,99",
         "MMG_balaclava_atacs,1,-1,0,88,99"

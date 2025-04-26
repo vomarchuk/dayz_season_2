@@ -6,7 +6,7 @@
     <type name="MMG_patch_rubber_dayz">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -20,7 +20,7 @@
 	<type name="MMG_patch_rubber_511">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -34,7 +34,7 @@
 	<type name="MMG_patch_rubber_medic">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -48,7 +48,7 @@
 	<type name="MMG_patch_rubber_toxic">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -62,7 +62,7 @@
 	<type name="MMG_patch_rubber_bushcraft">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -76,7 +76,7 @@
 	<type name="MMG_patch_rubber_bushcraft1">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -90,7 +90,7 @@
 	<type name="MMG_patch_rubber_police">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -104,7 +104,7 @@
 	<type name="MMG_patch_rubber_punisher">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -118,7 +118,7 @@
 	<type name="MMG_patch_rubber_rangers">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -132,7 +132,7 @@
 	<type name="MMG_patch_rubber_eod">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -146,7 +146,7 @@
 	<type name="MMG_patch_rubber_mmg">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -160,7 +160,7 @@
 	<type name="MMG_patch_rubber_sniper1">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -174,7 +174,7 @@
 	<type name="MMG_patch_rubber_cherno_special">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -188,7 +188,7 @@
 	<type name="MMG_patch_rubber_livonia_special">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -202,7 +202,7 @@
 	<type name="MMG_patch_rubber_australia">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -216,7 +216,7 @@
 	<type name="MMG_patch_rubber_austria">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -230,7 +230,7 @@
 	<type name="MMG_patch_rubber_austria1">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -244,7 +244,7 @@
 	<type name="MMG_patch_rubber_germany">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -258,7 +258,7 @@
 	<type name="MMG_patch_rubber_sweden">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -272,7 +272,7 @@
 	<type name="MMG_patch_rubber_norway">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -286,7 +286,7 @@
 	<type name="MMG_patch_rubber_ukraine">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -300,7 +300,7 @@
 	<type name="MMG_patch_rubber_bulgaria">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -314,7 +314,7 @@
 	<type name="MMG_patch_rubber_switzerland">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -328,7 +328,7 @@
 	<type name="MMG_patch_rubber_czech_republic">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -342,7 +342,7 @@
 	<type name="MMG_patch_rubber_denmark">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -356,7 +356,7 @@
 	<type name="MMG_patch_rubber_england">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -370,7 +370,7 @@
 	<type name="MMG_patch_rubber_finland">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -384,7 +384,7 @@
 	<type name="MMG_patch_rubber_france">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -398,7 +398,7 @@
 	<type name="MMG_patch_rubber_greece">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -412,7 +412,7 @@
 	<type name="MMG_patch_rubber_netherlands">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -426,7 +426,7 @@
 	<type name="MMG_patch_rubber_poland">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -440,7 +440,7 @@
 	<type name="MMG_patch_rubber_south_africa">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -454,7 +454,7 @@
 	<type name="MMG_patch_rubber_slovakia">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -468,7 +468,7 @@
 	<type name="MMG_patch_rubber_uk">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -482,7 +482,7 @@
 	<type name="EXAMPLE">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -496,7 +496,7 @@
 	<type name="MMG_patch_rubber_usa">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -510,7 +510,7 @@
 	<type name="MMG_patch_rubber_bra">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -524,7 +524,7 @@
 	<type name="MMG_patch_rubber_can">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -538,7 +538,7 @@
 	<type name="MMG_patch_rubber_chl">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -552,7 +552,7 @@
 	<type name="MMG_patch_rubber_cro">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -566,7 +566,7 @@
 	<type name="MMG_patch_rubber_irl">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -580,7 +580,7 @@
 	<type name="MMG_patch_rubber_nzl">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -594,7 +594,7 @@
 	<type name="MMG_patch_rubber_rou">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -608,7 +608,7 @@
 	<type name="MMG_patch_rubber_tur">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -622,7 +622,7 @@
 	<type name="MMG_patch_rubber_mex">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -636,7 +636,7 @@
 	<type name="MMG_patch_rubber_por">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -650,7 +650,7 @@
 	<type name="MMG_patch_rubber_wales">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -664,7 +664,7 @@
 	<type name="MMG_patch_rubber_apos">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -678,7 +678,7 @@
 	<type name="MMG_patch_rubber_bpos">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -692,7 +692,7 @@
 	<type name="MMG_patch_rubber_abpos">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -706,7 +706,7 @@
 	<type name="MMG_patch_rubber_0pos">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -720,7 +720,7 @@
 	<type name="MMG_patch_rubber_aneg">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -734,7 +734,7 @@
 	<type name="MMG_patch_rubber_bneg">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -748,7 +748,7 @@
 	<type name="MMG_patch_rubber_abneg">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -762,7 +762,7 @@
 	<type name="MMG_patch_rubber_0neg">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -778,7 +778,7 @@
 	<type name="MMG_patch_fabric_dayz">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -792,7 +792,7 @@
 	<type name="EXAMPLE">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -806,7 +806,7 @@
 	<type name="MMG_patch_fabric_511">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -820,7 +820,7 @@
 	<type name="MMG_patch_fabric_driver">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -834,7 +834,7 @@
 	<type name="MMG_patch_fabric_medic">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -848,7 +848,7 @@
 	<type name="MMG_patch_fabric_pilot">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -862,7 +862,7 @@
 	<type name="MMG_patch_fabric_toxic">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
