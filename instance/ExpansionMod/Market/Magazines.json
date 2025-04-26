@@ -29,7 +29,7 @@
             "Variants": []
         },
         {
-            "ClassName": "mag_glock_15rnd",
+            "ClassName": "IMP_Mag_Glock_21Rnd",
             "MaxPriceThreshold": 880,
             "MinPriceThreshold": 530,
             "SellPricePercent": -1.0,

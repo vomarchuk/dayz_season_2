@@ -689,9 +689,9 @@
   ],
   "LCPredefinedWeapons": [
     {
-      "defname": "LC_predefined_SCWS_STI_Suppressor",
-      "weapon": "SCWS_STI",
-      "magazine": "SCWS_STI_Magazine",
+      "defname": "LC_predefined_IMP_MP443_Suppressor",
+      "weapon": "IMP_MP443",
+      "magazine": "IMP_Mag_MP443_18Rnd",
       "attachments": [
         "PistolSuppressor"
       ],
@@ -717,14 +717,10 @@
       "opticbattery": 0
     },
     {
-      "defname": "LC_predefined_MP5K_Suppressor",
-      "weapon": "MP5K",
-      "magazine": "Mag_MP5_30Rnd",
-      "attachments": [
-        "PistolSuppressor",
-        "MP5_RailHndgrd",
-        "MP5k_StockBttstck"
-      ],
+      "defname": "LC_predefined_IMP_KelTecSUB2000_Supp",
+      "weapon": "IMP_KelTecSUB2000_Supp",
+      "magazine": "IMP_Mag_Glock_30Rnd",
+      "attachments": [],
       "optic": "",
       "opticbattery": 0
     },
@@ -892,8 +888,8 @@
     {
       "name": "LC_Table_Weapons_1",
       "Loot": [
-        "LC_predefined_SCWS_STI_Suppressor",
-        "LC_predefined_MP5K_Suppressor",
+        "LC_predefined_IMP_MP443_Suppressor",
+        "LC_predefined_IMP_KelTecSUB2000_Supp",
         "LC_predefined_MP5K",
         "LC_predefined_UMP45_Suppressor",
         "LC_predefined_UMP45",

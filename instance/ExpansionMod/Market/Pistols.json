@@ -68,7 +68,7 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
-                "mag_glock_15rnd"
+                "IMP_Mag_Glock_21Rnd"
             ],
             "Variants": []
         },

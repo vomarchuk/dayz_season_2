@@ -1236,10 +1236,10 @@
         <value name="Tier4" />
     </type>
     <type name="RIP_OilFilter">
-        <nominal>0</nominal>
+        <nominal>15</nominal>
         <lifetime>28800</lifetime>
         <restock>4500</restock>
-        <min>0</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1248,6 +1248,9 @@
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Village" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
     </type>
     <type name="RIP_FilterSilencer">
         <nominal>0</nominal>
@@ -1264,10 +1267,10 @@
         <usage name="Village" />
     </type>
     <type name="RIP_Collet">
-        <nominal>0</nominal>
+        <nominal>15</nominal>
         <lifetime>28800</lifetime>
         <restock>4500</restock>
-        <min>0</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1275,7 +1278,10 @@
         <category name="tools" />
         <usage name="Industrial" />
         <usage name="Farm" />
-        <usage name="Village" />
+        <usage name="Village" />       
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
     </type>
     <type name="RIP_DocTube">
         <nominal>0</nominal>
@@ -1426,40 +1432,46 @@
         <usage name="Military" />
     </type>
     <type name="RIP_RGDbody">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <min>5</min>
+        <quantmin>1</quantmin>
+        <quantmax>1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="explosives" />
         <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier4" />
     </type>
     <type name="RIP_M213">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <min>5</min>
+        <quantmin>1</quantmin>
+        <quantmax>1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
         <category name="explosives" />
         <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier4" />
     </type>
     <type name="RIP_M67body">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <min>5</min>
+        <quantmin>1</quantmin>
+        <quantmax>1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="explosives" />
         <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier4" />
     </type>
     <type name="RIP_VOG">
         <nominal>0</nominal>
@@ -1474,16 +1486,18 @@
         <usage name="Military" />
     </type>
     <type name="RIP_UZRGM">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <min>5</min>
+        <quantmin>1</quantmin>
+        <quantmax>1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
         <category name="explosives" />
         <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier4" />
     </type>
     <type name="RIP_UZRGMcan">
         <nominal>0</nominal>

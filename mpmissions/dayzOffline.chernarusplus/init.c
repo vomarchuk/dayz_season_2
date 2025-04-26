@@ -57,7 +57,7 @@ class CustomMission : MissionServer
 	{
 		player.GetStatEnergy().Set(1000);
 		player.GetStatWater().Set(1000);
-		
+
 		player.RemoveAllItems();
 
 		/*
@@ -81,16 +81,16 @@ class CustomMission : MissionServer
 		itemEnt = player.GetInventory().CreateInInventory("AthleticShoes_Black");
 		itemBs = ItemBase.Cast(itemEnt);
 		// weapon
-		itemEnt = player.GetInventory().CreateInInventory("MKII");
+		itemEnt = player.GetInventory().CreateInInventory("Crossbow_Autumn");
 		itemBs = ItemBase.Cast(itemEnt);
 		// mag
-		itemEnt = player.GetInventory().CreateInInventory("Mag_MKII_10Rnd");
-		itemBs = ItemBase.Cast(itemEnt);
+		// itemEnt = player.GetInventory().CreateInInventory("Mag_MKII_10Rnd");
+		// itemBs = ItemBase.Cast(itemEnt);
 		// mag
-		itemEnt = player.GetInventory().CreateInInventory("Mag_MKII_10Rnd");
-		itemBs = ItemBase.Cast(itemEnt);
+		// itemEnt = player.GetInventory().CreateInInventory("Mag_MKII_10Rnd");
+		// itemBs = ItemBase.Cast(itemEnt);
 		// ammo
-		itemEnt = player.GetInventory().CreateInInventory("AmmoBox_22_50Rnd");
+		itemEnt = player.GetInventory().CreateInInventory("Ammo_ImprovisedBolt_1");
 		itemBs = ItemBase.Cast(itemEnt);
 		// еда
 		itemEnt = player.GetInventory().CreateInInventory("Pajka");

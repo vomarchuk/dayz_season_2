@@ -950,7 +950,7 @@
                                     "SlotName": "",
                                     "Items": [
                                         {
-                                            "ClassName": "Mag_Glock_15Rnd",
+                                            "ClassName": "IMP_Mag_Glock_21Rnd",
                                             "Include": "",
                                             "Chance": 1.0,
                                             "Quantity": {
@@ -975,7 +975,7 @@
             ],
             "InventoryCargo": [
                 {
-                    "ClassName": "Mag_Glock_15Rnd",
+                    "ClassName": "IMP_Mag_Glock_21Rnd",
                     "Include": "",
                     "Chance": 1.0,
                     "Quantity": {
@@ -989,7 +989,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "Mag_Glock_15Rnd",
+                    "ClassName": "IMP_Mag_Glock_21Rnd",
                     "Include": "",
                     "Chance": 0.15000000596046449,
                     "Quantity": {
