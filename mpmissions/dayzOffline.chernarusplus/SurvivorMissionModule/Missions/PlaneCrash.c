@@ -254,9 +254,6 @@ class PlaneCrashMission extends SurvivorMissions
 				weapon = MissionObject.GetInventory().CreateInInventory("M4A1_Green");
 				weapon.GetInventory().CreateAttachment("M4_RISHndgrd_Green");
 				weapon.GetInventory().CreateAttachment("M4_MPBttstck");
-				weapon.GetInventory().CreateAttachment("M4_Suppressor");
-				weapon.GetInventory().CreateAttachment("ACOGOptic");
-				// weapon.GetInventory().CreateAttachment("M4_T3NRDSOptic");
 				MissionObject.GetInventory().CreateInInventory("Mag_STANAG_30Rnd");
 				MissionObject.GetInventory().CreateInInventory("AmmoBox_556x45_20Rnd");
 				MissionObject.GetInventory().CreateInInventory("AmmoBox_556x45_20Rnd");
@@ -267,10 +264,6 @@ class PlaneCrashMission extends SurvivorMissions
 			}
 			if (selectedLoadout == 1)
 			{
-				weapon = MissionObject.GetInventory().CreateInInventory("SVD");
-				weapon.GetInventory().CreateAttachment("PSO11Optic");
-				// weapon.GetInventory().CreateAttachment("PSO1Optic");
-				// weapon.GetInventory().CreateAttachment("KazuarOptic");
 				MissionObject.GetInventory().CreateInInventory("Mag_SVD_10Rnd");
 				MissionObject.GetInventory().CreateInInventory("AmmoBox_762x54Tracer_20Rnd");
 				MissionObject.GetInventory().CreateInInventory("AmmoBox_762x54Tracer_20Rnd");
@@ -283,10 +276,7 @@ class PlaneCrashMission extends SurvivorMissions
 			{
 				weapon = MissionObject.GetInventory().CreateInInventory("AKM");
 				weapon.GetInventory().CreateAttachment("AK_RailHndgrd_Green");
-				weapon.GetInventory().CreateAttachment("AK_Suppressor");
 				weapon.GetInventory().CreateAttachment("AK_PlasticBttstck_Green");
-				weapon.GetInventory().CreateAttachment("PSO1Optic");
-				// weapon.GetInventory().CreateAttachment("KobraOptic");
 				MissionObject.GetInventory().CreateInInventory("Mag_AKM_30Rnd");
 				MissionObject.GetInventory().CreateInInventory("AmmoBox_762x39_20Rnd");
 				MissionObject.GetInventory().CreateInInventory("AmmoBox_762x39_20Rnd");
@@ -298,7 +288,6 @@ class PlaneCrashMission extends SurvivorMissions
 			if (selectedLoadout == 3)
 			{
 				weapon = MissionObject.GetInventory().CreateInInventory("SKS");
-				weapon.GetInventory().CreateAttachment("PUScopeOptic");
 				weapon.GetInventory().CreateAttachment("SKS_Bayonet");
 				MissionObject.GetInventory().CreateInInventory("AmmoBox_762x39_20Rnd");
 				MissionObject.GetInventory().CreateInInventory("AmmoBox_762x39_20Rnd");
@@ -309,8 +298,6 @@ class PlaneCrashMission extends SurvivorMissions
 			}
 			if (selectedLoadout == 4)
 			{
-				weapon = MissionObject.GetInventory().CreateInInventory("Winchester70");
-				weapon.GetInventory().CreateAttachment("HuntingOptic");
 				MissionObject.GetInventory().CreateInInventory("AmmoBox_308WinTracer_20Rnd");
 				MissionObject.GetInventory().CreateInInventory("AmmoBox_308WinTracer_20Rnd");
 				MissionObject.GetInventory().CreateInInventory("AmmoBox_308WinTracer_20Rnd");
@@ -325,7 +312,6 @@ class PlaneCrashMission extends SurvivorMissions
 			if (selectedLoadout == 5)
 			{
 				weapon = MissionObject.GetInventory().CreateInInventory("UMP45");
-				weapon.GetInventory().CreateAttachment("M68Optic");
 				weapon.GetInventory().CreateAttachment("PistolSuppressor");
 				MissionObject.GetInventory().CreateInInventory("Mag_UMP_25Rnd");
 				MissionObject.GetInventory().CreateInInventory("Mag_UMP_25Rnd");
@@ -338,8 +324,6 @@ class PlaneCrashMission extends SurvivorMissions
 			}
 			if (selectedLoadout == 6)
 			{
-				weapon = MissionObject.GetInventory().CreateInInventory("VSS");
-				weapon.GetInventory().CreateAttachment("PSO11Optic");
 				MissionObject.GetInventory().CreateInInventory("Mag_VSS_10Rnd");
 				MissionObject.GetInventory().CreateInInventory("AmmoBox_9x39_20Rnd");
 				MissionObject.GetInventory().CreateInInventory("AmmoBox_9x39_20Rnd");
@@ -353,8 +337,6 @@ class PlaneCrashMission extends SurvivorMissions
 				weapon = MissionObject.GetInventory().CreateInInventory("MP5K");
 				weapon.GetInventory().CreateAttachment("MP5_RailHndgrd");
 				weapon.GetInventory().CreateAttachment("MP5k_StockBttstck");
-				weapon.GetInventory().CreateAttachment("M68Optic");
-				weapon.GetInventory().CreateAttachment("PistolSuppressor");
 				MissionObject.GetInventory().CreateInInventory("Mag_MP5_30Rnd");
 				MissionObject.GetInventory().CreateInInventory("Mag_MP5_30Rnd");
 				MissionObject.GetInventory().CreateInInventory("AmmoBox_9x19_25rnd");
@@ -366,11 +348,8 @@ class PlaneCrashMission extends SurvivorMissions
 			}
 			if (selectedLoadout == 8)
 			{
-				weapon = MissionObject.GetInventory().CreateInInventory("AK74");
-				weapon.GetInventory().CreateAttachment("AK_RailHndgrd");
-				weapon.GetInventory().CreateAttachment("AK74_WoodBttstck");
-				weapon.GetInventory().CreateAttachment("KashtanOptic");
-				weapon.GetInventory().CreateAttachment("'AK_Suppressor");
+				weapon = MissionObject.GetInventory().CreateInInventory("AKS74U");
+				weapon.GetInventory().CreateAttachment("AKS74U_Bttstck");
 				MissionObject.GetInventory().CreateInInventory("Mag_AK74_30Rnd");
 				MissionObject.GetInventory().CreateInInventory("AmmoBox_545x39_20Rnd");
 				MissionObject.GetInventory().CreateInInventory("AmmoBox_545x39_20Rnd");
@@ -395,7 +374,6 @@ class PlaneCrashMission extends SurvivorMissions
 			{
 				weapon = MissionObject.GetInventory().CreateInInventory("SKS");
 				weapon.GetInventory().CreateAttachment("PUScopeOptic");
-				weapon.GetInventory().CreateAttachment("SKS_Bayonet");
 				MissionObject.GetInventory().CreateInInventory("AmmoBox_762x39_20Rnd");
 				MissionObject.GetInventory().CreateInInventory("AmmoBox_762x39_20Rnd");
 				MissionObject.GetInventory().CreateInInventory("AmmoBox_762x39_20Rnd");
@@ -407,7 +385,6 @@ class PlaneCrashMission extends SurvivorMissions
 			{
 				weapon = MissionObject.GetInventory().CreateInInventory("UMP45");
 				weapon.GetInventory().CreateAttachment("M68Optic");
-				weapon.GetInventory().CreateAttachment("PistolSuppressor");
 				MissionObject.GetInventory().CreateInInventory("Mag_UMP_25Rnd");
 				MissionObject.GetInventory().CreateInInventory("Mag_UMP_25Rnd");
 				MissionObject.GetInventory().CreateInInventory("AmmoBox_45ACP_25rnd");

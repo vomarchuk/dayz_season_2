@@ -43,6 +43,7 @@ class RandomItemsList
             "RIP_WD40S",
             "RIP_WeaponCleaningSpray_2",
             "Screwdriver",
+            "Pliers",
             "SmallGasCanister",
             "SmallProtectorCase",
             "TacticalBaconCan",
@@ -56,9 +57,15 @@ class RandomItemsList
             "TerjeSurgicalKit",
             "TerjeSyringeNew",
             "WeaponCleaningKit",
-            "TD_GRN2014_money20",
-            "TD_GRN2014_money50",
-            "CharcoalTablets"
+            "TD_GRN2014_money100",
+            "TD_GRN2014_money200",
+            "CharcoalTablets",
+            //weapons
+            "SKS",
+            "UMP45",
+            "AKS74U",
+            "MP5K",
+            "CZ75"
         };
     }
 }
