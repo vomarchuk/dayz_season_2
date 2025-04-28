@@ -41,11 +41,115 @@
                 -0.000000
             ],
             "TeleportPosition": [
-                8218.469727,
-                470.817993,
-                9042.040039
+                8216.780273,
+                469.7,
+                9041.291016
             ],
             "CheckRadius": 2.5,
+            "RequiredItem": "",
+            "RequiredItemDamagePercent": 0,
+            "TeleportActiveTimeSeconds": 0,
+            "TeleportCooldownSeconds": 0,
+            "MissingItemMessage": ""
+        },
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Teleport in Oilrig",
+            "ObjectType": "Land_Boat_Small9",
+            "ObjectCoordinates": [
+                12062.107422,
+                0.398144,
+                3416.792969
+            ],
+            "ObjectOrientation": [
+                -17.900988,
+                0.000000,
+                0.000000
+            ],
+            "TeleportPosition": [
+                12561.294922,
+                0.9,
+                1919.892700
+            ],
+            "CheckRadius": 5,
+            "RequiredItem": "",
+            "RequiredItemDamagePercent": 0,
+            "TeleportActiveTimeSeconds": 60,
+            "TeleportCooldownSeconds": 300,
+            "MissingItemMessage": "Човен в дорозі, зачекай"
+        },
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Teleport out Oilrig",
+            "ObjectType": "Land_Boat_Small9",
+            "ObjectCoordinates": [
+                12564.916992,
+                -0.484688,
+                1923.502441
+            ],
+            "ObjectOrientation": [
+                -134.902176,
+                0.000000,
+                -0.000000
+            ],
+            "TeleportPosition": [
+                12060.366211,
+                1.7,
+                3421.862061
+            ],
+            "CheckRadius": 5,
+            "RequiredItem": "",
+            "RequiredItemDamagePercent": 0,
+            "TeleportActiveTimeSeconds": 60,
+            "TeleportCooldownSeconds": 300,
+            "MissingItemMessage": "Човен в дорозі, зачекай"
+        },
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Teleport in Island",
+            "ObjectType": "Land_Boat_Small9",
+            "ObjectCoordinates": [
+                13219.807617,
+                0.050410,
+                9953.394531
+            ],
+            "ObjectOrientation": [
+                8.999920,
+                0.000000,
+                -0.000000
+            ],
+            "TeleportPosition": [
+                14093.233398,
+                1.1,
+                9670.615234
+            ],
+            "CheckRadius": 5,
+            "RequiredItem": "",
+            "RequiredItemDamagePercent": 0,
+            "TeleportActiveTimeSeconds": 0,
+            "TeleportCooldownSeconds": 0,
+            "MissingItemMessage": ""
+        },
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Teleport out Island",
+            "ObjectType": "Land_Boat_Small9",
+            "ObjectCoordinates": [
+                14089.616211,
+                -0.240913,
+                9667.198242
+            ],
+            "ObjectOrientation": [
+                45.946342,
+                0.000000,
+                -0.000000
+            ],
+            "TeleportPosition": [
+                13220.632813,
+                1.4,
+                9958.426758
+            ],
+            "CheckRadius": 5,
             "RequiredItem": "",
             "RequiredItemDamagePercent": 0,
             "TeleportActiveTimeSeconds": 0,
