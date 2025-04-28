@@ -7,33 +7,6 @@
     "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "rag_atv_blue",
-            "MaxPriceThreshold": 12000,
-            "MinPriceThreshold": 12000,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SellPricePercent": 10.0,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "SparkPlug",
-                "CarBattery",
-                "CarRadiator",
-                "rag_atv_wheel",
-                "rag_atv_wheel",
-                "rag_atv_wheel",
-                "rag_atv_wheel",
-                "HeadlightH7",
-                "HeadlightH7"
-            ],
-            "Variants": [
-                "rag_atv_red",
-                "rag_atv_green",
-                "rag_atv_pink",
-                "rag_atv_white",
-                "rag_atv_black"
-            ]
-        },
-        {
             "ClassName": "hatchback_02",
             "MaxPriceThreshold": 30000,
             "MinPriceThreshold": 30000,

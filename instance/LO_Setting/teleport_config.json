@@ -1,0 +1,56 @@
+{
+    "TeleportEntries": [
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Teleport in Altar trade",
+            "ObjectType": "vbldr_doorinterier_closed_prx",
+            "ObjectCoordinates": [
+                8218.469727,
+                470.817993,
+                9042.040039
+            ],
+            "ObjectOrientation": [
+                62.998062,
+                0.000000,
+                -0.000000
+            ],
+            "TeleportPosition": [
+                1400.533325,
+                334.60,
+                626.325806
+            ],
+            "CheckRadius": 2.5,
+            "RequiredItem": "",
+            "RequiredItemDamagePercent": 0,
+            "TeleportActiveTimeSeconds": 0,
+            "TeleportCooldownSeconds": 0,
+            "MissingItemMessage": ""
+        },
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Teleport out Altar trade",
+            "ObjectType": "vbldr_doorinterier_closed_prx",
+            "ObjectCoordinates": [
+                1402.359985,
+                335.700012,
+                626.989990
+            ],
+            "ObjectOrientation": [
+                62.998062,
+                0.000000,
+                -0.000000
+            ],
+            "TeleportPosition": [
+                8218.469727,
+                470.817993,
+                9042.040039
+            ],
+            "CheckRadius": 2.5,
+            "RequiredItem": "",
+            "RequiredItemDamagePercent": 0,
+            "TeleportActiveTimeSeconds": 0,
+            "TeleportCooldownSeconds": 0,
+            "MissingItemMessage": ""
+        }
+    ]
+}

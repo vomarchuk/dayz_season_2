@@ -137,9 +137,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="types/RaG_ce">
 		<file name="rag_baseitems.xml" type="types" />
 		<file name="rag_basebuilding.xml" type="types" />
-		<file name="rag_vehicle_pack.xml" type="types" />
-		<file name="rag_hummer_types.xml" type="types" />
-		<file name="rag_landrover_types.xml" type="types" />
 	</ce>
 	<!-- Car Radio -->
 	<ce folder="types/Car_Radio_ce">
