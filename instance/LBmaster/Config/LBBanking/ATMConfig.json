@@ -8,7 +8,7 @@
     "personalATMStartMoney": 0,
     "transactionDelayMS": 2000,
     "paycheckAmount": 0,
-    "paycheckIntervalMinutes": 20,
+    "paycheckIntervalMinutes": 1,
     "paycheckMultiplier": 1,
     "paycheckMultiplierEnd": 0,
     "disableToPlayerTransfer": 0,

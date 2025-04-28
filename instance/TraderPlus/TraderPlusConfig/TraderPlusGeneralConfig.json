@@ -30,39 +30,39 @@
   "StoreOnlyToPristineState": 0,
   "Currencies": [
     {
-      "ClassName": "TraderPlus_Money_Euro500",
+      "ClassName": "TD_GRN2014_money500",
       "Value": 500
     },
     {
-      "ClassName": "TraderPlus_Money_Euro200",
+      "ClassName": "TD_GRN2014_money200",
       "Value": 200
     },
     {
-      "ClassName": "TraderPlus_Money_Euro100",
+      "ClassName": "TD_GRN2014_money100",
       "Value": 100
     },
     {
-      "ClassName": "TraderPlus_Money_Euro50",
+      "ClassName": "TD_GRN2014_money50",
       "Value": 50
     },
     {
-      "ClassName": "TraderPlus_Money_Euro20",
+      "ClassName": "TD_GRN2014_money20",
       "Value": 20
     },
     {
-      "ClassName": "TraderPlus_Money_Euro10",
+      "ClassName": "TD_GRN2014_money10",
       "Value": 10
     },
     {
-      "ClassName": "TraderPlus_Money_Euro5",
+      "ClassName": "TD_GRN2014_money5",
       "Value": 5
     },
     {
-      "ClassName": "TraderPlus_Money_Euro2",
+      "ClassName": "TD_GRN2014_money2",
       "Value": 2
     },
     {
-      "ClassName": "TraderPlus_Money_Euro1",
+      "ClassName": "TD_GRN2014_money1",
       "Value": 1
     }
   ],
@@ -396,8 +396,8 @@
       "GivenName": "Мірик",
       "Role": "Авто запчастини",
       "Position": [
-        3702.921387, 
-        402.360382, 
+        3702.921387,
+        402.360382,
         6008.772461
       ],
       "Orientation": [

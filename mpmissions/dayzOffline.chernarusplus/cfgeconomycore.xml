@@ -101,10 +101,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="types/CARS_ce">
 		<file name="Cars.xml" type="types"/>
 	</ce>
-	<!-- DNA KeyCard -->
-	<ce folder="types/DNA_KeyCard_ce">
-		<file name="DNA_KeyCard.xml" type="types"/>
-	</ce>
+
 	<!-- RZ key doors -->
 	<ce folder="types/RZ_KeyCardDoors_ce">
 		<file name="rz_keyCardDoors.xml" type="types"/>

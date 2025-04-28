@@ -69,7 +69,7 @@
         "NotificationTitle": "",
         "NotificationTime": 3.0,
         "NeedItem": {
-            "Item": "DNA_KeyCard_Blue",
+            "Item": "",
             "ModeFlag": 2,
             "ItemHealthDamage": 0.0,
             "ItemQuantityDamage": 0.20
@@ -107,7 +107,7 @@
         "NotificationTitle": "",
         "NotificationTime": 3.0,
         "NeedItem": {
-            "Item": "DNA_KeyCard_Yellow",
+            "Item": "",
             "ModeFlag": 2,
             "ItemHealthDamage": 0.0,
             "ItemQuantityDamage": 0.20
