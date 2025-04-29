@@ -3,12 +3,12 @@
         "version": 4,
         "classname": "LB_ATM_4_Black",
         "position": [
-            3707.469971,
-            402.000000,
-            5987.089844
+            3707.469970703125,
+            402.0,
+            5987.08984375
         ],
         "orientation": [
-            109.999214,
+            109.99921417236328,
             0.0,
             0.0
         ],
@@ -32,7 +32,7 @@
         "lastLockedTimestamp": 0,
         "lastRobTime": 0,
         "useDepositedCashToCalculateRobbedMoney": 1,
-        "cashDeposited": 2200,
+        "cashDeposited": 4400,
         "depositedCashIncreasePerMin": 20,
         "robbedDepositedCashPercent": 0.10000000149011612,
         "maxMoneyRobbedFromDepositedMoney": 20000,
@@ -47,14 +47,14 @@
         "version": 4,
         "classname": "LB_ATM_4_Black",
         "position": [
-            1405.719971,
-            329.299988,
-            622.966980
+            1405.719970703125,
+            329.29998779296877,
+            622.9669799804688
         ],
         "orientation": [
-            -113.995941,
-            0.000000,
-            -0.000000
+            -113.99594116210938,
+            0.0,
+            -0.0
         ],
         "robPosition": "Altar",
         "canDepositMoney": 1,
@@ -76,7 +76,7 @@
         "lastLockedTimestamp": 0,
         "lastRobTime": 0,
         "useDepositedCashToCalculateRobbedMoney": 1,
-        "cashDeposited": 2200,
+        "cashDeposited": 4400,
         "depositedCashIncreasePerMin": 20,
         "robbedDepositedCashPercent": 0.10000000149011612,
         "maxMoneyRobbedFromDepositedMoney": 20000,

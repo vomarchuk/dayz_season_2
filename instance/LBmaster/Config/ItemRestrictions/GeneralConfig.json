@@ -1,0 +1,11 @@
+{
+    "version": 2,
+    "showRestrictionsOnGroupMapMenu": 1,
+    "showMapInRestrictionMenu": 1,
+    "showPlayerPositionInRestrictionMenu": 1,
+    "canSeePlacedItemsMarkersOnPanelMap": 1,
+    "useMemberCountAsGroupLevel": 0,
+    "disabledCraftingRecipes": [
+        "CraftWoodenCrate"
+    ]
+}

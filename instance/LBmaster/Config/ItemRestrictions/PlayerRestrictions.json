@@ -1,0 +1,21 @@
+{
+    "version": 0,
+    "enabled": 1,
+    "restrictions": [
+        {
+            "displayName": "Sleeping Bags",
+            "kitItemNames": [
+                "LBS_SleepingPacked_Base"
+            ],
+            "countItemNames": [
+                "LBS_SleepingBag_Base"
+            ],
+            "limits": [
+                5
+            ],
+            "isAttachment": 0,
+            "showOnMap": 1,
+            "show3D": 1
+        }
+    ]
+}

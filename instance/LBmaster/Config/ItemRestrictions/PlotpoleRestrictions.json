@@ -1,0 +1,74 @@
+{
+    "version": 0,
+    "enabled": 1,
+    "restrictions": [
+        {
+            "displayName": "Walls",
+            "kitItemNames": [
+                "FenceKit"
+            ],
+            "countItemNames": [
+                "Fence"
+            ],
+            "limits": [
+                20
+            ],
+            "isAttachment": 0,
+            "showOnMap": 1,
+            "show3D": 1
+        },
+        {
+            "displayName": "Tents",
+            "kitItemNames": [
+                "TentBase"
+            ],
+            "countItemNames": [
+                "TentBase",
+                "MediumTent",
+                "LargeTent",
+                "CarTent"
+            ],
+            "limits": [
+                5
+            ],
+            "isAttachment": 0,
+            "showOnMap": 1,
+            "show3D": 1
+        },
+        {
+            "displayName": "Code Locks",
+            "kitItemNames": [
+                "CombinationLock"
+            ],
+            "countItemNames": [
+                "CombinationLock"
+            ],
+            "limits": [
+                4
+            ],
+            "isAttachment": 1,
+            "showOnMap": 1,
+            "show3D": 1
+        }
+    ],
+    "plotpoles": [
+        {
+            "radius": 30.0,
+            "radiusShape": 1,
+            "cylinderUp": 30.0,
+            "cylinderDown": 30.0,
+            "plotpoleItemnames": [
+                "TerritoryFlag"
+            ]
+        },
+        {
+            "radius": 40.0,
+            "radiusShape": 0,
+            "cylinderUp": 0.0,
+            "cylinderDown": 0.0,
+            "plotpoleItemnames": [
+                "TerritoryWorkbench"
+            ]
+        }
+    ]
+}
