@@ -714,7 +714,7 @@
         "CategoryName": "Лінійка крафту болтовок",
         "CraftItems": [
           {
-            "Result": "SCWS_M14",
+            "Result": "IMP_M24_SWS",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "weaponpic",
@@ -762,14 +762,14 @@
             ]
           },
           {
-            "Result": "SCWS_TIMBERWOLF",
+            "Result": "IMP_AWM",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "weaponpic",
             "RecipeName": "TIMBERWOLF",
             "CraftComponents": [
               {
-                "Classname": "SCWS_M14",
+                "Classname": "IMP_M24_SWS",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -836,14 +836,14 @@
             ]
           },
           {
-            "Result": "SCWS_DT408",
+            "Result": "IMP_M300New",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "weaponpic",
             "RecipeName": "SCWS_DT408",
             "CraftComponents": [
               {
-                "Classname": "SCWS_TIMBERWOLF",
+                "Classname": "IMP_AWM",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -918,34 +918,22 @@
             ]
           },
           {
-            "Result": "SCWS_M200",
+            "Result": "IMP_SnipeX_Alligator",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "weaponpic",
             "RecipeName": "M200",
             "CraftComponents": [
               {
-                "Classname": "SCWS_TIMBERWOLF",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "Wrench",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "Hammer",
+                "Classname": "IMP_M300New",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
               },
               {
                 "Classname": "HP_Pipe",
-                "Amount": 1,
-                "Destroy": 1,
+                "Amount": 3,
+                "Destroy": 3,
                 "Changehealth": 0
               },
               {
@@ -956,26 +944,26 @@
               },
               {
                 "Classname": "RIP_WD40",
-                "Amount": 210,
-                "Destroy": 210,
+                "Amount": 280,
+                "Destroy": 280,
                 "Changehealth": 0
               },
               {
                 "Classname": "RIP_WeaponCleaningSpray",
-                "Amount": 240,
-                "Destroy": 240,
+                "Amount": 300,
+                "Destroy": 300,
                 "Changehealth": 0
               },
               {
                 "Classname": "RIP_CleaningKitPlastic",
-                "Amount": 270,
-                "Destroy": 270,
+                "Amount": 360,
+                "Destroy": 360,
                 "Changehealth": 0
               },
               {
                 "Classname": "RIP_rivets",
-                "Amount": 75,
-                "Destroy": 75,
+                "Amount": 100,
+                "Destroy": 100,
                 "Changehealth": 0
               },
               {
@@ -986,8 +974,8 @@
               },
               {
                 "Classname": "RIP_Plastik",
-                "Amount": 100,
-                "Destroy": 100,
+                "Amount": 150,
+                "Destroy": 150,
                 "Changehealth": 0
               }
             ],
