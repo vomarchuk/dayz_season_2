@@ -127,6 +127,295 @@
         ]
       },
       {
+        "CategoryName": "Лінійка крафту тихих вбивць",
+        "CraftItems": [
+          {
+            "Result": "IMP_VSS_Tact",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "weaponpic",
+            "RecipeName": "VSS",
+            "CraftComponents": [
+              {
+                "Classname": "IMP_VSK94",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Wrench",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "WeaponCleaningKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WD40S",
+                "Amount": 40,
+                "Destroy": 40,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Rustymetal",
+                "Amount": 10,
+                "Destroy": 10,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "IMP_AACHoneyBadger_Black",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "weaponpic",
+            "RecipeName": "HoneyBadger",
+            "CraftComponents": [
+              {
+                "Classname": "IMP_VSS_Tact",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Wrench",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_OilPlastic",
+                "Amount": 40,
+                "Destroy": 40,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WD40S",
+                "Amount": 80,
+                "Destroy": 80,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WeaponCleaningSpray_2",
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "KIWI_WeaponCleaningKit",
+                "Amount": 600,
+                "Destroy": 600,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Rustymetal",
+                "Amount": 25,
+                "Destroy": 25,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Oiler",
+              "HP_Anvil",
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "IMP_HoneyBadger",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "weaponpic",
+            "RecipeName": "HoneyBadger 300",
+            "CraftComponents": [
+              {
+                "Classname": "IMP_AACHoneyBadger_Black",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Wrench",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_OilPlastic",
+                "Amount": 60,
+                "Destroy": 60,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WD40S",
+                "Amount": 120,
+                "Destroy": 120,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WeaponCleaningSpray_2",
+                "Amount": 150,
+                "Destroy": 150,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_CleaningKitPlastic",
+                "Amount": 90,
+                "Destroy": 90,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_Pipe",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 50,
+                "Destroy": 50,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Rustymetal",
+                "Amount": 50,
+                "Destroy": 50,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Plastik",
+                "Amount": 25,
+                "Destroy": 25,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Oiler",
+              "HP_Anvil",
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "IMP_ASH12",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "weaponpic",
+            "RecipeName": "ASH12",
+            "CraftComponents": [
+              {
+                "Classname": "IMP_HoneyBadger",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Wrench",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_Pipe",
+                "Amount": 2,
+                "Destroy": 2,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_OilPlastic",
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WD40",
+                "Amount": 210,
+                "Destroy": 210,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_WeaponCleaningSpray",
+                "Amount": 160,
+                "Destroy": 160,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_CleaningKitPlastic",
+                "Amount": 270,
+                "Destroy": 270,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 75,
+                "Destroy": 75,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Rustymetal",
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Plastik",
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Drill",
+              "HP_Grinde",
+              "HP_Oiler",
+              "HP_Anvil",
+              "HP_Vise"
+            ]
+          }
+        ]
+      },
+      {
         "CategoryName": "Лінійка крафту M82A1",
         "CraftItems": [
           {
@@ -138,6 +427,12 @@
             "CraftComponents": [
               {
                 "Classname": "M4A1",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Pipe",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -188,6 +483,12 @@
                 "Classname": "IMP_AR15",
                 "Amount": 1,
                 "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Pipe",
+                "Amount": 2,
+                "Destroy": 2,
                 "Changehealth": 0
               },
               {
@@ -256,7 +557,7 @@
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "weaponpic",
-            "RecipeName": "MAR10",
+            "RecipeName": "M98B",
             "CraftComponents": [
               {
                 "Classname": "IMP_HK417",
@@ -399,12 +700,6 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_nuts",
-                "Amount": 100,
-                "Destroy": 100,
-                "Changehealth": 0
-              },
-              {
                 "Classname": "RIP_Plastik",
                 "Amount": 100,
                 "Destroy": 100,
@@ -433,6 +728,12 @@
             "CraftComponents": [
               {
                 "Classname": "FAMAS",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Pipe",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -477,7 +778,7 @@
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "weaponpic",
-            "RecipeName": "FAL",
+            "RecipeName": "LAR",
             "CraftComponents": [
               {
                 "Classname": "IMP_VHS2",
@@ -573,8 +874,8 @@
               },
               {
                 "Classname": "HP_Pipe",
-                "Amount": 1,
-                "Destroy": 1,
+                "Amount": 2,
+                "Destroy": 2,
                 "Changehealth": 0
               },
               {
@@ -718,7 +1019,7 @@
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "weaponpic",
-            "RecipeName": "M14",
+            "RecipeName": "M24",
             "CraftComponents": [
               {
                 "Classname": "Winchester70",
@@ -728,6 +1029,12 @@
               },
               {
                 "Classname": "Wrench",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Pipe",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -766,7 +1073,7 @@
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "weaponpic",
-            "RecipeName": "TIMBERWOLF",
+            "RecipeName": "AWM",
             "CraftComponents": [
               {
                 "Classname": "IMP_M24_SWS",
@@ -840,7 +1147,7 @@
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "weaponpic",
-            "RecipeName": "SCWS_DT408",
+            "RecipeName": "M300",
             "CraftComponents": [
               {
                 "Classname": "IMP_AWM",
@@ -922,7 +1229,7 @@
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "weaponpic",
-            "RecipeName": "M200",
+            "RecipeName": "Alligator",
             "CraftComponents": [
               {
                 "Classname": "IMP_M300New",
@@ -993,7 +1300,7 @@
         "CategoryName": "Електрика",
         "CraftItems": [
           {
-            "Result": "NVGoggles",
+            "Result": "mmg_gp_nvg_black",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "voltagepic",
@@ -1006,9 +1313,21 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_FPVcam",
-                "Amount": 2,
-                "Destroy": 2,
+                "Classname": "RIP_SmallLaser",
+                "Amount": 4,
+                "Destroy": 4,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_microFPVcam",
+                "Amount": 4,
+                "Destroy": 4,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_SMDbox",
+                "Amount": 750,
+                "Destroy": 750,
                 "Changehealth": 0
               },
               {
@@ -1019,8 +1338,8 @@
               },
               {
                 "Classname": "ElectronicRepairKit",
-                "Amount": 200,
-                "Destroy": 200,
+                "Amount": 500,
+                "Destroy": 500,
                 "Changehealth": 0
               },
               {
@@ -1037,8 +1356,8 @@
               },
               {
                 "Classname": "RIP_sovCap",
-                "Amount": 25,
-                "Destroy": 25,
+                "Amount": 50,
+                "Destroy": 50,
                 "Changehealth": 0
               }
             ],
@@ -1143,7 +1462,7 @@
             ]
           },
           {
-            "Result": "bl_solar_panel_Kit",
+            "Result": "rag_baseitems_solarpanel_kit",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "voltagepic",
@@ -1289,8 +1608,8 @@
               },
               {
                 "Classname": "SmallGasCanister",
-                "Amount": 60,
-                "Destroy": 60,
+                "Amount": 40,
+                "Destroy": 40,
                 "Changehealth": 0
               }
             ],
@@ -1339,8 +1658,8 @@
               },
               {
                 "Classname": "MediumGasCanister",
-                "Amount": 60,
-                "Destroy": 60,
+                "Amount": 40,
+                "Destroy": 40,
                 "Changehealth": 0
               },
               {
@@ -1408,8 +1727,8 @@
               },
               {
                 "Classname": "MediumGasCanister",
-                "Amount": 80,
-                "Destroy": 80,
+                "Amount": 60,
+                "Destroy": 60,
                 "Changehealth": 0
               },
               {
@@ -1789,8 +2108,8 @@
               },
               {
                 "Classname": "SmallGasCanister",
-                "Amount": 100,
-                "Destroy": 100,
+                "Amount": 50,
+                "Destroy": 50,
                 "Changehealth": 0
               }
             ],
@@ -1844,8 +2163,8 @@
               },
               {
                 "Classname": "MediumGasCanister",
-                "Amount": 80,
-                "Destroy": 80,
+                "Amount": 60,
+                "Destroy": 60,
                 "Changehealth": 0
               }
             ],
@@ -2243,8 +2562,8 @@
               },
               {
                 "Classname": "SmallGasCanister",
-                "Amount": 60,
-                "Destroy": 60,
+                "Amount": 50,
+                "Destroy": 50,
                 "Changehealth": 0
               },
               {
@@ -2327,8 +2646,8 @@
               },
               {
                 "Classname": "MediumGasCanister",
-                "Amount": 80,
-                "Destroy": 80,
+                "Amount": 50,
+                "Destroy": 50,
                 "Changehealth": 0
               },
               {
@@ -2484,7 +2803,7 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_AP",
+                "Classname": "RIP_AP2",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -2550,7 +2869,7 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_AP2",
+                "Classname": "RIP_AP3",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -2617,7 +2936,7 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_AP3",
+                "Classname": "RIP_AP4",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -2696,7 +3015,7 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_AP",
+                "Classname": "RIP_AP2",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -2762,7 +3081,7 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_AP2",
+                "Classname": "RIP_AP3",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -2804,7 +3123,7 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "DuctTape",
+                "Classname": "TireRepairKit",
                 "Amount": 500,
                 "Destroy": 500,
                 "Changehealth": 0
@@ -2829,7 +3148,7 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_AP3",
+                "Classname": "RIP_AP4",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -2878,8 +3197,8 @@
               },
               {
                 "Classname": "TireRepairKit",
-                "Amount": 300,
-                "Destroy": 300,
+                "Amount": 500,
+                "Destroy": 500,
                 "Changehealth": 0
               }
             ],
@@ -2898,7 +3217,7 @@
             "Result": "SSM_Seva_Jacket",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
-            "CraftType": "craftpic",
+            "CraftType": "sewingkitpicImg",
             "RecipeName": "Куртка Хімера",
             "CraftComponents": [
               {
@@ -2949,7 +3268,7 @@
             "Result": "SSM_Seva_Pants",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
-            "CraftType": "craftpic",
+            "CraftType": "sewingkitpicImg",
             "RecipeName": "Штани Хімера",
             "CraftComponents": [
               {
@@ -3000,7 +3319,7 @@
             "Result": "SSM_Seva_GasBack_Full",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
-            "CraftType": "craftpic",
+            "CraftType": "sewingkitpicImg",
             "RecipeName": "Газова маска Хімера",
             "CraftComponents": [
               {
@@ -3063,7 +3382,7 @@
             "Result": "SSM_Seva_Gloves",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
-            "CraftType": "craftpic",
+            "CraftType": "sewingkitpicImg",
             "RecipeName": "Рукавиці Хімера",
             "CraftComponents": [
               {
@@ -3120,7 +3439,7 @@
             "Result": "SSM_Seva_Boots",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
-            "CraftType": "craftpic",
+            "CraftType": "sewingkitpicImg",
             "RecipeName": "Взуття Хімера",
             "CraftComponents": [
               {
