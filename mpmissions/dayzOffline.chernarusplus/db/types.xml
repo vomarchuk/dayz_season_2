@@ -15480,7 +15480,7 @@
         <value name="Tier4" />
     </type>
     <type name="Pipe">
-        <nominal>20</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>10</min>

@@ -21,16 +21,16 @@
     "DefaultItemRarity": 2,
     "ItemRarityParentSearch": 0,
     "EntityReputation": {
-        "Animal_GallusGallusDomesticus": 1,
-        "Animal_UrsusArctos": 50,
-        "ZombieBase": 10,
-        "Animal_UrsusMaritimus": 50,
-        "ZmbM_NBC_Yellow": 20,
-        "eAIBase": 100,
-        "AnimalBase": 10,
-        "ZmbM_SoldierNormal_Base": 20,
+        "Animal_GallusGallusDomesticus": 0,
+        "Animal_UrsusArctos": 5,
+        "ZombieBase": 0,
+        "Animal_UrsusMaritimus": 5,
+        "ZmbM_NBC_Yellow": 0,
+        "eAIBase": 3,
+        "AnimalBase": 0,
+        "ZmbM_SoldierNormal_Base": 1,
         "ZmbM_NBC_Grey": 20,
-        "PlayerBase": 100
+        "PlayerBase": 0
     },
     "ItemRarity": {
         "aviatorglasses": 3,
