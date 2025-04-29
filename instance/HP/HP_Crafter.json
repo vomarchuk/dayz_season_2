@@ -33,6 +33,12 @@
             "RecipeName": "Глушник серії М",
             "CraftComponents": [
               {
+                "Classname": "RIP_Rustymetal",
+                "Amount": 5,
+                "Destroy": 5,
+                "Changehealth": 0
+              },
+              {
                 "Classname": "Pipe",
                 "Amount": 1,
                 "Destroy": 1,
@@ -52,6 +58,12 @@
             "RecipeName": "Глушник серії АК",
             "CraftComponents": [
               {
+                "Classname": "RIP_Rustymetal",
+                "Amount": 5,
+                "Destroy": 5,
+                "Changehealth": 0
+              },
+              {
                 "Classname": "Pipe",
                 "Amount": 1,
                 "Destroy": 1,
@@ -61,274 +73,6 @@
             "AttachmentsNeed": [
               "Hacksaw",
               "PipeWrench"
-            ]
-          }
-        ]
-      },
-      {
-        "CategoryName": "Модові Глушники",
-        "CraftItems": [
-          {
-            "Result": "SCWS_9mm_Suppressor",
-            "ResultCount": 1,
-            "ComponentsDontAffectHealth": 1,
-            "CraftType": "oltagepic",
-            "RecipeName": "Глушник 9mm",
-            "CraftComponents": [
-              {
-                "Classname": "PistolSuppressor",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_WD40S",
-                "Amount": 20,
-                "Destroy": 20,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_CuttingDisc",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_Carbon",
-                "Amount": 2,
-                "Destroy": 2,
-                "Changehealth": 0
-              }
-            ],
-            "AttachmentsNeed": [
-              "PipeWrench",
-              "HP_Grinde",
-              "HP_Vise"
-            ]
-          },
-          {
-            "Result": "SCWS_Uni_Suppressor_Black",
-            "ResultCount": 1,
-            "ComponentsDontAffectHealth": 1,
-            "CraftType": "oltagepic",
-            "RecipeName": "Універсальний глушник",
-            "CraftComponents": [
-              {
-                "Classname": "M4_Suppressor",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_WD40S",
-                "Amount": 20,
-                "Destroy": 20,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_CuttingDisc",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_Carbon",
-                "Amount": 2,
-                "Destroy": 2,
-                "Changehealth": 0
-              }
-            ],
-            "AttachmentsNeed": [
-              "PipeWrench",
-              "HP_Grinde",
-              "HP_Vise"
-            ]
-          },
-          {
-            "Result": "SCWS_Uni_Suppressor_Black",
-            "ResultCount": 1,
-            "ComponentsDontAffectHealth": 1,
-            "CraftType": "oltagepic",
-            "RecipeName": "Універсальний глушник",
-            "CraftComponents": [
-              {
-                "Classname": "AK_Suppressor",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_WD40S",
-                "Amount": 20,
-                "Destroy": 20,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_CuttingDisc",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_Carbon",
-                "Amount": 2,
-                "Destroy": 2,
-                "Changehealth": 0
-              }
-            ],
-            "AttachmentsNeed": [
-              "PipeWrench",
-              "HP_Grinde",
-              "HP_Vise"
-            ]
-          },
-          {
-            "Result": "SCWS_Suppressor_Legion",
-            "ResultCount": 1,
-            "ComponentsDontAffectHealth": 1,
-            "CraftType": "oltagepic",
-            "RecipeName": "Глушник на 338 калібр",
-            "CraftComponents": [
-              {
-                "Classname": "SCWS_Uni_Suppressor_Black",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_WD40",
-                "Amount": 70,
-                "Destroy": 70,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_SandpaperS",
-                "Amount": 75,
-                "Destroy": 75,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_CuttingDisc",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "KIWI_WeaponCleaningKit",
-                "Amount": 200,
-                "Destroy": 200,
-                "Changehealth": 0
-              }
-            ],
-            "AttachmentsNeed": [
-              "PipeWrench",
-              "HP_Grinde",
-              "HP_Drill",
-              "HP_Vise"
-            ]
-          },
-          {
-            "Result": "SCWS_408_Suppressor",
-            "ResultCount": 1,
-            "ComponentsDontAffectHealth": 1,
-            "CraftType": "oltagepic",
-            "RecipeName": "Глушник на 408 калібр",
-            "CraftComponents": [
-              {
-                "Classname": "SCWS_Suppressor_Legion",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_WeaponCleaningSpray_2",
-                "Amount": 50,
-                "Destroy": 50,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_OilPlastic",
-                "Amount": 40,
-                "Destroy": 40,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_CuttingDisc",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_Sandpaper",
-                "Amount": 250,
-                "Destroy": 250,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "KIWI_WeaponCleaningKit",
-                "Amount": 600,
-                "Destroy": 600,
-                "Changehealth": 0
-              }
-            ],
-            "AttachmentsNeed": [
-              "PipeWrench",
-              "HP_Grinde",
-              "HP_Drill",
-              "HP_Vise",
-              "HP_Oiler"
-            ]
-          },
-          {
-            "Result": "SCWS_50_Suppressor",
-            "ResultCount": 1,
-            "ComponentsDontAffectHealth": 1,
-            "CraftType": "oltagepic",
-            "RecipeName": "Глушник на 50 калібр",
-            "CraftComponents": [
-              {
-                "Classname": "SCWS_Suppressor_Legion",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "HP_Pipe",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_WeaponCleaningSpray",
-                "Amount": 80,
-                "Destroy": 80,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_CuttingDisc",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_OilPlastic",
-                "Amount": 60,
-                "Destroy": 60,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_SharpeningKit",
-                "Amount": 500,
-                "Destroy": 500,
-                "Changehealth": 0
-              }
-            ],
-            "AttachmentsNeed": [
-              "PipeWrench",
-              "HP_Grinde",
-              "HP_Drill",
-              "HP_Vise",
-              "HP_Oiler"
             ]
           }
         ]
@@ -383,173 +127,14 @@
         ]
       },
       {
-        "CategoryName": "Подвійні магазини",
-        "CraftItems": [
-          {
-            "Result": "SCWS_MP7A1_DualMagazine",
-            "ResultCount": 1,
-            "ComponentsDontAffectHealth": 1,
-            "CraftType": "oltagepic",
-            "RecipeName": "Подвійні магазин для MP7A1",
-            "CraftComponents": [
-              {
-                "Classname": "SCWS_MP7A1_Magazine",
-                "Amount": 2,
-                "Destroy": 2,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_insulatingtape",
-                "Amount": 70,
-                "Destroy": 70,
-                "Changehealth": 0
-              }
-            ],
-            "AttachmentsNeed": []
-          },
-          {
-            "Result": "SCWS_MCX_DualMagazine",
-            "ResultCount": 1,
-            "ComponentsDontAffectHealth": 1,
-            "CraftType": "oltagepic",
-            "RecipeName": "Подвійні магазин для MCX",
-            "CraftComponents": [
-              {
-                "Classname": "SCWS_MCX_Magazine",
-                "Amount": 2,
-                "Destroy": 2,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_insulatingtape",
-                "Amount": 70,
-                "Destroy": 70,
-                "Changehealth": 0
-              }
-            ],
-            "AttachmentsNeed": []
-          },
-          {
-            "Result": "SCWS_AAC_DualMagazine",
-            "ResultCount": 1,
-            "ComponentsDontAffectHealth": 1,
-            "CraftType": "oltagepic",
-            "RecipeName": "Подвійні магазин для AAC",
-            "CraftComponents": [
-              {
-                "Classname": "SCWS_AAC_Magazine",
-                "Amount": 2,
-                "Destroy": 2,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_insulatingtape",
-                "Amount": 70,
-                "Destroy": 70,
-                "Changehealth": 0
-              }
-            ],
-            "AttachmentsNeed": []
-          },
-          {
-            "Result": "SCWS_APC9_DualMagazine",
-            "ResultCount": 1,
-            "ComponentsDontAffectHealth": 1,
-            "CraftType": "oltagepic",
-            "RecipeName": "Подвійні магазин для APC9",
-            "CraftComponents": [
-              {
-                "Classname": "SCWS_APC9_Magazine",
-                "Amount": 2,
-                "Destroy": 2,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_insulatingtape",
-                "Amount": 70,
-                "Destroy": 70,
-                "Changehealth": 0
-              }
-            ],
-            "AttachmentsNeed": []
-          },
-          {
-            "Result": "SCWS_AK47G_DualMagazine",
-            "ResultCount": 1,
-            "ComponentsDontAffectHealth": 1,
-            "CraftType": "oltagepic",
-            "RecipeName": "Подвійні магазин для AK47G",
-            "CraftComponents": [
-              {
-                "Classname": "SCWS_AK47G_Magazine",
-                "Amount": 2,
-                "Destroy": 2,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_insulatingtape",
-                "Amount": 70,
-                "Destroy": 70,
-                "Changehealth": 0
-              }
-            ],
-            "AttachmentsNeed": []
-          },
-          {
-            "Result": "SCWS_CZ_Dual_Magazine",
-            "ResultCount": 1,
-            "ComponentsDontAffectHealth": 1,
-            "CraftType": "oltagepic",
-            "RecipeName": "Подвійні магазин для Scorpion",
-            "CraftComponents": [
-              {
-                "Classname": "SCWS_CZ_Magazine",
-                "Amount": 2,
-                "Destroy": 2,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_insulatingtape",
-                "Amount": 70,
-                "Destroy": 70,
-                "Changehealth": 0
-              }
-            ],
-            "AttachmentsNeed": []
-          },
-          {
-            "Result": "SCWS_SCARH_DualMagazine",
-            "ResultCount": 1,
-            "ComponentsDontAffectHealth": 1,
-            "CraftType": "oltagepic",
-            "RecipeName": "Подвійні магазин для SCARH",
-            "CraftComponents": [
-              {
-                "Classname": "SCWS_SCARH_Magazine",
-                "Amount": 2,
-                "Destroy": 2,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_insulatingtape",
-                "Amount": 70,
-                "Destroy": 70,
-                "Changehealth": 0
-              }
-            ],
-            "AttachmentsNeed": []
-          }
-        ]
-      },
-      {
         "CategoryName": "Лінійка крафту M82A1",
         "CraftItems": [
           {
-            "Result": "SCWS_MK18",
+            "Result": "IMP_AR15",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "weaponpic",
-            "RecipeName": "MK18",
+            "RecipeName": "AR15",
             "CraftComponents": [
               {
                 "Classname": "M4A1",
@@ -582,13 +167,7 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_bolts",
-                "Amount": 10,
-                "Destroy": 10,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_nuts",
+                "Classname": "RIP_Rustymetal",
                 "Amount": 10,
                 "Destroy": 10,
                 "Changehealth": 0
@@ -599,14 +178,14 @@
             ]
           },
           {
-            "Result": "SCWS_AR10",
+            "Result": "IMP_HK417",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "weaponpic",
-            "RecipeName": "AR10",
+            "RecipeName": "HK417",
             "CraftComponents": [
               {
-                "Classname": "SCWS_MK18",
+                "Classname": "IMP_AR15",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -655,18 +234,12 @@
               },
               {
                 "Classname": "RIP_rivets",
-                "Amount": 50,
-                "Destroy": 50,
+                "Amount": 30,
+                "Destroy": 30,
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_bolts",
-                "Amount": 25,
-                "Destroy": 25,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_nuts",
+                "Classname": "RIP_Rustymetal",
                 "Amount": 25,
                 "Destroy": 25,
                 "Changehealth": 0
@@ -679,14 +252,14 @@
             ]
           },
           {
-            "Result": "SCWS_SPEAR",
+            "Result": "IMP_M98B",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "weaponpic",
-            "RecipeName": "SPEAR",
+            "RecipeName": "MAR10",
             "CraftComponents": [
               {
-                "Classname": "SCWS_AR10",
+                "Classname": "IMP_HK417",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -735,24 +308,12 @@
               },
               {
                 "Classname": "RIP_rivets",
-                "Amount": 25,
-                "Destroy": 25,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_rivets2",
-                "Amount": 25,
-                "Destroy": 25,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_bolts",
                 "Amount": 50,
                 "Destroy": 50,
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_nuts",
+                "Classname": "RIP_Rustymetal",
                 "Amount": 50,
                 "Destroy": 50,
                 "Changehealth": 0
@@ -771,14 +332,14 @@
             ]
           },
           {
-            "Result": "SCWS_M82A1",
+            "Result": "IMP_M82A1",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "weaponpic",
             "RecipeName": "M82A1",
             "CraftComponents": [
               {
-                "Classname": "SCWS_SPEAR",
+                "Classname": "IMP_M98B",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -826,13 +387,13 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_rivets2",
+                "Classname": "RIP_rivets",
                 "Amount": 75,
                 "Destroy": 75,
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_bolts",
+                "Classname": "RIP_Rustymetal",
                 "Amount": 100,
                 "Destroy": 100,
                 "Changehealth": 0
@@ -864,11 +425,11 @@
         "CategoryName": "Лінійка крафту LYNX",
         "CraftItems": [
           {
-            "Result": "SCWS_MDR",
+            "Result": "IMP_VHS2",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "weaponpic",
-            "RecipeName": "MDR",
+            "RecipeName": "VHS2",
             "CraftComponents": [
               {
                 "Classname": "FAMAS",
@@ -901,13 +462,7 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_bolts",
-                "Amount": 10,
-                "Destroy": 10,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_nuts",
+                "Classname": "RIP_Rustymetal",
                 "Amount": 10,
                 "Destroy": 10,
                 "Changehealth": 0
@@ -918,14 +473,14 @@
             ]
           },
           {
-            "Result": "SCWS_SCARH",
+            "Result": "IMP_FAL",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "weaponpic",
-            "RecipeName": "SCARH",
+            "RecipeName": "FAL",
             "CraftComponents": [
               {
-                "Classname": "SCWS_MDR",
+                "Classname": "IMP_VHS2",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -979,13 +534,7 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_bolts",
-                "Amount": 25,
-                "Destroy": 25,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_nuts",
+                "Classname": "RIP_Rustymetal",
                 "Amount": 25,
                 "Destroy": 25,
                 "Changehealth": 0
@@ -998,14 +547,14 @@
             ]
           },
           {
-            "Result": "Aug",
+            "Result": "IMP_MAR10",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "weaponpic",
-            "RecipeName": "Aug 338",
+            "RecipeName": "MAR10",
             "CraftComponents": [
               {
-                "Classname": "SCWS_SCARH",
+                "Classname": "IMP_FAL",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -1054,24 +603,12 @@
               },
               {
                 "Classname": "RIP_rivets",
-                "Amount": 25,
-                "Destroy": 25,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_rivets2",
-                "Amount": 25,
-                "Destroy": 25,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_bolts",
                 "Amount": 50,
                 "Destroy": 50,
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_nuts",
+                "Classname": "RIP_Rustymetal",
                 "Amount": 50,
                 "Destroy": 50,
                 "Changehealth": 0
@@ -1090,14 +627,14 @@
             ]
           },
           {
-            "Result": "SCWS_GM6LYNX",
+            "Result": "IMP_W_GM6Lynx",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "weaponpic",
             "RecipeName": "GM6LYNX",
             "CraftComponents": [
               {
-                "Classname": "Aug",
+                "Classname": "IMP_MAR10",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -1145,19 +682,13 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_rivets2",
+                "Classname": "RIP_rivets",
                 "Amount": 75,
                 "Destroy": 75,
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_bolts",
-                "Amount": 100,
-                "Destroy": 100,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_nuts",
+                "Classname": "RIP_Rustymetal",
                 "Amount": 100,
                 "Destroy": 100,
                 "Changehealth": 0
@@ -1220,13 +751,7 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_bolts",
-                "Amount": 10,
-                "Destroy": 10,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_nuts",
+                "Classname": "RIP_Rustymetal",
                 "Amount": 10,
                 "Destroy": 10,
                 "Changehealth": 0
@@ -1298,13 +823,7 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_bolts",
-                "Amount": 25,
-                "Destroy": 25,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_nuts",
+                "Classname": "RIP_Rustymetal",
                 "Amount": 25,
                 "Destroy": 25,
                 "Changehealth": 0
@@ -1372,19 +891,13 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_rivets2",
+                "Classname": "RIP_rivets",
                 "Amount": 75,
                 "Destroy": 75,
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_bolts",
-                "Amount": 100,
-                "Destroy": 100,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_nuts",
+                "Classname": "RIP_Rustymetal",
                 "Amount": 100,
                 "Destroy": 100,
                 "Changehealth": 0
@@ -1460,19 +973,13 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_rivets2",
+                "Classname": "RIP_rivets",
                 "Amount": 75,
                 "Destroy": 75,
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_bolts",
-                "Amount": 100,
-                "Destroy": 100,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_nuts",
+                "Classname": "RIP_Rustymetal",
                 "Amount": 100,
                 "Destroy": 100,
                 "Changehealth": 0
@@ -1720,12 +1227,6 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "HP_napilnik",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
                 "Classname": "Pliers",
                 "Amount": 1,
                 "Destroy": 1,
@@ -1751,7 +1252,8 @@
               }
             ],
             "AttachmentsNeed": [
-              "HP_Vise"
+              "HP_Vise",
+              "HP_napilnik"
             ]
           },
           {
@@ -1765,12 +1267,6 @@
                 "Classname": "Custom_ProtectorCase_25",
                 "Amount": 2,
                 "Destroy": 2,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "HP_napilnik",
-                "Amount": 1,
-                "Destroy": 1,
                 "Changehealth": 0
               },
               {
@@ -1812,7 +1308,8 @@
             ],
             "AttachmentsNeed": [
               "HP_Vise",
-              "HP_Drill"
+              "HP_Drill",
+              "HP_napilnik"
             ]
           },
           {
@@ -1868,7 +1365,8 @@
             "AttachmentsNeed": [
               "HP_Vise",
               "HP_Drill",
-              "HP_Grinde"
+              "HP_Grinde",
+              "HP_napilnik"
             ]
           },
           {
@@ -1936,7 +1434,8 @@
             "AttachmentsNeed": [
               "HP_Vise",
               "HP_Drill",
-              "HP_Grinde"
+              "HP_Grinde",
+              "HP_napilnik"
             ]
           },
           {
@@ -1993,7 +1492,8 @@
               "HP_Vise",
               "HP_Drill",
               "HP_Grinde",
-              "HP_Anvil"
+              "HP_Anvil",
+              "HP_napilnik"
             ]
           },
           {
@@ -2057,7 +1557,8 @@
               "HP_Drill",
               "HP_Grinde",
               "HP_Anvil",
-              "HP_Payalnik"
+              "HP_Payalnik",
+              "HP_napilnik"
             ]
           }
         ]
@@ -2168,8 +1669,8 @@
               },
               {
                 "Classname": "Fabric",
-                "Amount": 10,
-                "Destroy": 10,
+                "Amount": 15,
+                "Destroy": 15,
                 "Changehealth": 0
               },
               {
@@ -2429,7 +1930,7 @@
         "CategoryName": "Бронежилети",
         "CraftItems": [
           {
-            "Result": "KIWI_VEST_V1",
+            "Result": "MMG_JPC_Vest_black",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "craftpic",
@@ -2495,14 +1996,14 @@
             ]
           },
           {
-            "Result": "KIWI_VEST_V2",
+            "Result": "MMG_tt_Vest_black",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "craftpic",
             "RecipeName": "Бронежилет 2 класу",
             "CraftComponents": [
               {
-                "Classname": "KIWI_VEST_V1",
+                "Classname": "MMG_JPC_Vest_black",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -2562,14 +2063,14 @@
             ]
           },
           {
-            "Result": "KIWI_VEST_V3",
+            "Result": "MMG_MK_III_Armor_black",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "craftpic",
             "RecipeName": "Бронежилет 3 класу",
             "CraftComponents": [
               {
-                "Classname": "KIWI_VEST_V2",
+                "Classname": "MMG_tt_Vest_black",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -2617,7 +2118,7 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_rivets2",
+                "Classname": "RIP_rivets",
                 "Amount": 30,
                 "Destroy": 30,
                 "Changehealth": 0
@@ -2636,14 +2137,14 @@
             ]
           },
           {
-            "Result": "KIWI_VEST_V4",
+            "Result": "MMG_MK_V_Armor_black",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "craftpic",
             "RecipeName": "Бронежилет 4 класу",
             "CraftComponents": [
               {
-                "Classname": "KIWI_VEST_V3",
+                "Classname": "MMG_MK_III_Armor_black",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -2691,7 +2192,7 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_rivets2",
+                "Classname": "RIP_rivets",
                 "Amount": 50,
                 "Destroy": 50,
                 "Changehealth": 0
@@ -3170,7 +2671,7 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_rivets2",
+                "Classname": "RIP_rivets",
                 "Amount": 30,
                 "Destroy": 30,
                 "Changehealth": 0
@@ -3382,7 +2883,7 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_rivets2",
+                "Classname": "RIP_rivets",
                 "Amount": 30,
                 "Destroy": 30,
                 "Changehealth": 0
