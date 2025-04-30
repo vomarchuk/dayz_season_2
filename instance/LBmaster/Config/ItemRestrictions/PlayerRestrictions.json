@@ -5,13 +5,15 @@
         {
             "displayName": "Sleeping Bags",
             "kitItemNames": [
-                "LBS_SleepingPacked_Base"
+                "LBS_SleepingPacked_Base",
+                "TerjeSleepingBag_Blue",
+                "TerjeSleepingBag_Woodland"
             ],
             "countItemNames": [
                 "LBS_SleepingBag_Base"
             ],
             "limits": [
-                5
+                1
             ],
             "isAttachment": 0,
             "showOnMap": 1,

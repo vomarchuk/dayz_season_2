@@ -4,8 +4,9 @@
     "showMapInRestrictionMenu": 1,
     "showPlayerPositionInRestrictionMenu": 1,
     "canSeePlacedItemsMarkersOnPanelMap": 1,
-    "useMemberCountAsGroupLevel": 0,
+    "useMemberCountAsGroupLevel": 1,
     "disabledCraftingRecipes": [
-        "CraftWoodenCrate"
+        "CraftWoodenCrate",
+        "CraftRaG_BB_PillarKit"
     ]
 }

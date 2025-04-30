@@ -3,37 +3,54 @@
     "enabled": 1,
     "restrictions": [
         {
-            "displayName": "Walls",
+            "displayName": "Стіни та вікна",
             "kitItemNames": [
-                "FenceKit"
+                "FenceKit",
+                "RaG_BB_WallKit",
+                "RaG_BB_DoorKit",
+                "RaG_BB_Low_WallKit",
+                "RaG_BB_WindowKit",
+                "RaG_BB_Window_SmallKit"
             ],
             "countItemNames": [
-                "Fence"
+                "Fence",
+                "RaG_BB_Wall",
+                "RaG_BB_Wall_Hologram",
+                "RaG_BB_Door",
+                "RaG_BB_Door_Hologram",
+                "RaG_BB_Low_Wall",
+                "RaG_BB_Low_Wall_Hologram",
+                "RaG_BB_Window",
+                "RaG_BB_Window_Hologram",
+                "RaG_BB_Window_Small",
+                "RaG_BB_Window_Small_Hologram"
             ],
             "limits": [
-                20
+                24
             ],
             "isAttachment": 0,
-            "showOnMap": 1,
-            "show3D": 1
+            "showOnMap": 0,
+            "show3D": 0
         },
         {
-            "displayName": "Tents",
+            "displayName": "Палатки",
             "kitItemNames": [
-                "TentBase"
+                "TentBase",
+                "rag_baseitems_celtic_shelter_kit"
             ],
             "countItemNames": [
                 "TentBase",
                 "MediumTent",
                 "LargeTent",
-                "CarTent"
+                "CarTent",
+                "rag_baseitems_celtic_shelter"
             ],
             "limits": [
-                5
+                3
             ],
             "isAttachment": 0,
             "showOnMap": 1,
-            "show3D": 1
+            "show3D": 0
         },
         {
             "displayName": "Code Locks",
@@ -49,6 +66,900 @@
             "isAttachment": 1,
             "showOnMap": 1,
             "show3D": 1
+        },
+        {
+            "displayName": "Фундаменти",
+            "kitItemNames": [
+                "RaG_BB_FoundationKit"
+            ],
+            "countItemNames": [
+                "RaG_BB_Foundation_Hologram",
+                "RaG_BB_Foundation"
+            ],
+            "limits": [
+                9
+            ],
+            "isAttachment": 0,
+            "showOnMap": 1,
+            "show3D": 1
+        },
+        {
+            "displayName": "Підлога та стеля",
+            "kitItemNames": [
+                "RaG_BB_FloorKit",
+                "RaG_BB_CeilingKit",
+                "RaG_BB_Floor_HatchKit"
+            ],
+            "countItemNames": [
+                "RaG_BB_Floor_Hologram",
+                "RaG_BB_Floor",
+                "RaG_BB_Ceiling_Hologram",
+                "RaG_BB_Ceiling",
+                "RaG_BB_Floor_Hatch",
+                "RaG_BB_Floor_Hatch_Hologram",
+                "RaG_BB_Floor_Hatch_Hologram_Helper"
+            ],
+            "limits": [
+                12
+            ],
+            "isAttachment": 0,
+            "showOnMap": 1,
+            "show3D": 1
+        },
+        {
+            "displayName": "Сходи",
+            "kitItemNames": [
+                "RaG_BB_StaircaseKit",
+                "RaG_BB_Staircase_2Kit",
+                "RaG_BB_StairsKit",
+                "RaG_BB_StepLadderKit",
+                "RaG_BB_RampKit"
+            ],
+            "countItemNames": [
+                "RaG_BB_Staircase",
+                "RaG_BB_Staircase_2",
+                "RaG_BB_Staircase_2_Hologram",
+                "RaG_BB_Staircase_Hologram",
+                "RaG_BB_Stairs",
+                "RaG_BB_Stairs_Hologram",
+                "RaG_BB_StepLadder",
+                "RaG_BB_Ramp",
+                "RaG_BB_Ramp_Hologram"
+            ],
+            "limits": [
+                4
+            ],
+            "isAttachment": 0,
+            "showOnMap": 1,
+            "show3D": 1
+        },
+        {
+            "displayName": "Криша",
+            "kitItemNames": [
+                "RaG_BB_RoofKit"
+            ],
+            "countItemNames": [
+                "RaG_BB_Roof_Hologram",
+                "RaG_BB_Roof"
+            ],
+            "limits": [
+                9
+            ],
+            "isAttachment": 0,
+            "showOnMap": 1,
+            "show3D": 1
+        },
+        {
+            "displayName": "Ворота/Двері",
+            "kitItemNames": [
+                "RaG_BB_GateKit",
+                "RaG_BB_GateLeftKit",
+                "RaG_BB_GateRightKit",
+                "RaG_BB_Single_DoorKit"
+            ],
+            "countItemNames": [
+                "RaG_BB_Gate",
+                "RaG_BB_GateLeft",
+                "RaG_BB_GateLeft_Hologram",
+                "RaG_BB_GateRight",
+                "RaG_BB_GateRight_Hologram",
+                "RaG_BB_Gate_Hologram",
+                "RaG_BB_Single_Door",
+                "RaG_BB_Single_Door_Hologram"
+            ],
+            "limits": [
+                6
+            ],
+            "isAttachment": 0,
+            "showOnMap": 1,
+            "show3D": 1
+        },
+        {
+            "displayName": "Різне",
+            "kitItemNames": [
+                "RaG_BB_StepLadderKit",
+                "RaG_BB_WoodStorageKit",
+                "RaG_BB_PillarKit"
+            ],
+            "countItemNames": [
+                "RaG_BB_WoodStorage",
+                "RaG_BB_WoodStorage_Hologram",
+                "RaG_BB_StepLadder",
+                "RaG_BB_Pillar_Hologram",
+                "RaG_BB_Pillar"
+            ],
+            "limits": [
+                3
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Теплиці",
+            "kitItemNames": [
+                "rag_baseitems_greenhouse_big_kit",
+                "rag_baseitems_greenhouse_kit",
+                "GardenPlot",
+                "GardenPlotGreenhouse",
+                "GardenPlotPlacing",
+                "GardenPlotPolytunnel"
+            ],
+            "countItemNames": [
+                "rag_baseitems_greenhouse_big",
+                "rag_baseitems_greenhouse",
+                "GardenPlot",
+                "GardenPlotGreenhouse",
+                "GardenPlotPlacing",
+                "GardenPlotPolytunnel"
+            ],
+            "limits": [
+                2
+            ],
+            "isAttachment": 0,
+            "showOnMap": 1,
+            "show3D": 0
+        },
+        {
+            "displayName": "Маникени",
+            "kitItemNames": [
+                "rag_baseitems_manikin_kit"
+            ],
+            "countItemNames": [
+                "rag_baseitems_manikin"
+            ],
+            "limits": [
+                2
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Пічки/каміни",
+            "kitItemNames": [
+                "rag_baseitems_furnace_kit",
+                "rag_baseitems_smoker_kit",
+                "rag_baseitems_medieval_fireplace_kit",
+                "rag_baseitems_barrel_furnace_kit"
+            ],
+            "countItemNames": [
+                "rag_baseitems_furnace",
+                "rag_baseitems_smoker",
+                "rag_baseitems_medieval_fireplace",
+                "rag_baseitems_barrel_furnace"
+            ],
+            "limits": [
+                2
+            ],
+            "isAttachment": 0,
+            "showOnMap": 1,
+            "show3D": 1
+        },
+        {
+            "displayName": "Декор",
+            "kitItemNames": [
+                "rag_baseitems_roomdivider_beach_kit",
+                "rag_baseitems_roomdivider_dayz1_kit",
+                "rag_baseitems_roomdivider_dayz2_kit",
+                "rag_baseitems_roomdivider_japan_kit",
+                "rag_baseitems_roomdivider_morty_kit",
+                "rag_baseitems_roomdivider_rag_kit",
+                "rag_baseitems_roomdivider_sunset_kit",
+                "rag_baseitems_small_pool_blue_kit",
+                "rag_baseitems_small_pool_green_kit",
+                "rag_baseitems_small_pool_pink_kit",
+                "rag_baseitems_small_pool_rainbow_kit",
+                "rag_baseitems_small_pool_red_kit",
+                "rag_baseitems_small_pool_yellow_kit",
+                "rag_baseitems_warrior_kit",
+                "rag_baseitems_sofa_black_leather_kit",
+                "rag_baseitems_sofa_brown_leather_kit",
+                "rag_baseitems_sofa_kit",
+                "rag_baseitems_bed_kit",
+                "rag_baseitems_beach_umbrella_beige_kit",
+                "rag_baseitems_beach_umbrella_blue_kit",
+                "rag_baseitems_beach_umbrella_green_kit",
+                "rag_baseitems_beach_umbrella_multi_kit",
+                "rag_baseitems_improvised_bed_kit",
+                "rag_baseitems_gramophone_table_kit",
+                "rag_baseitems_odin_kit",
+                "rag_baseitems_totem_kit",
+                "rag_baseitems_globe_kit",
+                "rag_baseitems_grammophone_kit",
+                "rag_baseitems_table_lamp_round_kit",
+                "rag_baseitems_table_lamp_oval_kit",
+                "rag_baseitems_bookshelf_kit",
+                "rag_baseitems_beach_chair_kit",
+                "rag_baseitems_basket_kit",
+                "rag_baseitems_dinner_table_kit",
+                "rag_baseitems_dinner_table_chair_kit",
+                "rag_baseitems_side_table_white_kit",
+                "rag_baseitems_side_table_wood_kit",
+                "rag_baseitems_mask_head_kit",
+                "rag_baseitems_victorian_table_white_kit",
+                "rag_baseitems_victorian_table_wood_kit",
+                "rag_baseitems_tv_vintage_kit",
+                "rag_baseitems_tv_vintage_nolegs_kit",
+                "rag_baseitems_rag_head_kit",
+                "rag_baseitems_doorbell_kit",
+                "rag_baseitems_beer_barrel_kit",
+                "rag_baseitems_teddyshelf_kit",
+                "rag_baseitems_firewood_holder_kit",
+                "rag_baseitems_volleyball_net_kit"
+            ],
+            "countItemNames": [
+                "rag_baseitems_roomdivider_beach",
+                "rag_baseitems_roomdivider_dayz1",
+                "rag_baseitems_roomdivider_dayz2",
+                "rag_baseitems_roomdivider_japan",
+                "rag_baseitems_roomdivider_morty",
+                "rag_baseitems_roomdivider_rag",
+                "rag_baseitems_roomdivider_sunset",
+                "rag_baseitems_small_pool_blue",
+                "rag_baseitems_small_pool_green",
+                "rag_baseitems_small_pool_pink",
+                "rag_baseitems_small_pool_rainbow",
+                "rag_baseitems_small_pool_red",
+                "rag_baseitems_small_pool_yellow",
+                "rag_baseitems_warrior",
+                "rag_baseitems_sofa",
+                "rag_baseitems_sofa_black_leather",
+                "rag_baseitems_sofa_brown_leather",
+                "rag_baseitems_bed",
+                "rag_baseitems_beach_umbrella_beige",
+                "rag_baseitems_beach_umbrella_blue",
+                "rag_baseitems_beach_umbrella_green",
+                "rag_baseitems_beach_umbrella_multi",
+                "rag_baseitems_improvised_bed",
+                "rag_baseitems_gramophone_table",
+                "rag_baseitems_odin",
+                "rag_baseitems_totem",
+                "rag_baseitems_globe",
+                "rag_baseitems_grammophone",
+                "rag_baseitems_table_lamp_round",
+                "rag_baseitems_table_lamp_oval",
+                "rag_baseitems_bookshelf",
+                "rag_baseitems_beach_chair",
+                "rag_baseitems_basket",
+                "rag_baseitems_dinner_table",
+                "rag_baseitems_dinner_table",
+                "rag_baseitems_dinner_table_chair",
+                "rag_baseitems_side_table_white",
+                "rag_baseitems_side_table_wood",
+                "rag_baseitems_mask_head",
+                "rag_baseitems_victorian_table_white",
+                "rag_baseitems_victorian_table_wood",
+                "rag_baseitems_tv_vintage",
+                "rag_baseitems_tv_vintage_nolegs",
+                "rag_baseitems_rag_head",
+                "rag_baseitems_doorbell",
+                "rag_baseitems_beer_barrel",
+                "rag_baseitems_teddyshelf",
+                "rag_baseitems_firewood_holder",
+                "rag_baseitems_volleyball_net"
+            ],
+            "limits": [
+                20
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Освітлення",
+            "kitItemNames": [
+                "rag_baseitems_brazier_small_kit",
+                "rag_baseitems_brazier_kit",
+                "rag_baseitems_lantern_kit",
+                "rag_baseitems_lantern_wall_kit"
+            ],
+            "countItemNames": [
+                "rag_baseitems_brazier_small",
+                "rag_baseitems_brazier",
+                "rag_baseitems_lantern",
+                "rag_baseitems_lantern_wall"
+            ],
+            "limits": [
+                6
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Авто підйомник",
+            "kitItemNames": [
+                "rag_baseitems_carlift_kit"
+            ],
+            "countItemNames": [
+                "rag_baseitems_carlift"
+            ],
+            "limits": [
+                1
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Швейна машинка",
+            "kitItemNames": [
+                "rag_baseitems_sewing_machine_kit"
+            ],
+            "countItemNames": [
+                "rag_baseitems_sewing_machine"
+            ],
+            "limits": [
+                1
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Холодильники",
+            "kitItemNames": [
+                "rag_baseitems_retro_fridge_kit",
+                "rag_baseitems_jd_fridge_kit",
+                "rag_baseitems_fridge_twodoor_old_kit"
+            ],
+            "countItemNames": [
+                "rag_baseitems_retro_fridge",
+                "rag_baseitems_jd_fridge",
+                "rag_baseitems_fridge_twodoor_old"
+            ],
+            "limits": [
+                1
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Медичні ящики",
+            "kitItemNames": [
+                "rag_baseitems_firstaid_cabinet_big_kit",
+                "rag_baseitems_medic_box_kit",
+                "rag_baseitems_firstaid_cabinet_kit"
+            ],
+            "countItemNames": [
+                "rag_baseitems_firstaid_cabinet_big",
+                "rag_baseitems_medic_box",
+                "rag_baseitems_firstaid_cabinet"
+            ],
+            "limits": [
+                2
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Станок для чистки зброї",
+            "kitItemNames": [
+                "rag_baseitems_weapon_cleaner_kit"
+            ],
+            "countItemNames": [
+                "rag_baseitems_weapon_cleaner"
+            ],
+            "limits": [
+                1
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Стійка для бочок/ящиків",
+            "kitItemNames": [
+                "rag_baseitems_barrelshelf_kit",
+                "rag_baseitems_crateshelf_kit"
+            ],
+            "countItemNames": [
+                "rag_baseitems_barrelshelf",
+                "rag_baseitems_crateshelf"
+            ],
+            "limits": [
+                1
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Дерев комоди/стелажи",
+            "kitItemNames": [
+                "rag_baseitems_big_drawer_cabinet_darkwood_kit",
+                "rag_baseitems_big_drawer_cabinet_kit",
+                "rag_baseitems_woodenshelf_small_kit",
+                "rag_baseitems_woodenshelf_lightwood_big_kit",
+                "rag_baseitems_wardrobe_kit",
+                "rag_baseitems_bedside_table_kit",
+                "rag_baseitems_antique_dresser_kit",
+                "rag_baseitems_coffee_hutch_kit",
+                "rag_baseitems_woodenshelf_big_kit",
+                "rag_baseitems_gun_cabinet_kit"
+            ],
+            "countItemNames": [
+                "rag_baseitems_big_drawer_cabinet",
+                "rag_baseitems_big_drawer_cabinet_darkwood",
+                "rag_baseitems_woodenshelf_small",
+                "rag_baseitems_woodenshelf_lightwood_big",
+                "rag_baseitems_wardrobe",
+                "rag_baseitems_bedside_table",
+                "rag_baseitems_antique_dresser",
+                "rag_baseitems_coffee_hutch",
+                "rag_baseitems_woodenshelf_big",
+                "rag_baseitems_gun_cabinet"
+            ],
+            "limits": [
+                4
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Металеві шафи(локери)",
+            "kitItemNames": [
+                "rag_baseitems_triple_locker_black_kit",
+                "rag_baseitems_triple_locker_green_kit",
+                "rag_baseitems_triple_locker_kit",
+                "rag_baseitems_triple_locker_purple_kit",
+                "rag_baseitems_triple_locker_red_kit",
+                "rag_baseitems_triple_locker_yellow_kit",
+                "rag_baseitems_single_locker_black_kit",
+                "rag_baseitems_single_locker_green_kit",
+                "rag_baseitems_single_locker_kit",
+                "rag_baseitems_single_locker_purple_kit",
+                "rag_baseitems_single_locker_red_kit",
+                "rag_baseitems_single_locker_yellow_kit",
+                "rag_baseitems_military_locker_big_kit",
+                "rag_baseitems_mesh_locker_kit",
+                "rag_baseitems_military_locker_small_kit",
+                "rag_baseitems_gunrack_kit"
+            ],
+            "countItemNames": [
+                "rag_baseitems_triple_locker_black",
+                "rag_baseitems_triple_locker_green",
+                "rag_baseitems_triple_locker_purple",
+                "rag_baseitems_triple_locker_red",
+                "rag_baseitems_triple_locker_yellow",
+                "rag_baseitems_triple_locker",
+                "rag_baseitems_single_locker",
+                "rag_baseitems_single_locker_black",
+                "rag_baseitems_single_locker_green",
+                "rag_baseitems_single_locker_purple",
+                "rag_baseitems_single_locker_red",
+                "rag_baseitems_single_locker_yellow",
+                "rag_baseitems_military_locker_big",
+                "rag_baseitems_mesh_locker",
+                "rag_baseitems_military_locker_small",
+                "rag_baseitems_gunrack"
+            ],
+            "limits": [
+                3
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Полкі/стінки для зброї",
+            "kitItemNames": [
+                "rag_baseitems_pistol_cabinet_kit",
+                "rag_baseitems_gunwall_kit",
+                "rag_baseitems_gunwall_nostand_kit"
+            ],
+            "countItemNames": [
+                "rag_baseitems_pistol_cabinet",
+                "rag_baseitems_gunwall",
+                "rag_baseitems_gunwall_nostand"
+            ],
+            "limits": [
+                3
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Сейфи",
+            "kitItemNames": [
+                "rag_baseitems_big_safe_kit",
+                "rag_baseitems_medium_safe_kit",
+                "rag_baseitems_small_safe_kit",
+                "rag_baseitems_small_iron_safe_kit"
+            ],
+            "countItemNames": [
+                "rag_baseitems_big_safe",
+                "rag_baseitems_medium_safe",
+                "rag_baseitems_small_safe",
+                "rag_baseitems_small_iron_safe"
+            ],
+            "limits": [
+                3
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Вел військовий шкаф",
+            "kitItemNames": [
+                "rag_baseitems_military_locker_threedoor_kit"
+            ],
+            "countItemNames": [
+                "rag_baseitems_military_locker_threedoor"
+            ],
+            "limits": [
+                1
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Лоадер магазинів",
+            "kitItemNames": [
+                "rag_baseitems_magpump_kit"
+            ],
+            "countItemNames": [
+                "rag_baseitems_magpump"
+            ],
+            "limits": [
+                3
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Rag верстак",
+            "kitItemNames": [
+                "rag_baseitems_workbench_kit"
+            ],
+            "countItemNames": [
+                "rag_baseitems_workbench"
+            ],
+            "limits": [
+                1
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Стійки для досок/колод",
+            "kitItemNames": [
+                "rag_baseitems_log_holder_kit",
+                "rag_baseitems_plank_holder_kit"
+            ],
+            "countItemNames": [
+                "rag_baseitems_log_holder",
+                "rag_baseitems_plank_holder"
+            ],
+            "limits": [
+                2
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Ящики для інструментів",
+            "kitItemNames": [
+                "rag_baseitems_tools_drawer_kit",
+                "rag_baseitems_toolbench_kit"
+            ],
+            "countItemNames": [
+                "rag_baseitems_tools_drawer",
+                "rag_baseitems_toolbench"
+            ],
+            "limits": [
+                2
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Настільна пила",
+            "kitItemNames": [
+                "rag_baseitems_table_saw_kit"
+            ],
+            "countItemNames": [
+                "rag_baseitems_table_saw"
+            ],
+            "limits": [
+                1
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Ремонтна станція",
+            "kitItemNames": [
+                "rag_baseitems_repair_station_kit"
+            ],
+            "countItemNames": [
+                "rag_baseitems_repair_station"
+            ],
+            "limits": [
+                1
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Кавова машина",
+            "kitItemNames": [
+                "rag_baseitems_coffee_machine_kit"
+            ],
+            "countItemNames": [
+                "rag_baseitems_coffee_machine"
+            ],
+            "limits": [
+                1
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "С. панель",
+            "kitItemNames": [
+                "rag_baseitems_solarpanel_kit"
+            ],
+            "countItemNames": [
+                "rag_baseitems_solarpanel"
+            ],
+            "limits": [
+                2
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Ящики/полки для рослин",
+            "kitItemNames": [
+                "rag_baseitems_planterbox_low_kit",
+                "rag_baseitems_planterbox_high_kit",
+                "rag_baseitems_plant_rack_kit"
+            ],
+            "countItemNames": [
+                "rag_baseitems_planterbox_low",
+                "rag_baseitems_planterbox_high",
+                "rag_baseitems_plant_rack"
+            ],
+            "limits": [
+                3
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Смітники",
+            "kitItemNames": [
+                "rag_baseitems_trashcan_kit"
+            ],
+            "countItemNames": [
+                "rag_baseitems_trashcan"
+            ],
+            "limits": [
+                3
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Стелаж для їжї",
+            "kitItemNames": [
+                "rag_baseitems_food_dono_stand_kit"
+            ],
+            "countItemNames": [
+                "rag_baseitems_food_dono_stand"
+            ],
+            "limits": [
+                1
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Альтанка",
+            "kitItemNames": [
+                "rag_baseitems_gazebo_kit"
+            ],
+            "countItemNames": [
+                "rag_baseitems_gazebo"
+            ],
+            "limits": [
+                1
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Годинники",
+            "kitItemNames": [
+                "rag_baseitems_grandfathers_clock_kit",
+                "rag_baseitems_wall_clock_kit",
+                "rag_baseitems_antique_wall_clock_kit",
+                "rag_baseitems_cuckoo_clock_kit"
+            ],
+            "countItemNames": [
+                "rag_baseitems_grandfathers_clock",
+                "rag_baseitems_wall_clock",
+                "rag_baseitems_antique_wall_clock",
+                "rag_baseitems_cuckoo_clock"
+            ],
+            "limits": [
+                2
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Стійка для вудок",
+            "kitItemNames": [
+                "rag_baseitems_fishing_rod_rack_kit"
+            ],
+            "countItemNames": [
+                "rag_baseitems_fishing_rod_rack"
+            ],
+            "limits": [
+                1
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Млинек для кави",
+            "kitItemNames": [
+                "rag_baseitems_coffee_grinder_kit"
+            ],
+            "countItemNames": [
+                "rag_baseitems_coffee_grinder"
+            ],
+            "limits": [
+                1
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Морські/Дерев'яні ящики",
+            "kitItemNames": [
+                "SeaChest",
+                "ExpansionQuestSeaChest",
+                "KIWI_WoodenCrate_01",
+                "WoodenCrate"
+            ],
+            "countItemNames": [],
+            "limits": [
+                3
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Бочки",
+            "kitItemNames": [
+                "Barrel_Blue",
+                "Barrel_Green",
+                "Barrel_Red",
+                "Barrel_Yellow",
+                "KIWI_Barrel_01",
+                "KIWI_Barrel_02",
+                "KIWI_Barrel_03"
+            ],
+            "countItemNames": [],
+            "limits": [
+                9
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Зарядні",
+            "kitItemNames": [
+                "BatteryCharger"
+            ],
+            "countItemNames": [],
+            "limits": [
+                3
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Rag крафтові ящики",
+            "kitItemNames": [
+                "rag_baseitems_small_gun_box",
+                "rag_baseitems_small_gun_box",
+                "rag_baseitems_large_gun_box",
+                "rag_baseitems_large_gun_box_shotgun",
+                "rag_baseitems_wooden_ammo_box",
+                "rag_baseitems_wooden_ammo_box_rifle",
+                "rag_baseitems_wooden_ammo_box_shotgun",
+                "rag_baseitems_hand_grenade_box",
+                "rag_baseitems_large_slide_crate",
+                "rag_baseitems_military_crate_wood",
+                "rag_baseitems_wf_crate"
+            ],
+            "countItemNames": [
+                "rag_baseitems_small_gun_box",
+                "rag_baseitems_small_gun_box",
+                "rag_baseitems_large_gun_box",
+                "rag_baseitems_large_gun_box_shotgun",
+                "rag_baseitems_wooden_ammo_box",
+                "rag_baseitems_wooden_ammo_box_rifle",
+                "rag_baseitems_wooden_ammo_box_shotgun",
+                "rag_baseitems_hand_grenade_box",
+                "rag_baseitems_large_slide_crate",
+                "rag_baseitems_military_crate_wood",
+                "rag_baseitems_wf_crate"
+            ],
+            "limits": [
+                10
+            ],
+            "isAttachment": 1,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Rag ящики на набої",
+            "kitItemNames": [
+                "rag_baseitems_metal_ammo_box",
+                "rag_baseitems_metal_ammo_box_black",
+                "rag_baseitems_metal_ammo_box_green"
+            ],
+            "countItemNames": [
+                "rag_baseitems_metal_ammo_box",
+                "rag_baseitems_metal_ammo_box_black",
+                "rag_baseitems_metal_ammo_box_green"
+            ],
+            "limits": [
+                10
+            ],
+            "isAttachment": 1,
+            "showOnMap": 0,
+            "show3D": 0
         }
     ],
     "plotpoles": [
