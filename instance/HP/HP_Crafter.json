@@ -240,8 +240,8 @@
               },
               {
                 "Classname": "RIP_Rustymetal",
-                "Amount": 25,
-                "Destroy": 25,
+                "Amount": 30,
+                "Destroy": 30,
                 "Changehealth": 0
               }
             ],
@@ -272,6 +272,12 @@
               },
               {
                 "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_DrillBits",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -357,6 +363,12 @@
                 "Changehealth": 0
               },
               {
+                "Classname": "RIP_DrillBits",
+                "Amount": 2,
+                "Destroy": 2,
+                "Changehealth": 0
+              },
+              {
                 "Classname": "HP_Pipe",
                 "Amount": 2,
                 "Destroy": 2,
@@ -394,14 +406,20 @@
               },
               {
                 "Classname": "RIP_Rustymetal",
-                "Amount": 100,
-                "Destroy": 100,
+                "Amount": 75,
+                "Destroy": 75,
                 "Changehealth": 0
               },
               {
                 "Classname": "RIP_Plastik",
-                "Amount": 100,
-                "Destroy": 100,
+                "Amount": 50,
+                "Destroy": 50,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_MetalworkingKit",
+                "Amount": 1700,
+                "Destroy": 1700,
                 "Changehealth": 0
               }
             ],
@@ -541,8 +559,8 @@
               },
               {
                 "Classname": "RIP_Rustymetal",
-                "Amount": 25,
-                "Destroy": 25,
+                "Amount": 30,
+                "Destroy": 30,
                 "Changehealth": 0
               }
             ],
@@ -573,6 +591,12 @@
               },
               {
                 "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_DrillBits",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -658,6 +682,12 @@
                 "Changehealth": 0
               },
               {
+                "Classname": "RIP_DrillBits",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
                 "Classname": "HP_Pipe",
                 "Amount": 2,
                 "Destroy": 2,
@@ -695,14 +725,20 @@
               },
               {
                 "Classname": "RIP_Rustymetal",
-                "Amount": 100,
-                "Destroy": 100,
+                "Amount": 75,
+                "Destroy": 75,
                 "Changehealth": 0
               },
               {
                 "Classname": "RIP_Plastik",
-                "Amount": 100,
-                "Destroy": 100,
+                "Amount": 50,
+                "Destroy": 50,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_MetalworkingKit",
+                "Amount": 1700,
+                "Destroy": 1700,
                 "Changehealth": 0
               }
             ],
@@ -830,14 +866,14 @@
               },
               {
                 "Classname": "RIP_rivets",
-                "Amount": 50,
-                "Destroy": 50,
+                "Amount": 30,
+                "Destroy": 30,
                 "Changehealth": 0
               },
               {
                 "Classname": "RIP_Rustymetal",
-                "Amount": 25,
-                "Destroy": 25,
+                "Amount": 30,
+                "Destroy": 30,
                 "Changehealth": 0
               }
             ],
@@ -868,6 +904,12 @@
               },
               {
                 "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_DrillBits",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -953,6 +995,12 @@
                 "Changehealth": 0
               },
               {
+                "Classname": "RIP_DrillBits",
+                "Amount": 2,
+                "Destroy": 2,
+                "Changehealth": 0
+              },
+              {
                 "Classname": "HP_Pipe",
                 "Amount": 2,
                 "Destroy": 2,
@@ -990,14 +1038,20 @@
               },
               {
                 "Classname": "RIP_Rustymetal",
-                "Amount": 100,
-                "Destroy": 100,
+                "Amount": 75,
+                "Destroy": 75,
                 "Changehealth": 0
               },
               {
                 "Classname": "RIP_Plastik",
-                "Amount": 100,
-                "Destroy": 100,
+                "Amount": 50,
+                "Destroy": 50,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_MetalworkingKit",
+                "Amount": 1700,
+                "Destroy": 1700,
                 "Changehealth": 0
               }
             ],
@@ -1100,6 +1154,18 @@
                 "Changehealth": 0
               },
               {
+                "Classname": "RIP_DrillBits",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Pipe",
+                "Amount": 2,
+                "Destroy": 2,
+                "Changehealth": 0
+              },
+              {
                 "Classname": "RIP_OilPlastic",
                 "Amount": 40,
                 "Destroy": 40,
@@ -1125,14 +1191,14 @@
               },
               {
                 "Classname": "RIP_rivets",
-                "Amount": 50,
-                "Destroy": 50,
+                "Amount": 30,
+                "Destroy": 30,
                 "Changehealth": 0
               },
               {
                 "Classname": "RIP_Rustymetal",
-                "Amount": 25,
-                "Destroy": 25,
+                "Amount": 30,
+                "Destroy": 30,
                 "Changehealth": 0
               }
             ],
@@ -1165,6 +1231,12 @@
                 "Classname": "Hammer",
                 "Amount": 1,
                 "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_DrillBits",
+                "Amount": 2,
+                "Destroy": 2,
                 "Changehealth": 0
               },
               {
@@ -1205,14 +1277,20 @@
               },
               {
                 "Classname": "RIP_Rustymetal",
-                "Amount": 100,
-                "Destroy": 100,
+                "Amount": 75,
+                "Destroy": 75,
                 "Changehealth": 0
               },
               {
                 "Classname": "RIP_Plastik",
-                "Amount": 100,
-                "Destroy": 100,
+                "Amount": 50,
+                "Destroy": 50,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_MetalworkingKit",
+                "Amount": 1700,
+                "Destroy": 1700,
                 "Changehealth": 0
               }
             ],
@@ -1238,6 +1316,30 @@
                 "Changehealth": 0
               },
               {
+                "Classname": "Wrench",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_DrillBits",
+                "Amount": 3,
+                "Destroy": 3,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Pipe",
+                "Amount": 3,
+                "Destroy": 3,
+                "Changehealth": 0
+              },
+              {
                 "Classname": "HP_Pipe",
                 "Amount": 3,
                 "Destroy": 3,
@@ -1245,14 +1347,14 @@
               },
               {
                 "Classname": "RIP_OilPlastic",
-                "Amount": 100,
-                "Destroy": 100,
+                "Amount": 140,
+                "Destroy": 140,
                 "Changehealth": 0
               },
               {
                 "Classname": "RIP_WD40",
-                "Amount": 280,
-                "Destroy": 280,
+                "Amount": 250,
+                "Destroy": 250,
                 "Changehealth": 0
               },
               {
@@ -1263,8 +1365,8 @@
               },
               {
                 "Classname": "RIP_CleaningKitPlastic",
-                "Amount": 360,
-                "Destroy": 360,
+                "Amount": 340,
+                "Destroy": 340,
                 "Changehealth": 0
               },
               {
@@ -1281,8 +1383,14 @@
               },
               {
                 "Classname": "RIP_Plastik",
-                "Amount": 150,
-                "Destroy": 150,
+                "Amount": 75,
+                "Destroy": 75,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_MetalworkingKit",
+                "Amount": 1700,
+                "Destroy": 1700,
                 "Changehealth": 0
               }
             ],
@@ -1343,15 +1451,15 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "Screwdriver",
+                "Classname": "Pliers",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
               },
               {
-                "Classname": "DuctTape",
-                "Amount": 300,
-                "Destroy": 300,
+                "Classname": "KIWI_DuctTape_XL",
+                "Amount": 1000,
+                "Destroy": 1000,
                 "Changehealth": 0
               },
               {
@@ -1470,8 +1578,8 @@
             "CraftComponents": [
               {
                 "Classname": "RIP_GlassPK",
-                "Amount": 10,
-                "Destroy": 10,
+                "Amount": 5,
+                "Destroy": 5,
                 "Changehealth": 0
               },
               {
@@ -1534,7 +1642,7 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "Pliers",
+                "Classname": "Hammer",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -1577,7 +1685,7 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "Pliers",
+                "Classname": "Wrench",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -1639,7 +1747,7 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "Pliers",
+                "Classname": "Wrench",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
