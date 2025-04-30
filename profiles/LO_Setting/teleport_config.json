@@ -55,23 +55,23 @@
         {
             "EnableTeleport": 1,
             "TeleportName": "Teleport in Oilrig",
-            "ObjectType": "bldr_Boat_Small9",
+            "ObjectType": "vbldr_radar_panel",
             "ObjectCoordinates": [
-                12062.107422,
-                0.398144,
-                3416.792969
+                12063.500000,
+                1.500230,
+                3415.919922
             ],
             "ObjectOrientation": [
-                -17.900988,
+                162.359741,
                 0.000000,
-                0.000000
+                -0.000000
             ],
             "TeleportPosition": [
                 12561.294922,
                 0.9,
                 1919.892700
             ],
-            "CheckRadius": 5,
+            "CheckRadius": 10,
             "RequiredItem": "",
             "RequiredItemDamagePercent": 0,
             "TeleportActiveTimeSeconds": 60,
@@ -81,14 +81,14 @@
         {
             "EnableTeleport": 1,
             "TeleportName": "Teleport out Oilrig",
-            "ObjectType": "bldr_Boat_Small9",
+            "ObjectType": "vbldr_radar_panel",
             "ObjectCoordinates": [
-                12564.916992,
-                -0.484688,
-                1923.502441
+                12565.099609,
+                0.505361,
+                1925.189941
             ],
             "ObjectOrientation": [
-                -134.902176,
+                44.821060,
                 0.000000,
                 -0.000000
             ],
@@ -97,7 +97,7 @@
                 1.7,
                 3421.862061
             ],
-            "CheckRadius": 5,
+            "CheckRadius": 10,
             "RequiredItem": "",
             "RequiredItemDamagePercent": 0,
             "TeleportActiveTimeSeconds": 60,
@@ -107,14 +107,14 @@
         {
             "EnableTeleport": 1,
             "TeleportName": "Teleport in Island",
-            "ObjectType": "bldr_Boat_Small9",
+            "ObjectType": "vbldr_radar_panel",
             "ObjectCoordinates": [
-                13219.807617,
-                0.050410,
-                9953.394531
+                13220.700195,
+                1.107750,
+                9951.990234
             ],
             "ObjectOrientation": [
-                8.999920,
+                -173.161011,
                 0.000000,
                 -0.000000
             ],
@@ -123,7 +123,7 @@
                 1.1,
                 9670.615234
             ],
-            "CheckRadius": 5,
+            "CheckRadius": 10,
             "RequiredItem": "",
             "RequiredItemDamagePercent": 0,
             "TeleportActiveTimeSeconds": 0,
@@ -133,14 +133,14 @@
         {
             "EnableTeleport": 1,
             "TeleportName": "Teleport out Island",
-            "ObjectType": "bldr_Boat_Small9",
+            "ObjectType": "vbldr_radar_panel",
             "ObjectCoordinates": [
-                14089.616211,
-                -0.240913,
-                9667.198242
+                14089.500000,
+                0.801221,
+                9665.519531
             ],
             "ObjectOrientation": [
-                45.946342,
+                -136.079102,
                 0.000000,
                 -0.000000
             ],
@@ -149,7 +149,7 @@
                 1.4,
                 9958.426758
             ],
-            "CheckRadius": 5,
+            "CheckRadius": 10,
             "RequiredItem": "",
             "RequiredItemDamagePercent": 0,
             "TeleportActiveTimeSeconds": 0,
