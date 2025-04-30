@@ -55,7 +55,7 @@
         {
             "EnableTeleport": 1,
             "TeleportName": "Teleport in Oilrig",
-            "ObjectType": "Land_Boat_Small9",
+            "ObjectType": "bldr_Boat_Small9",
             "ObjectCoordinates": [
                 12062.107422,
                 0.398144,
@@ -81,7 +81,7 @@
         {
             "EnableTeleport": 1,
             "TeleportName": "Teleport out Oilrig",
-            "ObjectType": "Land_Boat_Small9",
+            "ObjectType": "bldr_Boat_Small9",
             "ObjectCoordinates": [
                 12564.916992,
                 -0.484688,
@@ -107,7 +107,7 @@
         {
             "EnableTeleport": 1,
             "TeleportName": "Teleport in Island",
-            "ObjectType": "Land_Boat_Small9",
+            "ObjectType": "bldr_Boat_Small9",
             "ObjectCoordinates": [
                 13219.807617,
                 0.050410,
@@ -133,7 +133,7 @@
         {
             "EnableTeleport": 1,
             "TeleportName": "Teleport out Island",
-            "ObjectType": "Land_Boat_Small9",
+            "ObjectType": "bldr_Boat_Small9",
             "ObjectCoordinates": [
                 14089.616211,
                 -0.240913,
