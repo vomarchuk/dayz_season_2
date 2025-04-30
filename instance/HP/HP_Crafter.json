@@ -334,6 +334,7 @@
             "AttachmentsNeed": [
               "HP_Oiler",
               "HP_Anvil",
+              "HP_Drill",
               "HP_Vise"
             ]
           },
@@ -652,6 +653,7 @@
             ],
             "AttachmentsNeed": [
               "HP_Oiler",
+              "HP_Drill",
               "HP_Anvil",
               "HP_Vise"
             ]
@@ -965,6 +967,7 @@
             ],
             "AttachmentsNeed": [
               "HP_Oiler",
+              "HP_Drill",
               "HP_Anvil",
               "HP_Vise"
             ]
@@ -1204,6 +1207,7 @@
             ],
             "AttachmentsNeed": [
               "HP_Oiler",
+              "HP_Drill",
               "HP_Anvil",
               "HP_Vise"
             ]
