@@ -85,10 +85,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="types/TraderPlus_ce">
 		<file name="TraderPlus_types.xml" type="types" />
 	</ce>
-	<!-- Boomlay -->
-	<ce folder="types/BoomLay_ce">
-		<file name="item_types.xml" type="types"/>
-	</ce>
 	<!-- Zombie -->
 	<ce folder="types/Zombie_mod_ce">
 		<file name="Zombie_mod.xml" type="types"/>
@@ -123,7 +119,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="types/TerjeMedicine_ce">
 		<file name="Types_Optional_items.xml" type="types" />
 		<file name="Types_Required_items.xml" type="types" />
-		<file name="Types_TerjeRadiation_items.xml" type="types" />
 	</ce>
 	<!-- TerjeSkills -->
 	<ce folder="types/TerjeSkills_ce">
