@@ -121,21 +121,6 @@
 		<pos x="8976.05" z="7818.34" a="0" />
 		<pos x="11057.3" z="13985.3" a="0" />
 	</event>
-	<event name="StaticSantaCrash">
-		<pos x="6560.29" z="2462.12" a="0.0" />
-		<pos x="1652.66" z="14230.71" a="0.0" />
-		<pos x="3801.06" z="8847.76" a="0.0" />
-		<pos x="9442.32" z="8829.03" a="0.0" />
-		<pos x="7903.16" z="12576.52" a="0.0" />
-		<pos x="11617.75" z="14663.98" a="0.0" />
-		<pos x="12830.08" z="10115.18" a="0.0" />
-		<pos x="11221.94" z="12225.89" a="0.0" />
-		<pos x="3471.93" z="12988.33" a="0.0" />
-		<pos x="13933.42" z="13228.44" a="0.0" />
-		<pos x="12022.64" z="9082.89" a="0.0" />
-		<pos x="10468.54" z="2373.16" a="0.0" />
-		<pos x="2725.48" z="5288.75" a="0.0" />
-	</event>
 	<event name="StaticChristmasTree1">
 		<pos x="6560.29" z="2462.12" a="0.0" />
 		<pos x="1652.66" z="14230.71" a="0.0" />
@@ -1109,6 +1094,26 @@
 		<pos x="2244.152" z="12250.476" a="0" y="237.972" group="Traffic_Topolniki" />
 		<pos x="4927.973" z="7844.380" a="0" y="333.543" group="Traffic_VMC" />
 		<pos x="3518.464" z="9122.509" a="0" y="310.821" group="Traffic_Vybor" />
+	</event>
+	<!-- custom event -->
+	<event name="StaticGravyard">
+		<pos x="7899.29" z="11970.12" a="0.0" y="181.33" group="Gravyards"/>
+		<pos x="7086.66" z="7737.71" a="0.0" y="295.6" group="Gravyards"/>
+		<pos x="13021.06" z="10521.76" a="0.0" y="6.23" group="Gravyards"/>
+		<pos x="10619.32" z="2645.03" a="0.0" y="304.0" group="Gravyards"/>
+		<pos x="2895.32" z="8088.03" a="0.0" y="304.0" group="Gravyards"/>
+		<pos x="5035.32" z="15085.03" a="0.0" y="475.13" group="Gravyards"/>
+		<pos x="5458.32" z="5474.03" a="0.0" y="301.5" group="Gravyards"/>
+		<pos x="10951.88" z="12282.66" a="0.0" y="225.3" group="Gravyards"/>
+		<pos x="13861.99" z="13453.24" a="0.0" y="7.55" group="Gravyards"/>
+		<pos x="9432.99" z="8849.24" a="0.0" y="304.0" group="Gravyards"/>
+		<pos x="5200.99" z="8579.24" a="0.0" y="346.1" group="Gravyards"/>
+		<pos x="7750.99" z="13285.24" a="0.0" y="183.75" group="Gravyards"/>
+		<pos x="1769.30" z="3831.21" a="0.0" y="141.67" group="Gravyards" />
+		<pos x="3608.30" z="13193.21" a="0.0" y="203.0" group="Gravyards"/>
+		<pos x="4543.30" z="6385.21" a="0.0" y="289.0" group="Gravyards"/>
+		<pos x="6764.30" z="2983.21" a="0.0" y="7.4" group="Gravyards"/>
+		<pos x="6673.30" z="2925.21" a="0.0" y="8.17" group="Gravyards"/>
 	</event>
 
 

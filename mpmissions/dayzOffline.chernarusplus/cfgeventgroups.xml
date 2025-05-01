@@ -1129,4 +1129,8 @@
         <child type="Land_Wreck_Ikarus_DE" deloot="1" lootmax="3" lootmin="2" x="31.720" z="-22.114" a="340.147"/>
         <child type="Land_Wreck_sed01_aban1_police_DE" deloot="1" lootmax="4" lootmin="2" x="37.964" z="-38.186" a="337.311"/>
     </group>
+    <group name="Gravyards">
+        <child type="Ptc_UP_BLUE_50" spawnsecondary="false" x="0" z="0" a="248.746"/>
+        <child type="BRDK_MedievalMan2_zmb" spawnsecondary="false" x="0" z="0" a="123.888"/>
+    </group>
 </eventgroupdef>
