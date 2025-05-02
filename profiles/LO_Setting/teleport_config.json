@@ -55,14 +55,14 @@
         {
             "EnableTeleport": 1,
             "TeleportName": "Teleport in Oilrig",
-            "ObjectType": "vbldr_radar_panel",
+            "ObjectType": "bldr_radar_panel_flat",
             "ObjectCoordinates": [
-                12063.500000,
-                1.500230,
-                3415.919922
+                12063.400391,
+                1.606950,
+                3416.219971
             ],
             "ObjectOrientation": [
-                162.359741,
+                161.819473,
                 0.000000,
                 -0.000000
             ],
@@ -81,14 +81,14 @@
         {
             "EnableTeleport": 1,
             "TeleportName": "Teleport out Oilrig",
-            "ObjectType": "vbldr_radar_panel",
+            "ObjectType": "bldr_radar_panel_flat",
             "ObjectCoordinates": [
-                12565.099609,
-                0.505361,
-                1925.189941
+                12564.799805,
+                0.716943,
+                1924.920044
             ],
             "ObjectOrientation": [
-                44.821060,
+                43.741528,
                 0.000000,
                 -0.000000
             ],
@@ -107,14 +107,14 @@
         {
             "EnableTeleport": 1,
             "TeleportName": "Teleport in Island",
-            "ObjectType": "vbldr_radar_panel",
+            "ObjectType": "bldr_radar_panel_flat",
             "ObjectCoordinates": [
                 13220.700195,
-                1.107750,
-                9951.990234
+                1.269830,
+                9952.299805
             ],
             "ObjectOrientation": [
-                -173.161011,
+                -170.099579,
                 0.000000,
                 -0.000000
             ],
@@ -133,14 +133,14 @@
         {
             "EnableTeleport": 1,
             "TeleportName": "Teleport out Island",
-            "ObjectType": "vbldr_radar_panel",
+            "ObjectType": "bldr_radar_panel_flat",
             "ObjectCoordinates": [
-                14089.500000,
-                0.801221,
-                9665.519531
+                14089.700195,
+                0.954984,
+                9665.839844
             ],
             "ObjectOrientation": [
-                -136.079102,
+                -136.442123,
                 0.000000,
                 -0.000000
             ],
