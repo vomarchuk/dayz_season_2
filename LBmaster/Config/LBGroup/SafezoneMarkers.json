@@ -1,0 +1,33 @@
+{
+    "version": 3,
+    "enablePlayerMarkers": 1,
+    "showMarkersEverywhere": 1,
+    "checkLineOfSight": 0,
+    "obfuscatePlayerNames": 0,
+    "showOwnPlayerTag": 0,
+    "maxPlayerDistance": 150.0,
+    "safezoneMarkers": [
+        {
+            "prefix": "",
+            "color": {
+                "a": 255,
+                "r": 51,
+                "g": 153,
+                "b": 255
+            },
+            "permission": "",
+            "ignoreNameObfuscationSetting": 0
+        },
+        {
+            "prefix": "",
+            "color": {
+                "a": 255,
+                "r": 255,
+                "g": 0,
+                "b": 0
+            },
+            "permission": "groups.nametags.admin",
+            "ignoreNameObfuscationSetting": 0
+        }
+    ]
+}
