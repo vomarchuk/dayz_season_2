@@ -240,7 +240,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="rag_baseitems_jd_fridge_kit">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -258,7 +258,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="rag_baseitems_retro_fridge_kit">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -313,7 +313,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="rag_baseitems_gunwall_kit">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -330,7 +330,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="rag_baseitems_gunwall_nostand_kit">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -876,7 +876,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="rag_baseitems_odin_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -896,7 +896,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="rag_baseitems_totem_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -965,7 +965,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>-->
     <type name="rag_baseitems_basket_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -1202,7 +1202,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="rag_baseitems_beach_chair_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -1231,7 +1231,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="rag_baseitems_volleyball_net_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -1248,7 +1248,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="rag_baseitems_beach_umbrella_beige_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -1265,7 +1265,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="rag_baseitems_beach_umbrella_blue_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -1503,7 +1503,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="rag_baseitems_crateshelf_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -2111,7 +2111,7 @@
     </type>
     <!-- Don't let the needle spawn as nobody would find it. Let them spawn on the Cushion below through cfgspawnabletypes/cfgrandompresets (provided in the Mod folder!) -->
     <type name="rag_baseitems_sewing_cushion">
-        <nominal>1</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -2255,7 +2255,7 @@
     </type>
     <!-- The Coffee Cup gets crafted therefore no spawning needed -->
     <type name="rag_baseitems_coffee_mug_rag">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -2274,7 +2274,7 @@
         <usage name="Village"/>
     </type>
     <type name="rag_baseitems_coffee_mug_blue_bar">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -2293,7 +2293,7 @@
         <usage name="Village"/>
     </type>
     <type name="rag_baseitems_coffee_mug_blue_break">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -2312,7 +2312,7 @@
         <usage name="Village"/>
     </type>
     <type name="rag_baseitems_coffee_mug_green_bar">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -2331,7 +2331,7 @@
         <usage name="Village"/>
     </type>
     <type name="rag_baseitems_coffee_mug_green_break">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -2350,7 +2350,7 @@
         <usage name="Village"/>
     </type>
     <type name="rag_baseitems_coffee_mug_green_fresh">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -2369,7 +2369,7 @@
         <usage name="Village"/>
     </type>
     <type name="rag_baseitems_coffee_mug_purple_bar">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -2388,7 +2388,7 @@
         <usage name="Village"/>
     </type>
     <type name="rag_baseitems_coffee_mug_purple_break">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -2407,7 +2407,7 @@
         <usage name="Village"/>
     </type>
     <type name="rag_baseitems_coffee_mug_red_bar">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -2426,7 +2426,7 @@
         <usage name="Village"/>
     </type>
     <type name="rag_baseitems_coffee_mug_red_break">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -2483,7 +2483,7 @@
         <usage name="Village"/>
     </type>
     <type name="rag_baseitems_coffee_mug_yellow_shop">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -2502,7 +2502,7 @@
         <usage name="Village"/>
     </type>
     <type name="rag_baseitems_coffee_thermos">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -2600,7 +2600,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="rag_baseitems_teddyshelf_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -2632,7 +2632,7 @@
         <usage name="Lunapark"/>
     </type>
     <type name="rag_baseitems_barrelshelf_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -2730,7 +2730,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="rag_baseitems_table_lamp_oval_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -2749,7 +2749,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="rag_baseitems_table_lamp_round_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -2787,7 +2787,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="rag_baseitems_bookshelf_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -2839,7 +2839,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="rag_baseitems_catears">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -3012,7 +3012,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="rag_baseitems_smoker_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -3113,7 +3113,7 @@
         <usage name="Village"/>
     </type>
     <type name="rag_baseitems_xmas_calendar_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
@@ -3252,7 +3252,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="rag_baseitems_mask_head_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>0</min>
