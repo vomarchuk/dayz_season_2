@@ -21,8 +21,8 @@
 	<cargo chance="0.20" name="kiwi_police">
 		<item name="LB_LC_Key1_Black" chance="1.0" />
 	</cargo>
-	<cargo chance="0.00" name="kiwi_medic">
-		<item name="SodaCan_Spite" chance="1.0" />
+	<cargo chance="0.20" name="kiwi_medic">
+		<item name="LB_LC_Key1_Green" chance="1.0" />
 	</cargo>
 	<cargo chance="0.00" name="kiwi_mutants">
 		<item name="SodaCan_Kvass" chance="1.0" />
@@ -707,29 +707,29 @@
 		<item name="TaloonBag_Violet" chance="0.08" />
 	</attachments>
 	<attachments chance="0.50" name="needle1">
-			<item name="rag_baseitems_sewing_needle" chance="0.20" />
-		</attachments>
-		<attachments chance="0.50" name="needle2">
-			<item name="rag_baseitems_sewing_needle" chance="0.10" />
-		</attachments>
-		<attachments chance="0.50" name="needle3">
-			<item name="rag_baseitems_sewing_needle" chance="0.20" />
-		</attachments>
-		<attachments chance="0.50" name="needle4">
-			<item name="rag_baseitems_sewing_needle" chance="0.10" />
-		</attachments>
-		<attachments chance="0.50" name="needle5">
-			<item name="rag_baseitems_sewing_needle" chance="0.20" />
-		</attachments>
-		<attachments chance="0.50" name="needle6">
-			<item name="rag_baseitems_sewing_needle" chance="0.10" />
-		</attachments>
-		<attachments chance="0.50" name="needle7">
-			<item name="rag_baseitems_sewing_needle" chance="0.20" />
-		</attachments>
-		<attachments chance="0.50" name="needle8">
-			<item name="rag_baseitems_sewing_needle" chance="0.10" />
-		</attachments>
+		<item name="rag_baseitems_sewing_needle" chance="0.20" />
+	</attachments>
+	<attachments chance="0.50" name="needle2">
+		<item name="rag_baseitems_sewing_needle" chance="0.10" />
+	</attachments>
+	<attachments chance="0.50" name="needle3">
+		<item name="rag_baseitems_sewing_needle" chance="0.20" />
+	</attachments>
+	<attachments chance="0.50" name="needle4">
+		<item name="rag_baseitems_sewing_needle" chance="0.10" />
+	</attachments>
+	<attachments chance="0.50" name="needle5">
+		<item name="rag_baseitems_sewing_needle" chance="0.20" />
+	</attachments>
+	<attachments chance="0.50" name="needle6">
+		<item name="rag_baseitems_sewing_needle" chance="0.10" />
+	</attachments>
+	<attachments chance="0.50" name="needle7">
+		<item name="rag_baseitems_sewing_needle" chance="0.20" />
+	</attachments>
+	<attachments chance="0.50" name="needle8">
+		<item name="rag_baseitems_sewing_needle" chance="0.10" />
+	</attachments>
 
 	<!--Xmas
 	Clothing-->
