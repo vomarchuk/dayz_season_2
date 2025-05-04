@@ -5991,15 +5991,15 @@
 </type>
 
 <type name="IMP_Mag_PKM_150Rnd">
-    <nominal>0</nominal>
+    <nominal>50</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>0</min>
+    <min>10</min>
     <quantmin>30</quantmin>
     <quantmax>70</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <!-- <category name="weapons" />
+    <usage name="ContaminatedArea" /> -->
 </type>
-
-
 </types>

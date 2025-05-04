@@ -9,7 +9,6 @@
         <category name="weapons"/>
         <category name="books"/>
         <category name="explosives"/>
-        <category name="RadiationZone"/>
         <category name="MedicalTools"/>
     </categories>
     <tags>
