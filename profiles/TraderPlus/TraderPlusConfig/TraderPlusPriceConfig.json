@@ -188,7 +188,7 @@
         "TerjeDrink6Energy,1,-1,300,-1,60",
         "TerjeDrinkGang,1,-1,300,-1,80",
         "TerjeDrinkMadBull,1,-1,300,-1,100",
-        "TerjeDrinkPrayboy,1,-1,300,-1,1200",
+        "TerjeDrinkPrayboy,1,-1,300,-1,120",
         "TerjeDrinkYaguar,1,-1,300,-1,150",
         "WaterBottle,1,-1,0,-1,60",
         "Canteen,1,-1,0,-1,34",
@@ -280,7 +280,6 @@
         "TerjePillsPolisorb,1,-1,1,-1,10",
         "TerjePillsNurofen,1,-1,1,-1,10",
         "TerjePillsMagnesiumSulfate,1,-1,1,-1,10",
-        "TerjePillsB190,1,-1,1,-1,10",
         "TerjePillsIrovit,1,-1,1,-1,10",
         "TerjePillsIbuprofen,1,-1,1,-1,10",
         "TerjePillsVikasol,1,-1,1,-1,10",
@@ -288,11 +287,8 @@
         "TerjePillsAnalgin,1,-1,1,-1,10",
         "TerjePillsAmibaktam,1,-1,1,-1,10",
         "TerjePillsFtalazol,1,-1,1,-1,10",
-        "TerjePillsHexacyanoferrate,1,-1,1,-1,10",
         "TerjePillsRombiopental,1,-1,1,-1,10",
-        "TerjePillsPotassiumIodide,1,-1,1,-1,10",
         "TerjePillsVenlafaxine,1,-1,1,-1,10",
-        "TerjePillsMexamine,1,-1,1,-1,10",
         "TerjePillsPiperacylin,1,-1,1,-1,10",
         "TerjePillsAdepress,1,-1,1,-1,10",
         "CharcoalTablets,1,-1,1,-1,10",
@@ -316,7 +312,6 @@
         "TerjeInjectorStomaproxidal,1,-1,1,-1,300",
         "TerjeInjectorRabinucoline,1,-1,1,-1,300",
         "TerjeInjectorAmfitalicyne,1,-1,1,-1,300",
-        "TerjeAntiradInjector,1,-1,1,-1,300",
         "TerjeInjectorReanimatal,1,-1,1,-1,300",
         "TerjeInjectorNeirox,1,-1,1,-1,300",
         "TerjeInjectorErythropoietin,1,-1,1,-1,300",
@@ -358,9 +353,7 @@
         "TerjeAmpouleActaparoxetine,1,-1,1,-1,90",
         "TerjeAmpouleAmitriptyline,1,-1,1,-1,90",
         "TerjeAmpouleRifampicyne,1,-1,1,-1,90",
-        "TerjeAmpouleZivirol,1,-1,1,-1,90",
-        "TerjeAmpoulePentacin,1,-1,1,-1,90",
-        "TerjeAmpouleCarboxyme,1,-1,1,-1,90"
+        "TerjeAmpouleZivirol,1,-1,1,-1,90"
       ]
     },
     {

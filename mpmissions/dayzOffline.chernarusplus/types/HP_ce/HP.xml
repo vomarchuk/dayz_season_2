@@ -42,7 +42,7 @@
         <value name="Tier4" />
     </type>
     <type name="HP_Grinde">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>

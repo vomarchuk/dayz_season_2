@@ -300,46 +300,6 @@
                     14618.617188,
                     97.342903,
                     14638.450195
-                ],
-                [
-                    14179.299805,
-                    129.045380,
-                    14916.900391
-                ],
-                [
-                    13875.299805,
-                    132.409210,
-                    15109.500000
-                ],
-                [
-                    13210.000000,
-                    45.126751,
-                    14846.400391
-                ],
-                [
-                    12762.799805,
-                    60.493671,
-                    15082.500000
-                ],
-                [
-                    11980.000000,
-                    151.068680,
-                    15240.500000
-                ],
-                [
-                    11738.200195,
-                    95.981491,
-                    14980.299805
-                ],
-                [
-                    11470.942383,
-                    121.398743,
-                    15111.919922
-                ],
-                [
-                    11379.121094,
-                    101.786400,
-                    15060.486328
                 ]
             ]
         },
@@ -3284,9 +3244,9 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    2741.766602,
-                    32.251175,
-                    1212.091187
+                    2721.279297,
+                    23.32,
+                    1189.567261
                 ]
             ]
         },
@@ -3443,8 +3403,8 @@
             "MaxSpreadRadius": 5.0,
             "Chance": 1.0,
             "WaypointInterpolation": "NaturalCubic",
-            "DespawnTime": 300.0,
-            "RespawnTime": 600.0,
+            "DespawnTime": 900.0,
+            "RespawnTime": 900.0,
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
@@ -3494,8 +3454,8 @@
             "MaxSpreadRadius": 5.0,
             "Chance": 1.0,
             "WaypointInterpolation": "NaturalCubic",
-            "DespawnTime": 300.0,
-            "RespawnTime": 600.0,
+            "DespawnTime": 900.0,
+            "RespawnTime": 900.0,
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
@@ -3544,14 +3504,14 @@
             "DamageReceivedMultiplier": 0.30,
             "CanBeTriggeredByAI": 0,
             "MinDistRadius": 150.0,
-            "MaxDistRadius": 200.0,
+            "MaxDistRadius": 180.0,
             "DespawnRadius": 500.0,
             "MinSpreadRadius": 0.0,
             "MaxSpreadRadius": 5.0,
             "Chance": 1.0,
             "WaypointInterpolation": "NaturalCubic",
-            "DespawnTime": 300.0,
-            "RespawnTime": 600.0,
+            "DespawnTime": 900.0,
+            "RespawnTime": 900.0,
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
@@ -3590,14 +3550,14 @@
             "DamageReceivedMultiplier": 0.30,
             "CanBeTriggeredByAI": 0,
             "MinDistRadius": 120.0,
-            "MaxDistRadius": 160.0,
+            "MaxDistRadius": 150.0,
             "DespawnRadius": 500.0,
             "MinSpreadRadius": 0.0,
             "MaxSpreadRadius": 0.0,
             "Chance": 1.0,
             "WaypointInterpolation": "",
-            "DespawnTime": 300.0,
-            "RespawnTime": 600.0,
+            "DespawnTime": 900.0,
+            "RespawnTime": 900.0,
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
@@ -3637,8 +3597,8 @@
             "MaxSpreadRadius": 0.0,
             "Chance": 1.0,
             "WaypointInterpolation": "",
-            "DespawnTime": 300.0,
-            "RespawnTime": 600.0,
+            "DespawnTime": 900.0,
+            "RespawnTime": 900.0,
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
@@ -3678,14 +3638,19 @@
             "MaxSpreadRadius": 0.0,
             "Chance": 1.0,
             "WaypointInterpolation": "",
-            "DespawnTime": 300.0,
-            "RespawnTime": 600.0,
+            "DespawnTime": 900.0,
+            "RespawnTime": 900.0,
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
                     2792.033203,
                     25.894396,
                     1184.736206
+                ],
+                [
+                    2761.929443,
+                    25.990358,
+                    1209.718140
                 ]
             ]
         },
@@ -3713,20 +3678,25 @@
             "DamageReceivedMultiplier": 0.30,
             "CanBeTriggeredByAI": 0,
             "MinDistRadius": 130.0,
-            "MaxDistRadius": 160.0,
+            "MaxDistRadius": 150.0,
             "DespawnRadius": 500.0,
             "MinSpreadRadius": 0.0,
             "MaxSpreadRadius": 0.0,
             "Chance": 1.0,
             "WaypointInterpolation": "",
-            "DespawnTime": 600.0,
-            "RespawnTime": 600.0,
+            "DespawnTime": 900.0,
+            "RespawnTime": 900.0,
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
                     2761.929443,
                     25.990358,
                     1209.718140
+                ],
+                [
+                    2792.033203,
+                    25.894396,
+                    1184.736206
                 ]
             ]
         },
