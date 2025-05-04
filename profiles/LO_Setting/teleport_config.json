@@ -55,7 +55,7 @@
         {
             "EnableTeleport": 1,
             "TeleportName": "Teleport in Oilrig",
-            "ObjectType": "bldr_radar_panel_flat",
+            "ObjectType": "StaticObj_Furniture_radar_panel_flat",
             "ObjectCoordinates": [
                 12063.400391,
                 1.606950,
@@ -81,7 +81,7 @@
         {
             "EnableTeleport": 1,
             "TeleportName": "Teleport out Oilrig",
-            "ObjectType": "bldr_radar_panel_flat",
+            "ObjectType": "StaticObj_Furniture_radar_panel_flat",
             "ObjectCoordinates": [
                 12564.799805,
                 0.716943,
@@ -107,7 +107,7 @@
         {
             "EnableTeleport": 1,
             "TeleportName": "Teleport in Island",
-            "ObjectType": "bldr_radar_panel_flat",
+            "ObjectType": "StaticObj_Furniture_radar_panel_flat",
             "ObjectCoordinates": [
                 13220.700195,
                 1.269830,
@@ -133,7 +133,7 @@
         {
             "EnableTeleport": 1,
             "TeleportName": "Teleport out Island",
-            "ObjectType": "bldr_radar_panel_flat",
+            "ObjectType": "StaticObj_Furniture_radar_panel_flat",
             "ObjectCoordinates": [
                 14089.700195,
                 0.954984,
