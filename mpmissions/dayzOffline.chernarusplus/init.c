@@ -59,54 +59,6 @@ class CustomMission : MissionServer
 		player.GetStatWater().Set(1000);
 
 		player.RemoveAllItems();
-
-		/*
-		  EntityAI item = player.GetInventory().CreateInInventory(topsArray.GetRandomElement());
-		  EntityAI item2 = player.GetInventory().CreateInInventory(pantsArray.GetRandomElement());
-		  EntityAI item3 = player.GetInventory().CreateInInventory(shoesArray.GetRandomElement());
-		*/
-		EntityAI itemEnt;
-		ItemBase itemBs;
-
-		// верх одежда
-		itemEnt = player.GetInventory().CreateInInventory("TrackSuitJacket_Black");
-		itemBs = ItemBase.Cast(itemEnt);
-		// штаны
-		itemEnt = player.GetInventory().CreateInInventory("TrackSuitPants_Black");
-		itemBs = ItemBase.Cast(itemEnt);
-		// пояс
-		itemEnt = player.GetInventory().CreateInInventory("HipPack_Party");
-		itemBs = ItemBase.Cast(itemEnt);
-		// обувь
-		itemEnt = player.GetInventory().CreateInInventory("AthleticShoes_Black");
-		itemBs = ItemBase.Cast(itemEnt);
-		// weapon
-		itemEnt = player.GetInventory().CreateInInventory("Crossbow_Autumn");
-		itemBs = ItemBase.Cast(itemEnt);
-		// ammo
-		itemEnt = player.GetInventory().CreateInInventory("Ammo_ImprovisedBolt_1");
-		itemBs = ItemBase.Cast(itemEnt);
-		// ammo
-		itemEnt = player.GetInventory().CreateInInventory("Ammo_ImprovisedBolt_1");
-		itemBs = ItemBase.Cast(itemEnt);
-		// еда
-		itemEnt = player.GetInventory().CreateInInventory("Pajka");
-		itemBs = ItemBase.Cast(itemEnt);
-		// нож
-		itemEnt = player.GetInventory().CreateInInventory("SteakKnife");
-		itemBs = ItemBase.Cast(itemEnt);
-		//
-		itemEnt = player.GetInventory().CreateInInventory("Roadflare");
-		itemBs = ItemBase.Cast(itemEnt);
-		//
-		itemEnt = player.GetInventory().CreateInInventory("Rag");
-		itemBs = ItemBase.Cast(itemEnt);
-		//
-		itemEnt = player.GetInventory().CreateInInventory("DisinfectantAlcohol");
-		itemBs = ItemBase.Cast(itemEnt);
-		//
-		itemEnt = player.GetInventory().CreateInInventory("Heatpack");
-		itemBs = ItemBase.Cast(itemEnt);
 	}
 };
 

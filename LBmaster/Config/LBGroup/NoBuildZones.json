@@ -1,0 +1,16 @@
+{
+    "version": 2,
+    "enabled": 0,
+    "displayOnMap": 1,
+    "notificationTitle": "#lb_ag_no_build_title",
+    "notificationMessage": "#lb_ag_no_build_here",
+    "ignoreItems": [
+        "LandMineTrap",
+        "BearTrap",
+        "Fireplace"
+    ],
+    "circleColorR": 255,
+    "circleColorG": 100,
+    "circleColorB": 50,
+    "zones": []
+}

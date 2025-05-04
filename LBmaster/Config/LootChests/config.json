@@ -1,0 +1,114 @@
+{
+    "version": 3,
+    "enabled": 1,
+    "minPlayerDistanceForRespawn": 0.0,
+    "chestConfigs": [
+        {
+            "name": "PD_1",
+            "chestDisplayName": "123",
+            "chestDescription": "1",
+            "comment": "1",
+            "enabled": 1,
+            "maxSpawns": -1,
+            "positionPool": "PD",
+            "chests": [
+                "LB_LC_Safe_1",
+                "LB_LC_Safe_2"
+            ],
+            "keys": [],
+            "openable": 1,
+            "openTimeDelay": 0,
+            "playedSoundSets": [],
+            "lootPreset": "Preset_Police_Chest",
+            "lootHealthMin": 1.0,
+            "lootHealthMax": 1.0,
+            "lootRespawnTimeMin": 10,
+            "lootRespawnTimeMax": 20,
+            "saveOpenedChestsOverRestart": 1,
+            "saveClosedChestsOverRestart": 0
+        },
+        {
+            "name": "police",
+            "chestDisplayName": "Ящик для зброї",
+            "chestDescription": "",
+            "comment": "",
+            "enabled": 1,
+            "maxSpawns": 7,
+            "positionPool": "police",
+            "chests": [
+                "LB_LC_Military1_Black"
+            ],
+            "keys": [
+                {
+                    "itemname": "LB_LC_Key1_Black",
+                    "time": 3.0,
+                    "damage": 1.0,
+                    "successRate": 1.0
+                }
+            ],
+            "openable": 1,
+            "openTimeDelay": 0,
+            "playedSoundSets": [],
+            "lootPreset": "Preset_Police_Chest",
+            "lootHealthMin": 1.0,
+            "lootHealthMax": 1.0,
+            "lootRespawnTimeMin": 1600,
+            "lootRespawnTimeMax": 1800,
+            "saveOpenedChestsOverRestart": 1,
+            "saveClosedChestsOverRestart": 1
+        },
+        {
+            "name": "Medical",
+            "chestDisplayName": "Сейф з медикаментами",
+            "chestDescription": "",
+            "comment": "",
+            "enabled": 1,
+            "maxSpawns": 10,
+            "positionPool": "Medical",
+            "chests": [
+                "LB_LC_Safe_1"
+            ],
+            "keys": [
+                {
+                    "itemname": "LB_LC_Key1_Green",
+                    "time": 3.0,
+                    "damage": 1.0,
+                    "successRate": 1.0
+                }
+            ],
+            "openable": 1,
+            "openTimeDelay": 0,
+            "playedSoundSets": [],
+            "lootPreset": "Preset_Medical_Chest",
+            "lootHealthMin": 1.0,
+            "lootHealthMax": 1.0,
+            "lootRespawnTimeMin": 1600,
+            "lootRespawnTimeMax": 1800,
+            "saveOpenedChestsOverRestart": 1,
+            "saveClosedChestsOverRestart": 1
+        },
+        {
+            "name": "Craft_Weapon",
+            "chestDisplayName": "",
+            "chestDescription": "",
+            "comment": "",
+            "enabled": 1,
+            "maxSpawns": 3,
+            "positionPool": "",
+            "chests": [
+                "LB_LC_Wood1"
+            ],
+            "keys": [],
+            "openable": 1,
+            "openTimeDelay": 0,
+            "playedSoundSets": [],
+            "lootPreset": "",
+            "lootHealthMin": 1.0,
+            "lootHealthMax": 1.0,
+            "lootRespawnTimeMin": 14400,
+            "lootRespawnTimeMax": 16200,
+            "saveOpenedChestsOverRestart": 1,
+            "saveClosedChestsOverRestart": 1
+        }
+    ]
+}

@@ -598,7 +598,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
-        <category name="RadiationZone" />
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
@@ -687,7 +686,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
-        <category name="RadiationZone" />
         <usage name="Military" />
         <value name="Tier2" />
         <value name="Tier3" />
@@ -716,7 +714,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
         <category name="weapons" />
-        <category name="RadiationZone" />
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
@@ -934,7 +931,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
-        <category name="RadiationZone" />
         <tag name="shelves" />
         <usage name="Farm" />
         <usage name="Village" />
@@ -2449,7 +2445,6 @@
         <value name="Tier1" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <category name="RadiationZone" />
     </type>
     <type name="BakedBeansCan_Opened">
         <nominal>0</nominal>
@@ -2765,7 +2760,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
-        <category name="RadiationZone" />
         <usage name="Military" />
     </type>
     <type name="BallisticHelmet_Winter">
@@ -6896,7 +6890,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="tools" />
-        <category name="RadiationZone" />
         <tag name="shelves" />
         <usage name="Industrial" />
         <value name="Tier3" />
@@ -6942,7 +6935,6 @@
         <category name="tools" />
         <tag name="shelves" />
         <usage name="Industrial" />
-        <category name="RadiationZone" />
 
     </type>
     <type name="EyeMask_Black">
@@ -9864,7 +9856,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
-        <category name="RadiationZone" />
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
@@ -9879,7 +9870,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
-        <category name="RadiationZone" />
         <usage name="Military" />
         <value name="Tier4" />
     </type>
@@ -9907,7 +9897,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
-        <category name="RadiationZone" />
         <tag name="floor" />
         <usage name="Town" />
         <usage name="Village" />
@@ -13026,7 +13015,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
-        <category name="RadiationZone" />
         <usage name="Military" />
         <value name="Tier4" />
 
@@ -15759,7 +15747,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
-        <category name="RadiationZone" />
         <usage name="Military" />
         <value name="Tier2" />
         <value name="Tier3" />
@@ -18598,7 +18585,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="food" />
-        <category name="RadiationZone" />
         <value name="Tier1" />
         <value name="Tier2" />
         <value name="Tier3" />
@@ -18627,7 +18613,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="food" />
-        <category name="RadiationZone" />
         <value name="Tier1" />
         <value name="Tier2" />
         <value name="Tier3" />
@@ -18670,7 +18655,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="food" />
-        <category name="RadiationZone" />
         <tag name="shelves" />
         <usage name="Town" />
         <usage name="Village" />
@@ -18848,7 +18832,6 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="RadiationZone"/>    
     </type>
     <type name="StartKitIV">
         <nominal>30</nominal>
@@ -20818,7 +20801,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="tools" />
-        <category name="RadiationZone" />
         <usage name="Military" />
         <usage name="Hunting" />
     </type>

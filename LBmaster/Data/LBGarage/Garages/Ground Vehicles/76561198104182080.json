@@ -1,0 +1,175 @@
+{
+    "version": 0,
+    "steamid": "76561198104182080",
+    "level": 2,
+    "additionalVehicleCount": 0,
+    "vehicles": [
+        {
+            "uniqueID": 40925,
+            "infinite": 0,
+            "hasKey": 0,
+            "wasHacked": 0,
+            "isBrandNewVehicle": 0,
+            "hasInsurance": 1,
+            "insuranceValue": 0,
+            "vehicleKeyHash1": -1,
+            "vehicleKeyHash2": -1,
+            "vehicleKeyHash3": -1,
+            "vehicleKeyHash4": -1,
+            "itemname": "Hatchback_02",
+            "fuelAmmount": 55.0,
+            "coolantAmmount": 6.0,
+            "oilAmmount": 4.0,
+            "brakeAmmount": 1.0,
+            "engineHealth": 1.0,
+            "fuelTankHealth": 1.0,
+            "vehicleHealth": 1.0,
+            "parkedInBySteamid": "76561198104182080",
+            "parkedInTimestamp": 1746221598,
+            "attachments": [
+                {
+                    "itemname": "Hatchback_02_Wheel",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1454946640
+                },
+                {
+                    "itemname": "BMWE34_koleso_style21_Black",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1347708810
+                },
+                {
+                    "itemname": "Hatchback_02_Wheel",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1347708809
+                },
+                {
+                    "itemname": "Hatchback_02_Wheel",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1347707441
+                },
+                {
+                    "itemname": "BMWE34_koleso_shtamp",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1347707440
+                },
+                {
+                    "itemname": "OmdRadioCassette_pivo",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -798792922
+                },
+                {
+                    "itemname": "SparkPlug",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -626843635
+                },
+                {
+                    "itemname": "Hatchback_02_Hood",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -596525449
+                },
+                {
+                    "itemname": "Hatchback_02_Trunk",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -573954551
+                },
+                {
+                    "itemname": "vg7_scorpion_radiator",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 5271856
+                },
+                {
+                    "itemname": "HeadlightH7",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 673890682
+                },
+                {
+                    "itemname": "HeadlightH7",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 673892051
+                },
+                {
+                    "itemname": "CarBattery",
+                    "health": 1.0,
+                    "quantity": 48.0,
+                    "remainingEnergy": 0.9700000286102295,
+                    "liquidType": 0,
+                    "attSlot": 1000100489
+                },
+                {
+                    "itemname": "Hatchback_02_Door_1_1_Blue",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 2105794553
+                },
+                {
+                    "itemname": "Hatchback_02_Door_1_2_Black",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 2105794554
+                },
+                {
+                    "itemname": "Hatchback_02_Door_2_1_Black",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 2105795922
+                },
+                {
+                    "itemname": "Hatchback_02_Door_2_2",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 2105795923
+                }
+            ],
+            "spawnCargoItems": [],
+            "storageFilename": "$profile:LBmaster/Data/LBGarage/Items/K8dmrvxUDQVmUyM4kLdG.bin",
+            "wasImpounded": 0,
+            "impoundWaitTime": 0,
+            "impoundRebuyCost": 0
+        }
+    ],
+    "stolenVehicles": []
+}
