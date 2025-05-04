@@ -685,8 +685,8 @@
               },
               {
                 "Classname": "RIP_DrillBits",
-                "Amount": 1,
-                "Destroy": 1,
+                "Amount": 2,
+                "Destroy": 2,
                 "Changehealth": 0
               },
               {
@@ -765,7 +765,7 @@
             "RecipeName": "VHS2",
             "CraftComponents": [
               {
-                "Classname": "FAMAS",
+                "Classname": "IMP_FAMAS",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0

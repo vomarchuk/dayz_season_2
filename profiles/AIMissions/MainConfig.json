@@ -15,7 +15,7 @@
             "Mission_Time_Limit": 2700,
             "Mission_Time_Extension_Limit": 1200,
             "Mission_Inner_Radius": 600,
-            "Mission_AI_Spawn_Radius": 800,
+            "Mission_AI_Spawn_Radius": 600,
             "Reward_Loot_Weapons_Minimum": 0,
             "Reward_Loot_Weapons_Maximum": 1,
             "Reward_Loot_Weapons_Multiplier": 0.2,
@@ -64,8 +64,8 @@
             "Bots_Accuracy": 0.8,
             "Bots_Damage_Done_Multiplier": 0.8,
             "Bots_Damage_Taken_Multiplier": 0.2,
-            "Bots_Drop_Loot": 1,
-            "Bots_Drop_Weapon": 1,
+            "Bots_Drop_Loot": 0,
+            "Bots_Drop_Weapon": 0,
             "Is_NBC_Mission": 0,
             "Allow_Crate_Reward": 1,
             "Allow_Vehicle_Reward": 0,
@@ -114,7 +114,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_BMP2",
+                    "ClassName": "StaticObj_Wreck_BMP2_DE",
                     "Scale": 1.0,
                     "Position": [
                         9975.820313,
@@ -144,15 +144,15 @@
             "Bots_Accuracy": 0.8,
             "Bots_Damage_Done_Multiplier": 0.8,
             "Bots_Damage_Taken_Multiplier": 0.2,
-            "Bots_Drop_Loot": 1,
-            "Bots_Drop_Weapon": 1,
+            "Bots_Drop_Loot": 0,
+            "Bots_Drop_Weapon": 0,
             "Is_NBC_Mission": 0,
             "Allow_Crate_Reward": 1,
             "Allow_Vehicle_Reward": 0,
             "Allow_Helicopter_Reward": 1,
             "Static_Objects": [
                 {
-                    "ClassName": "StaticObj_Wreck_BMP2",
+                    "ClassName": "StaticObj_Wreck_BMP2_DE",
                     "Scale": 1.0,
                     "Position": [
                         2431.000000,
@@ -166,7 +166,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_BMP1",
+                    "ClassName": "StaticObj_Wreck_BMP1_DE",
                     "Scale": 1.0,
                     "Position": [
                         2448.000000,
@@ -180,7 +180,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_T72_Turret",
+                    "ClassName": "StaticObj_Wreck_T72_Turret_DE",
                     "Scale": 1.0,
                     "Position": [
                         2462.000000,
@@ -194,7 +194,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_T72_Chassis",
+                    "ClassName": "StaticObj_Wreck_T72_Chassis_DE",
                     "Scale": 1.0,
                     "Position": [
                         2461.830078,
@@ -224,8 +224,8 @@
             "Bots_Accuracy": 0.7,
             "Bots_Damage_Done_Multiplier": 0.8,
             "Bots_Damage_Taken_Multiplier": 0.3,
-            "Bots_Drop_Loot": 1,
-            "Bots_Drop_Weapon": 1,
+            "Bots_Drop_Loot": 0,
+            "Bots_Drop_Weapon": 0,
             "Is_NBC_Mission": 0,
             "Allow_Crate_Reward": 1,
             "Allow_Vehicle_Reward": 0,
@@ -246,7 +246,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_Ural",
+                    "ClassName": "StaticObj_Wreck_Ural_DE",
                     "Scale": 1.0,
                     "Position": [
                         12302.200195,
@@ -274,7 +274,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_Ural",
+                    "ClassName": "StaticObj_Wreck_Ural_DE",
                     "Scale": 1.0,
                     "Position": [
                         12290.299805,
@@ -304,8 +304,8 @@
             "Bots_Accuracy": 0.7,
             "Bots_Damage_Done_Multiplier": 0.8,
             "Bots_Damage_Taken_Multiplier": 0.3,
-            "Bots_Drop_Loot": 1,
-            "Bots_Drop_Weapon": 1,
+            "Bots_Drop_Loot": 0,
+            "Bots_Drop_Weapon": 0,
             "Is_NBC_Mission": 0,
             "Allow_Crate_Reward": 1,
             "Allow_Vehicle_Reward": 0,
@@ -340,7 +340,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_HMMWV",
+                    "ClassName": "StaticObj_Wreck_HMMWV_DE",
                     "Scale": 1.0,
                     "Position": [
                         545.643005,
@@ -370,8 +370,8 @@
             "Bots_Accuracy": 0.8,
             "Bots_Damage_Done_Multiplier": 0.8,
             "Bots_Damage_Taken_Multiplier": 0.3,
-            "Bots_Drop_Loot": 1,
-            "Bots_Drop_Weapon": 1,
+            "Bots_Drop_Loot": 0,
+            "Bots_Drop_Weapon": 0,
             "Is_NBC_Mission": 0,
             "Allow_Crate_Reward": 1,
             "Allow_Vehicle_Reward": 0,
@@ -436,15 +436,15 @@
             "Bots_Accuracy": 0.8,
             "Bots_Damage_Done_Multiplier": 0.8,
             "Bots_Damage_Taken_Multiplier": 0.3,
-            "Bots_Drop_Loot": 1,
-            "Bots_Drop_Weapon": 1,
+            "Bots_Drop_Loot": 0,
+            "Bots_Drop_Weapon": 0,
             "Is_NBC_Mission": 0,
             "Allow_Crate_Reward": 1,
             "Allow_Vehicle_Reward": 0,
             "Allow_Helicopter_Reward": 1,
             "Static_Objects": [
                 {
-                    "ClassName": "StaticObj_Wreck_BMP1",
+                    "ClassName": "StaticObj_Wreck_BMP1_DE",
                     "Scale": 1.0,
                     "Position": [
                         2684.030029,
@@ -516,15 +516,15 @@
             "Bots_Accuracy": 0.8,
             "Bots_Damage_Done_Multiplier": 0.8,
             "Bots_Damage_Taken_Multiplier": 0.3,
-            "Bots_Drop_Loot": 1,
-            "Bots_Drop_Weapon": 1,
+            "Bots_Drop_Loot": 0,
+            "Bots_Drop_Weapon": 0,
             "Is_NBC_Mission": 0,
             "Allow_Crate_Reward": 1,
             "Allow_Vehicle_Reward": 0,
             "Allow_Helicopter_Reward": 1,
             "Static_Objects": [
                 {
-                    "ClassName": "StaticObj_Wreck_Train_742_Red",
+                    "ClassName": "StaticObj_Wreck_Train_742_Red_DE",
                     "Scale": 1.0,
                     "Position": [
                         10222.900391,
@@ -538,7 +538,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_Train_Wagon_Flat",
+                    "ClassName": "StaticObj_Wreck_Train_Wagon_Flat_DE",
                     "Scale": 1.0,
                     "Position": [
                         10216.500000,
@@ -552,7 +552,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_BMP2",
+                    "ClassName": "StaticObj_Wreck_BMP2_DE",
                     "Scale": 1.0,
                     "Position": [
                         10217.200195,
@@ -566,7 +566,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_BMP2",
+                    "ClassName": "StaticObj_Wreck_BMP2_DE",
                     "Scale": 1.0,
                     "Position": [
                         10215.599609,
@@ -580,7 +580,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_HMMWV",
+                    "ClassName": "StaticObj_Wreck_HMMWV_DE",
                     "Scale": 1.0,
                     "Position": [
                         10233.500000,
@@ -610,8 +610,8 @@
             "Bots_Accuracy": 0.8,
             "Bots_Damage_Done_Multiplier": 0.8,
             "Bots_Damage_Taken_Multiplier": 0.2,
-            "Bots_Drop_Loot": 1,
-            "Bots_Drop_Weapon": 1,
+            "Bots_Drop_Loot": 0,
+            "Bots_Drop_Weapon": 0,
             "Is_NBC_Mission": 0,
             "Allow_Crate_Reward": 1,
             "Allow_Vehicle_Reward": 0,
@@ -646,7 +646,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_Ural",
+                    "ClassName": "StaticObj_Wreck_Ural_DE",
                     "Scale": 1.0,
                     "Position": [
                         14031.099609,
@@ -676,15 +676,15 @@
             "Bots_Accuracy": 0.8,
             "Bots_Damage_Done_Multiplier": 0.8,
             "Bots_Damage_Taken_Multiplier": 0.3,
-            "Bots_Drop_Loot": 1,
-            "Bots_Drop_Weapon": 1,
+            "Bots_Drop_Loot": 0,
+            "Bots_Drop_Weapon": 0,
             "Is_NBC_Mission": 0,
             "Allow_Crate_Reward": 1,
             "Allow_Vehicle_Reward": 0,
             "Allow_Helicopter_Reward": 1,
             "Static_Objects": [
                 {
-                    "ClassName": "StaticObj_Wreck_Ural",
+                    "ClassName": "StaticObj_Wreck_Ural_DE",
                     "Scale": 1.0,
                     "Position": [
                         68.106201,
@@ -712,7 +712,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_Ural",
+                    "ClassName": "StaticObj_Wreck_Ural_DE",
                     "Scale": 1.0,
                     "Position": [
                         53.566299,
@@ -740,7 +740,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_BRDM",
+                    "ClassName": "StaticObj_Wreck_BRDM_DE",
                     "Scale": 1.0,
                     "Position": [
                         46.349098,
@@ -770,8 +770,8 @@
             "Bots_Accuracy": 0.8,
             "Bots_Damage_Done_Multiplier": 0.8,
             "Bots_Damage_Taken_Multiplier": 0.3,
-            "Bots_Drop_Loot": 1,
-            "Bots_Drop_Weapon": 1,
+            "Bots_Drop_Loot": 0,
+            "Bots_Drop_Weapon": 0,
             "Is_NBC_Mission": 0,
             "Allow_Crate_Reward": 1,
             "Allow_Vehicle_Reward": 0,
@@ -822,8 +822,8 @@
             "Bots_Accuracy": 0.8,
             "Bots_Damage_Done_Multiplier": 0.8,
             "Bots_Damage_Taken_Multiplier": 0.3,
-            "Bots_Drop_Loot": 1,
-            "Bots_Drop_Weapon": 1,
+            "Bots_Drop_Loot": 0,
+            "Bots_Drop_Weapon": 0,
             "Is_NBC_Mission": 0,
             "Allow_Crate_Reward": 1,
             "Allow_Vehicle_Reward": 0,
@@ -860,8 +860,8 @@
             "Bots_Accuracy": 0.8,
             "Bots_Damage_Done_Multiplier": 0.8,
             "Bots_Damage_Taken_Multiplier": 0.3,
-            "Bots_Drop_Loot": 1,
-            "Bots_Drop_Weapon": 1,
+            "Bots_Drop_Loot": 0,
+            "Bots_Drop_Weapon": 0,
             "Is_NBC_Mission": 0,
             "Allow_Crate_Reward": 1,
             "Allow_Vehicle_Reward": 0,
@@ -926,15 +926,15 @@
             "Bots_Accuracy": 0.8,
             "Bots_Damage_Done_Multiplier": 0.8,
             "Bots_Damage_Taken_Multiplier": 0.2,
-            "Bots_Drop_Loot": 1,
-            "Bots_Drop_Weapon": 1,
+            "Bots_Drop_Loot": 0,
+            "Bots_Drop_Weapon": 0,
             "Is_NBC_Mission": 0,
             "Allow_Crate_Reward": 1,
             "Allow_Vehicle_Reward": 0,
             "Allow_Helicopter_Reward": 1,
             "Static_Objects": [
                 {
-                    "ClassName": "StaticObj_Wreck_BMP1",
+                    "ClassName": "StaticObj_Wreck_BMP1_DE",
                     "Scale": 1.0,
                     "Position": [
                         6763.609863,
@@ -948,7 +948,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_BMP2",
+                    "ClassName": "StaticObj_Wreck_BMP2_DE",
                     "Scale": 1.0,
                     "Position": [
                         6784.560059,
@@ -962,7 +962,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_BRDM",
+                    "ClassName": "StaticObj_Wreck_BRDM_DE",
                     "Scale": 1.0,
                     "Position": [
                         6804.129883,
@@ -992,8 +992,8 @@
             "Bots_Accuracy": 0.8,
             "Bots_Damage_Done_Multiplier": 0.8,
             "Bots_Damage_Taken_Multiplier": 0.3,
-            "Bots_Drop_Loot": 1,
-            "Bots_Drop_Weapon": 1,
+            "Bots_Drop_Loot": 0,
+            "Bots_Drop_Weapon": 0,
             "Is_NBC_Mission": 0,
             "Allow_Crate_Reward": 1,
             "Allow_Vehicle_Reward": 0,
@@ -1028,7 +1028,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_Ural",
+                    "ClassName": "StaticObj_Wreck_Ural_DE",
                     "Scale": 1.0,
                     "Position": [
                         5247.540039,
@@ -1042,7 +1042,7 @@
                     ]
                 },
                 {
-                    "ClassName": "Land_Wreck_Tractor",
+                    "ClassName": "Land_Wreck_Tractor_DE",
                     "Scale": 1.0,
                     "Position": [
                         5253.180176,
@@ -1072,8 +1072,8 @@
             "Bots_Accuracy": 0.8,
             "Bots_Damage_Done_Multiplier": 0.8,
             "Bots_Damage_Taken_Multiplier": 0.2,
-            "Bots_Drop_Loot": 1,
-            "Bots_Drop_Weapon": 1,
+            "Bots_Drop_Loot": 0,
+            "Bots_Drop_Weapon": 0,
             "Is_NBC_Mission": 0,
             "Allow_Crate_Reward": 1,
             "Allow_Vehicle_Reward": 0,
@@ -1112,8 +1112,8 @@
     ],
     "Loadouts": [
         {
-            "AI_Loot_Misc_Max": 2,
-            "AI_Loot_Special_Max": 1,
+            "AI_Loot_Misc_Max": 0,
+            "AI_Loot_Special_Max": 0,
             "Shirts": [
                 "GorkaEJacket_Autumn",
                 "GorkaEJacket_Flat",

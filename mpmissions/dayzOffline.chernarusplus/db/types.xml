@@ -433,10 +433,10 @@
         <usage name="Firefighter" />
     </type>
     <type name="AlarmClock_Blue">
-        <nominal>20</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -446,12 +446,13 @@
         <usage name="Town" />
         <usage name="Office" />
         <usage name="School" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="AlarmClock_Green">
-        <nominal>20</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -461,12 +462,13 @@
         <usage name="Town" />
         <usage name="Office" />
         <usage name="School" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="AlarmClock_Red">
-        <nominal>20</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -476,6 +478,7 @@
         <usage name="Town" />
         <usage name="Office" />
         <usage name="School" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="AliceBag_Black">
         <nominal>5</nominal>
@@ -2445,6 +2448,7 @@
         <value name="Tier1" />
         <value name="Tier2" />
         <value name="Tier3" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="BakedBeansCan_Opened">
         <nominal>0</nominal>
@@ -2486,6 +2490,7 @@
         <usage name="Police" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier2" />
         <value name="Tier3" />
         <value name="Tier4" />
@@ -2502,6 +2507,7 @@
         <category name="clothes" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier1" />
         <value name="Tier2" />
     </type>
@@ -2517,6 +2523,7 @@
         <category name="clothes" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
@@ -2532,6 +2539,7 @@
         <category name="clothes" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier1" />
         <value name="Tier2" />
     </type>
@@ -2546,6 +2554,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
+        <usage name="TrainCrash"/>
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
@@ -2563,6 +2572,7 @@
         <usage name="Industrial" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier2" />
         <value name="Tier3" />
     </type>
@@ -2687,6 +2697,7 @@
         <usage name="Industrial" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier1" />
         <value name="Tier2" />
     </type>
@@ -2885,10 +2896,10 @@
         <category name="tools" />
     </type>
     <type name="BarbedWire">
-        <nominal>60</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3034,10 +3045,10 @@
         <value name="Tier4" />
     </type>
     <type name="BaseballBat">
-        <nominal>80</nominal>
+        <nominal>50</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3201,6 +3212,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier2" />
         <value name="Tier3" />
         <value name="Tier4" />
@@ -3216,6 +3228,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier2" />
         <value name="Tier3" />
         <value name="Tier4" />
@@ -3231,6 +3244,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="BeanieHat_Brown">
         <nominal>10</nominal>
@@ -3243,6 +3257,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier2" />
         <value name="Tier3" />
         <value name="Tier4" />
@@ -3258,6 +3273,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier2" />
         <value name="Tier3" />
         <value name="Tier4" />
@@ -3288,6 +3304,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier2" />
         <value name="Tier3" />
         <value name="Tier4" />
@@ -3303,6 +3320,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier2" />
         <value name="Tier3" />
         <value name="Tier4" />
@@ -3625,6 +3643,7 @@
         <category name="clothes" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier2" />
         <value name="Tier3" />
     </type>
@@ -3640,6 +3659,7 @@
         <category name="clothes" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier2" />
         <value name="Tier3" />
     </type>
@@ -3655,6 +3675,7 @@
         <category name="clothes" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier2" />
         <value name="Tier3" />
     </type>
@@ -3670,6 +3691,7 @@
         <category name="clothes" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier2" />
         <value name="Tier3" />
     </type>
@@ -3928,6 +3950,7 @@
         <tag name="shelves" />
         <usage name="Town" />
         <usage name="School" />
+        <usage name="TrainCrash"/>
         <value name="Tier1" />
     </type>
     <type name="BrassKnuckles_Dull">
@@ -4305,6 +4328,7 @@
         <category name="tools" />
         <tag name="floor" />
         <usage name="Military" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="CanOpener">
         <nominal>50</nominal>
@@ -4319,6 +4343,7 @@
         <tag name="shelves" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="Candycane_Green">
         <nominal>0</nominal>
@@ -4597,6 +4622,7 @@
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
         <category name="containers" />
         <usage name="Industrial" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="CargoPants_Beige">
         <nominal>20</nominal>
@@ -4626,6 +4652,7 @@
         <category name="clothes" />
         <usage name="Industrial" />
         <usage name="Farm" />
+        <usage name="TrainCrash"/>
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
@@ -4641,6 +4668,7 @@
         <category name="clothes" />
         <usage name="Industrial" />
         <usage name="Farm" />
+        <usage name="TrainCrash"/>
         <value name="Tier2" />
         <value name="Tier3" />
     </type>
@@ -4656,6 +4684,7 @@
         <category name="clothes" />
         <usage name="Industrial" />
         <usage name="Farm" />
+        <usage name="TrainCrash"/>
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
@@ -4671,6 +4700,7 @@
         <category name="clothes" />
         <usage name="Industrial" />
         <usage name="Farm" />
+        <usage name="TrainCrash"/>
         <value name="Tier2" />
         <value name="Tier3" />
     </type>
@@ -4710,6 +4740,7 @@
         <usage name="Town" />
         <usage name="Village" />
         <usage name="Lunapark" />
+        <usage name="TrainCrash"/>
         <value name="Tier1" />
         <value name="Tier2" />
         <value name="Tier3" />
@@ -4839,6 +4870,7 @@
         <usage name="Industrial" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="Chemlight_White">
         <nominal>35</nominal>
@@ -4918,6 +4950,7 @@
         <category name="clothes" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier2" />
         <value name="Tier3" />
         <value name="Tier4" />
@@ -4983,6 +5016,7 @@
         <category name="containers" />
         <usage name="Town" />
         <usage name="School" />
+        <usage name="TrainCrash"/>
         <value name="Tier1" />
         <value name="Tier2" />
     </type>
@@ -4998,6 +5032,7 @@
         <category name="containers" />
         <usage name="Town" />
         <usage name="School" />
+        <usage name="TrainCrash"/>
         <value name="Tier1" />
         <value name="Tier2" />
     </type>
@@ -5530,6 +5565,7 @@
         <category name="clothes" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="CivilianSedan">
         <nominal>0</nominal>
@@ -5785,6 +5821,7 @@
         <category name="clothes" />
         <tag name="shelves" />
         <usage name="Industrial" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="ConstructionHelmet_Yellow">
         <nominal>25</nominal>
@@ -5798,6 +5835,7 @@
         <category name="clothes" />
         <tag name="shelves" />
         <usage name="Industrial" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="ContaminatedArea_Dynamic">
         <nominal>0</nominal>
@@ -6080,6 +6118,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="tools" />
         <usage name="Industrial" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="CrudeMachete">
         <nominal>25</nominal>
@@ -6109,6 +6148,7 @@
         <usage name="Industrial" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier2" />
         <value name="Tier3" />
         <value name="Tier4" />
@@ -6126,6 +6166,7 @@
         <usage name="Industrial" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier1" />
         <value name="Tier2" />
     </type>
@@ -6321,6 +6362,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Town" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="DeerPelt">
         <nominal>0</nominal>
@@ -6421,6 +6463,7 @@
         <category name="clothes" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="DirtBikeHelmet_Blue">
         <nominal>5</nominal>
@@ -6434,6 +6477,7 @@
         <category name="clothes" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="DirtBikeHelmet_Chernarus">
         <nominal>5</nominal>
@@ -6473,6 +6517,7 @@
         <category name="clothes" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="DirtBikeHelmet_Mouthguard">
         <nominal>15</nominal>
@@ -6892,6 +6937,7 @@
         <category name="tools" />
         <tag name="shelves" />
         <usage name="Industrial" />
+        <usage name="TrainCrash"/>
         <value name="Tier3" />
         <value name="Tier4" />
 
@@ -7430,6 +7476,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="tools" />
         <usage name="Coast" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="Flag_APA">
         <nominal>0</nominal>
@@ -8071,6 +8118,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="tools" />
         <usage name="Farm" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="GardenPlot">
         <nominal>0</nominal>
@@ -8889,6 +8937,7 @@
         <category name="tools" />
         <usage name="Industrial" />
         <usage name="Farm" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="HandcuffKeys">
         <nominal>10</nominal>
@@ -9736,10 +9785,10 @@
         <category name="lootdispatch" />
     </type>
     <type name="Hatchet">
-        <nominal>120</nominal>
+        <nominal>60</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>95</min>
+        <min>35</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -9748,6 +9797,7 @@
         <tag name="floor" />
         <usage name="Farm" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="HeadCover_Improvised">
         <nominal>0</nominal>
@@ -9794,6 +9844,7 @@
         <category name="tools" />
         <tag name="shelves" />
         <usage name="Industrial" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="Headtorch_Black">
         <nominal>60</nominal>
@@ -9845,6 +9896,7 @@
         <category name="tools" />
         <tag name="shelves" />
         <usage name="Hunting" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="HighCapacityVest_Black">
         <nominal>4</nominal>
@@ -10586,6 +10638,7 @@
         <usage name="Farm" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier1" />
         <value name="Tier2" />
     </type>
@@ -10601,6 +10654,7 @@
         <category name="weapons" />
         <usage name="Farm" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier1" />
         <value name="Tier2" />
         <value name="Tier3" />
@@ -10700,6 +10754,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="tools" />
         <usage name="Coast" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="JoggingShoes_Black">
         <nominal>0</nominal>
@@ -10798,6 +10853,7 @@
         <category name="clothes" />
         <usage name="Industrial" />
         <usage name="Coast" />
+        <usage name="TrainCrash"/>
         <value name="Tier1" />
         <value name="Tier2" />
     </type>
@@ -10813,6 +10869,7 @@
         <category name="clothes" />
         <usage name="Industrial" />
         <usage name="Coast" />
+        <usage name="TrainCrash"/>
         <value name="Tier2" />
         <value name="Tier3" />
     </type>
@@ -10828,6 +10885,7 @@
         <category name="clothes" />
         <usage name="Industrial" />
         <usage name="Coast" />
+        <usage name="TrainCrash"/>
         <value name="Tier1" />
         <value name="Tier2" />
     </type>
@@ -10843,6 +10901,7 @@
         <category name="clothes" />
         <usage name="Industrial" />
         <usage name="Farm" />
+        <usage name="TrainCrash"/>
         <value name="Tier2" />
         <value name="Tier3" />
     </type>
@@ -10858,6 +10917,7 @@
         <category name="clothes" />
         <usage name="Industrial" />
         <usage name="Farm" />
+        <usage name="TrainCrash"/>
         <value name="Tier2" />
         <value name="Tier3" />
     </type>
@@ -10873,6 +10933,7 @@
         <category name="clothes" />
         <usage name="Industrial" />
         <usage name="Farm" />
+        <usage name="TrainCrash"/>
         <value name="Tier1" />
         <value name="Tier2" />
     </type>
@@ -10888,6 +10949,7 @@
         <category name="clothes" />
         <usage name="Industrial" />
         <usage name="Farm" />
+        <usage name="TrainCrash"/>
         <value name="Tier1" />
         <value name="Tier2" />
     </type>
@@ -11007,6 +11069,7 @@
         <tag name="shelves" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="KobraOptic">
         <nominal>15</nominal>
@@ -12016,6 +12079,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="tools" />
         <usage name="Industrial" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="Lunchmeat">
         <nominal>15</nominal>
@@ -12421,6 +12485,7 @@
         <tag name="shelves" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier2" />
         <value name="Tier3" />
     </type>
@@ -13181,6 +13246,7 @@
         <tag name="shelves" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier1" />
         <value name="Tier2" />
     </type>
@@ -13330,12 +13396,13 @@
         <usage name="Town" />
         <usage name="Village" />
         <usage name="Hunting" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="MeatTenderizer">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13343,6 +13410,7 @@
         <category name="tools" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="MedicalScrubsHat_Blue">
         <nominal>4</nominal>
@@ -13476,6 +13544,7 @@
         <category name="tools" />
         <usage name="Village" />
         <usage name="Hunting" />
+        <usage name="TrainCrash"/>
         <value name="Tier2" />
         <value name="Tier3" />
     </type>
@@ -13491,6 +13560,7 @@
         <category name="containers" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="MediumTent_Green">
         <nominal>8</nominal>
@@ -13504,6 +13574,7 @@
         <category name="containers" />
         <usage name="Village" />
         <usage name="Hunting" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="MediumTent_Orange">
         <nominal>8</nominal>
@@ -13517,6 +13588,7 @@
         <category name="containers" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="Megaphone">
         <nominal>20</nominal>
@@ -13532,8 +13604,6 @@
         <usage name="Police" />
         <usage name="Town" />
         <usage name="Village" />
-        <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="MetalPlate">
         <nominal>60</nominal>
@@ -13547,12 +13617,13 @@
         <category name="tools" />
         <tag name="floor" />
         <usage name="Industrial" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="MetalWire">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>45</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13560,6 +13631,7 @@
         <category name="tools" />
         <usage name="Industrial" />
         <usage name="Farm" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="Mich2001Helmet">
         <nominal>4</nominal>
@@ -14104,6 +14176,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="containers" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
@@ -14118,6 +14191,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="containers" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
@@ -14132,6 +14206,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="containers" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
@@ -14410,6 +14485,7 @@
         <tag name="shelves" />
         <usage name="Industrial" />
         <usage name="Farm" />
+        <usage name="TrainCrash"/>
         <value name="Tier1" />
         <value name="Tier2" />
         <value name="Tier3" />
@@ -14474,6 +14550,7 @@
         <category name="tools" />
         <usage name="Industrial" />
         <usage name="Coast" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="NioshFaceMask">
         <nominal>20</nominal>
@@ -14487,6 +14564,7 @@
         <category name="clothes" />
         <usage name="Medic" />
         <usage name="Industrial" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="NorseHelm">
         <nominal>0</nominal>
@@ -14861,6 +14939,7 @@
         <category name="weapons" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier1" />
         <value name="Tier2" />
     </type>
@@ -15351,6 +15430,7 @@
         <usage name="Police" />
         <usage name="Medic" />
         <usage name="Firefighter" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="PetrolLighter">
         <nominal>40</nominal>
@@ -15364,6 +15444,7 @@
         <category name="tools" />
         <tag name="shelves" />
         <usage name="Town" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="PetushokHat_Black">
         <nominal>6</nominal>
@@ -15388,6 +15469,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Town" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="PetushokHat_Yellow">
         <nominal>6</nominal>
@@ -15400,6 +15482,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Town" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="Pickaxe">
         <nominal>20</nominal>
@@ -15413,6 +15496,7 @@
         <category name="tools" />
         <usage name="Industrial" />
         <usage name="Farm" />
+        <usage name="TrainCrash"/>
         <value name="Tier2" />
         <value name="Tier3" />
         <value name="Tier4" />
@@ -15505,6 +15589,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Hunting" />
+        <usage name="TrainCrash"/>
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
@@ -15835,6 +15920,7 @@
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="Plum">
         <nominal>0</nominal>
@@ -15935,6 +16021,7 @@
         <usage name="Village" />
         <usage name="Office" />
         <usage name="School" />
+        <usage name="TrainCrash"/>
         <value name="Tier1" />
         <value name="Tier2" />
         <value name="Tier3" />
@@ -15962,6 +16049,7 @@
         <category name="tools" />
         <usage name="Industrial" />
         <usage name="Hunting" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="PortableGasStove">
         <nominal>40</nominal>
@@ -15975,6 +16063,7 @@
         <category name="tools" />
         <usage name="Village" />
         <usage name="Hunting" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="Pot">
         <nominal>20</nominal>
@@ -15989,6 +16078,7 @@
         <tag name="shelves" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="Potato">
         <nominal>0</nominal>
@@ -16470,6 +16560,7 @@
         <usage name="Coast" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="Raincoat_Blue">
         <nominal>30</nominal>
@@ -16484,6 +16575,7 @@
         <usage name="Coast" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="Raincoat_Green">
         <nominal>30</nominal>
@@ -16498,6 +16590,7 @@
         <usage name="Coast" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="Raincoat_Orange">
         <nominal>30</nominal>
@@ -16512,6 +16605,7 @@
         <usage name="Coast" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="Raincoat_Pink">
         <nominal>30</nominal>
@@ -16526,6 +16620,7 @@
         <usage name="Coast" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="Raincoat_Red">
         <nominal>30</nominal>
@@ -16540,6 +16635,7 @@
         <usage name="Coast" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="Raincoat_Yellow">
         <nominal>30</nominal>
@@ -16554,6 +16650,7 @@
         <usage name="Coast" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="Rangefinder">
         <nominal>50</nominal>
@@ -16675,6 +16772,7 @@
         <category name="weapons" />
         <usage name="Farm" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier2" />
         <value name="Tier3" />
         <value name="Tier4" />
@@ -16691,6 +16789,7 @@
         <category name="food" />
         <tag name="shelves" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier1" />
         <value name="Tier2" />
     </type>
@@ -16705,6 +16804,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Town" />
+        <usage name="TrainCrash"/>
         <value name="Tier1" />
         <value name="Tier2" />
     </type>
@@ -16736,6 +16836,7 @@
         <category name="tools" />
         <usage name="Industrial" />
         <usage name="Farm" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="RopeBelt">
         <nominal>0</nominal>
@@ -16968,6 +17069,7 @@
         <tag name="shelves" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier1" />
         <value name="Tier2" />
     </type>
@@ -17682,6 +17784,7 @@
         <tag name="shelves" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="SharpWoodenStick">
         <nominal>0</nominal>
@@ -17781,6 +17884,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="Shemag_Green">
         <nominal>20</nominal>
@@ -17792,6 +17896,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="Shemag_Red">
         <nominal>0</nominal>
@@ -18059,6 +18164,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="tools" />
         <usage name="Farm" />
+        <usage name="TrainCrash"/>
         <value name="Tier1" />
         <value name="Tier2" />
     </type>
@@ -18204,6 +18310,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Town" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="SlacksPants_Black">
         <nominal>20</nominal>
@@ -18216,6 +18323,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Town" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="SlacksPants_Blue">
         <nominal>20</nominal>
@@ -18228,6 +18336,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Town" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="SlacksPants_Brown">
         <nominal>0</nominal>
@@ -18252,6 +18361,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Town" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="SlacksPants_Khaki">
         <nominal>20</nominal>
@@ -18264,6 +18374,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Town" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="SlacksPants_LightGrey">
         <nominal>0</nominal>
@@ -18288,6 +18399,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Town" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="SledgeHammer">
         <nominal>20</nominal>
@@ -18301,6 +18413,7 @@
         <category name="tools" />
         <tag name="floor" />
         <usage name="Industrial" />
+        <usage name="TrainCrash"/>
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
@@ -18380,6 +18493,7 @@
         <category name="tools" />
         <usage name="Village" />
         <usage name="Hunting" />
+        <usage name="TrainCrash"/>
         <value name="Tier1" />
         <value name="Tier2" />
     </type>
@@ -18409,6 +18523,7 @@
         <usage name="School" />
         <usage name="Hunting" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="Custom_ProtectorCase_1000">
         <nominal>0</nominal>
@@ -18659,6 +18774,7 @@
         <usage name="Town" />
         <usage name="Village" />
         <usage name="Office" />
+        <usage name="TrainCrash"/>
         <value name="Tier1" />
         <value name="Tier2" />
         <value name="Tier3" />
@@ -18747,6 +18863,7 @@
         <usage name="Village" />
         <usage name="Office" />
         <usage name="School" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="SportGlasses_Blue">
         <nominal>10</nominal>
@@ -18764,6 +18881,7 @@
         <usage name="Village" />
         <usage name="Office" />
         <usage name="School" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="SportGlasses_Green">
         <nominal>10</nominal>
@@ -18781,6 +18899,7 @@
         <usage name="Village" />
         <usage name="Office" />
         <usage name="School" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="SportGlasses_Orange">
         <nominal>10</nominal>
@@ -18798,6 +18917,7 @@
         <usage name="Village" />
         <usage name="Office" />
         <usage name="School" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="Spotlight">
         <nominal>50</nominal>
@@ -18810,6 +18930,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="tools" />
         <usage name="Industrial" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="Ssh68Helmet">
         <nominal>20</nominal>
@@ -20058,6 +20179,7 @@
         <tag name="floor" />
         <usage name="Farm" />
         <usage name="Hunting" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="TripwireTrap">
         <nominal>0</nominal>
@@ -20417,6 +20539,7 @@
         <tag name="shelves" />
         <usage name="Town" />
         <usage name="Office" />
+        <usage name="TrainCrash"/>
         <value name="Tier1" />
         <value name="Tier2" />
     </type>
@@ -20645,6 +20768,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier2" />
         <value name="Tier3" />
         <value name="Tier4" />
@@ -20660,6 +20784,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="VSS">
         <nominal>0</nominal>
@@ -21177,6 +21302,7 @@
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier2" />
         <value name="Tier3" />
         <value name="Tier4" />
@@ -21635,6 +21761,7 @@
         <category name="clothes" />
         <usage name="Industrial" />
         <usage name="Farm" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="WorkingGloves_Brown">
         <nominal>13</nominal>
@@ -21648,6 +21775,7 @@
         <category name="clothes" />
         <usage name="Industrial" />
         <usage name="Farm" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="WorkingGloves_Yellow">
         <nominal>15</nominal>
@@ -21661,6 +21789,7 @@
         <category name="clothes" />
         <usage name="Industrial" />
         <usage name="Farm" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="Wreck_Mi8_Crashed">
         <nominal>0</nominal>
@@ -21693,10 +21822,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
     <type name="Wrench">
-        <nominal>60</nominal>
+        <nominal>50</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>30</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -21705,6 +21834,7 @@
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="XmasLights">
         <nominal>0</nominal>
@@ -21750,6 +21880,7 @@
         <usage name="Office" />
         <usage name="School" />
         <usage name="Lunapark" />
+        <usage name="TrainCrash"/>
         <value name="Tier1" />
         <value name="Tier2" />
         <value name="Tier3" />
@@ -21766,6 +21897,7 @@
         <category name="food" />
         <tag name="shelves" />
         <usage name="Hunting" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="ZagorkyPeanuts">
         <nominal>15</nominal>
@@ -21782,6 +21914,7 @@
         <usage name="Office" />
         <usage name="School" />
         <usage name="Lunapark" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="ZmbF_BlueCollarFat_Blue">
         <nominal>0</nominal>
@@ -23515,6 +23648,7 @@
         <category name="clothes" />
         <tag name="shelves" />
         <usage name="Industrial" />
+        <usage name="TrainCrash"/>
         <value name="Tier2" />
         <value name="Tier3" />
         <value name="Tier4" />
@@ -23531,6 +23665,7 @@
         <category name="clothes" />
         <tag name="shelves" />
         <usage name="Town" />
+        <usage name="TrainCrash"/>
         <value name="Tier2" />
         <value name="Tier3" />
         <value name="Tier4" />
@@ -23547,6 +23682,7 @@
         <category name="clothes" />
         <tag name="shelves" />
         <usage name="Farm" />
+        <usage name="TrainCrash"/>
         <value name="Tier2" />
         <value name="Tier3" />
         <value name="Tier4" />
@@ -23563,6 +23699,7 @@
         <category name="clothes" />
         <tag name="shelves" />
         <usage name="Hunting" />
+        <usage name="TrainCrash"/>
         <value name="Tier2" />
         <value name="Tier3" />
         <value name="Tier4" />
@@ -23579,6 +23716,7 @@
         <category name="clothes" />
         <tag name="shelves" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier2" />
         <value name="Tier3" />
         <value name="Tier4" />
@@ -23597,6 +23735,7 @@
         <usage name="Farm" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier1" />
         <value name="Tier2" />
         <value name="Tier3" />
