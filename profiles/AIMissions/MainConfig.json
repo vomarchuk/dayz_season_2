@@ -180,7 +180,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_T72_Turret",
+                    "ClassName": "StaticObj_Wreck_T72_Turret_DE",
                     "Scale": 1.0,
                     "Position": [
                         2462.000000,
