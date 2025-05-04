@@ -23,6 +23,8 @@
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Village" />
+        <value name="Tier2" />
+        <value name="Tier3" />
     </type>
     <type name="HP_Drill">
         <nominal>3</nominal>
@@ -37,8 +39,7 @@
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Village" />
-        <value name="Tier1" />
-        <value name="Tier2" />
+        <value name="Tier4" />
     </type>
     <type name="HP_Grinde">
         <nominal>3</nominal>
@@ -50,11 +51,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="tools" />
-        <usage name="Industrial" />
-        <usage name="Farm" />
-        <usage name="Village" />
-        <value name="Tier1" />
-        <value name="Tier2" />
+        <usage name="ContaminatedArea"/>
+        <value name="Tier4" />
     </type>
     <type name="HP_napilnik">
         <nominal>15</nominal>
@@ -85,6 +83,7 @@
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Village" />
+        <value name="Tier3" />
     </type>
     <type name="HP_Vise">
         <nominal>4</nominal>
@@ -100,9 +99,10 @@
         <usage name="Farm" />
         <usage name="Village" />
         <value name="Tier1" />
+        <value name="Tier2" />
     </type>
     <type name="HP_Payalnik">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -111,9 +111,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="tools" />
-        <usage name="Industrial" />
-        <usage name="Farm" />
-        <usage name="Village" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="HP_Plata">
         <nominal>3</nominal>
@@ -156,6 +154,7 @@
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
     </type>
     <type name="HP_Pipe">
         <nominal>1</nominal>
@@ -166,6 +165,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="ContaminatedArea"/>
         <!-- <usage name="Industrial" /> -->
         <!-- <usage name="Farm" /> -->
         <!-- <usage name="Village" /> -->

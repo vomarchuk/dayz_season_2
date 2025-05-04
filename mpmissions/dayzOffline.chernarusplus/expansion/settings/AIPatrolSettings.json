@@ -255,7 +255,7 @@
     "Patrols": [
         {
             "Name": "PeakyBlinders",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "Wall",
             "FormationLooseness": 5.0,
@@ -270,7 +270,7 @@
             "LootingBehaviour": "",
             "Speed": "WALK",
             "UnderThreatSpeed": "SPRINT",
-            "CanBeLooted": 0,
+            "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
             "AccuracyMin": 0.90,
@@ -278,14 +278,14 @@
             "ThreatDistanceLimit": 350.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
-            "DamageReceivedMultiplier": 0.20,
+            "DamageReceivedMultiplier": 0.10,
             "CanBeTriggeredByAI": 0,
             "MinDistRadius": -1.0,
             "MaxDistRadius": 500.0,
             "DespawnRadius": 600.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 50.0,
-            "Chance": 0.10,
+            "Chance": 0.05,
             "WaypointInterpolation": "NaturalCubic",
             "DespawnTime": -1.0,
             "RespawnTime": 600.0,
@@ -300,6 +300,46 @@
                     14618.617188,
                     97.342903,
                     14638.450195
+                ],
+                [
+                    14179.299805,
+                    129.045380,
+                    14916.900391
+                ],
+                [
+                    13875.299805,
+                    132.409210,
+                    15109.500000
+                ],
+                [
+                    13210.000000,
+                    45.126751,
+                    14846.400391
+                ],
+                [
+                    12762.799805,
+                    60.493671,
+                    15082.500000
+                ],
+                [
+                    11980.000000,
+                    151.068680,
+                    15240.500000
+                ],
+                [
+                    11738.200195,
+                    95.981491,
+                    14980.299805
+                ],
+                [
+                    11470.942383,
+                    121.398743,
+                    15111.919922
+                ],
+                [
+                    11379.121094,
+                    101.786400,
+                    15060.486328
                 ]
             ]
         },

@@ -1206,9 +1206,8 @@
               }
             ],
             "AttachmentsNeed": [
-              "HP_Oiler",
-              "HP_Drill",
               "HP_Anvil",
+              "HP_Oiler",
               "HP_Vise"
             ]
           },
@@ -1727,7 +1726,7 @@
             ],
             "AttachmentsNeed": [
               "HP_Vise",
-              "HP_Drill",
+              "HP_Anvil",
               "HP_napilnik"
             ]
           },
@@ -1783,8 +1782,8 @@
             ],
             "AttachmentsNeed": [
               "HP_Vise",
-              "HP_Drill",
-              "HP_Grinde",
+              "HP_Anvil",
+              "HP_Oiler",
               "HP_napilnik"
             ]
           },
@@ -1852,8 +1851,9 @@
             ],
             "AttachmentsNeed": [
               "HP_Vise",
+              "HP_Anvil",
+              "HP_Oiler",
               "HP_Drill",
-              "HP_Grinde",
               "HP_napilnik"
             ]
           },
@@ -1909,6 +1909,7 @@
             ],
             "AttachmentsNeed": [
               "HP_Vise",
+              "HP_Oiler",
               "HP_Drill",
               "HP_Grinde",
               "HP_Anvil",
@@ -2227,7 +2228,7 @@
             ],
             "AttachmentsNeed": [
               "HP_Anvil",
-              "HP_Grinde"
+              "HP_Vise"
             ]
           },
           {
@@ -2282,7 +2283,7 @@
             ],
             "AttachmentsNeed": [
               "HP_Anvil",
-              "HP_Grinde",
+              "HP_Drill",
               "HP_Vise"
             ]
           },
@@ -2964,7 +2965,8 @@
               }
             ],
             "AttachmentsNeed": [
-              "HP_Anvil"
+              "HP_Anvil",
+              "HP_Vise"
             ]
           },
           {
@@ -3031,7 +3033,8 @@
             ],
             "AttachmentsNeed": [
               "HP_Anvil",
-              "HP_Vise"
+              "HP_Vise",
+              "HP_Drill"
             ]
           },
           {
@@ -3105,7 +3108,8 @@
             "AttachmentsNeed": [
               "HP_Anvil",
               "HP_Drill",
-              "HP_Vise"
+              "HP_Vise",
+              "HP_Grinde"
             ]
           }
         ]
@@ -3176,7 +3180,8 @@
               }
             ],
             "AttachmentsNeed": [
-              "HP_Anvil"
+              "HP_Anvil",
+              "HP_Vise"
             ]
           },
           {
@@ -3243,7 +3248,8 @@
             ],
             "AttachmentsNeed": [
               "HP_Anvil",
-              "HP_Vise"
+              "HP_Vise",
+              "HP_Drill"
             ]
           },
           {
@@ -3317,7 +3323,8 @@
             "AttachmentsNeed": [
               "HP_Anvil",
               "HP_Drill",
-              "HP_Vise"
+              "HP_Vise",
+              "HP_Grinde"
             ]
           }
         ]
