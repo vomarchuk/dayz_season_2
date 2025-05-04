@@ -16740,9 +16740,10 @@
 	Events-->
 
 	<group name="StaticObj_Wreck_Train_Wagon_Flat_DE" lootmax="2">
-		<usage name="Industrial" />
+		<usage name="TrainCrash"/>
+		<!-- <usage name="Industrial" />
 		<usage name="Town" />
-		<usage name="Village" />
+		<usage name="Village" /> -->
 		<container name="lootFloor" lootmax="2">
 			<category name="tools" />
 			<category name="containers" />
@@ -16786,9 +16787,10 @@
 		</container>
 	</group>
 	<group name="StaticObj_Train_Wagon_Flat_Industrial_Planks_DE" lootmax="2">
-		<usage name="Industrial" />
+		<usage name="TrainCrash"/>
+		<!-- <usage name="Industrial" />
 		<usage name="Town" />
-		<usage name="Village" />
+		<usage name="Village" /> -->
 		<container name="lootFloor" lootmax="2">
 			<category name="tools" />
 			<category name="containers" />
@@ -16813,9 +16815,10 @@
 		</dispatch>
 	</group>
 	<group name="StaticObj_Train_Wagon_Flat_Industrial_Barrels_DE" lootmax="2">
-		<usage name="Industrial" />
+		<usage name="TrainCrash"/>
+		<!-- <usage name="Industrial" />
 		<usage name="Town" />
-		<usage name="Village" />
+		<usage name="Village" /> -->
 		<container name="loot" lootmax="2">
 			<category name="tools" />
 			<category name="clothes" />
@@ -16839,9 +16842,10 @@
 		</dispatch>
 	</group>
 	<group name="StaticObj_Wreck_Train_Wagon_Tanker_DE" lootmax="2">
-		<usage name="Industrial" />
+		<usage name="TrainCrash"/>
+		<!-- <usage name="Industrial" />
 		<usage name="Town" />
-		<usage name="Village" />
+		<usage name="Village" /> -->
 		<container name="lootFloor" lootmax="2">
 			<category name="tools" />
 			<category name="containers" />
@@ -16873,8 +16877,9 @@
 		</container>
 	</group>
 	<group name="StaticObj_Wreck_Train_742_Blue_DE" lootmax="2">
-		<usage name="Industrial" />
-		<usage name="Village" />
+		<usage name="TrainCrash"/>
+		<!-- <usage name="Industrial" /> -->
+		<!-- <usage name="Village" /> -->
 		<container name="lootFloor" lootmax="2">
 			<category name="tools" />
 			<category name="containers" />
@@ -16892,8 +16897,9 @@
 		</container>
 	</group>
 	<group name="StaticObj_Wreck_Train_742_Red_DE" lootmax="2">
-		<usage name="Industrial" />
-		<usage name="Village" />
+		<usage name="TrainCrash"/>
+		<!-- <usage name="Industrial" /> -->
+		<!-- <usage name="Village" /> -->
 		<container name="lootFloor" lootmax="2">
 			<category name="tools" />
 			<category name="containers" />
@@ -16966,8 +16972,9 @@
 		</container>
 	</group>
 	<group name="Land_Train_Wagon_Box_DE" lootmax="2">
-		<usage name="Industrial" />
-		<usage name="Village" />
+		<usage name="TrainCrash"/>
+		<!-- <usage name="Industrial" /> -->
+		<!-- <usage name="Village" /> -->
 		<container name="lootFloor" lootmax="2">
 			<category name="tools" />
 			<category name="clothes" />
@@ -16983,8 +16990,9 @@
 		</container>
 	</group>
 	<group name="Land_Container_1Aoh_DE" lootmax="2">
-		<usage name="Coast" />
-		<usage name="Village" />
+		<!-- <usage name="Coast" />
+		<usage name="Village" /> -->
+		<usage name="TrainCrash"/>
 		<container name="lootFloor" lootmax="2">
 			<category name="tools" />
 			<category name="containers" />
@@ -17001,9 +17009,10 @@
 		</container>
 	</group>
 	<group name="Land_Container_1Bo_DE" lootmax="2">
-		<usage name="Village" />
+		<!-- <usage name="Village" />
 		<usage name="Industrial" />
-		<usage name="Town" />
+		<usage name="Town" /> -->
+		<usage name="TrainCrash"/>
 		<container name="lootFloor" lootmax="2">
 			<category name="tools" />
 			<category name="weapons" />
