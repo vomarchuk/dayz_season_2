@@ -114,7 +114,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_BMP2",
+                    "ClassName": "StaticObj_Wreck_BMP2_DE",
                     "Scale": 1.0,
                     "Position": [
                         9975.820313,
@@ -152,7 +152,7 @@
             "Allow_Helicopter_Reward": 1,
             "Static_Objects": [
                 {
-                    "ClassName": "StaticObj_Wreck_BMP2",
+                    "ClassName": "StaticObj_Wreck_BMP2_DE",
                     "Scale": 1.0,
                     "Position": [
                         2431.000000,
@@ -166,7 +166,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_BMP1",
+                    "ClassName": "StaticObj_Wreck_BMP1_DE",
                     "Scale": 1.0,
                     "Position": [
                         2448.000000,
@@ -194,7 +194,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_T72_Chassis",
+                    "ClassName": "StaticObj_Wreck_T72_Chassis_DE",
                     "Scale": 1.0,
                     "Position": [
                         2461.830078,
@@ -246,7 +246,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_Ural",
+                    "ClassName": "StaticObj_Wreck_Ural_DE",
                     "Scale": 1.0,
                     "Position": [
                         12302.200195,
@@ -274,7 +274,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_Ural",
+                    "ClassName": "StaticObj_Wreck_Ural_DE",
                     "Scale": 1.0,
                     "Position": [
                         12290.299805,
@@ -340,7 +340,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_HMMWV",
+                    "ClassName": "StaticObj_Wreck_HMMWV_DE",
                     "Scale": 1.0,
                     "Position": [
                         545.643005,
@@ -444,7 +444,7 @@
             "Allow_Helicopter_Reward": 1,
             "Static_Objects": [
                 {
-                    "ClassName": "StaticObj_Wreck_BMP1",
+                    "ClassName": "StaticObj_Wreck_BMP1_DE",
                     "Scale": 1.0,
                     "Position": [
                         2684.030029,
@@ -524,7 +524,7 @@
             "Allow_Helicopter_Reward": 1,
             "Static_Objects": [
                 {
-                    "ClassName": "StaticObj_Wreck_Train_742_Red",
+                    "ClassName": "StaticObj_Wreck_Train_742_Red_DE",
                     "Scale": 1.0,
                     "Position": [
                         10222.900391,
@@ -538,7 +538,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_Train_Wagon_Flat",
+                    "ClassName": "StaticObj_Wreck_Train_Wagon_Flat_DE",
                     "Scale": 1.0,
                     "Position": [
                         10216.500000,
@@ -552,7 +552,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_BMP2",
+                    "ClassName": "StaticObj_Wreck_BMP2_DE",
                     "Scale": 1.0,
                     "Position": [
                         10217.200195,
@@ -566,7 +566,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_BMP2",
+                    "ClassName": "StaticObj_Wreck_BMP2_DE",
                     "Scale": 1.0,
                     "Position": [
                         10215.599609,
@@ -580,7 +580,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_HMMWV",
+                    "ClassName": "StaticObj_Wreck_HMMWV_DE",
                     "Scale": 1.0,
                     "Position": [
                         10233.500000,
@@ -646,7 +646,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_Ural",
+                    "ClassName": "StaticObj_Wreck_Ural_DE",
                     "Scale": 1.0,
                     "Position": [
                         14031.099609,
@@ -684,7 +684,7 @@
             "Allow_Helicopter_Reward": 1,
             "Static_Objects": [
                 {
-                    "ClassName": "StaticObj_Wreck_Ural",
+                    "ClassName": "StaticObj_Wreck_Ural_DE",
                     "Scale": 1.0,
                     "Position": [
                         68.106201,
@@ -712,7 +712,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_Ural",
+                    "ClassName": "StaticObj_Wreck_Ural_DE",
                     "Scale": 1.0,
                     "Position": [
                         53.566299,
@@ -740,7 +740,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_BRDM",
+                    "ClassName": "StaticObj_Wreck_BRDM_DE",
                     "Scale": 1.0,
                     "Position": [
                         46.349098,
@@ -934,7 +934,7 @@
             "Allow_Helicopter_Reward": 1,
             "Static_Objects": [
                 {
-                    "ClassName": "StaticObj_Wreck_BMP1",
+                    "ClassName": "StaticObj_Wreck_BMP1_DE",
                     "Scale": 1.0,
                     "Position": [
                         6763.609863,
@@ -948,7 +948,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_BMP2",
+                    "ClassName": "StaticObj_Wreck_BMP2_DE",
                     "Scale": 1.0,
                     "Position": [
                         6784.560059,
@@ -962,7 +962,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_BRDM",
+                    "ClassName": "StaticObj_Wreck_BRDM_DE",
                     "Scale": 1.0,
                     "Position": [
                         6804.129883,
@@ -1028,7 +1028,7 @@
                     ]
                 },
                 {
-                    "ClassName": "StaticObj_Wreck_Ural",
+                    "ClassName": "StaticObj_Wreck_Ural_DE",
                     "Scale": 1.0,
                     "Position": [
                         5247.540039,
@@ -1042,7 +1042,7 @@
                     ]
                 },
                 {
-                    "ClassName": "Land_Wreck_Tractor",
+                    "ClassName": "Land_Wreck_Tractor_DE",
                     "Scale": 1.0,
                     "Position": [
                         5253.180176,
