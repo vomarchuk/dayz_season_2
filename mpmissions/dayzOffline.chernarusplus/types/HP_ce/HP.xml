@@ -55,7 +55,6 @@
         <usage name="Village" />
         <value name="Tier1" />
         <value name="Tier2" />
-
     </type>
     <type name="HP_napilnik">
         <nominal>15</nominal>
