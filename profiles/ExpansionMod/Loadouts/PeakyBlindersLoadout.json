@@ -186,7 +186,7 @@
     ],
     "InventoryCargo": [
         {
-            "ClassName": "CP_CannabisSeedsPackNomad",
+            "ClassName": "CP_CannabisBrickNomad",
             "Include": "",
             "Chance": 0.10,
             "Quantity": {
@@ -200,7 +200,7 @@
             "Sets": []
         },
         {
-            "ClassName": "CP_CannabisSeedsPackSkunk",
+            "ClassName": "CP_CannabisBrickSkunk",
             "Include": "",
             "Chance": 0.10,
             "Quantity": {
@@ -214,7 +214,7 @@
             "Sets": []
         },
         {
-            "ClassName": "CP_CannabisSeedsPackBlackFrost",
+            "ClassName": "CP_CannabisBrickBlackFrost",
             "Include": "",
             "Chance": 0.10,
             "Quantity": {
@@ -228,7 +228,7 @@
             "Sets": []
         },
         {
-            "ClassName": "CP_CannabisSeedsPackBlue",
+            "ClassName": "CP_CannabisBrickBlue",
             "Include": "",
             "Chance": 0.10,
             "Quantity": {
@@ -242,7 +242,7 @@
             "Sets": []
         },
         {
-            "ClassName": "CP_CannabisSeedsPackFuture",
+            "ClassName": "CP_CannabisBrickFuture",
             "Include": "",
             "Chance": 0.10,
             "Quantity": {
@@ -256,7 +256,7 @@
             "Sets": []
         },
         {
-            "ClassName": "CP_CannabisSeedsPackS1",
+            "ClassName": "CP_CannabisBrickS1",
             "Include": "",
             "Chance": 0.10,
             "Quantity": {
@@ -270,7 +270,7 @@
             "Sets": []
         },
         {
-            "ClassName": "CP_CannabisSeedsPackStardawg",
+            "ClassName": "CP_CannabisBrickStardawg",
             "Include": "",
             "Chance": 0.10,
             "Quantity": {
@@ -284,7 +284,7 @@
             "Sets": []
         },
         {
-            "ClassName": "CP_CannabisSeedsPackKush",
+            "ClassName": "CP_CannabisBrickKush",
             "Include": "",
             "Chance": 0.10,
             "Quantity": {
@@ -773,6 +773,81 @@
             "InventoryCargo": [
                 {
                     "ClassName": "Mag_1911_7Rnd",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "WEAPON",
+            "Include": "",
+            "Chance": 0.50,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [],
+            "InventoryAttachments": [
+                {
+                    "SlotName": "Shoulder",
+                    "Items": [
+                        {
+                            "ClassName": "IMP_TommyGun",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [
+                                {
+                                    "SlotName": "",
+                                    "Items": [
+                                        {
+                                            "ClassName": "IMP_TommyGun_Drum_100Rnd",
+                                            "Include": "",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        }
+                                    ]
+                                }
+                            ],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ]
+                }
+            ],
+            "InventoryCargo": [
+                {
+                    "ClassName": "IMP_TommyGun_Drum_100Rnd",
                     "Include": "",
                     "Chance": 1.0,
                     "Quantity": {

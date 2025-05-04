@@ -241,7 +241,7 @@
                     "SlotName": "Shoulder",
                     "Items": [
                         {
-                            "ClassName": "SCWS_M249",
+                            "ClassName": "IMP_PKP_Tactical_Camo",
                             "Include": "",
                             "Chance": 1.0,
                             "Quantity": {
@@ -260,7 +260,7 @@
                                     "SlotName": "",
                                     "Items": [
                                         {
-                                            "ClassName": "SCWS_M249_Magazine",
+                                            "ClassName": "IMP_Mag_PKP_200Rnd",
                                             "Include": "",
                                             "Chance": 1.0,
                                             "Quantity": {
@@ -319,7 +319,7 @@
             ],
             "InventoryCargo": [
                 {
-                    "ClassName": "SCWS_M249_Magazine",
+                    "ClassName": "IMP_Mag_PKP_200Rnd",
                     "Include": "",
                     "Chance": 1.0,
                     "Quantity": {
