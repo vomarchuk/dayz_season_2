@@ -389,8 +389,7 @@
             ]
         }
     ],
-    "InventoryCargo": [
-    ],
+    "InventoryCargo": [],
     "ConstructionPartsBuilt": [],
     "Sets": []
 }
