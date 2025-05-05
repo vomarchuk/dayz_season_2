@@ -38,9 +38,9 @@ class ApartmentMission extends SurvivorMissions
 		//  m_MissionMessage2 = "He told me that he has hidden a seachest with good equipment somewhere in the apartments. A few days ago he barricaded the whole building against the infected.";
 		//  m_MissionMessage3 = "He used to live in one of the apartments\n** "+ m_MissionLocationDir +" of "+ m_MissionLocation+" **\nPlease check if "+SurvivorName+" is still alive. If not, then take his stuff to help you survive.";
 
-		m_MissionMessage1 = SurvivorName + " був одним із моїх найкращих учнів. Ми часто спілкувалися по рації, але тепер я втратив із ним зв'язок.";
-		m_MissionMessage2 = "Він розповідав мені, що сховав сейчест із хорошим спорядженням десь у квартирах. Кілька днів тому він забарикадував цілу будівлю від заражених.";
-		m_MissionMessage3 = "Він жив в одній із квартир\n** " + m_MissionLocationDir + " від " + m_MissionLocation + " **\nБудь ласка, перевірте, чи живий " + SurvivorName + ". Якщо ні, заберіть його речі, щоб вижити.";
+		m_MissionMessage1 = SurvivorName + " був одним із моїх найкращих учнів. Ми часто говорили по рації, але останнім часом зв'язок із ним зник.";
+		m_MissionMessage2 = "Він казав, що заховав скриню із цінним спорядженням десь у квартирах. Кілька днів тому він барикадував цілу будівлю від заражених.";
+		m_MissionMessage3 = "Він жив у квартирі\n** " + m_MissionLocationDir + " від " + m_MissionLocation + " \n**Перевір, чи він ще живий. Якщо ні — забери його речі, щоб вони не пропали марно.";
 
 		// Mission object spawnpoints in mission building
 		Spawnpoints.Insert("8.1257 2.7203 3.1963");

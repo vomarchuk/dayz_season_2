@@ -47,9 +47,9 @@ class GanjaMission extends SurvivorMissions
 		// m_MissionMessage2 = "I think he meant any kind of fermented brew with water, infected ash and pieces of flesh done in a kitchen mixer. The impact on plants grow and bloom was massive. It also seems that it contains a substance other than the native Cannabinoids. I want to extract this substance to see how it acts on the infected.";
 		// m_MissionMessage3 = SurvivorName +" has hidden his herbs in a garage at\n** "+ m_MissionLocation +" **\nHe certainly has locked the garage doors, so try to use a lockpick or shoot them up if you have none.";
 		
-		m_MissionMessage1 = SurvivorName + ", хлопець, який працював на мене, розповів, що він схрестив особливий сорт конопель з різних рослин 'Cannabis ruderalis'. Мені це потрібно для експериментів над зараженими. Він сказав, що удобрював рослини подрібненими зараженими.";  
-		m_MissionMessage2 = "Я думаю, він мав на увазі будь-який ферментований напій з водою, попелом заражених і шматками плоті, змішаними на кухонному міксері. Вплив на ріст і цвітіння рослин був колосальним. Також здається, що це містить речовину, відмінну від природних канабіноїдів. Я хочу виділити цю речовину, щоб побачити, як вона діє на заражених.";  
-		m_MissionMessage3 = SurvivorName + " заховав свої трави в гаражі за адресою\n** " + m_MissionLocation + " **\nВін напевно зачинив двері гаража, тому спробуй використати відмичку або зламати їх, якщо у тебе немає іншого виходу.";  
+		m_MissionMessage1 = SurvivorName + " експериментував із гібридом конопель, удобрюючи їх зараженими. Мені потрібно це для дослідів.";
+		m_MissionMessage2 = "Він казав, що використовував ферментований коктейль із плоті, попелу й води. Вплив на ріст був вражаючим. Можливо, це щось нове.";
+		m_MissionMessage3 = "Він залишив зразки в гаражі за адресою " + m_MissionLocation + " \n**Можеш спробувати зламати двері або скористатися відмичкою.";
 
 
 		//Spawnpoints for MissionCar in Garage 
@@ -529,9 +529,9 @@ class GanjaMission extends SurvivorMissions
 		// m_MissionMessage2 = "Drive to the  ** "+ m_MissionDescription[3] +" Gas Station **\nand bring the Ganjabag to cash desk. "+ SurvivorName +"'s ganja has the highest priority. Please don't steal or smoke any of it by your own because it could be very dangerous.";
 		// m_MissionMessage3 = "I have some things for you at the gas station. Be carefull, there might be bandits on the way to "+ m_MissionDescription[3] +". They could intercepted our little radio talk here. Good luck and drive carefully!";
 		
-		m_MissionMessage1 = " Добре, отже, ви знайшли машину. "+ SurvivorName +", ймовірно, злив все пальне та масло, тож підготуйте машину перед цією довгою поїздкою. Перевірте, чи є каннабіс десь у гаражах, візьміть мішок і покладіть в нього всі 25 шт.";
-		m_MissionMessage2 = "Їдьте до ** "+ m_MissionDescription[3] +" АЗС **\nі принесіть мішок з канабісом до каси. Ганджа "+ SurvivorName +" має найвищий пріоритет. Будь ласка, не крадіть і не куріть самостійно, тому що це може бути дуже небезпечно.";
-		m_MissionMessage3 = "У мене є для вас винагорода на заправці. Будьте обережні, на шляху до "+ m_MissionDescription[3] +" можуть бути бандити. Вони можуть перехопити нашу маленьку радіорозмову. Успіхів тобі!" ;
+		m_MissionMessage1 = "Чудово, ти знайшов машину. " + SurvivorName + " злив паливо й масло — підготуй її до поїздки. Збери всі 25 зразків канабісу в мішок.";
+		m_MissionMessage2 = "Достав мішок до АЗС\n** " + m_MissionDescription[3] + " і залиш його на касі. Будь обережний — це небезпечна речовина.";
+		m_MissionMessage3 = "На заправці буде винагорода. Але обережно — бандити можуть дізнатися про нашу передачу.";
 
 		//init Messenger for new messages
 		m_MsgNum = 1;					//skip msg 0, begin with msg 1
