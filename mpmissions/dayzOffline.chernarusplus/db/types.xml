@@ -18690,10 +18690,10 @@
         <category name="clothes" />
     </type>
     <type name="SodaCan_Cola">
-        <nominal>20</nominal>
+        <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>16</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -18704,10 +18704,10 @@
         <value name="Tier3" />
     </type>
     <type name="SodaCan_Fronta">
-        <nominal>20</nominal>
+        <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>16</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -18718,10 +18718,10 @@
         <value name="Tier3" />
     </type>
     <type name="SodaCan_Kvass">
-        <nominal>20</nominal>
+        <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>16</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -18732,10 +18732,10 @@
         <value name="Tier3" />
     </type>
     <type name="SodaCan_Pipsi">
-        <nominal>20</nominal>
+        <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>16</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -18746,10 +18746,10 @@
         <value name="Tier3" />
     </type>
     <type name="SodaCan_Spite">
-        <nominal>20</nominal>
+        <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>16</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20728,7 +20728,6 @@
         <usage name="Town" />
         <usage name="Village" />
         <usage name="Office" />
-        <usage name="Prison" />
     </type>
     <type name="UnknownFoodCan_Opened">
         <nominal>0</nominal>
