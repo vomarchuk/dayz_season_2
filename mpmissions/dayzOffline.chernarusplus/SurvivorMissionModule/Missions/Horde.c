@@ -32,9 +32,9 @@ class HordeMission extends SurvivorMissions
 		// m_MissionMessage2 = "He maid it to a house in a village near the crash site. He is well equiped and he think he will stay in the house over the night where he treats his open wounds.";
 		// m_MissionMessage3 = "The house is at the ** "+ m_MissionLocationDir +" side of "+ m_MissionLocation +" **\nBe careful there may be infected and other survivors who want his equipment!";
 		
-		m_MissionMessage1 = "Я отримав екстрений виклик від пілота вертольота, який розбився десь у лісах. Він поранений, але ще живий. Він боявся, що заражені скоро його знайдуть.";  
-		m_MissionMessage2 = "Йому вдалося дістатися до будинку в селі неподалік місця аварії. Він добре оснащений і думає залишитися в цьому будинку на ніч, щоб обробити свої відкриті рани.";  
-		m_MissionMessage3 = "Будинок знаходиться з ** " + m_MissionLocationDir + " боку " + m_MissionLocation + " **\nБудь обережний, там можуть бути заражені та інші виживші, які хочуть заволодіти його спорядженням!";  
+		m_MissionMessage1 = "Пілот вертольота подав сигнал SOS. Його поранили, але він ще живий. Заражені вже шукають його.";
+		m_MissionMessage2 = "Він дістався будинку поблизу. Хоче залишитися там на ніч, щоб обробити рани.";
+		m_MissionMessage3 = "Будинок розташований " + m_MissionLocationDir + " від " + m_MissionLocation + " \n**Обережно, поруч можуть бути заражені й мародери.";
 
 
 		//Infected types

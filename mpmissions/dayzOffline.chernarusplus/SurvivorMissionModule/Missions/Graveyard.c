@@ -37,9 +37,9 @@ class GraveyardMission extends SurvivorMissions
 		// m_MissionMessage2 = "He was one of the Soviet Army officers in Chernarus. "+ SurvivorName +" told me that he lost over 2000 men here and will never give up the fight against the infection as long as he lives. He got infected while securing residents of "+ m_MissionLocation +".";
 		// m_MissionMessage3 = "He hided some equipment at the graveyard of\n** "+ m_MissionLocation +", "+ m_MissionLocationDir +" near the church **\nI think someone should get his lagcy. He burried it anywhere near the graves. You need atleast a shovel. Take care!";
 		
-		m_MissionMessage1 = "Я щойно отримав повідомлення, що командир Сил оборони Чернорусі генерал-майор " + SurvivorName + " не пережив своє зараження.";  
-		m_MissionMessage2 = "Він був одним із офіцерів Української Армії в Чернорусі. " + SurvivorName + " розповів, що втратив понад 200 людей тут і ніколи не припинить боротися з росією, поки буде живий. Він заразився, захищаючи мешканців " + m_MissionLocation + ".";  
-		m_MissionMessage3 = "Він сховав спорядження на кладовищі за адресою\n** " + m_MissionLocation + ", " + m_MissionLocationDir + " поблизу церкви **\nЯ думаю, хтось повинен забрати його спадщину. Він закопав це десь поруч із могилами. Тобі знадобиться хоча б лопата. Бережи себе!";  
+		m_MissionMessage1 = "Генерал " + SurvivorName + ", офіцер Сил оборони Чернорусі, помер від зараження.";
+		m_MissionMessage2 = "Він втратив понад 200 бійців, але до кінця залишався вірним. Заразився, захищаючи жителів " + m_MissionLocation + ".";
+		m_MissionMessage3 = "Він сховав спорядження на кладовищі біля церкви\n** " + m_MissionLocation + ", " + m_MissionLocationDir + " \n**Шукай його десь в одній з могил.";
 
 
 		//Infected spawnpoints

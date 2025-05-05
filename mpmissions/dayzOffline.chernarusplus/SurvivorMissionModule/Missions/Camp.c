@@ -40,9 +40,9 @@ class CampMission extends SurvivorMissions
         // m_MissionMessage2 = "His daughter is infected,  He looks after her sometimes. About 5 hours ago, he told me that he has found  stuff in some houses of "+ m_MissionLocation +" and was attacked on the way back to his camp but wasn't injured.";
         // m_MissionMessage3 = "I think he said that he recently pitched up his tent\n "+ m_MissionLocationDir +" of "+ m_MissionLocation +" \nI am very worried, I would really appreciate it if you could go look after him. Be-Careful, he uses traps to protect his place!";		
 				
-		m_MissionMessage1 = "Мій друг " + SurvivorName + " не виходив на зв'язок по рації вже 2 години. Він відмінно вміє виживати на природі, і я хвилююся, чи з ним усе гаразд.";
-		m_MissionMessage2 = "Його дочка заражена, він інколи доглядає за нею. Близько 5 годин тому він сказав мені, що знайшов деякі речі в будинках поблизу " + m_MissionLocation + " і був атакований дорогою назад до табору, але не отримав поранень.";
-		m_MissionMessage3 = "Я думаю, він казав, що недавно поставив свій намет\n " + m_MissionLocationDir + " від " + m_MissionLocation + " \nЯ дуже хвилююся, буду вдячний, якщо ти зможеш перевірити, як він. Будь обережний, він використовує пастки, щоб захищати своє місце!";
+		m_MissionMessage1 = "Мій друг " + SurvivorName + " мовчить по рації вже понад 2 години. Він добре знає, як виживати, але я непокоюся.";
+		m_MissionMessage2 = "Його дочка заражена, він іноді піклується про неї. Востаннє казав, що шукав припаси поблизу " + m_MissionLocation + " і був атакований дорогою назад.";
+		m_MissionMessage3 = "Він ставив намет" + m_MissionLocationDir + " від " + m_MissionLocation + "\n**Можеш перевірити, чи з ним усе добре? Але остерігайся пасток!";
 
 
 		//Infected spawnpoints

@@ -9,8 +9,8 @@ class UrbanMallMission extends SurvivorMissions
 	ref TStringArray FoodTypes = {"SpaghettiCan","BakedBeansCan","SardinesCan","TunaCan","PeachesCan","TacticalBaconCan","Marmalade"};
 	
 	//Mission parameters
-	int ReqFoodAmount = 10;					//cans of food 
-	int ReqMedAmount = 4;					//packets of antibiotics
+	int ReqFoodAmount = Math.RandomInt(7, 13);;					//cans of food 
+	int ReqMedAmount = Math.RandomInt(2, 7);;					//packets of antibiotics
 	int ExtendedTimout = 1800;				//seconds, mission duration time for extended mission
 	int MsgDlyFinish = 60;					//seconds, message delay time after player has finished mission
 	
@@ -58,9 +58,9 @@ class UrbanMallMission extends SurvivorMissions
 		// m_MissionMessage2 = "Yesterday I found out that the city mall of\n** "+ m_MissionLocation +" **\nis barricaded and probably has some food inside. But there were too many infected around, i wasn't able to check the Supermarket.";
 		// m_MissionMessage3 = "She immediately needs following things:\n- "+ ReqFoodAmount +" cans of food\n- "+ ReqMedAmount +" packets of antibiotics\nPlease help me to support Ms. "+ SurvivorName +" with these life essentials for the kids. Be careful!";
 		
-		m_MissionMessage1 = "Пані " + SurvivorName + ", вчителька молодших класів, розповіла мені, що вона врятувала декількох дітей зі свого класу від їхніх заражених родин. Я пообіцяла їй допомогти з пошуком їжі та інших медичних припасів для дітей.";  
-		m_MissionMessage2 = "Учора я дізналася, що торговий центр у місті\n** " + m_MissionLocation + " **\nзабарикадований і, ймовірно, всередині є їжа. Але там було занадто багато заражених, і я не змогла перевірити супермаркет.";  
-		m_MissionMessage3 = "Їй терміново потрібні наступні речі:\n- " + ReqFoodAmount + " консервів\n- " + ReqMedAmount + " пакунків антибіотиків\nБудь ласка, допоможи мені забезпечити пані " + SurvivorName + " цими життєво необхідними речами для дітей. Будь обережний!";  
+		m_MissionMessage1 = "Пані " + SurvivorName + ", вчителька молодших класів, врятувала кількох дітей від заражених родичів. Я пообіцяв допомогти з їжею й ліками.";
+		m_MissionMessage2 = "Схоже, у " + m_MissionLocation + " \n**є забарикадований магазин з їжею, але заражених там було надто багато.";
+		m_MissionMessage3 = "Їй терміново потрібно: " + ReqFoodAmount + " консервів та" + ReqMedAmount + " упаковок антибіотиків\n**Допоможи забезпечити дітей. І будь обережний.";
 
 
 		//Spawnpoints for antibiotics in store (cash desk)
@@ -648,9 +648,9 @@ class UrbanMallMission extends SurvivorMissions
 		// m_MissionMessage2 = "I think the best will be if you could deposit the supplies in the lunch room of the\n** "+ m_MissionDescription[3] +" **  police department and put all into the orange backpack I left there. I will check it in one hour and try to contact her on radio.";
 		// m_MissionMessage3 = "I will give you a lockpick, try to get to the armory room and lock it up. Everything is in there. Be careful, there might be bandits around "+ m_MissionDescription[3] +". They could intercepted our little radio talk here. Good luck!";
 		
-		m_MissionMessage1 = " Добре, ви знайшли припаси, спробуйте вибратися звідти. Пані "+ SurvivorName +" ніколи не розповідала мені про своє місцезнаходження, тому що вона хоче бути в повній безпеці від бандитів і мародерів.";
-		m_MissionMessage2 = "Я думаю, що найкраще буде, якби ви могли залишити припаси у поліцейському відділу\n** "+ m_MissionDescription[3] +" ** і покласти все у скриню, який я там залишила. Я перевірю це через годину і спробую зв'язатися з нею по радіо.";
-		m_MissionMessage3 = "Я дам тобі відмичку, спробуй потрапити в збройову кімнату і замкни її. Там все є. Будь обережний, навколо можуть бути бандити "+ m_MissionDescription[3] +". Вони можуть перехопити нашу розмову по радіо. Удачі!";
+		m_MissionMessage1 = "Добре, ти знайшов усе необхідне. Постарайся вибратись звідти безпечно. Пані " + SurvivorName + " не повідомляє своє місцезнаходження, щоби уникнути небезпеки.";
+		m_MissionMessage2 = "Залиши речі в поліцейському відділку\n** " + m_MissionDescription[3] + "  у помаранчевому рюкзаку. Я перевірю його і передам усе їй.";
+		m_MissionMessage3 = "Будь пильний, поблизу можуть бути бандити. Вони перехоплюють радіозв’язок. Удачі!";
 
 		//init Messenger for new messages
 		m_MsgNum = 1;					//skip msg 0, begin with msg 1
