@@ -18237,6 +18237,7 @@
 		<container name="lootFloor">
 			<category name="clothes" />
 			<category name="tools" />
+			<category name="MedicalTools" />
 			<tag name="floor" />
 			<tag name="ground" />
 			<point pos="0.002854  0.438721  0.542980" range="0.134375" height="0.335938" />
@@ -18700,6 +18701,7 @@
 		<container name="lootFloor" lootmax="10">
 			<category name="tools" />
 			<category name="clothes" />
+			<category name="MedicalTools" />
 			<point pos="9.824950 0.859985 -3.071290" range="0.100000" height="0.250000" />
 			<point pos="9.788695 0.859985 -2.134279" range="0.134375" height="0.264999" />
 			<point pos="9.776732 0.479980 -1.469240" range="0.134375" height="0.264999" />
@@ -18730,6 +18732,7 @@
 		<container name="lootFloor" lootmax="10">
 			<category name="tools" />
 			<category name="clothes" />
+			<category name="MedicalTools" />
 			<point pos="-1.534424 0.849976 -0.304383" range="0.306250" height="0.765625" flags="16" />
 			<point pos="-0.645264 0.849976 -0.289978" range="0.443750" height="1.109375" flags="16" />
 			<point pos="0.729126 0.849976 -0.325195" range="0.409375" height="1.023438" flags="16" />
@@ -19519,6 +19522,7 @@
 			<category name="tools" />
 			<category name="containers" />
 			<category name="clothes" />
+			<category name="MedicalTools" />
 			<tag name="floor" />
 			<point pos="2.306692  0.034348  -4.021999" range="0.588774" height="1.887747" />
 			<point pos="-2.593843  0.007935  -1.565939" range="0.704102" height="1.760254" />
@@ -19532,6 +19536,7 @@
 			<category name="containers" />
 			<category name="clothes" />
 			<category name="books" />
+			<category name="MedicalTools" />
 			<tag name="shelves" />
 			<point pos="-0.943681  1.240356  -4.663615" range="0.100000" height="0.250000" />
 			<point pos="-1.474617  0.722397  1.206423" range="0.100000" height="0.250000" />
