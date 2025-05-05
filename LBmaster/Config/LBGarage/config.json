@@ -77,11 +77,11 @@
             "canSellVehiclesAtAdminPlaced": 1,
             "addKeyToBoughtVehicle": 0,
             "canRepaintVehicles": 1,
-            "canRepairVehicle": 0,
+            "canRepairVehicle": 1,
             "baseVehicleRepairCost": 10000.0,
             "singleAttachmentRepairCost": 1000.0,
-            "canRepairVehicleAttachments": 0,
-            "canRepairRuinedAttachments": 0,
+            "canRepairVehicleAttachments": 1,
+            "canRepairRuinedAttachments": 1,
             "canRefuelVehicle": 1,
             "fuelCostPerLiter": 25.0,
             "waterCoolantCostPerLiter": 15.0,
@@ -185,24 +185,24 @@
         {
             "traderItemClassname": "Garage_Sign",
             "objectPosition": [
-                8216.9111328125,
-                469.6372985839844,
-                9050.34765625
+                3722.645751953125,
+                402.0528869628906,
+                5999.68603515625
             ],
             "objectOrientation": [
-                331.434326171875,
+                408.43017578125,
                 0.0,
                 0.0
             ],
             "vehicleSpawnPosition": [
-                8212.9697265625,
-                470.08929443359377,
-                9056.0
+                3730.879150390625,
+                402.3064880371094,
+                5998.14892578125
             ],
             "vehicleSpawnOrientation": [
-                -114.11642456054688,
-                0.9679518342018127,
-                -3.4417929649353029
+                -40.982112884521487,
+                -1.6982085704803467,
+                -1.2557216882705689
             ],
             "cameraDistance": 8.0,
             "cameraRotation": 45.0,
@@ -241,33 +241,555 @@
             "groupTraderGroupname": "Ground Vehicles"
         },
         {
-            "traderItemClassname": "Garage_Sign",
+            "traderItemClassname": "Garage_Sign_2",
             "objectPosition": [
-                3722.93994140625,
-                402.05609130859377,
-                5999.53369140625
+                8219.3701171875,
+                469.60101318359377,
+                9051.400390625
             ],
             "objectOrientation": [
-                412.58001708984377,
+                331.4110107421875,
                 0.0,
                 0.0
             ],
             "vehicleSpawnPosition": [
-                3728.53271484375,
-                402.1940002441406,
-                6000.283203125
+                8215.7197265625,
+                470.0119934082031,
+                9057.7900390625
             ],
             "vehicleSpawnOrientation": [
-                -36.72454071044922,
-                -3.3726019859313967,
-                -0.05421216040849686
+                -104.93299865722656,
+                1.5053000450134278,
+                -3.2431800365448
+            ],
+            "cameraDistance": 8.0,
+            "cameraRotation": 43.5,
+            "cameraAngle": 28.5,
+            "blackboxPreview": 0,
+            "personalTraderGroupname": "Ground Vehicles",
+            "groupTraderGroupname": "Ground Vehicles"
+        },
+        {
+            "traderItemClassname": "Garage_Sign",
+            "objectPosition": [
+                2698.755126953125,
+                210.97000122070313,
+                5596.69921875
+            ],
+            "objectOrientation": [
+                276.5771179199219,
+                0.0,
+                0.0
+            ],
+            "vehicleSpawnPosition": [
+                2692.36962890625,
+                211.08973693847657,
+                5593.6787109375
+            ],
+            "vehicleSpawnOrientation": [
+                -91.62884521484375,
+                -2.847577036391158e-7,
+                -0.000010013862265623175
             ],
             "cameraDistance": 8.0,
             "cameraRotation": 45.0,
             "cameraAngle": 30.0,
             "blackboxPreview": 0,
-            "personalTraderGroupname": "Ground Vehicles",
-            "groupTraderGroupname": "Ground Vehicles"
+            "personalTraderGroupname": "Personal Vehicles",
+            "groupTraderGroupname": "Personal Vehicles"
+        },
+        {
+            "traderItemClassname": "Garage_Sign",
+            "objectPosition": [
+                1120.3753662109376,
+                5.535877227783203,
+                2414.35302734375
+            ],
+            "objectOrientation": [
+                513.6729125976563,
+                0.0,
+                0.0
+            ],
+            "vehicleSpawnPosition": [
+                1121.6007080078126,
+                5.608695983886719,
+                2408.824951171875
+            ],
+            "vehicleSpawnOrientation": [
+                63.748016357421878,
+                0.6541355848312378,
+                -0.9187581539154053
+            ],
+            "cameraDistance": 8.0,
+            "cameraRotation": 45.0,
+            "cameraAngle": 30.0,
+            "blackboxPreview": 0,
+            "personalTraderGroupname": "Personal Vehicles",
+            "groupTraderGroupname": "Personal Vehicles"
+        },
+        {
+            "traderItemClassname": "Garage_Sign",
+            "objectPosition": [
+                5860.61376953125,
+                9.18555736541748,
+                2209.485595703125
+            ],
+            "objectOrientation": [
+                524.8300170898438,
+                0.0,
+                0.0
+            ],
+            "vehicleSpawnPosition": [
+                5863.197265625,
+                9.02029800415039,
+                2201.3359375
+            ],
+            "vehicleSpawnOrientation": [
+                71.48991394042969,
+                0.1691417545080185,
+                0.023933513090014459
+            ],
+            "cameraDistance": 8.0,
+            "cameraRotation": 45.0,
+            "cameraAngle": 30.0,
+            "blackboxPreview": 0,
+            "personalTraderGroupname": "Personal Vehicles",
+            "groupTraderGroupname": "Personal Vehicles"
+        },
+        {
+            "traderItemClassname": "Garage_Sign",
+            "objectPosition": [
+                6874.30517578125,
+                7.413281440734863,
+                3090.989990234375
+            ],
+            "objectOrientation": [
+                498.67431640625,
+                0.0,
+                0.0
+            ],
+            "vehicleSpawnPosition": [
+                6875.748046875,
+                7.324673652648926,
+                3080.955810546875
+            ],
+            "vehicleSpawnOrientation": [
+                -126.06806182861328,
+                0.1349315196275711,
+                0.18525326251983643
+            ],
+            "cameraDistance": 8.0,
+            "cameraRotation": 45.0,
+            "cameraAngle": 30.0,
+            "blackboxPreview": 0,
+            "personalTraderGroupname": "Personal Vehicles",
+            "groupTraderGroupname": "Personal Vehicles"
+        },
+        {
+            "traderItemClassname": "Garage_Sign",
+            "objectPosition": [
+                9516.2900390625,
+                5.579649925231934,
+                2003.262939453125
+            ],
+            "objectOrientation": [
+                274.7669372558594,
+                0.0,
+                0.0
+            ],
+            "vehicleSpawnPosition": [
+                9508.8193359375,
+                5.69957971572876,
+                2007.2252197265626
+            ],
+            "vehicleSpawnOrientation": [
+                2.7553024291992189,
+                -1.525755763053894,
+                -0.07342012971639633
+            ],
+            "cameraDistance": 8.0,
+            "cameraRotation": 45.0,
+            "cameraAngle": 30.0,
+            "blackboxPreview": 0,
+            "personalTraderGroupname": "Personal Vehicles",
+            "groupTraderGroupname": "Personal Vehicles"
+        },
+        {
+            "traderItemClassname": "Garage_Sign",
+            "objectPosition": [
+                13373.3505859375,
+                4.277717590332031,
+                6609.712890625
+            ],
+            "objectOrientation": [
+                432.676513671875,
+                0.0,
+                0.0
+            ],
+            "vehicleSpawnPosition": [
+                13381.0341796875,
+                4.6255998611450199,
+                6613.4287109375
+            ],
+            "vehicleSpawnOrientation": [
+                69.87564849853516,
+                0.026288196444511415,
+                0.07174137979745865
+            ],
+            "cameraDistance": 8.0,
+            "cameraRotation": 45.0,
+            "cameraAngle": 30.0,
+            "blackboxPreview": 0,
+            "personalTraderGroupname": "Personal Vehicles",
+            "groupTraderGroupname": "Personal Vehicles"
+        },
+        {
+            "traderItemClassname": "Garage_Sign",
+            "objectPosition": [
+                12981.388671875,
+                6.092815399169922,
+                10081.876953125
+            ],
+            "objectOrientation": [
+                460.329345703125,
+                0.0,
+                0.0
+            ],
+            "vehicleSpawnPosition": [
+                12989.005859375,
+                6.0,
+                10088.01171875
+            ],
+            "vehicleSpawnOrientation": [
+                89.8089828491211,
+                3.339811982527863e-8,
+                0.00001001785585685866
+            ],
+            "cameraDistance": 8.0,
+            "cameraRotation": 45.0,
+            "cameraAngle": 30.0,
+            "blackboxPreview": 0,
+            "personalTraderGroupname": "Personal Vehicles",
+            "groupTraderGroupname": "Personal Vehicles"
+        },
+        {
+            "traderItemClassname": "Garage_Sign",
+            "objectPosition": [
+                13574.93359375,
+                34.220088958740237,
+                13308.86328125
+            ],
+            "objectOrientation": [
+                310.82525634765627,
+                0.0,
+                0.0
+            ],
+            "vehicleSpawnPosition": [
+                13567.765625,
+                34.39423370361328,
+                13313.369140625
+            ],
+            "vehicleSpawnOrientation": [
+                -47.30532455444336,
+                0.05613675341010094,
+                0.051791805773973468
+            ],
+            "cameraDistance": 8.0,
+            "cameraRotation": 45.0,
+            "cameraAngle": 30.0,
+            "blackboxPreview": 0,
+            "personalTraderGroupname": "Personal Vehicles",
+            "groupTraderGroupname": "Personal Vehicles"
+        },
+        {
+            "traderItemClassname": "Garage_Sign",
+            "objectPosition": [
+                7470.69189453125,
+                121.01536560058594,
+                12655.828125
+            ],
+            "objectOrientation": [
+                491.6026611328125,
+                0.0,
+                0.0
+            ],
+            "vehicleSpawnPosition": [
+                7475.23583984375,
+                121.0206069946289,
+                12652.158203125
+            ],
+            "vehicleSpawnOrientation": [
+                -165.13638305664063,
+                0.5711262226104736,
+                0.2305660992860794
+            ],
+            "cameraDistance": 8.0,
+            "cameraRotation": 45.0,
+            "cameraAngle": 30.0,
+            "blackboxPreview": 0,
+            "personalTraderGroupname": "Personal Vehicles",
+            "groupTraderGroupname": "Personal Vehicles"
+        },
+        {
+            "traderItemClassname": "Garage_Sign",
+            "objectPosition": [
+                10747.162109375,
+                144.33493041992188,
+                10781.0107421875
+            ],
+            "objectOrientation": [
+                299.7105712890625,
+                0.0,
+                0.0
+            ],
+            "vehicleSpawnPosition": [
+                10742.2919921875,
+                144.33543395996095,
+                10776.458984375
+            ],
+            "vehicleSpawnOrientation": [
+                -66.37008666992188,
+                -0.44613903760910036,
+                -0.6954250931739807
+            ],
+            "cameraDistance": 8.0,
+            "cameraRotation": 45.0,
+            "cameraAngle": 30.0,
+            "blackboxPreview": 0,
+            "personalTraderGroupname": "Personal Vehicles",
+            "groupTraderGroupname": "Personal Vehicles"
+        },
+        {
+            "traderItemClassname": "Garage_Sign",
+            "objectPosition": [
+                10449.935546875,
+                223.2426300048828,
+                8885.05078125
+            ],
+            "objectOrientation": [
+                507.2867431640625,
+                0.0,
+                0.0
+            ],
+            "vehicleSpawnPosition": [
+                10457.81640625,
+                223.36439514160157,
+                8885.10546875
+            ],
+            "vehicleSpawnOrientation": [
+                -123.23710632324219,
+                0.2093721628189087,
+                0.3194983899593353
+            ],
+            "cameraDistance": 8.0,
+            "cameraRotation": 45.0,
+            "cameraAngle": 30.0,
+            "blackboxPreview": 0,
+            "personalTraderGroupname": "Personal Vehicles",
+            "groupTraderGroupname": "Personal Vehicles"
+        },
+        {
+            "traderItemClassname": "Garage_Sign",
+            "objectPosition": [
+                10128.556640625,
+                229.68846130371095,
+                5200.10546875
+            ],
+            "objectOrientation": [
+                511.22198486328127,
+                0.0,
+                0.0
+            ],
+            "vehicleSpawnPosition": [
+                10137.3603515625,
+                229.8572540283203,
+                5195.2646484375
+            ],
+            "vehicleSpawnOrientation": [
+                115.76343536376953,
+                -0.0000043543477659113709,
+                0.000009022092854138464
+            ],
+            "cameraDistance": 8.0,
+            "cameraRotation": 45.0,
+            "cameraAngle": 30.0,
+            "blackboxPreview": 0,
+            "personalTraderGroupname": "Personal Vehicles",
+            "groupTraderGroupname": "Personal Vehicles"
+        },
+        {
+            "traderItemClassname": "Garage_Sign",
+            "objectPosition": [
+                5854.2958984375,
+                277.5317687988281,
+                10117.3935546875
+            ],
+            "objectOrientation": [
+                228.3253631591797,
+                0.0,
+                0.0
+            ],
+            "vehicleSpawnPosition": [
+                5852.56591796875,
+                278.0093994140625,
+                10112.3857421875
+            ],
+            "vehicleSpawnOrientation": [
+                -58.51602554321289,
+                -0.7327575087547302,
+                1.3426332473754883
+            ],
+            "cameraDistance": 8.0,
+            "cameraRotation": 45.0,
+            "cameraAngle": 30.0,
+            "blackboxPreview": 0,
+            "personalTraderGroupname": "Personal Vehicles",
+            "groupTraderGroupname": "Personal Vehicles"
+        },
+        {
+            "traderItemClassname": "Garage_Sign",
+            "objectPosition": [
+                4345.9677734375,
+                176.83123779296876,
+                13085.384765625
+            ],
+            "objectOrientation": [
+                222.69659423828126,
+                0.0,
+                0.0
+            ],
+            "vehicleSpawnPosition": [
+                4341.28466796875,
+                177.07559204101563,
+                13079.31640625
+            ],
+            "vehicleSpawnOrientation": [
+                108.49348449707031,
+                -0.38649317622184756,
+                -0.04875849559903145
+            ],
+            "cameraDistance": 8.0,
+            "cameraRotation": 45.0,
+            "cameraAngle": 30.0,
+            "blackboxPreview": 0,
+            "personalTraderGroupname": "Personal Vehicles",
+            "groupTraderGroupname": "Personal Vehicles"
+        },
+        {
+            "traderItemClassname": "Garage_Sign",
+            "objectPosition": [
+                3028.723876953125,
+                209.5736541748047,
+                12653.1904296875
+            ],
+            "objectOrientation": [
+                268.67138671875,
+                0.0,
+                0.0
+            ],
+            "vehicleSpawnPosition": [
+                3023.94384765625,
+                209.90968322753907,
+                12649.248046875
+            ],
+            "vehicleSpawnOrientation": [
+                179.47512817382813,
+                -1.3888427019119263,
+                -1.5144234895706177
+            ],
+            "cameraDistance": 8.0,
+            "cameraRotation": 45.0,
+            "cameraAngle": 30.0,
+            "blackboxPreview": 0,
+            "personalTraderGroupname": "Personal Vehicles",
+            "groupTraderGroupname": "Personal Vehicles"
+        },
+        {
+            "traderItemClassname": "Garage_Sign",
+            "objectPosition": [
+                3664.411376953125,
+                311.4977111816406,
+                9003.533203125
+            ],
+            "objectOrientation": [
+                311.1026611328125,
+                0.0,
+                0.0
+            ],
+            "vehicleSpawnPosition": [
+                3656.349609375,
+                311.708984375,
+                9004.2783203125
+            ],
+            "vehicleSpawnOrientation": [
+                -135.30674743652345,
+                -1.2466450929641724,
+                -0.8033617734909058
+            ],
+            "cameraDistance": 8.0,
+            "cameraRotation": 45.0,
+            "cameraAngle": 30.0,
+            "blackboxPreview": 0,
+            "personalTraderGroupname": "Personal Vehicles",
+            "groupTraderGroupname": "Personal Vehicles"
+        },
+        {
+            "traderItemClassname": "Garage_Sign",
+            "objectPosition": [
+                2996.7490234375,
+                342.4421691894531,
+                7483.0439453125
+            ],
+            "objectOrientation": [
+                226.02828979492188,
+                0.0,
+                0.0
+            ],
+            "vehicleSpawnPosition": [
+                2996.450439453125,
+                342.63494873046877,
+                7476.36279296875
+            ],
+            "vehicleSpawnOrientation": [
+                -55.902645111083987,
+                0.19381920993328095,
+                -0.4222790002822876
+            ],
+            "cameraDistance": 8.0,
+            "cameraRotation": 45.0,
+            "cameraAngle": 30.0,
+            "blackboxPreview": 0,
+            "personalTraderGroupname": "Personal Vehicles",
+            "groupTraderGroupname": "Personal Vehicles"
+        },
+        {
+            "traderItemClassname": "Garage_Sign",
+            "objectPosition": [
+                4725.06982421875,
+                281.72613525390627,
+                6386.36083984375
+            ],
+            "objectOrientation": [
+                521.044677734375,
+                0.0,
+                0.0
+            ],
+            "vehicleSpawnPosition": [
+                4729.8740234375,
+                282.24176025390627,
+                6382.1513671875
+            ],
+            "vehicleSpawnOrientation": [
+                -109.29961395263672,
+                -0.0000033110034109995469,
+                -0.000009454937753616833
+            ],
+            "cameraDistance": 8.0,
+            "cameraRotation": 45.0,
+            "cameraAngle": 30.0,
+            "blackboxPreview": 0,
+            "personalTraderGroupname": "Personal Vehicles",
+            "groupTraderGroupname": "Personal Vehicles"
         }
     ]
 }

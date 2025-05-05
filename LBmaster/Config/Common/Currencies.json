@@ -1,51 +1,51 @@
 {
     "version": 3,
     "thousandsSeparator": ".",
-    "currencyPrefix": "UAH ",
+    "currencyPrefix": "€ ",
     "currencySuffix": "",
     "currencyValues": [
         {
-            "itemclassname": "TD_GRN2014_money1",
+            "itemclassname": "TraderPlus_Money_Euro1",
             "value": 1,
             "depositableOnly": 0
         },
         {
-            "itemclassname": "TD_GRN2014_money2",
+            "itemclassname": "TraderPlus_Money_Euro2",
             "value": 2,
             "depositableOnly": 0
         },
         {
-            "itemclassname": "TD_GRN2014_money5",
+            "itemclassname": "TraderPlus_Money_Euro5",
             "value": 5,
             "depositableOnly": 0
         },
         {
-            "itemclassname": "TD_GRN2014_money10",
+            "itemclassname": "TraderPlus_Money_Euro10",
             "value": 10,
             "depositableOnly": 0
         },
         {
-            "itemclassname": "TD_GRN2014_money20",
+            "itemclassname": "TraderPlus_Money_Euro20",
             "value": 20,
             "depositableOnly": 0
         },
         {
-            "itemclassname": "TD_GRN2014_money50",
+            "itemclassname": "TraderPlus_Money_Euro50",
             "value": 50,
             "depositableOnly": 0
         },
         {
-            "itemclassname": "TD_GRN2014_money100",
+            "itemclassname": "TraderPlus_Money_Euro100",
             "value": 100,
             "depositableOnly": 0
         },
         {
-            "itemclassname": "TD_GRN2014_money200",
+            "itemclassname": "TraderPlus_Money_Euro200",
             "value": 200,
             "depositableOnly": 0
         },
         {
-            "itemclassname": "TD_GRN2014_money500",
+            "itemclassname": "TraderPlus_Money_Euro500",
             "value": 500,
             "depositableOnly": 0
         }
