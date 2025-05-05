@@ -2,7 +2,7 @@
 <types>
     <!-- TERJE SALVES -->
     <type name="TerjeSalveFinalgon">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -15,7 +15,7 @@
         <usage name="Medic" />
     </type>
     <type name="TerjeSalveCapsicum">
-        <nominal>20</nominal>
+        <nominal>15</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -28,7 +28,7 @@
         <usage name="Medic" />
     </type>
     <type name="TerjeSalveViprosal">
-        <nominal>15</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -43,7 +43,7 @@
 
     <!-- TERJE PILLS -->
     <type name="TerjePillsMagnesiumSulfate">
-        <nominal>15</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -53,10 +53,10 @@
         <flags count_in_cargo="0 " count_in_hoarder="0 " count_in_map="1 " count_in_player="0" crafted="0 " deloot="0 " />
         <category name="MedicalTools" />
         <tag name="shelves" />
-        <usage name="Medic " />
+        <usage name="Medic" />
     </type>
     <type name="TerjePillsAdepress">
-        <nominal>10</nominal>
+        <nominal>7</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -101,7 +101,6 @@
         <usage name="Medic" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <type name="TerjeAmpouleNovacaine">
         <nominal>4</nominal>
@@ -207,7 +206,6 @@
         <usage name="Medic" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <type name="TerjeAmpouleZerivax">
         <nominal>0</nominal>
@@ -223,7 +221,6 @@
         <usage name="Medic" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <type name="TerjeAmpouleRabivax">
         <nominal>3</nominal>
@@ -239,7 +236,6 @@
         <usage name="Medic" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <type name="TerjeAmpouleRabinoline">
         <nominal>4</nominal>
@@ -270,7 +266,6 @@
         <usage name="Medic" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
 
     <!-- TERJE INJECTORS -->
@@ -435,7 +430,6 @@
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <type name="TerjeFirstAidKitIndividual_Camo">
         <nominal>1</nominal>
@@ -451,7 +445,6 @@
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <type name="TerjeFirstAidKitMedium">
         <nominal>0</nominal>
@@ -480,7 +473,6 @@
         <usage name="Medic" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
 
     <!-- TERJE MEDICAL TOOLS -->

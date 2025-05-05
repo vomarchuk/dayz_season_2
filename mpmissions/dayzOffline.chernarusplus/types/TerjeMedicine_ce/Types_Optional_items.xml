@@ -402,7 +402,7 @@
 
     <!-- TERJE AMPOULS -->
     <type name="TerjeAmpouleKetarol">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -445,7 +445,7 @@
 
     </type>
     <type name="TerjeAmpouleMorphine">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -458,7 +458,7 @@
         <usage name="Medic" />
     </type>
     <type name="TerjeAmpouleGexobarbital">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -471,7 +471,7 @@
         <usage name="Medic" />
     </type>
     <type name="TerjeAmpouleKetamin">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -484,7 +484,7 @@
         <usage name="Medic" />
     </type>
     <type name="TerjeAmpouleHeptral">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -497,7 +497,7 @@
         <usage name="Medic" />
     </type>
     <type name="TerjeAmpouleMetoclopramid">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -510,7 +510,7 @@
         <usage name="Medic" />
     </type>
     <type name="TerjeAmpouleActaparoxetine">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -536,7 +536,7 @@
         <usage name="Medic" />
     </type>
     <type name="TerjeAmpouleRifampicyne">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
