@@ -43,23 +43,25 @@
         <value name="Tier4" />
     </type>
     <type name="RIP_OilPlastic">
-        <nominal>10</nominal>
+        <nominal>15</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>5</quantmin>
+        <quantmax>20</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <usage name="Farm" />
         <usage name="Village" />
         <usage name="Industrial" />
+        <value name="Tier1" />
+        <value name="Tier2" />
     </type>
     <type name="RIP_WeaponCleaningSpray">
         <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>5</min>
         <quantmin>10</quantmin>
         <quantmax>30</quantmax>
         <cost>100</cost>
@@ -68,13 +70,12 @@
         <usage name="Military" />
         <usage name="Police" />
         <value name="Tier4" />
-
     </type>
     <type name="RIP_WeaponCleaningSpray_2">
         <nominal>15</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>5</min>
         <quantmin>15</quantmin>
         <quantmax>25</quantmax>
         <cost>100</cost>
@@ -83,6 +84,9 @@
         <usage name="Military" />
         <usage name="Police" />
         <usage name="Hunting" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
     </type>
     <type name="RIP_WD40">
         <nominal>10</nominal>
@@ -121,7 +125,7 @@
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
-        <quantmin>-1</quantmin>
+        <quantmin>20</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
@@ -129,6 +133,7 @@
         <usage name="Farm" />
         <usage name="Village" />
         <usage name="Industrial" />
+        <usage name="TrainCrash" />
     </type>
     <type name="RIP_TinOilcan">
         <nominal>0</nominal>
@@ -144,12 +149,12 @@
         <usage name="Industrial" />
     </type>
     <type name="RIP_Glue">
-        <nominal>10</nominal>
+        <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <min>5</min>
+        <quantmin>10</quantmin>
+        <quantmax>50</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="tools" />
@@ -285,10 +290,10 @@
         <usage name="Village" />
     </type>
     <type name="RIP_Sandpaper">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>0</min>
         <quantmin>10</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -299,7 +304,6 @@
         <usage name="Village" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <type name="RIP_SandpaperS">
         <nominal>15</nominal>
@@ -317,7 +321,6 @@
         <value name="Tier2" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <!-- 28.04.23 -->
     <type name="RIP_bolts">
@@ -334,7 +337,6 @@
         <usage name="Village" />
         <value name="Tier3" />
         <value name="Tier4" />
-
     </type>
     <type name="RIP_nuts">
         <nominal>20</nominal>
@@ -349,7 +351,6 @@
         <usage name="Industrial" />
         <usage name="Village" />
         <value name="Tier4" />
-
     </type>
     <type name="RIP_rivets">
         <nominal>15</nominal>
@@ -367,10 +368,10 @@
         <value name="Tier4" />
     </type>
     <type name="RIP_rivets2">
-        <nominal>15</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>2800</restock>
-        <min>7</min>
+        <min>0</min>
         <quantmin>2</quantmin>
         <quantmax>2</quantmax>
         <cost>100</cost>
@@ -419,6 +420,19 @@
         <category name="tools" />
         <tag name="floor" />
         <usage name="Industrial" />
+    </type>
+    <type name="RIP_CopperCoil">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="tools" />
+        <tag name="floor" />
+        <usage name="ContaminatedArea" />
     </type>
     <type name="RIP_Programmator">
         <nominal>0</nominal>
@@ -711,7 +725,6 @@
         <tag name="shelves" />
         <usage name="Industrial" />
         <value name="Tier4" />
-
     </type>
     <type name="RIP_Rosin">
         <nominal>0</nominal>
@@ -1197,7 +1210,6 @@
         <usage name="Farm" />
         <usage name="Village" />
         <value name="Tier4" />
-
     </type>
     <type name="RIP_Plumbingparts">
         <nominal>0</nominal>
@@ -1365,7 +1377,6 @@
         <usage name="Office" />
         <usage name="Military" />
         <value name="Tier4" />
-
     </type>
     <type name="RIP_DocFolderLeather3">
         <nominal>0</nominal>
@@ -1684,7 +1695,6 @@
         <usage name="Police" />
         <usage name="Military" />
         <usage name="Town" />
-
     </type>
     <type name="RIP_Kevlar">
         <nominal>5</nominal>
@@ -1868,9 +1878,6 @@
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
-        <usage name="Industrial" />
-        <usage name="Farm" />
-        <usage name="Village" />
     </type>
     <type name="RIP_microFPVcam">
         <nominal>0</nominal>
@@ -1915,7 +1922,6 @@
         <usage name="Village" />
         <value name="Tier1" />
         <value name="Tier2" />
-
     </type>
     <type name="RIP_SmallLaser">
         <nominal>0</nominal>
