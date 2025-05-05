@@ -89,7 +89,7 @@
         },
         {
             "name": "Craft_Weapon",
-            "chestDisplayName": "",
+            "chestDisplayName": "Ящик зі зброєю для крафта",
             "chestDescription": "",
             "comment": "",
             "enabled": 1,
@@ -98,11 +98,24 @@
             "chests": [
                 "LB_LC_Wood1"
             ],
-            "keys": [],
+            "keys": [
+                {
+                    "itemname": "Lockpick",
+                    "time": 10.0,
+                    "damage": 1.0,
+                    "successRate": 1.0
+                },
+                {
+                    "itemname": "Crowbar",
+                    "time": 10.0,
+                    "damage": 1.0,
+                    "successRate": 0.699999988079071
+                }
+            ],
             "openable": 1,
             "openTimeDelay": 0,
             "playedSoundSets": [],
-            "lootPreset": "",
+            "lootPreset": "Preset_Craft_weapon_t1",
             "lootHealthMin": 1.0,
             "lootHealthMax": 1.0,
             "lootRespawnTimeMin": 14400,

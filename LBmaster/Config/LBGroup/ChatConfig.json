@@ -3,8 +3,8 @@
     "displayGroupTagsInfrontOfName": 1,
     "forceDisplayGroupTagsInChat": 0,
     "enableMuteVote": 0,
-    "muteVoteMinPlayers": 10,
-    "muteVoteMuteTimeMins": 5,
+    "muteVoteMinPlayers": 20,
+    "muteVoteMuteTimeMins": 10,
     "muteVotePercentile": 0.6000000238418579,
     "channels": [
         {
@@ -122,11 +122,9 @@
     ],
     "badWords": [
         "nigger",
-        "nazi",
-        "Сука",
-        "Блядь"
+        "nazi"
     ],
-    "enabledBadWordsCensor": 1,
+    "enabledBadWordsCensor": 0,
     "blockBadWordContainingMessages": 0,
     "badWordsBlockedMessage": "#lb_ag_message_contains_bad_word",
     "badWordsMuteTime": 10

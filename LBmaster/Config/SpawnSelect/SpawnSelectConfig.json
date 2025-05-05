@@ -1,0 +1,700 @@
+{
+    "version": 22,
+    "spawn_clear_radius": 20.0,
+    "spawnPos": [
+        15345.98046875,
+        0.0,
+        15346.4501953125
+    ],
+    "random_spawn_cost_money": 0,
+    "random_ignore_timeouts": 1,
+    "overwrite_default_spawnPos": 1,
+    "openSpawnMenuOnce": 1,
+    "forceOpenSpawnMenu": 1,
+    "hide_when_no_spawns_found": 1,
+    "show_cost_in_spawnmenu": 1,
+    "show_remaining_bag_uses_in_spawnmenu": 1,
+    "overwrite_stats_on_spawn": 1,
+    "water_on_spawn": 2000,
+    "food_on_spawn": 2000,
+    "health_on_spawn": 100,
+    "blood_on_spawn": 5000,
+    "death_spawn_block_radius": 1500,
+    "death_spawn_block_timeout": 1800,
+    "respawnOpenedMenuSpawnpoints": {
+        "disableRandomSpawn": 0,
+        "sleepingBags": 1,
+        "allSpawnPoints": 1,
+        "allHousePoints": 0,
+        "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+        "alwaysSpawnRandom": 0,
+        "spawnPointsList": []
+    },
+    "firstJoinOpenedMenuSpawnpoints": {
+        "disableRandomSpawn": 0,
+        "sleepingBags": 1,
+        "allSpawnPoints": 1,
+        "allHousePoints": 0,
+        "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+        "alwaysSpawnRandom": 0,
+        "spawnPointsList": []
+    },
+    "signs": [
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 0,
+            "allSpawnPoints": 0,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [
+                "Green Mountain",
+                "Klen"
+            ],
+            "itemname": "LBmaster_SpawnSign_Safezone",
+            "requiredSpawnTicket": "LBmaster_SpawnTicket_1",
+            "actionText": "Teleport to Safezone"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 0,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [
+                "Chernogorsk",
+                "Elektrozavodsk",
+                "Spawn",
+                "Balota",
+                "Berezino",
+                "Solnechny"
+            ],
+            "itemname": "LBmaster_SpawnSign_Spawn",
+            "requiredSpawnTicket": "",
+            "actionText": "Spawn"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign_1",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign_1_L",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign_2",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign_2_L",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign_3",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign_3_L",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign_4",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign_4_L",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign_5",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign_5_L",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign_Event",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign_Event_L",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign_L",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign_Safezone_L",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign_Spawn_L",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        }
+    ],
+    "positions": [
+        {
+            "pos": [
+                7039.681640625,
+                10.240973472595215,
+                2982.7890625
+            ],
+            "name": "Chernogorsk",
+            "spawnCost": 0,
+            "timeout": 300,
+            "spawnRadius": 20,
+            "enabled": 1,
+            "spawnAtExactPosition": 0,
+            "forcePlayerIntoGroup": "",
+            "spawnPlayerInAir": 0,
+            "heightOverGround": 300,
+            "clearInventoryOnSpawn": 0,
+            "loadouts": [
+                "Preset_Spawn_01"
+            ],
+            "spawnPositions": [
+                [
+                    6865.0400390625,
+                    0.0,
+                    2791.699951171875
+                ],
+                [
+                    7135.31005859375,
+                    0.0,
+                    2842.25
+                ],
+                [
+                    6804.77001953125,
+                    0.0,
+                    3087.25
+                ],
+                [
+                    7248.08984375,
+                    0.0,
+                    2636.139892578125
+                ],
+                [
+                    6569.5,
+                    0.0,
+                    2453.3701171875
+                ],
+                [
+                    12057.119140625,
+                    4.000777244567871,
+                    3472.393798828125
+                ],
+                [
+                    12057.119140625,
+                    4.000777244567871,
+                    3472.393798828125
+                ],
+                [
+                    12057.119140625,
+                    4.000777244567871,
+                    3472.393798828125
+                ]
+            ]
+        },
+        {
+            "pos": [
+                10341.6103515625,
+                0.0,
+                2128.64990234375
+            ],
+            "name": "Elektrozavodsk",
+            "spawnCost": 0,
+            "timeout": 300,
+            "spawnRadius": 20,
+            "enabled": 1,
+            "spawnAtExactPosition": 0,
+            "forcePlayerIntoGroup": "",
+            "spawnPlayerInAir": 0,
+            "heightOverGround": 300,
+            "clearInventoryOnSpawn": 0,
+            "loadouts": [
+                "Preset_Spawn_01"
+            ],
+            "spawnPositions": [
+                [
+                    10341.6103515625,
+                    0.0,
+                    2128.64990234375
+                ],
+                [
+                    10691.599609375,
+                    0.0,
+                    2319.199951171875
+                ],
+                [
+                    10329.9404296875,
+                    0.0,
+                    2387.260009765625
+                ],
+                [
+                    10606.0498046875,
+                    0.0,
+                    2439.760009765625
+                ],
+                [
+                    11432.41015625,
+                    0.0,
+                    2272.530029296875
+                ],
+                [
+                    10425.2197265625,
+                    0.0,
+                    1945.8699951171876
+                ],
+                [
+                    9898.2900390625,
+                    0.0,
+                    1926.4200439453126
+                ]
+            ]
+        },
+        {
+            "pos": [
+                12622.3798828125,
+                0.0,
+                9780.009765625
+            ],
+            "name": "Berenzino",
+            "spawnCost": 0,
+            "timeout": 300,
+            "spawnRadius": 20,
+            "enabled": 1,
+            "spawnAtExactPosition": 0,
+            "forcePlayerIntoGroup": "",
+            "spawnPlayerInAir": 0,
+            "heightOverGround": 300,
+            "clearInventoryOnSpawn": 0,
+            "loadouts": [
+                "Preset_Spawn_01"
+            ],
+            "spawnPositions": [
+                [
+                    12622.3798828125,
+                    0.0,
+                    9780.009765625
+                ],
+                [
+                    12984.0400390625,
+                    0.0,
+                    9739.169921875
+                ],
+                [
+                    13217.3603515625,
+                    0.0,
+                    10270.009765625
+                ],
+                [
+                    12805.150390625,
+                    0.0,
+                    10332.23046875
+                ],
+                [
+                    12669.0400390625,
+                    0.0,
+                    10063.900390625
+                ],
+                [
+                    12371.5498046875,
+                    0.0,
+                    9387.23046875
+                ],
+                [
+                    12933.48046875,
+                    0.0,
+                    9358.0703125
+                ],
+                [
+                    1657.167236328125,
+                    133.62037658691407,
+                    3597.182861328125
+                ]
+            ]
+        },
+        {
+            "pos": [
+                12074.9130859375,
+                -4.715423583984375,
+                3436.0703125
+            ],
+            "name": "Kamyshovo",
+            "spawnCost": 0,
+            "timeout": 300,
+            "spawnRadius": 50,
+            "enabled": 1,
+            "spawnAtExactPosition": 0,
+            "forcePlayerIntoGroup": "",
+            "spawnPlayerInAir": 0,
+            "heightOverGround": 300,
+            "clearInventoryOnSpawn": 0,
+            "loadouts": [
+                "Preset_Spawn_01"
+            ],
+            "spawnPositions": []
+        },
+        {
+            "pos": [
+                13466.009765625,
+                6.117025375366211,
+                6318.966796875
+            ],
+            "name": "Solnechny",
+            "spawnCost": 0,
+            "timeout": 300,
+            "spawnRadius": 50,
+            "enabled": 1,
+            "spawnAtExactPosition": 0,
+            "forcePlayerIntoGroup": "",
+            "spawnPlayerInAir": 0,
+            "heightOverGround": 300,
+            "clearInventoryOnSpawn": 0,
+            "loadouts": [
+                "Preset_Spawn_01"
+            ],
+            "spawnPositions": [
+                [
+                    12076.234375,
+                    3.0115652084350588,
+                    3428.674072265625
+                ],
+                [
+                    12076.234375,
+                    3.0115652084350588,
+                    3428.674072265625
+                ],
+                [
+                    12076.234375,
+                    3.0115652084350588,
+                    3428.674072265625
+                ]
+            ]
+        },
+        {
+            "pos": [
+                13812.4990234375,
+                36.59608459472656,
+                12819.0498046875
+            ],
+            "name": "Svetloyarsk",
+            "spawnCost": 0,
+            "timeout": 300,
+            "spawnRadius": 50,
+            "enabled": 1,
+            "spawnAtExactPosition": 0,
+            "forcePlayerIntoGroup": "",
+            "spawnPlayerInAir": 0,
+            "heightOverGround": 300,
+            "clearInventoryOnSpawn": 0,
+            "loadouts": [
+                "Preset_Spawn_01"
+            ],
+            "spawnPositions": []
+        },
+        {
+            "pos": [
+                2233.240234375,
+                262.8993225097656,
+                9285.021484375
+            ],
+            "name": "Krona",
+            "spawnCost": 5000,
+            "timeout": 600,
+            "spawnRadius": 50,
+            "enabled": 1,
+            "spawnAtExactPosition": 0,
+            "forcePlayerIntoGroup": "",
+            "spawnPlayerInAir": 0,
+            "heightOverGround": 300,
+            "clearInventoryOnSpawn": 0,
+            "loadouts": [
+                "Preset_Spawn_01"
+            ],
+            "spawnPositions": []
+        },
+        {
+            "pos": [
+                2003.3328857421876,
+                285.0017395019531,
+                12953.103515625
+            ],
+            "name": "Tisy",
+            "spawnCost": 10000,
+            "timeout": 600,
+            "spawnRadius": 50,
+            "enabled": 1,
+            "spawnAtExactPosition": 0,
+            "forcePlayerIntoGroup": "",
+            "spawnPlayerInAir": 0,
+            "heightOverGround": 300,
+            "clearInventoryOnSpawn": 0,
+            "loadouts": [
+                "Preset_Spawn_01"
+            ],
+            "spawnPositions": []
+        },
+        {
+            "pos": [
+                7091.7763671875,
+                186.88418579101563,
+                12345.9384765625
+            ],
+            "name": "Severograd",
+            "spawnCost": 5000,
+            "timeout": 600,
+            "spawnRadius": 50,
+            "enabled": 1,
+            "spawnAtExactPosition": 0,
+            "forcePlayerIntoGroup": "",
+            "spawnPlayerInAir": 0,
+            "heightOverGround": 300,
+            "clearInventoryOnSpawn": 0,
+            "loadouts": [
+                "Preset_Spawn_01"
+            ],
+            "spawnPositions": []
+        },
+        {
+            "pos": [
+                7245.06884765625,
+                330.7798156738281,
+                8243.91015625
+            ],
+            "name": "Novy Sobor",
+            "spawnCost": 5000,
+            "timeout": 600,
+            "spawnRadius": 50,
+            "enabled": 1,
+            "spawnAtExactPosition": 0,
+            "forcePlayerIntoGroup": "",
+            "spawnPlayerInAir": 0,
+            "heightOverGround": 300,
+            "clearInventoryOnSpawn": 0,
+            "loadouts": [
+                "Preset_Spawn_01"
+            ],
+            "spawnPositions": []
+        },
+        {
+            "pos": [
+                4374.2373046875,
+                2.0332202911376955,
+                2239.507080078125
+            ],
+            "name": "Kamenka",
+            "spawnCost": 0,
+            "timeout": 300,
+            "spawnRadius": 50,
+            "enabled": 1,
+            "spawnAtExactPosition": 0,
+            "forcePlayerIntoGroup": "",
+            "spawnPlayerInAir": 0,
+            "heightOverGround": 300,
+            "clearInventoryOnSpawn": 0,
+            "loadouts": [
+                "Preset_Spawn_01"
+            ],
+            "spawnPositions": []
+        },
+        {
+            "pos": [
+                1163.319580078125,
+                188.6999969482422,
+                4970.13720703125
+            ],
+            "name": "Zvir",
+            "spawnCost": 5000,
+            "timeout": 600,
+            "spawnRadius": 50,
+            "enabled": 1,
+            "spawnAtExactPosition": 0,
+            "forcePlayerIntoGroup": "",
+            "spawnPlayerInAir": 0,
+            "heightOverGround": 300,
+            "clearInventoryOnSpawn": 0,
+            "loadouts": [
+                "Preset_Spawn_01"
+            ],
+            "spawnPositions": []
+        },
+        {
+            "pos": [
+                6603.4736328125,
+                467.706298828125,
+                15234.7890625
+            ],
+            "name": "Krasnoye",
+            "spawnCost": 10000,
+            "timeout": 600,
+            "spawnRadius": 50,
+            "enabled": 1,
+            "spawnAtExactPosition": 0,
+            "forcePlayerIntoGroup": "",
+            "spawnPlayerInAir": 0,
+            "heightOverGround": 300,
+            "clearInventoryOnSpawn": 0,
+            "loadouts": [
+                "Preset_Spawn_01"
+            ],
+            "spawnPositions": []
+        },
+        {
+            "pos": [
+                8434.2158203125,
+                292.8190612792969,
+                6008.5068359375
+            ],
+            "name": "Kumyrna",
+            "spawnCost": 2500,
+            "timeout": 600,
+            "spawnRadius": 50,
+            "enabled": 1,
+            "spawnAtExactPosition": 0,
+            "forcePlayerIntoGroup": "",
+            "spawnPlayerInAir": 0,
+            "heightOverGround": 300,
+            "clearInventoryOnSpawn": 0,
+            "loadouts": [
+                "Preset_Spawn_01"
+            ],
+            "spawnPositions": []
+        }
+    ]
+}

@@ -288,6 +288,66 @@
                 "TerjeDrinkPrayboy"
             ],
             "root": 0
+        },
+        {
+            "presetName": "Preset_Spawn_01",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [
+                "Preset_Spawn_weapons_01",
+                "Preset_Spawn_clothers_01",
+                "Preset_Spawn_others"
+            ],
+            "root": 1
+        },
+        {
+            "presetName": "Preset_Spawn_weapons_01",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [
+                "Crossbow",
+                "Crossbow_Autumn",
+                "Crossbow_Black",
+                "Crossbow_Summer",
+                "Crossbow_Wood"
+            ],
+            "root": 0
+        },
+        {
+            "presetName": "Preset_Spawn_clothers_01",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [
+                "FB_stalker_pants",
+                "FB_stalker_sweater",
+                "FB_winter_boots_brown"
+            ],
+            "root": 0
+        },
+        {
+            "presetName": "Preset_Spawn_others",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [
+                "Ammo_ImprovisedBolt_1",
+                "BandageDressing_BAT_IND",
+                "CatFoodCan_BAT_IND",
+                "SteakKnife_BAT_IND",
+                ""
+            ],
+            "root": 0
+        },
+        {
+            "presetName": "Preset_Craft_weapon_t1",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [
+                "M4A1",
+                "IMP_VSK94",
+                "IMP_FAMAS",
+                "Winchester70"
+            ],
+            "root": 0
         }
     ],
     "items": [
@@ -990,6 +1050,118 @@
             "chance": 1.0,
             "items": [],
             "itemname": "TerjeDrinkPrayboy",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "Crossbow",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "Crossbow",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "hands"
+        },
+        {
+            "presetName": "Crossbow_Autumn",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "Crossbow_Autumn",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "hands"
+        },
+        {
+            "presetName": "Crossbow_Black",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "Crossbow_Black",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "hands"
+        },
+        {
+            "presetName": "Crossbow_Summer",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "Crossbow_Summer",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "hands"
+        },
+        {
+            "presetName": "Crossbow_Wood",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "Crossbow_Wood",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "hands"
+        },
+        {
+            "presetName": "FB_stalker_pants",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "FB_stalker_pants",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "FB_stalker_sweater",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "FB_stalker_sweater",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "FB_winter_boots_brown",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "FB_winter_boots_brown",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "Ammo_ImprovisedBolt_1",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [
+                ""
+            ],
+            "itemname": "Ammo_ImprovisedBolt_1",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "root"
+        },
+        {
+            "presetName": "",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "",
             "addToHotbar": 0,
             "quantmin": -1.0,
             "quantmax": -1.0,
