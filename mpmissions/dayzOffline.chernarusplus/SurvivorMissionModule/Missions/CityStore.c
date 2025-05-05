@@ -8,8 +8,8 @@ class CityStoreMission extends SurvivorMissions
 	ref TStringArray FoodTypes = {"SpaghettiCan","BakedBeansCan","SardinesCan","TunaCan","PeachesCan","TacticalBaconCan","Marmalade"};
 	
 	//Mission parameters
-	int ReqFoodAmount = Math.RandomInt(7, 13);;					//cans of food 
-	int ReqMedAmount = Math.RandomInt(2, 7);;					//packets of antibiotics
+	int ReqFoodAmount = Math.RandomInt(7, 13);					//cans of food 
+	int ReqMedAmount = Math.RandomInt(2, 7);					//packets of antibiotics
 	int ExtendedTimout = 1800;				//seconds, mission duration time for extended mission
 	int MsgDlyFinish = 60;					//seconds, message delay time after player has finished mission
 	
