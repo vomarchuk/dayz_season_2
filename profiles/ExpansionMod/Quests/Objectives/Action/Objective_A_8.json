@@ -6,7 +6,8 @@
     "TimeLimit": -1,
     "Active": 1,
     "ActionNames": [
-        "ActionSkinning"
+        "ActionSkinning",
+        "ActionSkinningCB"
     ],
     "AllowedClassNames": [],
     "ExcludedClassNames": [],
