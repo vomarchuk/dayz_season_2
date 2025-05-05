@@ -20,42 +20,6 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "RIP_bolts",
-            "Amount": 10,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        },
-        {
-            "ClassName": "RIP_nuts",
-            "Amount": 10,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        },
-        {
-            "ClassName": "RIP_rivets",
-            "Amount": 10,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        },
-        {
-            "ClassName": "RIP_rivets2",
-            "Amount": 5,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        },
-        {
             "ClassName": "KIWI_SALT",
             "Amount": 2,
             "Attachments": [],
