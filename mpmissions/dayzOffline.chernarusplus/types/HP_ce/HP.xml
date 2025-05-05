@@ -69,6 +69,7 @@
         <usage name="Village" />
         <value name="Tier1" />
         <value name="Tier2" />
+        <value name="Tier3" />
     </type>
     <type name="HP_Oiler">
         <nominal>3</nominal>
