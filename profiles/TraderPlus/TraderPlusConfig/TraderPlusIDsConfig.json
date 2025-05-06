@@ -107,9 +107,7 @@
     {
       "Id": 7,
       "Categories": [
-        "MMG NBC gear",
         "MMG goggles",
-        "MMG Armored Helmet/Visor",
         "MMG Sniper Boonie",
         "MMG Chest Rig",
         "MMG Plate Carriers",
@@ -134,8 +132,7 @@
         "MMG Facemask",
         "MMG Balaclava",
         "MMG Heavy Armour",
-        "MMG Patches Rubber",
-        "MMG Patches Fabric"
+        "MMG Patches"
       ],
       "LicencesRequired": [],
       "CurrenciesAccepted": []
@@ -198,23 +195,6 @@
     },
     {
       "Id": 13,
-      "Categories": [
-        "Jeep Rubicon",
-        "Dodge Ram",
-        "Tahoe",
-        "Bronco",
-        "GMC",
-        "UAZ",
-        "Honda Civic",
-        "Chevrolet NapalmNova",
-        "Dodge Charger Hellcat",
-        "Vehicle Parts"
-      ],
-      "LicencesRequired": [],
-      "CurrenciesAccepted": []
-    },
-    {
-      "Id": 14,
       "Categories": [
         "Частини тіл"
       ],

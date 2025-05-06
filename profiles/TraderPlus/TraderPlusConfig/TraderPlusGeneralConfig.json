@@ -254,16 +254,16 @@
         -0.0
       ],
       "Clothes": [
-        "FOG_Tactical_Fingerless_Gloves_MC",
-        "FOG_Helmet_MICH2000_TanRattle",
-        "FOG_Vest_CPC_AOR1",
-        "FOG_G3_Hoodie_AOR1",
-        "FOG_Pants_Crye_G3_AOR1",
-        "FOG_Bag_SATL_KHK",
-        "FOG_DEFCONVans_Shoes_MCB",
+        "MMG_MK_V_Armor_alpine",
+        "MMG_combatshirt_alpine",
+        "MMG_boots_alpine",
+        "MMG_falcon_b1_belt_alpine",
+        "mmg_boonie_alpine",
+        "mmg_tactical_gloves_alpine ",
+        "mmg_tactical_pants_alpine",
         "SVD",
-        "SCWS_ACC",
-        "SCWS_M249"
+        "IMP_KelTecSUB2000_Supp",
+        "IMP_PKP_Tactical_Camo"
       ]
     },
     {
@@ -305,15 +305,14 @@
         -0.0
       ],
       "Clothes": [
-        "FOG_Knight_Mask_Black",
-        "FOG_Shirt_ISOF_Jacket_MC2",
-        "FOG_Vest_TacTec_MCB",
-        "FOG_MTF_Pants_MC",
-        "FOG_GunGloves_MC",
-        "FOG_Bag_BlackJack_MCB",
-        "FOG_Operator_Boots_CB",
+        "mmg_tactical_gloves_multicam",
+        "MMG_tt_vest_multicam",
+        "MMG_boots_multicam",
+        "MMG_tactical_shirt_multicam",
+        "mmg_tactical_pants_multicam",
+        "MMG_tactical_helmet_multicam",
         "SVD",
-        "SCWS_CZ_Pink",
+        "IMP_ASH12",
         "SCWS_FAMASF1FALL"
       ]
     },
@@ -336,7 +335,7 @@
         "BoonieHat_Winter",
         "HuntingVest_Winter",
         "HuntingJacket_Winter",
-        "FOG_FieldPants_White",
+        "HunterPants_Winter",
         "HuntingBag_Hannah",
         "WoolGloves_White",
         "Bandana_BlackPattern",

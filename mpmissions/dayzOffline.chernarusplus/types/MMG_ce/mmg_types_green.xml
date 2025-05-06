@@ -190,7 +190,7 @@
         <value name="Tier4"/>
     </type>
     <type name="MMG_mk5_utility_pouch_green">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -199,7 +199,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage name="ContaminatedArea"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
@@ -325,7 +325,7 @@
         <value name="Tier4"/>
     </type>
     <type name="MMG_striker_helmet_green">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -339,7 +339,7 @@
         <value name="Tier4"/>
     </type>
 	<type name="mmg_armored_helmet_green">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -348,7 +348,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage name="ContaminatedArea"/>
         <value name="Tier4"/>
     </type>
 	<type name="mmg_armored_helmet_visor_green">
@@ -582,7 +582,7 @@
         <value name="Tier4"/>
     </type>
 	<type name="mmg_cargobelt_green">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -591,8 +591,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
+        <usage name="ContaminatedArea"/>
         <value name="Tier4"/>
     </type>
 </types>
