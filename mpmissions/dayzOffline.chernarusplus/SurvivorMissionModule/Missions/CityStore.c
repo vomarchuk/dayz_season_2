@@ -53,12 +53,12 @@ class CityStoreMission extends SurvivorMissions
 		
 		//Set mission messages for primary mission
 		// m_MissionMessage1 = "Ms. "+ SurvivorName +", a ground school teacher, told me that she has brought some children of her class in safety from their infected families. I promised that i will help her for getting food and other medical supplies for the kids.";
-		// m_MissionMessage2 = "Yesterday I found out that the city store\n** "+ m_MissionLocationDir +" of "+ m_MissionLocation +" **\nis barricaded and probably has some food inside. But there were too many infected around, i wasn't able to check the Supermarket.";
+		// m_MissionMessage2 = "Yesterday I found out that the city store\n  "+ m_MissionLocationDir +" of "+ m_MissionLocation +"  \nis barricaded and probably has some food inside. But there were too many infected around, i wasn't able to check the Supermarket.";
 		// m_MissionMessage3 = "She immediately needs following things:\n- "+ ReqFoodAmount +" cans of food\n- "+ ReqMedAmount +" packets of antibiotics\nPlease help me to support Ms. "+ SurvivorName +" with these life essentials for the kids. Be careful!";
 		
 		m_MissionMessage1 = "Пані " + SurvivorName + ", вчителька молодших класів, врятувала кількох дітей від заражених родичів. Я пообіцяв допомогти з їжею й ліками.";
-		m_MissionMessage2 = "Схоже, у " + m_MissionLocation + " \n**є забарикадований магазин з їжею, але заражених там було надто багато.";
-		m_MissionMessage3 = "Їй терміново потрібно: " + ReqFoodAmount + " консервів " + ReqMedAmount + " упаковок антибіотиків\n**Допоможи забезпечити дітей. І будь обережний.";
+		m_MissionMessage2 = "Схоже, у " + m_MissionLocation + " \n є забарикадований магазин з їжею, але заражених там було надто багато.";
+		m_MissionMessage3 = "Їй терміново потрібно: " + ReqFoodAmount + " консервів " + ReqMedAmount + " упаковок антибіотиків\n Допоможи забезпечити дітей. І будь обережний.";
 
 
 		//Spawnpoints for antibiotics in store (cash desk)
@@ -605,11 +605,11 @@ class CityStoreMission extends SurvivorMissions
 
 		//Set messages for secondary mission
 		// m_MissionMessage1 = "Allright you have found the supplies, try to get out there safely. Ms. "+ SurvivorName +" never told me her whereabouts because she wants to be absolutely secure from bandits and scavengers.";
-		// m_MissionMessage2 = "I think the best will be if you could deposit the supplies in the quiet room of the small\n** "+ m_MissionSecondaryLoc +" ** police station and put all in the orange backpack i left there. I will check it in one hour and try to contact her on radio.";
+		// m_MissionMessage2 = "I think the best will be if you could deposit the supplies in the quiet room of the small\n  "+ m_MissionSecondaryLoc +"   police station and put all in the orange backpack i left there. I will check it in one hour and try to contact her on radio.";
 		// m_MissionMessage3 = "I have some things for you at the small police station. Be careful, there might be bandits around "+ m_MissionSecondaryLoc +". They could intercepted our little radio talk here. Good luck!";
 		
 		m_MissionMessage1 = "Добре, ти знайшов усе необхідне. Постарайся вибратись звідти безпечно. Пані " + SurvivorName + " не повідомляє своє місцезнаходження, щоби уникнути небезпеки.";
-		m_MissionMessage2 = "Залиши речі в поліцейському відділку\n** " + m_MissionDescription[3] + "  у помаранчевому рюкзаку. Я перевірю його і передам усе їй.";
+		m_MissionMessage2 = "Залиши речі в поліцейському відділку\n  " + m_MissionDescription[3] + "  у помаранчевому рюкзаку. Я перевірю його і передам усе їй.";
 		m_MissionMessage3 = "Будь пильний, поблизу можуть бути бандити. Вони перехоплюють радіозв’язок. Удачі!";
 
 

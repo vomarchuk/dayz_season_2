@@ -42,7 +42,7 @@ class CampMission extends SurvivorMissions
 				
 		m_MissionMessage1 = "Мій друг " + SurvivorName + " мовчить по рації вже понад 2 години. Він добре знає, як виживати, але я непокоюся.";
 		m_MissionMessage2 = "Його дочка заражена, він іноді піклується про неї. Востаннє казав, що шукав припаси поблизу " + m_MissionLocation + " і був атакований дорогою назад.";
-		m_MissionMessage3 = "Він ставив намет" + m_MissionLocationDir + " від " + m_MissionLocation + "\n**Можеш перевірити, чи з ним усе добре? Але остерігайся пасток!";
+		m_MissionMessage3 = "Він ставив намет" + m_MissionLocationDir + " від " + m_MissionLocation + "\n Можеш перевірити, чи з ним усе добре? Але остерігайся пасток!";
 
 
 		//Infected spawnpoints
