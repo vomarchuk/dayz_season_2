@@ -37,13 +37,13 @@
     </rain>
     <windMagnitude>
         <!-- Початкова швидкість вітру (м/с), час зміни, як довго залишиться -->
-        <current actual="8.0" time="120" duration="240" />
+        <current actual="6.0" time="120" duration="240" />
         <!-- Діапазон швидкостей вітру (м/с) -->
-        <limits min="0.0" max="20.0" />
+        <limits min="0.0" max="12.0" />
         <!-- Час, за який змінюється швидкість -->
         <timelimits min="120" max="240" />
         <!-- Наскільки може змінитися швидкість -->
-        <changelimits min="0.0" max="20.0" />
+        <changelimits min="0.0" max="12.0" />
     </windMagnitude>
     <windDirection>
         <!-- Початковий напрямок (у радіанах), час зміни, тривалість -->
