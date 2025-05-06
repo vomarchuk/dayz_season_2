@@ -220,7 +220,6 @@
         <category name="clothes" />
         <tag name="shelves" />
         <usage name="Town" />
-
     </type>
     <type name="FB_cowboy_hat_brown">
         <nominal>0</nominal>
@@ -246,7 +245,8 @@
         <tag name="shelves" />
         <usage name="Military" />
         <usage name="Hunting" />
-
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="FB_fedora_black">
         <nominal>30</nominal>
@@ -261,6 +261,8 @@
         <tag name="shelves" />
         <usage name="Military" />
         <usage name="Hunting" />
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="FB_fedora_blue">
         <nominal>40</nominal>
@@ -273,7 +275,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <tag name="shelves" />
-        <usage name="Town" />
+        <usage name="Town"/>
+        <usage name="Village"/>
         <value name="Tier1" />
         <value name="Tier2" />
     </type>
@@ -288,7 +291,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <tag name="shelves" />
-        <usage name="Town" />
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="FB_cap_label_tan">
         <nominal>30</nominal>
@@ -301,7 +305,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <tag name="shelves" />
-        <usage name="Town" />
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="FB_cap_label_black">
         <nominal>30</nominal>
@@ -314,7 +319,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <tag name="shelves" />
-        <usage name="Town" />
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="FB_Safari_classic">
         <nominal>0</nominal>
@@ -691,7 +697,6 @@
         <tag name="floor" />
         <usage name="Town" />
         <usage name="School" />
-
     </type>
     <type name="FB_rebak_purple">
         <nominal>30</nominal>
@@ -706,7 +711,6 @@
         <tag name="floor" />
         <usage name="Town" />
         <usage name="School" />
-
     </type>
     <type name="FB_rebak_green">
         <nominal>30</nominal>
@@ -721,7 +725,6 @@
         <tag name="floor" />
         <usage name="Town" />
         <usage name="School" />
-
     </type>
     <type name="FB_rebak_mint">
         <nominal>30</nominal>
@@ -736,7 +739,6 @@
         <tag name="floor" />
         <usage name="Town" />
         <usage name="School" />
-
     </type>
     <type name="FB_rebak_white">
         <nominal>30</nominal>
@@ -751,7 +753,6 @@
         <tag name="floor" />
         <usage name="Town" />
         <usage name="School" />
-
     </type>
     <type name="FB_rebak_pink">
         <nominal>30</nominal>
@@ -766,7 +767,6 @@
         <tag name="floor" />
         <usage name="Town" />
         <usage name="School" />
-
     </type>
     <type name="FB_rebak_blue">
         <nominal>30</nominal>
@@ -781,7 +781,6 @@
         <tag name="floor" />
         <usage name="Town" />
         <usage name="School" />
-
     </type>
     <type name="FB_rebak_purp_orng">
         <nominal>30</nominal>
@@ -796,7 +795,6 @@
         <tag name="floor" />
         <usage name="Town" />
         <usage name="School" />
-
     </type>
     <type name="FB_rebak2_new">
         <nominal>2</nominal>
@@ -919,6 +917,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="FB_tapki_kletka_Red">
         <nominal>15</nominal>
@@ -930,6 +930,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="FB_tapki_kletka_yellow">
         <nominal>15</nominal>
@@ -952,6 +954,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="FB_tapki_kletka_stich_green">
         <nominal>15</nominal>
@@ -974,6 +978,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="FB_winter_boots_pink">
         <nominal>20</nominal>
@@ -988,7 +994,6 @@
         <tag name="floor" />
         <usage name="Town" />
         <usage name="Village" />
-
     </type>
     <type name="FB_winter_boots_black">
         <nominal>20</nominal>
@@ -1003,7 +1008,6 @@
         <tag name="floor" />
         <usage name="Town" />
         <usage name="Village" />
-
     </type>
     <type name="FB_winter_boots_blue">
         <nominal>0</nominal>
@@ -1304,7 +1308,6 @@
         <usage name="Town" />
         <value name="Tier1" />
         <value name="Tier2" />
-
     </type>
     <type name="FB_rubashka_redneck_black">
         <nominal>15</nominal>
@@ -1319,7 +1322,6 @@
         <usage name="Town" />
         <value name="Tier1" />
         <value name="Tier2" />
-
     </type>
     <type name="FB_rubashka_redneck_blue">
         <nominal>15</nominal>
@@ -1334,7 +1336,6 @@
         <usage name="Town" />
         <value name="Tier1" />
         <value name="Tier2" />
-
     </type>
     <type name="FB_rubashka_redneck_green">
         <nominal>15</nominal>
@@ -1349,7 +1350,6 @@
         <usage name="Town" />
         <value name="Tier1" />
         <value name="Tier2" />
-
     </type>
     <type name="FB_rubashka_redneck_green2">
         <nominal>15</nominal>
@@ -1364,7 +1364,6 @@
         <usage name="Town" />
         <value name="Tier1" />
         <value name="Tier2" />
-
     </type>
     <type name="FB_rubashka_redneck_grey">
         <nominal>15</nominal>
@@ -1379,7 +1378,6 @@
         <usage name="Town" />
         <value name="Tier1" />
         <value name="Tier2" />
-
     </type>
     <type name="FB_rubashka_redneck_mint">
         <nominal>15</nominal>
@@ -1394,7 +1392,6 @@
         <usage name="Town" />
         <value name="Tier1" />
         <value name="Tier2" />
-
     </type>
     <type name="FB_rubashka2_white">
         <nominal>0</nominal>
@@ -1430,6 +1427,7 @@
         <category name="clothes" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier2" />
         <value name="Tier3" />
         <value name="Tier4" />
@@ -1560,6 +1558,7 @@
         <category name="clothes" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier1" />
         <value name="Tier2" />
     </type>
@@ -1649,9 +1648,9 @@
         <category name="clothes" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier1" />
         <value name="Tier2" />
-
     </type>
     <type name="FB_kurtka_black">
         <nominal>50</nominal>
@@ -1665,9 +1664,9 @@
         <category name="clothes" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier1" />
         <value name="Tier2" />
-
     </type>
     <type name="FB_kurtka_black_kish">
         <nominal>2</nominal>
@@ -1683,7 +1682,6 @@
         <usage name="Village" />
         <value name="Tier1" />
         <value name="Tier2" />
-
     </type>
     <type name="FB_kurtka_brown">
         <nominal>50</nominal>
@@ -1697,9 +1695,9 @@
         <category name="clothes" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="TrainCrash"/>
         <value name="Tier1" />
         <value name="Tier2" />
-
     </type>
     <type name="FB_plash_grey_brown">
         <nominal>0</nominal>
@@ -1835,7 +1833,6 @@
         <usage name="Town" />
         <value name="Tier1" />
         <value name="Tier2" />
-
     </type>
     <type name="FB_bandit_pants_no_kneep_blue">
         <nominal>30</nominal>
@@ -1850,7 +1847,6 @@
         <usage name="Town" />
         <value name="Tier1" />
         <value name="Tier2" />
-
     </type>
     <type name="FB_bandit_pants_no_kneep_red">
         <nominal>30</nominal>
@@ -1865,7 +1861,6 @@
         <usage name="Town" />
         <value name="Tier1" />
         <value name="Tier2" />
-
     </type>
     <type name="FB_HuntingPants_camo">
         <nominal>0</nominal>
@@ -2202,8 +2197,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <tag name="shelves" />
-        <usage name="Town" />
-
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="FB_Beanie_cap_2_blue">
         <nominal>25</nominal>
@@ -2216,8 +2211,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <tag name="shelves" />
-        <usage name="Town" />
-
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="FB_Beanie_cap_2_green">
         <nominal>25</nominal>
@@ -2230,8 +2225,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <tag name="shelves" />
-        <usage name="Town" />
-
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="TrainCrash"/>
     </type>
     <type name="FB_Beanie_cap_2_grey">
         <nominal>25</nominal>
@@ -2244,8 +2240,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <tag name="shelves" />
-        <usage name="Town" />
-
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="TrainCrash"/>
     </type>
     <type name="FB_Beanie_cap_2_yellow">
         <nominal>25</nominal>
@@ -2258,7 +2255,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <tag name="shelves" />
-        <usage name="Town" />
-
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="TrainCrash"/>
     </type>
 </types>
