@@ -15,9 +15,6 @@
         <usage name="Military"/>
         <usage name="Hunting"/>
         <usage name="Industrial"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="MMG_carbine_green">
         <nominal>3</nominal>
@@ -28,12 +25,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-         <usage name="Military"/>
+        <usage name="Military"/>
         <usage name="Hunting"/>
         <usage name="Industrial"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="MMG_carbine_orange">
         <nominal>3</nominal>
@@ -47,9 +41,6 @@
         <usage name="Military"/>
         <usage name="Hunting"/>
         <usage name="Industrial"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="MMG_carbine_blue">
         <nominal>3</nominal>
@@ -64,9 +55,6 @@
         <usage name="Military"/>
         <usage name="Hunting"/>
         <usage name="Industrial"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="MMG_carbine_black">
         <nominal>3</nominal>
@@ -80,9 +68,6 @@
         <usage name="Military"/>
         <usage name="Hunting"/>
         <usage name="Industrial"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="MMG_carbine_grey">
         <nominal>3</nominal>
@@ -96,8 +81,5 @@
         <usage name="Military"/>
         <usage name="Hunting"/>
         <usage name="Industrial"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
 </types>
