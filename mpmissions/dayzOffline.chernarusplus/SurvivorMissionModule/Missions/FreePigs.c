@@ -47,11 +47,11 @@ class FreePigsMission extends SurvivorMissions
 		//Set mission messages for primary mission
 		// m_MissionMessage1 = SurvivorName +", a farmer from "+ m_MissionLocation +", died 2 days ago after a attack from bandits. He was protecting his animls from infected and scavengers and was farming pigs to deliver meat to the young and old survivors hideout somewhere in the forests.";
 		// m_MissionMessage2 = "He was well known under survivors for his perfection in making good bacon and spiced meat for barbecue. His pigs are still in the shed and I am afraid they could starve to death, if they are not already dead by infected or robbed by bandits.";
-		// m_MissionMessage3 = "Go to "+ SurvivorName +"'s farm located \n** "+ m_MissionLocationDir +" of "+ m_MissionLocation +" **\nand free all the pigs from their cage to give them a chance to survive. You need at least a knife.";
+		// m_MissionMessage3 = "Go to "+ SurvivorName +"'s farm located \n  "+ m_MissionLocationDir +" of "+ m_MissionLocation +"  \nand free all the pigs from their cage to give them a chance to survive. You need at least a knife.";
 		
 		m_MissionMessage1 = SurvivorName + " з " + m_MissionLocation + " загинув, захищаючи свою ферму. Він вирощував свиней, щоб годувати вцілілих.";
 		m_MissionMessage2 = "Його свині досі живі, але без нього їм загрожує голод або напад заражених.";
-		m_MissionMessage3 = "Йди на ферму\n** " + m_MissionLocationDir + " від " + m_MissionLocation + " \n**Забий свиней і забери м'ясо.";
+		m_MissionMessage3 = "Йди на ферму\n  " + m_MissionLocationDir + " від " + m_MissionLocation + " \n Забий свиней і забери м'ясо.";
 
 
 		//Spawnpoints for caged pigs in farm (view from inside building at door position)
@@ -431,11 +431,11 @@ class FreePigsMission extends SurvivorMissions
 		//Set messages for secondary mission,
 		// m_MissionMessage1 = "Allright, you have found the pigs. Herd them all out of the shed. Protect them from infected attacks and kill 2 pigs to get some meat.";
 		// m_MissionMessage2 = "A man from the survivor camp said he could go to a save position anywhere in the forests and get the meat. I left a hunting bag at the picnic table on the hiking trail.";
-		// m_MissionMessage3 = "Bring the meat to the picnic table near\n** "+ m_MissionDescription[3] +", coordinates: "+ Coords +" **\nPut "+ ReqMeatAmount +" pig steaks inside it and then you can take what you need. Be careful!";
+		// m_MissionMessage3 = "Bring the meat to the picnic table near\n  "+ m_MissionDescription[3] +", coordinates: "+ Coords +"  \nPut "+ ReqMeatAmount +" pig steaks inside it and then you can take what you need. Be careful!";
 				
 		m_MissionMessage1 = "Гаразд, ви знайшли свиней. Убийте їх, щоб отримати трохи м’яса.";
 		m_MissionMessage2 = "Чоловік із табору вцілілих сказав, що може забрати м’ясо. Я залишив скриню на столі для пікніка на туристичній стежці.";
-		m_MissionMessage3 = "Принесіть м’ясо до столу для пікніка біля\n** " + m_MissionDescription[3] + ", координати: " + Coords + " \n**Покладіть у неї " + ReqMeatAmount + " свинячих стейків, а потім можете взяти те, що вам потрібно. Удачі й бережіть себе!";
+		m_MissionMessage3 = "Принесіть м’ясо до столу для пікніка біля\n  " + m_MissionDescription[3] + ", координати: " + Coords + " \n Покладіть у неї " + ReqMeatAmount + " свинячих стейків, а потім можете взяти те, що вам потрібно. Удачі й бережіть себе!";
 
 		//Search for mission building at old mission position	
 		GetGame().GetObjectsAtPosition( m_MissionPositions.Get( m_selectedMission ) , 1.0 , m_ObjectList , m_ObjectCargoList );

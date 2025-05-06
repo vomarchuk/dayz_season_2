@@ -35,11 +35,11 @@ class GraveyardMission extends SurvivorMissions
 		//Set mission messages
 		// m_MissionMessage1 = "I just received that the commander of the Chernarus Defense Troups General Major "+ SurvivorName +" hasn't survived his infection.";
 		// m_MissionMessage2 = "He was one of the Soviet Army officers in Chernarus. "+ SurvivorName +" told me that he lost over 2000 men here and will never give up the fight against the infection as long as he lives. He got infected while securing residents of "+ m_MissionLocation +".";
-		// m_MissionMessage3 = "He hided some equipment at the graveyard of\n** "+ m_MissionLocation +", "+ m_MissionLocationDir +" near the church **\nI think someone should get his lagcy. He burried it anywhere near the graves. You need atleast a shovel. Take care!";
+		// m_MissionMessage3 = "He hided some equipment at the graveyard of\n  "+ m_MissionLocation +", "+ m_MissionLocationDir +" near the church  \nI think someone should get his lagcy. He burried it anywhere near the graves. You need atleast a shovel. Take care!";
 		
 		m_MissionMessage1 = "Генерал " + SurvivorName + ", офіцер Сил оборони Чернорусі, помер від зараження.";
 		m_MissionMessage2 = "Він втратив понад 200 бійців, але до кінця залишався вірним. Заразився, захищаючи жителів " + m_MissionLocation + ".";
-		m_MissionMessage3 = "Він сховав спорядження на кладовищі біля церкви\n** " + m_MissionLocation + ", " + m_MissionLocationDir + " \n**Шукай його десь в одній з могил.";
+		m_MissionMessage3 = "Він сховав спорядження на кладовищі біля церкви\n  " + m_MissionLocation + ", " + m_MissionLocationDir + " \n Шукай його десь в одній з могил.";
 
 
 		//Infected spawnpoints

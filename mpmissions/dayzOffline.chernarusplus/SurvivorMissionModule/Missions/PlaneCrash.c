@@ -36,11 +36,11 @@ class PlaneCrashMission extends SurvivorMissions
 		// Set mission messages
 		//  m_MissionMessage1 = "I just received a emergency call from a military pilot. One crew member was infected and suddenly attacked others. He said this flight has the highest international priority.";
 		//  m_MissionMessage2 = "Also onboard is Mr. "+ SurvivorName +", he is an UN agent and it seems he has some information about the cure for this pandemic disease. They were at flight level 300 on their way to Wales.";
-		//  m_MissionMessage3 = "The pilot said he was bitten and tried to emergency land somewhere in the fields\n** "+ m_MissionLocationDir +" of "+ m_MissionLocation +" **\nFind out if they made it. They have some equipment on board!";
+		//  m_MissionMessage3 = "The pilot said he was bitten and tried to emergency land somewhere in the fields\n  "+ m_MissionLocationDir +" of "+ m_MissionLocation +"  \nFind out if they made it. They have some equipment on board!";
 
 		m_MissionMessage1 = "Пілот військового літака повідомив про інцидент на борту — один з членів екіпажу був заражений.";
 		m_MissionMessage2 = "Серед пасажирів — " + SurvivorName + ", агент ООН. Він може мати дані про ліки.";
-		m_MissionMessage3 = "Літак аварійно сів у полі " + m_MissionLocationDir + " від " + m_MissionLocation + " \n**Дізнайся, чи хтось вижив. На борту важливе обладнання.";
+		m_MissionMessage3 = "Літак аварійно сів у полі " + m_MissionLocationDir + " від " + m_MissionLocation + " \n Дізнайся, чи хтось вижив. На борту важливе обладнання.";
 
 		// Engine fire spawns
 		FireSpawns.Insert("5.15 -2.18 -4.63"); // engine
