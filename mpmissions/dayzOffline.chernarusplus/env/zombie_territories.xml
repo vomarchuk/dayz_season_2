@@ -99,6 +99,7 @@
     </territory>
     <!-- City T4 -->
     <territory color="4289524723">
+        <zone name="Infected_City_t4" smin="0" smax="0" dmin="2" dmax="5" x="6475.5" z="14956.5" r="50"/>
         <zone name="Infected_City_t4" smin="0" smax="0" dmin="2" dmax="5" x="6382.5" z="12702.5" r="80"/>
         <zone name="Infected_City_t4" smin="0" smax="0" dmin="2" dmax="5" x="6195" z="12685" r="80"/>
         <zone name="Infected_City_t4" smin="0" smax="0" dmin="2" dmax="5" x="6792.5" z="12585" r="80"/>
@@ -180,9 +181,14 @@
         <zone name="Infected_City_t4" smin="0" smax="0" dmin="2" dmax="5" x="7522.5" z="12615" r="50"/>
         <zone name="Infected_City_t4" smin="0" smax="0" dmin="2" dmax="10" x="425.5" z="5171" r="50"/>
         <zone name="Infected_City_t4" smin="0" smax="0" dmin="2" dmax="10" x="1160.5" z="9999" r="50"/>
+        <zone name="Infected_City_t4" smin="0" smax="0" dmin="2" dmax="10" x="12903.5" z="15111" r="50"/>
+        <zone name="Infected_City_t4" smin="0" smax="0" dmin="2" dmax="10" x="14024.5" z="15063" r="50"/>
+        <zone name="Infected_City_t4" smin="0" smax="0" dmin="2" dmax="10" x="14241.5" z="14848" r="50"/>
     </territory>
     <!-- Industrial T4 -->
     <territory color="4279103772">
+        <zone name="Infected_Industrial_t4" smin="0" smax="0" dmin="2" dmax="5" x="12732.5" z="15073.8" r="50"/>
+        <zone name="Infected_Industrial_t4" smin="0" smax="0" dmin="2" dmax="5" x="11657.5" z="15084.8" r="50"/>
         <zone name="Infected_Industrial_t4" smin="0" smax="0" dmin="2" dmax="5" x="1593.5" z="10401.8" r="50"/>
         <zone name="Infected_Industrial_t4" smin="0" smax="0" dmin="2" dmax="5" x="576.5" z="5424.8" r="50"/>
         <zone name="Infected_Industrial_t4" smin="0" smax="0" dmin="2" dmax="5" x="2047.5" z="12183.8" r="75"/>

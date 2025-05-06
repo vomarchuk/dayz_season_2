@@ -324,10 +324,10 @@
     </type>
     <!-- 28.04.23 -->
     <type name="RIP_bolts">
-        <nominal>20</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>2800</restock>
-        <min>10</min>
+        <min>0</min>
         <quantmin>2</quantmin>
         <quantmax>5</quantmax>
         <cost>100</cost>
@@ -339,10 +339,10 @@
         <value name="Tier4" />
     </type>
     <type name="RIP_nuts">
-        <nominal>20</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>2800</restock>
-        <min>10</min>
+        <min>0</min>
         <quantmin>2</quantmin>
         <quantmax>5</quantmax>
         <cost>100</cost>
@@ -631,18 +631,19 @@
         <usage name="Industrial" />
     </type>
     <type name="RIP_Rustymetal">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
-        <quantmin>20</quantmin>
-        <quantmax>60</quantmax>
+        <min>3</min>
+        <quantmin>5</quantmin>
+        <quantmax>10</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="tools" />
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Village" />
+        <value name="Tier4" />
     </type>
     <type name="RIP_milMCs">
         <nominal>0</nominal>
