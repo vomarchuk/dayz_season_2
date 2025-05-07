@@ -284,7 +284,7 @@
         <child type="Land_Train_Wagon_Box_Mil_DE" deloot="0" lootmax="3" lootmin="1" x="60.385" z="-82.989" a="305.469" y="1.36"/>
     </group>
     <!--pos x="1443.256" z="6622.697" a="0" y="176.060" group="Train_Mil_Metalurg"/-->
-    <!-- <group name="Train_Mil_Metalurg">
+    <group name="Train_Mil_Metalurg">
         <child type="StaticObj_Wreck_Train_742_Red_Mil_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" a="147.737" y="1.9"/>
         <child type="Land_Container_1Moh_DE" deloot="0" lootmax="4" lootmin="3" x="-87.100" z="85.429" a="117.958" y="2.178"/>
         <child type="StaticObj_Wreck_Train_Wagon_Flat_Mil_DE" deloot="0" lootmax="3" lootmin="1" x="-84.501" z="84.067" a="297.992" y="0.204"/>
@@ -301,7 +301,7 @@
         <child type="Land_Train_Wagon_Box_Mil_DE" deloot="0" lootmax="3" lootmin="1" x="-13.315" z="21.067" a="327.385" y="1.371"/>
         <child type="Land_Train_Wagon_Box_Mil_DE" deloot="0" lootmax="3" lootmin="1" x="-6.763" z="10.840" a="326.998" y="1.383"/>
         <child type="Land_Train_Wagon_Box_Mil_DE" deloot="0" lootmax="3" lootmin="1" x="-26.616" z="41.292" a="324.033" y="1.377"/>
-    </group> -->
+    </group>
     <!--pos x="673.779" z="8747.024" a="0" y="194.245" group="Train_Mil_Myshkino"/-->
     <group name="Train_Mil_Myshkino">
         <child type="StaticObj_Wreck_Train_742_Blue_Mil_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" a="346.572" y="1.9"/>
