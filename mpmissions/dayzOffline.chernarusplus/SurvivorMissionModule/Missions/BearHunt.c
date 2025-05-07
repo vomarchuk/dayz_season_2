@@ -42,11 +42,11 @@ class BearHuntMission extends SurvivorMissions
 		//Set mission messages for primary mission
 		// m_MissionMessage1 = "A survivor recently reported to me that a bear attacked my friend "+ SurvivorName +" and killed 2 other survivor's. They went to the wrong location trying to hunt some deer in the forest of "+ m_MissionLocation +".";
 		// m_MissionMessage2 = "I still can't believe it. "+ SurvivorName +" was one of the best hunters araound here. Once a week he brought fresh meat to the hidden camp to feed the survivor's. He was never selfless and tried to do everything to help out in the camp.";
-		// m_MissionMessage3 = "The bear was last reported at the forest near\n** "+ m_MissionLocationDir +" of "+ m_MissionLocation +" **\nI want you to kill this animal and take his pelt. It's not for revenge, we just need the pelt to make winter clothing for the kids. Be careful!";
+		// m_MissionMessage3 = "The bear was last reported at the forest near\n  "+ m_MissionLocationDir +" of "+ m_MissionLocation +"  \nI want you to kill this animal and take his pelt. It's not for revenge, we just need the pelt to make winter clothing for the kids. Be careful!";
 		
 		m_MissionMessage1 = "Кажуть, на " + SurvivorName + " напав ведмідь. Разом із ним загинули ще двоє. Вони переплутали маршрут, коли йшли на полювання поблизу " + m_MissionLocation + ".";
 		m_MissionMessage2 = SurvivorName + " був одним із найкращих мисливців. Раз на тиждень він приносив м’ясо до табору. Його відданість справі була прикладом для всіх.";
-		m_MissionMessage3 = "Останній раз ведмедя бачили\n** " + m_MissionLocationDir + " від " + m_MissionLocation + " \n**Знищ його і принеси шкіру — нам потрібні матеріали для зимового одягу та їжа. Бережи себе!";
+		m_MissionMessage3 = "Останній раз ведмедя бачили " + m_MissionLocationDir + " від " + m_MissionLocation + " \n Знищ його і принеси шкіру — нам потрібні матеріали для зимового одягу та їжа. Бережи себе!";
 
 
 		//Spawnpoint for MissionObject for secondary mission
@@ -376,12 +376,12 @@ class BearHuntMission extends SurvivorMissions
 	{
 		//Set new mission messages
 		// m_MissionMessage1 = "Allright survivor, you have found the bear location. Try to safely engage and kill him by aiming at his head or heart. A bear is a strong animal, so it will take some shots to get him down.";
-		// m_MissionMessage2 = "Take out your knife and eviscerate him. Bring the pelt and the meat to the\n** "+ m_MissionDescription[3] +" School laboratory class room **\n(left wing, top floor) because I want to examine the bear meat. I left a hunting bag on the labor desk.";
+		// m_MissionMessage2 = "Take out your knife and eviscerate him. Bring the pelt and the meat to the\n  "+ m_MissionDescription[3] +" School laboratory class room  \n(left wing, top floor) because I want to examine the bear meat. I left a hunting bag on the labor desk.";
 		// m_MissionMessage3 = "Put atleast "+ ReqMeatAmount +" bear steaks and the pelt in there. Be carefull, there might be bandits around which could intercepted our little radio talk here. Good luck!";
 		
 
 		m_MissionMessage1 = "Добре, ти знайшов місцезнаходження ведмедя. Спробуй убити його, поціливши в голову або серце. Ведмідь — сильна тварина, тому знадобиться кілька пострілів, щоб його вбити.";
-		m_MissionMessage2 = "Вийми ніж і розпотроши його. Принеси шкіру та м’ясо до\n** " + m_MissionDescription[3] + " класної кімнати шкільної лабораторії \n**(ліве крило, верхній поверх), я хочу оглянути ведмеже м’ясо — я залишив скриню на робочому столі.";
+		m_MissionMessage2 = "Вийми ніж і розпотроши його. Принеси шкіру та м’ясо до\n  " + m_MissionDescription[3] + " класної кімнати шкільної лабораторії \n (ліве крило, верхній поверх), я хочу оглянути ведмеже м’ясо — я залишив скриню на робочому столі.";
 		m_MissionMessage3 = "Поклади туди щонайменше " + ReqMeatAmount + " ведмежих стейків та шкіру. Будь обережний — навколо можуть бути бандити, які перехопили нашу невеличку радіорозмову. Удачі!";
 
 		//init Messenger for new messages

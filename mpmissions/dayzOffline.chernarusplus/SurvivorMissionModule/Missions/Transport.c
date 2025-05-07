@@ -45,11 +45,11 @@ class TransportMission extends SurvivorMissions
 		//Set mission messages for primary mission
 		// m_MissionMessage1 = SurvivorName +", a guy who was working for me, told me that he has cross-breeded a special Cannabis strain of various 'Cannabis ruderalis' plants. I just need it for my experiments on the infected. He said that he fertilized the mother plants with shredded infected.";
 		// m_MissionMessage2 = "I think he meant any kind of fermented brew with water, infected ash and pieces of flesh done in a kitchen mixer. The impact on plants grow and bloom was massive. It also seems that it contains a substance other than the native Cannabinoids. I want to extract this substance to see how it acts on the infected.";
-		// m_MissionMessage3 = SurvivorName +" has hidden his herbs in a garage at\n** "+ m_MissionLocation +" **\nHe certainly has locked the garage doors, so try to use a lockpick or shoot them up if you have none.";
+		// m_MissionMessage3 = SurvivorName +" has hidden his herbs in a garage at\n  "+ m_MissionLocation +"  \nHe certainly has locked the garage doors, so try to use a lockpick or shoot them up if you have none.";
 		
 		m_MissionMessage1 = SurvivorName + " експериментував із гібридом конопель, удобрюючи їх зараженими. Мені потрібно це для дослідів.";
 		m_MissionMessage2 = "Він казав, що використовував ферментований коктейль із плоті, попелу й води. Вплив на ріст був вражаючим. Можливо, це щось нове.";
-		m_MissionMessage3 = "Він залишив зразки в гаражі за адресою " + m_MissionLocation + " \n**Можеш спробувати зламати двері або скористатися відмичкою.";
+		m_MissionMessage3 = "Він залишив зразки в гаражі за адресою " + m_MissionLocation + " \n Можеш спробувати зламати двері або скористатися відмичкою.";
 
 
 		//Spawnpoints for MissionCar in Garage 
@@ -518,11 +518,11 @@ class TransportMission extends SurvivorMissions
 		
 		//Set messages for secondary mission
 		// m_MissionMessage1 = "Allright, so you have found the car. "+ SurvivorName +" has probably drained all fuel and oil so prepare the car before that long trip. Check if the dried Cannabis is anywhere in the garages there and take the bag and put all 25 pieces in it.";
-		// m_MissionMessage2 = "Drive to the  ** "+ m_MissionDescription[3] +" Gas Station **\nand bring the Ganjabag to cash desk. "+ SurvivorName +"'s ganja has the highest priority. Please don't steal or smoke any of it by your own because it could be very dangerous.";
+		// m_MissionMessage2 = "Drive to the    "+ m_MissionDescription[3] +" Gas Station  \nand bring the Ganjabag to cash desk. "+ SurvivorName +"'s ganja has the highest priority. Please don't steal or smoke any of it by your own because it could be very dangerous.";
 		// m_MissionMessage3 = "I have some things for you at the gas station. Be carefull, there might be bandits on the way to "+ m_MissionDescription[3] +". They could intercepted our little radio talk here. Good luck and drive carefully!";
 		
 		m_MissionMessage1 = "Чудово, ти знайшов машину. " + SurvivorName + " злив паливо й масло — підготуй її до поїздки. Збери всі 25 зразків канабісу в мішок.";
-		m_MissionMessage2 = "Достав мішок до АЗС\n** " + m_MissionDescription[3] + " і залиш його на касі. Будь обережний — це небезпечна речовина.";
+		m_MissionMessage2 = "Достав мішок до АЗС\n  " + m_MissionDescription[3] + " і залиш його на касі. Будь обережний — це небезпечна речовина.";
 		m_MissionMessage3 = "На заправці буде винагорода. Але обережно — бандити можуть дізнатися про нашу передачу.";
 
 
