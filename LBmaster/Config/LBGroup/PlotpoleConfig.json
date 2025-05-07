@@ -11,16 +11,10 @@
     "forceDeployingInTerritory": 1,
     "forceExceptions": [
         "Barrel_ColorBase",
-        "TentBase",
         "Fireplace",
         "TerjeSleepingBag_Woodland",
         "TerjeSleepingBag_Blue",
-        "TerjeRadTent",
-        "TerjeRadTentPlacing",
-        "TerjeRadTentStatic",
-        "HydraulicJack",
-        "rag_baseitems_trashcan_static_kit",
-        "HP_Crafter_Kit"
+        "HydraulicJack"
     ],
     "preventUnauthorizedBuilding": 1,
     "preventUnauthorizedDismantling": 1,

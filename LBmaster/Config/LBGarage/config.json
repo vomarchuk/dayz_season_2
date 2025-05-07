@@ -53,7 +53,7 @@
         {
             "itemname": "Garage_Sign_Player",
             "notLinkedTraderGroupname": "Personal Vehicles",
-            "linkedToTraderGarages": 0,
+            "linkedToTraderGarages": 1,
             "linkedPersonalTraderGroupname": "Ground Vehicles",
             "linkedGroupTraderGroupname": "Ground Vehicles"
         }
@@ -72,17 +72,17 @@
             "forceKeyAssignedToParkIn": 0,
             "saveInventory": 1,
             "canBuyVehiclesAtAdminPlaced": 1,
-            "canBuyVehiclesAtPlayerPlaced": 1,
-            "canSellVehiclesAtPlayerPlaced": 1,
+            "canBuyVehiclesAtPlayerPlaced": 0,
+            "canSellVehiclesAtPlayerPlaced": 0,
             "canSellVehiclesAtAdminPlaced": 1,
             "addKeyToBoughtVehicle": 0,
             "canRepaintVehicles": 1,
-            "canRepairVehicle": 1,
+            "canRepairVehicle": 0,
             "baseVehicleRepairCost": 10000.0,
             "singleAttachmentRepairCost": 1000.0,
-            "canRepairVehicleAttachments": 1,
-            "canRepairRuinedAttachments": 1,
-            "canRefuelVehicle": 1,
+            "canRepairVehicleAttachments": 0,
+            "canRepairRuinedAttachments": 0,
+            "canRefuelVehicle": 0,
             "fuelCostPerLiter": 25.0,
             "waterCoolantCostPerLiter": 15.0,
             "vehicleWhitelist": [
@@ -122,12 +122,12 @@
             "costWithdraw": 0,
             "costDeposit": 0,
             "createNewKeyWhenWithdrawing": 0,
-            "spawnVehicleLocked": 0,
+            "spawnVehicleLocked": 1,
             "requireKeyToDeposit": 0,
             "requireVehicleLockedToStore": 0,
             "requireKeyToWithdraw": 0,
             "deleteKeyWhenDepositing": 0,
-            "forceKeyAssignedToParkIn": 0,
+            "forceKeyAssignedToParkIn": 1,
             "saveInventory": 1,
             "canBuyVehiclesAtAdminPlaced": 0,
             "canBuyVehiclesAtPlayerPlaced": 0,
@@ -140,9 +140,9 @@
             "singleAttachmentRepairCost": 1000.0,
             "canRepairVehicleAttachments": 0,
             "canRepairRuinedAttachments": 0,
-            "canRefuelVehicle": 1,
-            "fuelCostPerLiter": 10.0,
-            "waterCoolantCostPerLiter": 5.0,
+            "canRefuelVehicle": 0,
+            "fuelCostPerLiter": 25.0,
+            "waterCoolantCostPerLiter": 15.0,
             "vehicleWhitelist": [
                 "Transport"
             ],
@@ -177,6 +177,82 @@
                     "level": 5,
                     "cost": 100000,
                     "slots": 7
+                }
+            ]
+        },
+        {
+            "name": "Vehicle impound",
+            "costWithdraw": 0,
+            "costDeposit": 0,
+            "createNewKeyWhenWithdrawing": 0,
+            "spawnVehicleLocked": 1,
+            "requireKeyToDeposit": 0,
+            "requireVehicleLockedToStore": 0,
+            "requireKeyToWithdraw": 0,
+            "deleteKeyWhenDepositing": 0,
+            "forceKeyAssignedToParkIn": 0,
+            "saveInventory": 1,
+            "canBuyVehiclesAtAdminPlaced": 0,
+            "canBuyVehiclesAtPlayerPlaced": 0,
+            "canSellVehiclesAtPlayerPlaced": 0,
+            "canSellVehiclesAtAdminPlaced": 0,
+            "addKeyToBoughtVehicle": 0,
+            "canRepaintVehicles": 0,
+            "canRepairVehicle": 0,
+            "baseVehicleRepairCost": 10000.0,
+            "singleAttachmentRepairCost": 1000.0,
+            "canRepairVehicleAttachments": 0,
+            "canRepairRuinedAttachments": 0,
+            "canRefuelVehicle": 0,
+            "fuelCostPerLiter": 25.0,
+            "waterCoolantCostPerLiter": 15.0,
+            "vehicleWhitelist": [
+                "Transport"
+            ],
+            "inventoryItemBlacklist": [],
+            "levels": [
+                {
+                    "level": 0,
+                    "cost": 0,
+                    "slots": 4
+                }
+            ]
+        },
+        {
+            "name": "Gas parking",
+            "costWithdraw": 0,
+            "costDeposit": 0,
+            "createNewKeyWhenWithdrawing": 0,
+            "spawnVehicleLocked": 1,
+            "requireKeyToDeposit": 0,
+            "requireVehicleLockedToStore": 0,
+            "requireKeyToWithdraw": 0,
+            "deleteKeyWhenDepositing": 0,
+            "forceKeyAssignedToParkIn": 1,
+            "saveInventory": 1,
+            "canBuyVehiclesAtAdminPlaced": 1,
+            "canBuyVehiclesAtPlayerPlaced": 1,
+            "canSellVehiclesAtPlayerPlaced": 1,
+            "canSellVehiclesAtAdminPlaced": 1,
+            "addKeyToBoughtVehicle": 0,
+            "canRepaintVehicles": 1,
+            "canRepairVehicle": 1,
+            "baseVehicleRepairCost": 10000.0,
+            "singleAttachmentRepairCost": 1000.0,
+            "canRepairVehicleAttachments": 1,
+            "canRepairRuinedAttachments": 1,
+            "canRefuelVehicle": 1,
+            "fuelCostPerLiter": 30.0,
+            "waterCoolantCostPerLiter": 20.0,
+            "vehicleWhitelist": [
+                "Transport"
+            ],
+            "inventoryItemBlacklist": [],
+            "levels": [
+                {
+                    "level": 0,
+                    "cost": 0,
+                    "slots": 4
                 }
             ]
         }
@@ -241,30 +317,30 @@
             "groupTraderGroupname": "Ground Vehicles"
         },
         {
-            "traderItemClassname": "Garage_Sign_2",
+            "traderItemClassname": "Garage_Sign",
             "objectPosition": [
-                8219.3701171875,
-                469.60101318359377,
-                9051.400390625
+                8216.9013671875,
+                469.6434326171875,
+                9050.4462890625
             ],
             "objectOrientation": [
-                331.4110107421875,
+                332.9678955078125,
                 0.0,
                 0.0
             ],
             "vehicleSpawnPosition": [
-                8215.7197265625,
-                470.0119934082031,
-                9057.7900390625
+                8214.953125,
+                470.0211486816406,
+                9056.2333984375
             ],
             "vehicleSpawnOrientation": [
-                -104.93299865722656,
-                1.5053000450134278,
-                -3.2431800365448
+                48.63840866088867,
+                0.09720685333013535,
+                3.5738370418548586
             ],
             "cameraDistance": 8.0,
-            "cameraRotation": 43.5,
-            "cameraAngle": 28.5,
+            "cameraRotation": 45.0,
+            "cameraAngle": 30.0,
             "blackboxPreview": 0,
             "personalTraderGroupname": "Ground Vehicles",
             "groupTraderGroupname": "Ground Vehicles"
@@ -295,8 +371,8 @@
             "cameraRotation": 45.0,
             "cameraAngle": 30.0,
             "blackboxPreview": 0,
-            "personalTraderGroupname": "Personal Vehicles",
-            "groupTraderGroupname": "Personal Vehicles"
+            "personalTraderGroupname": "Gas parking",
+            "groupTraderGroupname": "Gas parking"
         },
         {
             "traderItemClassname": "Garage_Sign",
@@ -324,8 +400,8 @@
             "cameraRotation": 45.0,
             "cameraAngle": 30.0,
             "blackboxPreview": 0,
-            "personalTraderGroupname": "Personal Vehicles",
-            "groupTraderGroupname": "Personal Vehicles"
+            "personalTraderGroupname": "Gas parking",
+            "groupTraderGroupname": "Gas parking"
         },
         {
             "traderItemClassname": "Garage_Sign",
@@ -353,8 +429,8 @@
             "cameraRotation": 45.0,
             "cameraAngle": 30.0,
             "blackboxPreview": 0,
-            "personalTraderGroupname": "Personal Vehicles",
-            "groupTraderGroupname": "Personal Vehicles"
+            "personalTraderGroupname": "Gas parking",
+            "groupTraderGroupname": "Gas parking"
         },
         {
             "traderItemClassname": "Garage_Sign",
@@ -382,8 +458,8 @@
             "cameraRotation": 45.0,
             "cameraAngle": 30.0,
             "blackboxPreview": 0,
-            "personalTraderGroupname": "Personal Vehicles",
-            "groupTraderGroupname": "Personal Vehicles"
+            "personalTraderGroupname": "Gas parking",
+            "groupTraderGroupname": "Gas parking"
         },
         {
             "traderItemClassname": "Garage_Sign",
@@ -411,8 +487,8 @@
             "cameraRotation": 45.0,
             "cameraAngle": 30.0,
             "blackboxPreview": 0,
-            "personalTraderGroupname": "Personal Vehicles",
-            "groupTraderGroupname": "Personal Vehicles"
+            "personalTraderGroupname": "Gas parking",
+            "groupTraderGroupname": "Gas parking"
         },
         {
             "traderItemClassname": "Garage_Sign",
@@ -440,8 +516,8 @@
             "cameraRotation": 45.0,
             "cameraAngle": 30.0,
             "blackboxPreview": 0,
-            "personalTraderGroupname": "Personal Vehicles",
-            "groupTraderGroupname": "Personal Vehicles"
+            "personalTraderGroupname": "Gas parking",
+            "groupTraderGroupname": "Gas parking"
         },
         {
             "traderItemClassname": "Garage_Sign",
@@ -469,8 +545,8 @@
             "cameraRotation": 45.0,
             "cameraAngle": 30.0,
             "blackboxPreview": 0,
-            "personalTraderGroupname": "Personal Vehicles",
-            "groupTraderGroupname": "Personal Vehicles"
+            "personalTraderGroupname": "Gas parking",
+            "groupTraderGroupname": "Gas parking"
         },
         {
             "traderItemClassname": "Garage_Sign",
@@ -498,8 +574,8 @@
             "cameraRotation": 45.0,
             "cameraAngle": 30.0,
             "blackboxPreview": 0,
-            "personalTraderGroupname": "Personal Vehicles",
-            "groupTraderGroupname": "Personal Vehicles"
+            "personalTraderGroupname": "Gas parking",
+            "groupTraderGroupname": "Gas parking"
         },
         {
             "traderItemClassname": "Garage_Sign",
@@ -527,8 +603,8 @@
             "cameraRotation": 45.0,
             "cameraAngle": 30.0,
             "blackboxPreview": 0,
-            "personalTraderGroupname": "Personal Vehicles",
-            "groupTraderGroupname": "Personal Vehicles"
+            "personalTraderGroupname": "Vehicle impound",
+            "groupTraderGroupname": "Vehicle impound"
         },
         {
             "traderItemClassname": "Garage_Sign",
@@ -556,8 +632,8 @@
             "cameraRotation": 45.0,
             "cameraAngle": 30.0,
             "blackboxPreview": 0,
-            "personalTraderGroupname": "Personal Vehicles",
-            "groupTraderGroupname": "Personal Vehicles"
+            "personalTraderGroupname": "Gas parking",
+            "groupTraderGroupname": "Gas parking"
         },
         {
             "traderItemClassname": "Garage_Sign",
@@ -585,8 +661,8 @@
             "cameraRotation": 45.0,
             "cameraAngle": 30.0,
             "blackboxPreview": 0,
-            "personalTraderGroupname": "Personal Vehicles",
-            "groupTraderGroupname": "Personal Vehicles"
+            "personalTraderGroupname": "Gas parking",
+            "groupTraderGroupname": "Gas parking"
         },
         {
             "traderItemClassname": "Garage_Sign",
@@ -614,8 +690,8 @@
             "cameraRotation": 45.0,
             "cameraAngle": 30.0,
             "blackboxPreview": 0,
-            "personalTraderGroupname": "Personal Vehicles",
-            "groupTraderGroupname": "Personal Vehicles"
+            "personalTraderGroupname": "Gas parking",
+            "groupTraderGroupname": "Gas parking"
         },
         {
             "traderItemClassname": "Garage_Sign",
@@ -643,8 +719,8 @@
             "cameraRotation": 45.0,
             "cameraAngle": 30.0,
             "blackboxPreview": 0,
-            "personalTraderGroupname": "Personal Vehicles",
-            "groupTraderGroupname": "Personal Vehicles"
+            "personalTraderGroupname": "Gas parking",
+            "groupTraderGroupname": "Gas parking"
         },
         {
             "traderItemClassname": "Garage_Sign",
@@ -672,8 +748,8 @@
             "cameraRotation": 45.0,
             "cameraAngle": 30.0,
             "blackboxPreview": 0,
-            "personalTraderGroupname": "Personal Vehicles",
-            "groupTraderGroupname": "Personal Vehicles"
+            "personalTraderGroupname": "Gas parking",
+            "groupTraderGroupname": "Gas parking"
         },
         {
             "traderItemClassname": "Garage_Sign",
@@ -701,8 +777,8 @@
             "cameraRotation": 45.0,
             "cameraAngle": 30.0,
             "blackboxPreview": 0,
-            "personalTraderGroupname": "Personal Vehicles",
-            "groupTraderGroupname": "Personal Vehicles"
+            "personalTraderGroupname": "Gas parking",
+            "groupTraderGroupname": "Gas parking"
         },
         {
             "traderItemClassname": "Garage_Sign",
@@ -730,8 +806,8 @@
             "cameraRotation": 45.0,
             "cameraAngle": 30.0,
             "blackboxPreview": 0,
-            "personalTraderGroupname": "Personal Vehicles",
-            "groupTraderGroupname": "Personal Vehicles"
+            "personalTraderGroupname": "Gas parking",
+            "groupTraderGroupname": "Gas parking"
         },
         {
             "traderItemClassname": "Garage_Sign",
@@ -759,8 +835,8 @@
             "cameraRotation": 45.0,
             "cameraAngle": 30.0,
             "blackboxPreview": 0,
-            "personalTraderGroupname": "Personal Vehicles",
-            "groupTraderGroupname": "Personal Vehicles"
+            "personalTraderGroupname": "Gas parking",
+            "groupTraderGroupname": "Gas parking"
         },
         {
             "traderItemClassname": "Garage_Sign",
@@ -788,8 +864,37 @@
             "cameraRotation": 45.0,
             "cameraAngle": 30.0,
             "blackboxPreview": 0,
-            "personalTraderGroupname": "Personal Vehicles",
-            "groupTraderGroupname": "Personal Vehicles"
+            "personalTraderGroupname": "Gas parking",
+            "groupTraderGroupname": "Gas parking"
+        },
+        {
+            "traderItemClassname": "Garage_Sign_2",
+            "objectPosition": [
+                7213.87158203125,
+                329.292236328125,
+                8257.80859375
+            ],
+            "objectOrientation": [
+                389.0741271972656,
+                0.0,
+                0.0
+            ],
+            "vehicleSpawnPosition": [
+                7222.55859375,
+                329.5660705566406,
+                8261.6494140625
+            ],
+            "vehicleSpawnOrientation": [
+                23.96991729736328,
+                2.976361036300659,
+                -2.18302321434021
+            ],
+            "cameraDistance": 8.0,
+            "cameraRotation": 45.0,
+            "cameraAngle": 30.0,
+            "blackboxPreview": 0,
+            "personalTraderGroupname": "Vehicle impound",
+            "groupTraderGroupname": "Vehicle impound"
         }
     ]
 }
