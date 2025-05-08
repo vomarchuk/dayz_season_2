@@ -16793,7 +16793,6 @@
 		<usage name="Village" /> -->
 		<container name="lootFloor" lootmax="2">
 			<category name="tools" />
-			<category name="containers" />
 			<category name="clothes" />
 			<category name="weapons" />
 			<tag name="floor" />
@@ -16848,7 +16847,6 @@
 		<usage name="Village" /> -->
 		<container name="lootFloor" lootmax="2">
 			<category name="tools" />
-			<category name="containers" />
 			<category name="clothes" />
 			<category name="weapons" />
 			<tag name="floor" />
@@ -16882,7 +16880,6 @@
 		<!-- <usage name="Village" /> -->
 		<container name="lootFloor" lootmax="2">
 			<category name="tools" />
-			<category name="containers" />
 			<category name="clothes" />
 			<tag name="floor" />
 			<tag name="shelves" />
@@ -16902,7 +16899,6 @@
 		<!-- <usage name="Village" /> -->
 		<container name="lootFloor" lootmax="2">
 			<category name="tools" />
-			<category name="containers" />
 			<category name="clothes" />
 			<tag name="floor" />
 			<tag name="shelves" />
