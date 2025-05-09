@@ -17202,6 +17202,23 @@
 			<point pos="-0.705573  -0.841156  0.946659" range="0.474225" height="1.185562" flags="32" />
 		</container>
 	</group>
+	<group name="Land_Wreck_Uaz_DE" lootmax="2">
+		<usage name="Military" />
+		<container name="lootFloor" lootmax="2">
+			<category name="containers" />
+			<category name="clothes" />
+			<category name="weapons" />
+			<tag name="floor" />
+			<tag name="shelves" />
+			<tag name="ground" />
+			<point pos="1.432111  -0.745880  0.955840" range="0.478972" height="1.197430" flags="32" />
+			<point pos="1.137940  -0.367249  -0.156679" range="0.478125" height="0.710724" />
+			<point pos="-1.077829  0.211060  -0.191129" range="0.237500" height="0.593750" />
+			<point pos="-1.872268  -0.950928  -1.130841" range="1.199951" height="0.417633" flags="32" />
+			<point pos="0.982690  -0.848969  -1.428895" range="0.891068" height="0.232727" flags="32" />
+			<point pos="-0.705573  -0.841156  0.946659" range="0.474225" height="1.185562" flags="32" />
+		</container>
+	</group>
 	<group name="StaticObj_Wreck_T72_Chassis_DE" lootmax="2">
 		<usage name="Military" />
 		<container name="lootFloor" lootmax="2">

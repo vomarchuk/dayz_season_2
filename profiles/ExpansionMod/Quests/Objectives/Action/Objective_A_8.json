@@ -7,9 +7,22 @@
     "Active": 1,
     "ActionNames": [
         "ActionSkinning",
-        "ActionSkinningCB"
+        "ActionSkinningCB",
+        "ActionCraft"
     ],
-    "AllowedClassNames": [],
+    "AllowedClassNames": [
+        "BearPelt",
+        "CowPelt",
+        "DeerPelt",
+        "FoxPelt",
+        "GoatPelt",
+        "PigPelt",
+        "RabbitPelt",
+        "ReindeerPelt",
+        "SheepPelt",
+        "WildboarPelt",
+        "WolfPelt"
+    ],
     "ExcludedClassNames": [],
     "ExecutionAmount": 1
 }
