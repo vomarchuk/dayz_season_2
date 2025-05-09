@@ -1,6 +1,8 @@
 
 void main()
 {
+	Weather weather = g_Game.GetWeather();
+    weather.MissionWeather(false);
 	// INIT ECONOMY--------------------------------------
 	Hive ce = CreateHive();
 	if (ce)
