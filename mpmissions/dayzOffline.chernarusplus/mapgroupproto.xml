@@ -16862,7 +16862,6 @@
 		<usage name="Military" />
 		<container name="lootFloor" lootmax="2">
 			<category name="tools" />
-			<category name="containers" />
 			<category name="clothes" />
 			<category name="weapons" />
 			<tag name="floor" />
