@@ -1,5 +1,6 @@
 {
-    "configVersion": 3,
+    "configVersion": 4,
+    "documentation": "https://docs.mpg-dayz.ru/spawner/",
     "isModDisabled": 0,
     "isDebugEnabled": 0,
     "pointsConfigs": [
