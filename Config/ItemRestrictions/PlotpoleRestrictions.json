@@ -196,7 +196,7 @@
             "show3D": 0
         },
         {
-            "displayName": "НЕВЕЛИКИЙ ШКАФ",
+            "displayName": "НЕБОЛЬШОЙ ШКАФ",
             "kitItemNames": [
                 "OHcupboardKit"
             ],
@@ -206,27 +206,12 @@
             "limits": [
                 1
             ],
-            "isAttachment": 0,
-            "showOnMap": 1,
+            "isAttachment": 1,
+            "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "ВЕЛИКИЙ ШКАФ",
-            "kitItemNames": [
-                "OH_lockercabin_Kit"
-            ],
-            "countItemNames": [
-                "OH_lockercabin"
-            ],
-            "limits": [
-                1
-            ],
-            "isAttachment": 0,
-            "showOnMap": 1,
-            "show3D": 0
-        },
-        {
-            "displayName": "ШКАФ ДЛЯ ЗБРОЇ",
+            "displayName": "ОРУЖЕЙНЫЙ ШКАФ",
             "kitItemNames": [
                 "OH_gunlockerKit"
             ],
@@ -236,12 +221,12 @@
             "limits": [
                 1
             ],
-            "isAttachment": 0,
+            "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "СТІЙКА ДЛЯ ЗБРОЇ",
+            "displayName": "ОРУЖЕЙНАЯ СТОЙКА",
             "kitItemNames": [
                 "OH_GunrackKit"
             ],
@@ -251,12 +236,12 @@
             "limits": [
                 1
             ],
-            "isAttachment": 0,
-            "showOnMap": 1,
-            "show3D": 1
+            "isAttachment": 1,
+            "showOnMap": 0,
+            "show3D": 0
         },
         {
-            "displayName": "ДВІЙНА СТІЙКА ДЛЯ ЗБРОЇ",
+            "displayName": "СДВОЕНАЯ ОРУЖ СТОЙКА",
             "kitItemNames": [
                 "OH_Gunrack_doubleKit"
             ],
@@ -266,12 +251,12 @@
             "limits": [
                 1
             ],
-            "isAttachment": 0,
+            "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "СТЕНД ДЛЯ ЗБРОЇ",
+            "displayName": "ОРУЖЕЙНЫЙ СТЕНД",
             "kitItemNames": [
                 "OH_gunshelfKit",
                 "OH_gunshelf_cover_Kit"
@@ -281,14 +266,63 @@
                 "OH_gunshelf_cover"
             ],
             "limits": [
-                2
+                1
             ],
-            "isAttachment": 0,
+            "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "ВЕЛИКИЙ ЯЩИК ДЛЯ АМУНІЦІЇ",
+            "displayName": "БОЛЬШОЙ ШКАФ",
+            "kitItemNames": [
+                "OH_lockercabin_Kit"
+            ],
+            "countItemNames": [
+                "OH_lockercabin"
+            ],
+            "limits": [
+                1
+            ],
+            "isAttachment": 1,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "М АРМЕЙСКИЙ ЯЩИК",
+            "kitItemNames": [
+                "OH_military_box_grey",
+                "OH_military_box_Brown",
+                "OH_military_box_Green",
+                "OH_military_box_Olive",
+                "OH_military_box_Tan"
+            ],
+            "countItemNames": [],
+            "limits": [
+                1
+            ],
+            "isAttachment": 1,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Б АРМЕЙСКИЙ ЯЩИК",
+            "kitItemNames": [
+                "OH_military_big_box_grey",
+                "OH_military_big_box_Brown",
+                "OH_military_big_box_Green",
+                "OH_military_big_box_Olive",
+                "OH_military_big_box_Tan"
+            ],
+            "countItemNames": [],
+            "limits": [
+                1
+            ],
+            "isAttachment": 1,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Б ЯЩИК ДЛЯ АМУНИЦИИ",
             "kitItemNames": [
                 "OH_militaryAmunitionBigKit"
             ],
@@ -298,46 +332,12 @@
             "limits": [
                 1
             ],
-            "isAttachment": 0,
+            "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "МАЛЕНЬКИЙ АРМІЙСЬКИЙ ЯЩИК",
-            "kitItemNames": [],
-            "countItemNames": [
-                "OH_military_box_grey",
-                "OH_military_box_Brown",
-                "OH_military_box_Green",
-                "OH_military_box_Olive",
-                "OH_military_box_Tan"
-            ],
-            "limits": [
-                1
-            ],
-            "isAttachment": 0,
-            "showOnMap": 0,
-            "show3D": 0
-        },
-        {
-            "displayName": "ВЕЛИКИЙ АРМІЙСЬКИЙ ЯЩИК",
-            "kitItemNames": [],
-            "countItemNames": [
-                "OH_military_big_box_grey",
-                "OH_military_big_box_Brown",
-                "OH_military_big_box_Green",
-                "OH_military_big_box_Olive",
-                "OH_military_big_box_Tan"
-            ],
-            "limits": [
-                1
-            ],
-            "isAttachment": 0,
-            "showOnMap": 0,
-            "show3D": 0
-        },
-        {
-            "displayName": "МАЛЕНЬКИЙ СТЕЛАЖ",
+            "displayName": "М СТЕЛЛАЖ ДЛЯ 3 ЯЩИКОВ",
             "kitItemNames": [
                 "OH_shelf_stand_Kit"
             ],
@@ -345,25 +345,48 @@
                 "OH_shelf_stand"
             ],
             "limits": [
-                2
+                1
             ],
-            "isAttachment": 0,
+            "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "ШКАФ ДЛЯ СПОРЯДЖЕННЯ",
-            "kitItemNames": [],
-            "countItemNames": [
+            "displayName": "ШКАФ ДЛЯ ХРАНЕНИЯ ЭКИП",
+            "kitItemNames": [
                 "OHlocker_blueKit",
-                "OHlocker_blue",
                 "OHlocker_greyKit",
-                "OHlocker_gray"
+                "OHlocker_Damage_BLUE_DARKKit",
+                "OHlocker_Damage_BLUE_LIGHTKit",
+                "OHlocker_Damage_BLUE_SEAKit",
+                "OHlocker_Damage_GREEN_DARKKit",
+                "OHlocker_Damage_GREEN_LIGHTKit",
+                "OHlocker_Damage_ORANGEKit",
+                "OHlocker_Damage_PALE_GREENKit",
+                "OHlocker_Damage_REDKit",
+                "OHlocker_Damage_WHITEKit",
+                "OHlocker_Damage_YELLOWKit",
+                "OHlocker_Damage_GREYkit"
+            ],
+            "countItemNames": [
+                "OHlocker_blue",
+                "OHlocker_gray",
+                "OHlocker_GymLockerDamage_BLUE_DARK",
+                "OHlocker_GymLockerDamage_BLUE_LIGHT",
+                "OHlocker_GymLockerDamage_BLUE_SEA",
+                "OHlocker_GymLockerDamage_GREEN_DARK",
+                "OHlocker_GymLockerDamage_GREEN_LIGHT",
+                "OHlocker_GymLockerDamage_ORANGE",
+                "OHlocker_GymLockerDamage_PALE_GREEN",
+                "OHlocker_GymLockerDamage_RED",
+                "OHlocker_GymLockerDamage_WHITE",
+                "OHlocker_GymLockerDamage_YELLOW",
+                "OHlocker_GymLockerDamage_GREY"
             ],
             "limits": [
                 1
             ],
-            "isAttachment": 0,
+            "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
@@ -378,28 +401,28 @@
             "limits": [
                 1
             ],
-            "isAttachment": 0,
+            "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
             "displayName": "ХОЛОДИЛЬНИКИ",
-            "kitItemNames": [],
-            "countItemNames": [
+            "kitItemNames": [
                 "OH_fridge_white",
                 "OH_zil_old_refrigerator_white",
                 "OH_ussr_old_refrigerator_white",
                 "OH_refrigerator_medium_white"
             ],
+            "countItemNames": [],
             "limits": [
-                4
+                1
             ],
-            "isAttachment": 0,
+            "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "МЕТАЛЕВІ ШКАФИ",
+            "displayName": "ЖЕЛЕЗНЫЕ ШКАФЫ",
             "kitItemNames": [
                 "OH_old_locker_blue_Kit",
                 "OH_old_locker_green_Kit"
@@ -409,72 +432,50 @@
                 "OH_old_locker_green"
             ],
             "limits": [
-                3
+                1
             ],
-            "isAttachment": 0,
+            "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "ШКАФ ДЛЯ СПОРЯДЖЕННЯ 2",
+            "displayName": "СТЕЛАЖ ДЛЯ МАТЕРИАЛОВ",
             "kitItemNames": [
-                "OHlocker_Damage_BLUE_DARKKit",
-                "OHlocker_Damage_BLUE_LIGHTKit",
-                "OHlocker_Damage_BLUE_SEAKit",
-                "OHlocker_Damage_GREEN_DARKKit",
-                "OHlocker_Damage_GREEN_LIGHTKit",
-                "OHlocker_Damage_ORANGEKit",
-                "OHlocker_Damage_PALE_GREENKit",
-                "OHlocker_Damage_REDKit",
-                "OHlocker_Damage_WHITEKit",
-                "OHlocker_Damage_YELLOWKit",
-                "OHlocker_Damage_GREYkit",
                 "OH_shelf_materials_Kit",
                 "OH_gun_cabinet_Kit"
             ],
             "countItemNames": [
-                "OHlocker_GymLockerDamage_BLUE_DARK",
-                "OHlocker_GymLockerDamage_BLUE_LIGHT",
-                "OHlocker_GymLockerDamage_BLUE_SEA",
-                "OHlocker_GymLockerDamage_GREEN_DARK",
-                "OHlocker_GymLockerDamage_GREEN_LIGHT",
-                "OHlocker_GymLockerDamage_ORANGE",
-                "OHlocker_GymLockerDamage_PALE_GREEN",
-                "OHlocker_GymLockerDamage_RED",
-                "OHlocker_GymLockerDamage_WHITE",
-                "OHlocker_GymLockerDamage_YELLOW",
-                "OHlocker_GymLockerDamage_GREY",
                 "OH_shelf_materials",
                 "OH_gun_cabinet"
             ],
             "limits": [
-                3
+                1
             ],
-            "isAttachment": 0,
+            "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "ТЕПЛИЦЯ",
+            "displayName": "ТЕПЛИЦА",
             "kitItemNames": [
-                "OH_kabak_house_Kit"
-            ],
-            "countItemNames": [
-                "OH_kabak_house",
+                "OH_kabak_house_Kit",
                 "OH_kabackhouse_Plot",
                 "OH_kabackPlotGreenhouse",
                 "OH_kabackPlotPolytunnel",
                 "OH_kabackPlot"
             ],
-            "limits": [
-                3
+            "countItemNames": [
+                "OH_kabak_house"
             ],
-            "isAttachment": 0,
+            "limits": [
+                1
+            ],
+            "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "СМІТНИКИ",
+            "displayName": "МУСОРКА",
             "kitItemNames": [
                 "OH_trash_box_Kit"
             ],
@@ -484,20 +485,20 @@
             "limits": [
                 1
             ],
-            "isAttachment": 0,
+            "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "ПІЧ",
-            "kitItemNames": [],
-            "countItemNames": [
+            "displayName": "ПЕЧКА",
+            "kitItemNames": [
                 "OH_pechka"
             ],
+            "countItemNames": [],
             "limits": [
-                3
+                1
             ],
-            "isAttachment": 0,
+            "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
@@ -514,12 +515,12 @@
             "limits": [
                 1
             ],
-            "isAttachment": 0,
+            "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "ШТОРКИ І ЖАЛЮЗІ",
+            "displayName": "ШТОРКИ И ЖАЛЮЗИ",
             "kitItemNames": [
                 "OH_blind_window_Kit",
                 "OH_home_blind_windows_blue_kit",
@@ -543,40 +544,40 @@
                 "OH_home_blind_windows_olive"
             ],
             "limits": [
-                2
+                1
             ],
-            "isAttachment": 0,
+            "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "ОСВІТЛЕННЯ",
+            "displayName": "СВЕТ",
             "kitItemNames": [
                 "OH_lamp_wall_Kit"
             ],
             "countItemNames": [
                 "OH_lamp_wall",
-                "OH_Lamp_old (НАСТОЛЬНАЯ ЛАМПА)"
-            ],
-            "limits": [
-                2
-            ],
-            "isAttachment": 0,
-            "showOnMap": 0,
-            "show3D": 0
-        },
-        {
-            "displayName": "АРМІЙСЬКИЙ ДЕРЕВЯНИЙ ЯЩИК",
-            "kitItemNames": [],
-            "countItemNames": [
-                "OH_mil_ru_box_green",
-                "OH_military_metal_crate",
-                "OH_mil_ru_box_long_green"
+                "OH_Lamp_old"
             ],
             "limits": [
                 1
             ],
-            "isAttachment": 0,
+            "isAttachment": 1,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "АРМ ДЕРЕВЯННЫЙ ЯЩИК",
+            "kitItemNames": [
+                "OH_mil_ru_box_green",
+                "OH_military_metal_crate",
+                "OH_mil_ru_box_long_green"
+            ],
+            "countItemNames": [],
+            "limits": [
+                1
+            ],
+            "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
@@ -591,12 +592,12 @@
             "limits": [
                 1
             ],
-            "isAttachment": 0,
+            "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "АЛЬТАНКА",
+            "displayName": "БЕСЕДКА",
             "kitItemNames": [
                 "OH_wood_gazebo_Kit"
             ],
@@ -606,28 +607,28 @@
             "limits": [
                 1
             ],
-            "isAttachment": 0,
+            "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "ЯЩИК ДЛЯ ІНСТРУМЕНТІВ",
-            "kitItemNames": [],
-            "countItemNames": [
+            "displayName": "ЯЩИК ДЛЯ ИНСТРУМЕНТОВ",
+            "kitItemNames": [
                 "OH_tool_box_1_blue",
                 "OH_crate_for_tools_red",
                 "OH_crate_for_tools_blue",
                 "OH_crate_for_tools_green"
             ],
+            "countItemNames": [],
             "limits": [
-                2
+                1
             ],
-            "isAttachment": 0,
+            "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "НАСТІЛЬНЕ КРІПЛЕННЯ ДЛЯ ЗБРОЇ",
+            "displayName": "КРЕПЛЕНИЯ ДЛЯ ОРУЖИЯ",
             "kitItemNames": [
                 "OH_wall_mount_weapon_Kit"
             ],
@@ -635,14 +636,14 @@
                 "OH_wall_mount_weapon"
             ],
             "limits": [
-                3
+                1
             ],
-            "isAttachment": 0,
+            "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "СТЕЛАЖ ЗІ СТАРОГО ГАРАЖА",
+            "displayName": "СТЕЛЛАЖ ИЗ ГАРАЖА",
             "kitItemNames": [
                 "OH_garage_shelf_Kit"
             ],
@@ -650,9 +651,9 @@
                 "OH_garage_shelf"
             ],
             "limits": [
-                3
+                1
             ],
-            "isAttachment": 0,
+            "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
@@ -669,12 +670,12 @@
             "limits": [
                 1
             ],
-            "isAttachment": 0,
+            "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "КОВРИ",
+            "displayName": "КОВРЫ",
             "kitItemNames": [
                 "OH_carpet_wall_model_1_Kit",
                 "OH_carpet_wall_model_2_Kit"
@@ -686,12 +687,12 @@
             "limits": [
                 1
             ],
-            "isAttachment": 0,
+            "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "ДУЖЕ ВЕЛИКИЙ ШКАФ",
+            "displayName": "ОГРОМНЫЙ ШКАФ",
             "kitItemNames": [
                 "OH_big_locker_grey_Kit",
                 "OH_big_locker_olive_Kit",
@@ -703,31 +704,14 @@
                 "OH_big_locker_camo"
             ],
             "limits": [
-                2
-            ],
-            "isAttachment": 0,
-            "showOnMap": 0,
-            "show3D": 0
-        },
-        {
-            "displayName": "СТІЙКА ДЛЯ БОЧОК",
-            "kitItemNames": [
-                "OH_metal_shelving_barrel_Kit",
-                "OH_metal_shelving_barrel_big_Kit"
-            ],
-            "countItemNames": [
-                "OH_metal_shelving_barrel",
-                "OH_metal_shelving_barrel_big"
-            ],
-            "limits": [
                 1
             ],
-            "isAttachment": 0,
+            "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "ПАЛАС",
+            "displayName": "МАТРАС",
             "kitItemNames": [
                 "OH_sleeping_matrass_Kit"
             ],
@@ -737,12 +721,27 @@
             "limits": [
                 1
             ],
-            "isAttachment": 0,
+            "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "МЕТАЛЕВИЙ ШКАФ З РОЛЬСТАВНЯМИ",
+            "displayName": "ПАЛАС",
+            "kitItemNames": [
+                "OH_carpet_floor_model_2_Kit"
+            ],
+            "countItemNames": [
+                "OH_carpet_floor_model_2"
+            ],
+            "limits": [
+                1
+            ],
+            "isAttachment": 1,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "МЕТАЛ ШКАФ С РОЛЬСТАВНЯМИ",
             "kitItemNames": [
                 "OH_box_metal_Kit"
             ],
@@ -750,46 +749,29 @@
                 "OH_box_metal"
             ],
             "limits": [
-                3
+                1
             ],
-            "isAttachment": 0,
+            "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "Бочки",
+            "displayName": "НАСТЕННЫЙ ШКАФ",
             "kitItemNames": [
-                "Barrel_Blue",
-                "Barrel_Green",
-                "Barrel_Red",
-                "Barrel_Yellow",
-                "KIWI_Barrel_01",
-                "KIWI_Barrel_02",
-                "KIWI_Barrel_03"
+                "OH_box_wood_Kit"
             ],
-            "countItemNames": [],
+            "countItemNames": [
+                "OH_box_wood"
+            ],
             "limits": [
-                9
+                1
             ],
-            "isAttachment": 0,
+            "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "Зарядні",
-            "kitItemNames": [
-                "BatteryCharger"
-            ],
-            "countItemNames": [],
-            "limits": [
-                3
-            ],
-            "isAttachment": 0,
-            "showOnMap": 0,
-            "show3D": 0
-        },
-        {
-            "displayName": "АРМІЙСЬКИЙ ЯЩИК 2",
+            "displayName": "АРМЕЙСКИЕ ЯЩИКИ",
             "kitItemNames": [
                 "OH_military_box_big_model_two_Brown",
                 "OH_military_box_big_model_two_Green",
@@ -797,473 +779,262 @@
                 "OH_military_box_big_model_two_Tan",
                 "OH_military_box_big_model_two_black",
                 "OH_military_box_big_model_two_red",
-                "OH_military_box_big_model_two_orange"
+                "OH_military_box_big_model_two_orange",
+                "OH_military_box_medium_olive",
+                "OH_military_box_medium_black",
+                "OH_military_box_medium_brown",
+                "OH_military_box_medium_green",
+                "OH_military_box_slim_olive",
+                "OH_military_box_slim_black",
+                "OH_military_box_slim_brown",
+                "OH_military_box_slim_green",
+                "OH_military_haarbig_box_Brown",
+                "OH_military_haarbig_box_Green",
+                "OH_military_haarbig_box_Olive",
+                "OH_military_haarbig_box_Tan",
+                "OH_military_haarbig_box_black",
+                "OH_military_haarbig_box_red"
             ],
-            "countItemNames": [
-                "OH_military_box_big_model_two_Brown",
-                "OH_military_box_big_model_two_Green",
-                "OH_military_box_big_model_two_Olive",
-                "OH_military_box_big_model_two_Tan",
-                "OH_military_box_big_model_two_black",
-                "OH_military_box_big_model_two_red",
-                "OH_military_box_big_model_two_orange"
-            ],
+            "countItemNames": [],
             "limits": [
-                10
+                1
             ],
             "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "ДЕРЕВ'ЯНИЙ НАСТІЛЬНИЙ ШКАФ",
+            "displayName": "АРМЕЙСКИЙ СТОЛ",
             "kitItemNames": [
-                "OH_box_wood_Kit"
+                "OH_military_table_olive",
+                "OH_old_wood_table_Kit"
             ],
             "countItemNames": [
-                "OH_box_wood"
+                "OH_old_wood_table"
             ],
             "limits": [
-                10
+                1
             ],
             "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "ДЕРЕВ'ЯНИЙ НАСТІЛЬНИЙ ШКАФ",
+            "displayName": "СТАРАЯ МЕТАЛ КРОВАТЬ",
             "kitItemNames": [
-                "OH_box_wood_Kit"
+                "OH_metal_bed_Kit"
             ],
             "countItemNames": [
-                "OH_box_wood"
+                "OH_metal_bed"
             ],
             "limits": [
-                10
+                1
             ],
             "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "ДЕРЕВ'ЯНИЙ НАСТІЛЬНИЙ ШКАФ",
+            "displayName": "БРОН РОЛЬСТАВНИ НА ОКНА",
             "kitItemNames": [
-                "OH_box_wood_Kit"
+                "OH_roll_gate_black_Kit"
             ],
             "countItemNames": [
-                "OH_box_wood"
+                "OH_roll_gate_black"
             ],
             "limits": [
-                10
+                1
             ],
             "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "ДЕРЕВ'ЯНИЙ НАСТІЛЬНИЙ ШКАФ",
+            "displayName": "БОЧКА ДЛЯ ВОДЫ",
             "kitItemNames": [
-                "OH_box_wood_Kit"
+                "OH_55gallons_water_Barrel_blue"
             ],
-            "countItemNames": [
-                "OH_box_wood"
-            ],
+            "countItemNames": [],
             "limits": [
-                10
+                1
             ],
             "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "ДЕРЕВ'ЯНИЙ НАСТІЛЬНИЙ ШКАФ",
+            "displayName": "ПОМПА ДЛЯ БОЧКИ С ВОДОЙ",
             "kitItemNames": [
-                "OH_box_wood_Kit"
+                "OH_water_tap"
             ],
-            "countItemNames": [
-                "OH_box_wood"
-            ],
+            "countItemNames": [],
             "limits": [
-                10
+                1
             ],
             "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "ДЕРЕВ'ЯНИЙ НАСТІЛЬНИЙ ШКАФ",
+            "displayName": "ПЛАСТИКОВЫЕ КАНИСТРЫ",
             "kitItemNames": [
-                "OH_box_wood_Kit"
+                "OH_plastic_canister_blue",
+                "OH_plastic_canister_red",
+                "OH_plastic_canister_green",
+                "OH_plastic_canister_yellow"
             ],
-            "countItemNames": [
-                "OH_box_wood"
-            ],
+            "countItemNames": [],
             "limits": [
-                10
+                1
             ],
             "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "ДЕРЕВ'ЯНИЙ НАСТІЛЬНИЙ ШКАФ",
+            "displayName": "ОГР БУТЫЛКА ДЛЯ ВОДЫ",
             "kitItemNames": [
-                "OH_box_wood_Kit"
+                "OH_water_bottle_blue"
             ],
-            "countItemNames": [
-                "OH_box_wood"
-            ],
+            "countItemNames": [],
             "limits": [
-                10
+                1
             ],
             "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "ДЕРЕВ'ЯНИЙ НАСТІЛЬНИЙ ШКАФ",
+            "displayName": "ДОМАШНИЕ ЛАМПЫ",
             "kitItemNames": [
-                "OH_box_wood_Kit"
+                "OH_home_lamp_torsher",
+                "OH_home_lamp_table"
             ],
-            "countItemNames": [
-                "OH_box_wood"
-            ],
+            "countItemNames": [],
             "limits": [
-                10
+                1
             ],
             "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "ДЕРЕВ'ЯНИЙ НАСТІЛЬНИЙ ШКАФ",
+            "displayName": "ШИФОНЕР",
             "kitItemNames": [
-                "OH_box_wood_Kit"
+                "OH_shifoner_light_wood_Kit",
+                "OH_shifoner_dark_wood_Kit",
+                "OH_shifoner_red_wood_Kit",
+                "OH_shifoner_light_wood",
+                "OH_shifoner_dark_wood",
+                "OH_shifoner_red_wood"
             ],
-            "countItemNames": [
-                "OH_box_wood"
-            ],
+            "countItemNames": [],
             "limits": [
-                10
+                1
             ],
             "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "ДЕРЕВ'ЯНИЙ НАСТІЛЬНИЙ ШКАФ",
+            "displayName": "УМЫВАЛЬНИК",
             "kitItemNames": [
-                "OH_box_wood_Kit"
+                "OH_hand_washer_Kit"
             ],
             "countItemNames": [
-                "OH_box_wood"
+                "OH_hand_washer"
             ],
             "limits": [
-                10
+                1
             ],
             "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "ДЕРЕВ'ЯНИЙ НАСТІЛЬНИЙ ШКАФ",
+            "displayName": "ГАЗОВАЯ ПЛИТКА",
             "kitItemNames": [
-                "OH_box_wood_Kit"
+                "OH_Portable_Gas_Stove_1",
+                "OH_gas_coocking_stove_1",
+                "OH_gas_coocking_stove_2"
             ],
-            "countItemNames": [
-                "OH_box_wood"
-            ],
+            "countItemNames": [],
             "limits": [
-                10
+                1
             ],
             "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "ДЕРЕВ'ЯНИЙ НАСТІЛЬНИЙ ШКАФ",
+            "displayName": "Герлянда",
             "kitItemNames": [
-                "OH_box_wood_Kit"
+                "OH_gerlyanda_Kit"
             ],
             "countItemNames": [
-                "OH_box_wood"
+                "OH_gerlyanda"
             ],
             "limits": [
-                10
+                1
             ],
             "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "ДЕРЕВ'ЯНИЙ НАСТІЛЬНИЙ ШКАФ",
+            "displayName": "манекен",
             "kitItemNames": [
-                "OH_box_wood_Kit"
+                "OH_shop_dummy_Kit",
+                "OH_crash_dummy_orange_Kit",
+                "OH_crash_dummy_blue_Kit",
+                "OH_crash_dummy_camo_Kit",
+                "OH_crash_dummy_green_Kit",
+                "OH_crash_dummy_grey_Kit",
+                "OH_crash_dummy_olive_Kit",
+                "OH_crash_dummy_red_Kit"
             ],
             "countItemNames": [
-                "OH_box_wood"
+                "OH_shop_dummy",
+                "OH_crash_dummy_orange",
+                "OH_crash_dummy_blue",
+                "OH_crash_dummy_camo",
+                "OH_crash_dummy_green",
+                "OH_crash_dummy_grey",
+                "OH_crash_dummy_olive",
+                "OH_crash_dummy_red"
             ],
             "limits": [
-                10
+                1
             ],
             "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "ДЕРЕВ'ЯНИЙ НАСТІЛЬНИЙ ШКАФ",
+            "displayName": "старая сов тумбочка",
             "kitItemNames": [
-                "OH_box_wood_Kit"
+                "OH_soviet_tumbochka_old_Kit"
             ],
             "countItemNames": [
-                "OH_box_wood"
+                "OH_soviet_tumbochka_old"
             ],
             "limits": [
-                10
+                1
             ],
             "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "ДЕРЕВ'ЯНИЙ НАСТІЛЬНИЙ ШКАФ",
+            "displayName": "КУНГ",
             "kitItemNames": [
-                "OH_box_wood_Kit"
+                "OH_Kung_Kit"
             ],
             "countItemNames": [
-                "OH_box_wood"
+                "OH_kung"
             ],
             "limits": [
-                10
-            ],
-            "isAttachment": 1,
-            "showOnMap": 0,
-            "show3D": 0
-        },
-        {
-            "displayName": "ДЕРЕВ'ЯНИЙ НАСТІЛЬНИЙ ШКАФ",
-            "kitItemNames": [
-                "OH_box_wood_Kit"
-            ],
-            "countItemNames": [
-                "OH_box_wood"
-            ],
-            "limits": [
-                10
-            ],
-            "isAttachment": 1,
-            "showOnMap": 0,
-            "show3D": 0
-        },
-        {
-            "displayName": "ДЕРЕВ'ЯНИЙ НАСТІЛЬНИЙ ШКАФ",
-            "kitItemNames": [
-                "OH_box_wood_Kit"
-            ],
-            "countItemNames": [
-                "OH_box_wood"
-            ],
-            "limits": [
-                10
-            ],
-            "isAttachment": 1,
-            "showOnMap": 0,
-            "show3D": 0
-        },
-        {
-            "displayName": "ДЕРЕВ'ЯНИЙ НАСТІЛЬНИЙ ШКАФ",
-            "kitItemNames": [
-                "OH_box_wood_Kit"
-            ],
-            "countItemNames": [
-                "OH_box_wood"
-            ],
-            "limits": [
-                10
-            ],
-            "isAttachment": 1,
-            "showOnMap": 0,
-            "show3D": 0
-        },
-        {
-            "displayName": "ДЕРЕВ'ЯНИЙ НАСТІЛЬНИЙ ШКАФ",
-            "kitItemNames": [
-                "OH_box_wood_Kit"
-            ],
-            "countItemNames": [
-                "OH_box_wood"
-            ],
-            "limits": [
-                10
-            ],
-            "isAttachment": 1,
-            "showOnMap": 0,
-            "show3D": 0
-        },
-        {
-            "displayName": "ДЕРЕВ'ЯНИЙ НАСТІЛЬНИЙ ШКАФ",
-            "kitItemNames": [
-                "OH_box_wood_Kit"
-            ],
-            "countItemNames": [
-                "OH_box_wood"
-            ],
-            "limits": [
-                10
-            ],
-            "isAttachment": 1,
-            "showOnMap": 0,
-            "show3D": 0
-        },
-        {
-            "displayName": "ДЕРЕВ'ЯНИЙ НАСТІЛЬНИЙ ШКАФ",
-            "kitItemNames": [
-                "OH_box_wood_Kit"
-            ],
-            "countItemNames": [
-                "OH_box_wood"
-            ],
-            "limits": [
-                10
-            ],
-            "isAttachment": 1,
-            "showOnMap": 0,
-            "show3D": 0
-        },
-        {
-            "displayName": "ДЕРЕВ'ЯНИЙ НАСТІЛЬНИЙ ШКАФ",
-            "kitItemNames": [
-                "OH_box_wood_Kit"
-            ],
-            "countItemNames": [
-                "OH_box_wood"
-            ],
-            "limits": [
-                10
-            ],
-            "isAttachment": 1,
-            "showOnMap": 0,
-            "show3D": 0
-        },
-        {
-            "displayName": "ДЕРЕВ'ЯНИЙ НАСТІЛЬНИЙ ШКАФ",
-            "kitItemNames": [
-                "OH_box_wood_Kit"
-            ],
-            "countItemNames": [
-                "OH_box_wood"
-            ],
-            "limits": [
-                10
-            ],
-            "isAttachment": 1,
-            "showOnMap": 0,
-            "show3D": 0
-        },
-        {
-            "displayName": "ДЕРЕВ'ЯНИЙ НАСТІЛЬНИЙ ШКАФ",
-            "kitItemNames": [
-                "OH_box_wood_Kit"
-            ],
-            "countItemNames": [
-                "OH_box_wood"
-            ],
-            "limits": [
-                10
-            ],
-            "isAttachment": 1,
-            "showOnMap": 0,
-            "show3D": 0
-        },
-        {
-            "displayName": "ДЕРЕВ'ЯНИЙ НАСТІЛЬНИЙ ШКАФ",
-            "kitItemNames": [
-                "OH_box_wood_Kit"
-            ],
-            "countItemNames": [
-                "OH_box_wood"
-            ],
-            "limits": [
-                10
-            ],
-            "isAttachment": 1,
-            "showOnMap": 0,
-            "show3D": 0
-        },
-        {
-            "displayName": "ДЕРЕВ'ЯНИЙ НАСТІЛЬНИЙ ШКАФ",
-            "kitItemNames": [
-                "OH_box_wood_Kit"
-            ],
-            "countItemNames": [
-                "OH_box_wood"
-            ],
-            "limits": [
-                10
-            ],
-            "isAttachment": 1,
-            "showOnMap": 0,
-            "show3D": 0
-        },
-        {
-            "displayName": "ДЕРЕВ'ЯНИЙ НАСТІЛЬНИЙ ШКАФ",
-            "kitItemNames": [
-                "OH_box_wood_Kit"
-            ],
-            "countItemNames": [
-                "OH_box_wood"
-            ],
-            "limits": [
-                10
-            ],
-            "isAttachment": 1,
-            "showOnMap": 0,
-            "show3D": 0
-        },
-        {
-            "displayName": "ДЕРЕВ'ЯНИЙ НАСТІЛЬНИЙ ШКАФ",
-            "kitItemNames": [
-                "OH_box_wood_Kit"
-            ],
-            "countItemNames": [
-                "OH_box_wood"
-            ],
-            "limits": [
-                10
-            ],
-            "isAttachment": 1,
-            "showOnMap": 0,
-            "show3D": 0
-        },
-        {
-            "displayName": "ДЕРЕВ'ЯНИЙ НАСТІЛЬНИЙ ШКАФ",
-            "kitItemNames": [
-                "OH_box_wood_Kit"
-            ],
-            "countItemNames": [
-                "OH_box_wood"
-            ],
-            "limits": [
-                10
-            ],
-            "isAttachment": 1,
-            "showOnMap": 0,
-            "show3D": 0
-        },
-        {
-            "displayName": "Rag ящики на набої",
-            "kitItemNames": [
-                "rag_baseitems_metal_ammo_box",
-                "rag_baseitems_metal_ammo_box_black",
-                "rag_baseitems_metal_ammo_box_green"
-            ],
-            "countItemNames": [
-                "rag_baseitems_metal_ammo_box",
-                "rag_baseitems_metal_ammo_box_black",
-                "rag_baseitems_metal_ammo_box_green"
-            ],
-            "limits": [
-                10
+                1
             ],
             "isAttachment": 1,
             "showOnMap": 0,

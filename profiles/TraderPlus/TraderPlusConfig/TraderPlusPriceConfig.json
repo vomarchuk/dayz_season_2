@@ -1781,17 +1781,6 @@
       ]
     },
     {
-      "CategoryName": "Vehicles",
-      "Products": [
-        "OffroadHatchback,1,-1,1,120000,12000",
-        "Hatchback_02,1,-1,1,100000,10000",
-        "Hatchback_02_Black,1,-1,1,100000,10000",
-        "Sedan_02,1,-1,1,80000,8000",
-        "CivilianSedan,1,-1,1,120000,12000",
-        "Truck_01_Covered,1,-1,1,280000,28000"
-      ]
-    },
-    {
       "CategoryName": "Toxic clothes",
       "Products": [
         "NBCHoodYellow,1,-1,0,-1,250",
@@ -1826,58 +1815,70 @@
     {
       "CategoryName": "Сет Залізний мрець",
       "Products": [
-        "VM_Iron_Revenant_Helmet_01_V1,1,-1,0,30000,3000",
-        "VM_Iron_Revenan_Vest_01_V1,1,-1,0,100000,5000",
-        "VM_Iron_Revenan_Top_01_V1,1,-1,0,55000,5000",
-        "VM_Iron_Revenan_Pants_01_V1,1,-1,0,45000,4000",
-        "VM_Iron_Revenan_Boots_01_V1,1,-1,0,30000,3000",
-        "VM_Iron_Revenan_Gloves_01_V1,1,-1,0,30000,3000"
+        "VM_Iron_Revenant_Helmet,1,-1,0,30000,3000",
+        "VM_Iron_Revenant_Vest_V1,1,-1,0,100000,5000",
+        "VM_Iron_Revenant_Jacket_V1,1,-1,0,55000,5000",
+        "VM_Iron_Revenant_Pants_V1,1,-1,0,45000,4000",
+        "VM_Iron_Revenant_Boots,1,-1,0,30000,3000",
+        "VM_Iron_Revenant_Gloves,1,-1,0,30000,3000"
       ]
     },
     {
-      "CategoryName": "Сет Hunter",
+      "CategoryName": "Сет САТАНИ",
       "Products": [
-        "VM_HUNTHelmet,1,-1,0,30000,3000",
-        "VM_HUNTHelmet_Warning,1,-1,0,30000,3000",
-        "VM_HUNTtops_GreenAndYellow_V1,1,-1,0,150000,5000",
-        "VM_HUNTtops_GreyAndGreen_V1,1,-1,0,150000,5000",
-        "VM_HUNTtops_BlackAndBlue_V1,1,-1,0,150000,5000",
-        "VM_HUNTtops_Camo_V1,1,-1,0,150000,5000",
-        "VM_HUNTpants_Black_V1,1,-1,0,45000,4000",
-        "VM_HUNTpants_Grey_V1,1,-1,0,45000,4000",
-        "VM_HUNTpants_Blue_V1,1,-1,0,45000,4000",
-        "VM_HUNTpants_Camo_V1,1,-1,0,45000,4000",
-        "VM_HUNTshoes,1,-1,0,30000,3000",
-        "VM_HUNTPoncho,1,-1,0,30000,3000"
+        "VM_Satana_Poncho,1,-1,0,30000,3000",
+        "VM_Satana_Mask,1,-1,0,30000,3000",
+        "VM_Satana_Vest_V1,1,-1,0,100000,5000",
+        "VM_Satana_Jacket_V1,1,-1,0,55000,5000",
+        "VM_Satana_Pants_V1,1,-1,0,45000,4000",
+        "VM_Satana_Shoes,1,-1,0,30000,3000",
+        "VM_Satana_Gloves,1,-1,0,30000,3000"
+      ]
+    },
+    {
+      "CategoryName": "Сет Каскадера",
+      "Products": [
+        "VM_Stuntman_Helmet,1,-1,0,30000,3000",
+        "VM_Stuntman_Mask,1,-1,0,30000,3000",
+        "VM_Stuntman_Vest_V1,1,-1,0,100000,5000",
+        "VM_Stuntman_Jacket_V1,1,-1,0,55000,5000",
+        "VM_Stuntman_Pants_V1,1,-1,0,45000,4000",
+        "VM_Stuntman_Shoes,1,-1,0,30000,3000",
+        "VM_Stuntman_Gloves,1,-1,0,30000,3000"
       ]
     },
     {
       "CategoryName": "Сет Привида",
       "Products": [
-        "VM_Ghost_Helmet,1,-1,0,100000,10000",
-        "VM_Ghost_Helmet_NBC,1,-1,0,100000,10000",
-        "VM_Ghost_Top_V1,1,-1,0,120000,12500",
-        "VM_Ghost_Pants_V1,1,-1,0,120000,12500",
-        "VM_Ghost_Vest_V1,1,-1,0,150000,15000",
-        "VM_Ghost_Gloves,1,-1,0,70000,7500",
-        "VM_Ghost_Boots,1,-1,0,70000,7500"
+        "VM_Ghost_Helmet,1,-1,0,30000,3000",
+        "VM_Ghost_Vest_V1,1,-1,0,100000,10000",
+        "VM_Ghost_Jacket_V1,1,-1,0,55000,5000",
+        "VM_Ghost_Pants_V1,1,-1,0,45000,4000",
+        "VM_Ghost_Shoes,1,-1,0,30000,3000",
+        "VM_Ghost_Gloves,1,-1,0,30000,3000"
+      ]
+    },
+    {
+      "CategoryName": "Сет FIXER",
+      "Products": [
+        "VM_FIXHelmetBGIIO,1,-1,0,30000,3000",
+        "VM_FIXHelmetIIO,1,-1,0,30000,3000",
+        "VM_FIXvestBGIIO_V1,1,-1,0,100000,10000",
+        "VM_FIXvestIIO_V1,1,-1,0,100000,10000",
+        "VM_FIXtopsBGIIO_V1,1,-1,0,55000,5000",
+        "VM_FIXtopsIIO_V1,1,-1,0,55000,5000",
+        "VM_FIXpantsBGIIO_V1,1,-1,0,45000,4000",
+        "VM_FIXpantsIIO_V1,1,-1,0,45000,4000",
+        "VM_FIXshoesBGIIO,1,-1,0,30000,3000",
+        "VM_FIXshoesIIO,1,-1,0,30000,3000",
+        "VM_FIXglovesBGIIO,1,-1,0,30000,3000",
+        "VM_FIXglovesIIO,1,-1,0,30000,3000"
       ]
     },
     {
       "CategoryName": "Toxic tools",
       "Products": [
-        "TerjeSoap,1,-1,0,-1,500",
-        "TerjeCaseRadMilitary,1,-1,0,-1,1000",
-        "TerjeCaseRadSpecial,1,-1,0,-1,1000",
-        "TerjePump,1,-1,0,-1,1000",
-        "TerjeRadTent,1,-1,0,-1,1500",
-        "TerjeShower,1,-1,0,-1,500",
-        "TerjeCanisterChemical,1,-1,0,-1,500",
-        "RIP_Kevlar,1,-1,2500,-1,500",
-        "TerjeDosimetrCdv700,1,-1,0,-1,250",
-        "TerjeDosimetrDpg05,1,-1,0,-1,400",
-        "TerjeDosimetrPripyat,1,-1,0,-1,600",
-        "TerjeDosimetrMkc01A,1,-1,0,-1,500"
+        "RIP_Kevlar,1,-1,2500,-1,500"
       ]
     },
     {
