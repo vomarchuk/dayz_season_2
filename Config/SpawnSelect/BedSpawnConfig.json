@@ -11,6 +11,8 @@
                 "LBS_SleepingBag_New_Base",
                 "LBS_SleepingBag_Base",
                 "",
+                "",
+                "",
                 ""
             ],
             "timeoutSeconds": 0,

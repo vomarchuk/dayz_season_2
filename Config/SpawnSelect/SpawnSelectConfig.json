@@ -22,7 +22,7 @@
     "death_spawn_block_radius": 1500,
     "death_spawn_block_timeout": 1800,
     "respawnOpenedMenuSpawnpoints": {
-        "disableRandomSpawn": 0,
+        "disableRandomSpawn": 1,
         "sleepingBags": 1,
         "allSpawnPoints": 1,
         "allHousePoints": 0,
@@ -31,7 +31,7 @@
         "spawnPointsList": []
     },
     "firstJoinOpenedMenuSpawnpoints": {
-        "disableRandomSpawn": 0,
+        "disableRandomSpawn": 1,
         "sleepingBags": 1,
         "allSpawnPoints": 1,
         "allHousePoints": 0,
@@ -41,7 +41,7 @@
     },
     "signs": [
         {
-            "disableRandomSpawn": 0,
+            "disableRandomSpawn": 1,
             "sleepingBags": 1,
             "allSpawnPoints": 1,
             "allHousePoints": 1,
@@ -53,7 +53,7 @@
             "actionText": "#open"
         },
         {
-            "disableRandomSpawn": 0,
+            "disableRandomSpawn": 1,
             "sleepingBags": 0,
             "allSpawnPoints": 0,
             "allHousePoints": 1,
@@ -68,7 +68,7 @@
             "actionText": "Teleport to Safezone"
         },
         {
-            "disableRandomSpawn": 0,
+            "disableRandomSpawn": 1,
             "sleepingBags": 1,
             "allSpawnPoints": 0,
             "allHousePoints": 1,
@@ -87,7 +87,7 @@
             "actionText": "Spawn"
         },
         {
-            "disableRandomSpawn": 0,
+            "disableRandomSpawn": 1,
             "sleepingBags": 1,
             "allSpawnPoints": 1,
             "allHousePoints": 1,
@@ -99,7 +99,7 @@
             "actionText": "#open"
         },
         {
-            "disableRandomSpawn": 0,
+            "disableRandomSpawn": 1,
             "sleepingBags": 1,
             "allSpawnPoints": 1,
             "allHousePoints": 1,
@@ -111,7 +111,7 @@
             "actionText": "#open"
         },
         {
-            "disableRandomSpawn": 0,
+            "disableRandomSpawn": 1,
             "sleepingBags": 1,
             "allSpawnPoints": 1,
             "allHousePoints": 1,
@@ -276,7 +276,7 @@
             ],
             "name": "Chernogorsk",
             "spawnCost": 0,
-            "timeout": 300,
+            "timeout": 0,
             "spawnRadius": 20,
             "enabled": 1,
             "spawnAtExactPosition": 0,
@@ -338,7 +338,7 @@
             ],
             "name": "Elektrozavodsk",
             "spawnCost": 0,
-            "timeout": 300,
+            "timeout": 0,
             "spawnRadius": 20,
             "enabled": 1,
             "spawnAtExactPosition": 0,
@@ -395,7 +395,7 @@
             ],
             "name": "Berenzino",
             "spawnCost": 0,
-            "timeout": 300,
+            "timeout": 0,
             "spawnRadius": 20,
             "enabled": 1,
             "spawnAtExactPosition": 0,
@@ -457,7 +457,7 @@
             ],
             "name": "Kamyshovo",
             "spawnCost": 0,
-            "timeout": 300,
+            "timeout": 0,
             "spawnRadius": 50,
             "enabled": 1,
             "spawnAtExactPosition": 0,
@@ -468,17 +468,33 @@
             "loadouts": [
                 "Preset_Spawn_01"
             ],
-            "spawnPositions": []
+            "spawnPositions": [
+                [
+                    12204.513671875,
+                    5.824476718902588,
+                    3509.67041015625
+                ],
+                [
+                    11865.314453125,
+                    6.025801181793213,
+                    3460.06884765625
+                ],
+                [
+                    12090.9140625,
+                    6.2293596267700199,
+                    3493.669677734375
+                ]
+            ]
         },
         {
             "pos": [
-                13466.009765625,
-                6.117025375366211,
-                6318.966796875
+                13514.2763671875,
+                2.921635389328003,
+                6294.916015625
             ],
             "name": "Solnechny",
             "spawnCost": 0,
-            "timeout": 300,
+            "timeout": 0,
             "spawnRadius": 50,
             "enabled": 1,
             "spawnAtExactPosition": 0,
@@ -504,6 +520,21 @@
                     12076.234375,
                     3.0115652084350588,
                     3428.674072265625
+                ],
+                [
+                    13463.560546875,
+                    6.022452354431152,
+                    6363.14111328125
+                ],
+                [
+                    13449.6748046875,
+                    5.8931074142456059,
+                    6128.2763671875
+                ],
+                [
+                    13460.5419921875,
+                    6.12456750869751,
+                    6238.765625
                 ]
             ]
         },
@@ -515,7 +546,7 @@
             ],
             "name": "Svetloyarsk",
             "spawnCost": 0,
-            "timeout": 300,
+            "timeout": 0,
             "spawnRadius": 50,
             "enabled": 1,
             "spawnAtExactPosition": 0,
@@ -526,7 +557,23 @@
             "loadouts": [
                 "Preset_Spawn_01"
             ],
-            "spawnPositions": []
+            "spawnPositions": [
+                [
+                    13874.8818359375,
+                    35.527183532714847,
+                    12875.05078125
+                ],
+                [
+                    13786.8818359375,
+                    37.937625885009769,
+                    12769.451171875
+                ],
+                [
+                    13727.6806640625,
+                    47.91179656982422,
+                    12883.05078125
+                ]
+            ]
         },
         {
             "pos": [
@@ -547,7 +594,13 @@
             "loadouts": [
                 "Preset_Spawn_01"
             ],
-            "spawnPositions": []
+            "spawnPositions": [
+                [
+                    2244.440673828125,
+                    263.44287109375,
+                    9267.421875
+                ]
+            ]
         },
         {
             "pos": [
@@ -568,7 +621,13 @@
             "loadouts": [
                 "Preset_Spawn_01"
             ],
-            "spawnPositions": []
+            "spawnPositions": [
+                [
+                    2009.7333984375,
+                    282.5563049316406,
+                    12932.3046875
+                ]
+            ]
         },
         {
             "pos": [
@@ -589,7 +648,13 @@
             "loadouts": [
                 "Preset_Spawn_01"
             ],
-            "spawnPositions": []
+            "spawnPositions": [
+                [
+                    7101.376953125,
+                    187.2395477294922,
+                    12344.3388671875
+                ]
+            ]
         },
         {
             "pos": [
@@ -610,17 +675,23 @@
             "loadouts": [
                 "Preset_Spawn_01"
             ],
-            "spawnPositions": []
+            "spawnPositions": [
+                [
+                    7248.26904296875,
+                    331.2182922363281,
+                    8247.1103515625
+                ]
+            ]
         },
         {
             "pos": [
-                4374.2373046875,
-                2.0332202911376955,
-                2239.507080078125
+                1852.1090087890626,
+                3.2182371616363527,
+                2094.670654296875
             ],
             "name": "Kamenka",
             "spawnCost": 0,
-            "timeout": 300,
+            "timeout": 0,
             "spawnRadius": 50,
             "enabled": 1,
             "spawnAtExactPosition": 0,
@@ -631,7 +702,23 @@
             "loadouts": [
                 "Preset_Spawn_01"
             ],
-            "spawnPositions": []
+            "spawnPositions": [
+                [
+                    1899.0384521484376,
+                    6.010810375213623,
+                    2175.450439453125
+                ],
+                [
+                    1875.95849609375,
+                    2.662559986114502,
+                    2105.44189453125
+                ],
+                [
+                    1685.16357421875,
+                    5.949133396148682,
+                    2121.59716796875
+                ]
+            ]
         },
         {
             "pos": [
@@ -652,7 +739,13 @@
             "loadouts": [
                 "Preset_Spawn_01"
             ],
-            "spawnPositions": []
+            "spawnPositions": [
+                [
+                    1166.719970703125,
+                    186.64952087402345,
+                    4950.9384765625
+                ]
+            ]
         },
         {
             "pos": [
@@ -673,7 +766,13 @@
             "loadouts": [
                 "Preset_Spawn_01"
             ],
-            "spawnPositions": []
+            "spawnPositions": [
+                [
+                    6613.07470703125,
+                    467.96514892578127,
+                    15230.880859375
+                ]
+            ]
         },
         {
             "pos": [
@@ -694,7 +793,13 @@
             "loadouts": [
                 "Preset_Spawn_01"
             ],
-            "spawnPositions": []
+            "spawnPositions": [
+                [
+                    8450.2158203125,
+                    292.0,
+                    5995.70703125
+                ]
+            ]
         }
     ]
 }

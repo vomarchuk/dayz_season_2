@@ -180,8 +180,7 @@
                 "Preset_Police_weapons",
                 "Preset_Police_others",
                 "Preset_Police_med",
-                "WeaponCleaningKit",
-                "TerjeInjectorRabinucoline"
+                "WeaponCleaningKit"
             ],
             "root": 1
         },

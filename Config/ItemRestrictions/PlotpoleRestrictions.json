@@ -35,15 +35,13 @@
         {
             "displayName": "Палатки",
             "kitItemNames": [
-                "TentBase",
-                "rag_baseitems_celtic_shelter_kit"
+                "TentBase"
             ],
             "countItemNames": [
                 "TentBase",
                 "MediumTent",
                 "LargeTent",
-                "CarTent",
-                "rag_baseitems_celtic_shelter"
+                "CarTent"
             ],
             "limits": [
                 3
@@ -211,7 +209,7 @@
             "show3D": 0
         },
         {
-            "displayName": "ОРУЖЕЙНЫЙ ШКАФ",
+            "displayName": "ОРУЖ ШКАФ",
             "kitItemNames": [
                 "OH_gunlockerKit"
             ],
@@ -226,7 +224,7 @@
             "show3D": 0
         },
         {
-            "displayName": "ОРУЖЕЙНАЯ СТОЙКА",
+            "displayName": "ОРУЖ СТОЙКА",
             "kitItemNames": [
                 "OH_GunrackKit"
             ],
@@ -241,7 +239,7 @@
             "show3D": 0
         },
         {
-            "displayName": "СДВОЕНАЯ ОРУЖ СТОЙКА",
+            "displayName": "2-я ОРУЖ СТОЙКА",
             "kitItemNames": [
                 "OH_Gunrack_doubleKit"
             ],
@@ -337,7 +335,7 @@
             "show3D": 0
         },
         {
-            "displayName": "М СТЕЛЛАЖ ДЛЯ 3 ЯЩИКОВ",
+            "displayName": "СТЕЛЛАЖ ДЛЯ ЯЩИКОВ",
             "kitItemNames": [
                 "OH_shelf_stand_Kit"
             ],
@@ -352,7 +350,7 @@
             "show3D": 0
         },
         {
-            "displayName": "ШКАФ ДЛЯ ХРАНЕНИЯ ЭКИП",
+            "displayName": "ШКАФ ДЛЯ ЭКИП",
             "kitItemNames": [
                 "OHlocker_blueKit",
                 "OHlocker_greyKit",
@@ -439,7 +437,7 @@
             "show3D": 0
         },
         {
-            "displayName": "СТЕЛАЖ ДЛЯ МАТЕРИАЛОВ",
+            "displayName": "СТЕЛАЖ ДЛЯ МАТ",
             "kitItemNames": [
                 "OH_shelf_materials_Kit",
                 "OH_gun_cabinet_Kit"
@@ -612,7 +610,7 @@
             "show3D": 0
         },
         {
-            "displayName": "ЯЩИК ДЛЯ ИНСТРУМЕНТОВ",
+            "displayName": "Ящик для инструментов",
             "kitItemNames": [
                 "OH_tool_box_1_blue",
                 "OH_crate_for_tools_red",
@@ -741,7 +739,7 @@
             "show3D": 0
         },
         {
-            "displayName": "МЕТАЛ ШКАФ С РОЛЬСТАВНЯМИ",
+            "displayName": "ШКАФ С РОЛЬСТАВНЯМИ",
             "kitItemNames": [
                 "OH_box_metal_Kit"
             ],
@@ -835,7 +833,7 @@
             "show3D": 0
         },
         {
-            "displayName": "БРОН РОЛЬСТАВНИ НА ОКНА",
+            "displayName": "РОЛЬСТАВНИ НА ОКНА",
             "kitItemNames": [
                 "OH_roll_gate_black_Kit"
             ],
@@ -863,7 +861,7 @@
             "show3D": 0
         },
         {
-            "displayName": "ПОМПА ДЛЯ БОЧКИ С ВОДОЙ",
+            "displayName": "ПОМПА ДЛЯ БОЧКИ",
             "kitItemNames": [
                 "OH_water_tap"
             ],
@@ -1017,21 +1015,6 @@
             ],
             "countItemNames": [
                 "OH_soviet_tumbochka_old"
-            ],
-            "limits": [
-                1
-            ],
-            "isAttachment": 1,
-            "showOnMap": 0,
-            "show3D": 0
-        },
-        {
-            "displayName": "КУНГ",
-            "kitItemNames": [
-                "OH_Kung_Kit"
-            ],
-            "countItemNames": [
-                "OH_kung"
             ],
             "limits": [
                 1

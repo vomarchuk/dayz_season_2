@@ -5,12 +5,40 @@
         {
             "displayName": "Sleeping Bags",
             "kitItemNames": [
-                "LBS_SleepingPacked_Base",
+                "LBS_SleepingPacked_Base"
+            ],
+            "countItemNames": [],
+            "limits": [
+                2
+            ],
+            "isAttachment": 0,
+            "showOnMap": 1,
+            "show3D": 1
+        },
+        {
+            "displayName": "Kung",
+            "kitItemNames": [
+                "OH_Kung_Kit"
+            ],
+            "countItemNames": [
+                "OH_kung"
+            ],
+            "limits": [
+                1
+            ],
+            "isAttachment": 0,
+            "showOnMap": 1,
+            "show3D": 1
+        },
+        {
+            "displayName": "TerjeBag",
+            "kitItemNames": [
                 "TerjeSleepingBag_Blue",
                 "TerjeSleepingBag_Woodland"
             ],
             "countItemNames": [
-                "LBS_SleepingBag_Base"
+                "TerjeSleepingBag_Blue",
+                "TerjeSleepingBag_Woodland"
             ],
             "limits": [
                 1

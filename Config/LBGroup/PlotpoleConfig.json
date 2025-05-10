@@ -11,10 +11,11 @@
     "forceDeployingInTerritory": 1,
     "forceExceptions": [
         "Barrel_ColorBase",
-        "Fireplace",
+        "HydraulicJack",
+        "OH_Kung_Kit",
         "TerjeSleepingBag_Woodland",
         "TerjeSleepingBag_Blue",
-        "HydraulicJack"
+        "Fireplace"
     ],
     "preventUnauthorizedBuilding": 1,
     "preventUnauthorizedDismantling": 1,
