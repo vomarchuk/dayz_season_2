@@ -5303,7 +5303,7 @@
 		</container>
 	</group>
 
-	<group name="Land_CementWorks_SiloBig1A">
+	<group name="Land_CementWorks_SiloBig1A lootmax="5"">
 		<usage name="Industrial" />
 		<container name="lootFloor">
 			<category name="tools" />
@@ -5343,7 +5343,7 @@
 		</container>
 	</group>
 
-	<group name="Land_CementWorks_RotFurnace">
+	<group name="Land_CementWorks_RotFurnace" lootmax="5">
 		<usage name="Industrial" />
 		<container name="lootGround">
 			<category name="tools" />
