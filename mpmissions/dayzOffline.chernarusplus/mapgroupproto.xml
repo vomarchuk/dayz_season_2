@@ -18642,7 +18642,7 @@
 						<proxy type="AmmoBox_762x39Tracer_20Rnd" pos="-0.042846 1.220266 -1.40679" rpy="-90.000000 140.000000 0.000000" dechance="0.066"/>
 				</dispatch>
 		</group>
-		<group name="Land_Underground_Storage_Hospital" lootmax="10">
+		<!-- <group name="Land_Underground_Storage_Hospital" lootmax="10">
 				<usage name="Military"/>
 				<usage name="Medic"/>
 				<value name="Tier3"/>
@@ -18672,8 +18672,8 @@
 						<point pos="-9.338135 1.023865 -3.173584" range="0.375000" height="0.937500"/>
 						<point pos="-9.319457 1.023865 -2.179445" range="0.375000" height="0.937500"/>
 				</container>
-		</group>
-		<group name="Land_Underground_Storage_Laboratory" lootmax="10">
+		</group> -->
+		<!-- <group name="Land_Underground_Storage_Laboratory" lootmax="10">
 				<usage name="Military"/>
 				<usage name="Medic"/>
 				<value name="Tier3"/>
@@ -18702,8 +18702,8 @@
 				<dispatch dechance="1.000000">
 						<proxy type="Ammo_40mm_ChemGas" pos="-4.303712 0.907471 3.644958" rpy="0.000000 0.000000 0.000000" dechance="1.0"/>
 				</dispatch>
-		</group>
-		<group name="Land_Underground_WaterMaintenance" lootmax="10">
+		</group> -->
+		<!-- <group name="Land_Underground_WaterMaintenance" lootmax="10">
 				<usage name="Military"/>
 				<value name="Tier3"/>
 				<value name="Tier4"/>
@@ -18730,8 +18730,8 @@
 						<point pos="-3.935425 1.083557 1.349550" range="0.265401" height="0.369995"/>
 						<point pos="-4.371338 1.583557 1.261109" range="0.203125" height="0.295013"/>
 				</container>
-		</group>
-		<group name="Land_Underground_Storage_Prison" lootmax="10">
+		</group> -->
+		<!-- <group name="Land_Underground_Storage_Prison" lootmax="10">
 				<usage name="Military"/>
 				<value name="Tier3"/>
 				<value name="Tier4"/>
@@ -18768,7 +18768,7 @@
 						<proxy type="PlateCarrierVest_Black" pos="-4.811768 0.012756 -0.1574" rpy="0.000000 0.000000 0.000000" dechance="0.2"/>
 						<proxy type="PlateCarrierVest_Green" pos="-8.244873 0.012756 -0.5780" rpy="0.000000 0.000000 0.000000" dechance="0.2"/>
 				</dispatch>
-		</group>
+		</group> -->
 		<group name="Land_Underground_Storage_POX2" lootmax="10">
 				<usage name="Military"/>
 				<value name="Tier3"/>
