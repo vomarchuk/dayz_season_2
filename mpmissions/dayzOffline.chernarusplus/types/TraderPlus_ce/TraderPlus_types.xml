@@ -247,10 +247,10 @@
 		<category name="tools" />
 	</type>
 	<type name="TraderPlus_Money_Euro5">
-		<nominal>10</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
-		<min>4</min>
+		<min>0</min>
 		<quantmin>1</quantmin>
 		<quantmax>1</quantmax>
 		<cost>100</cost>
@@ -261,10 +261,10 @@
 		<value name="Tier1" />
 	</type>
 	<type name="TraderPlus_Money_Euro10">
-		<nominal>10</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>1</quantmin>
 		<quantmax>1</quantmax>
 		<cost>100</cost>
@@ -275,10 +275,10 @@
 		<value name="Tier2" />
 	</type>
 	<type name="TraderPlus_Money_Euro20">
-		<nominal>10</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>1</quantmin>
 		<quantmax>1</quantmax>
 		<cost>100</cost>
@@ -290,10 +290,10 @@
 		<value name="Tier4" />
 	</type>
 	<type name="TraderPlus_Money_Euro50">
-		<nominal>5</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
-		<min>3</min>
+		<min>0</min>
 		<quantmin>1</quantmin>
 		<quantmax>1</quantmax>
 		<cost>100</cost>
