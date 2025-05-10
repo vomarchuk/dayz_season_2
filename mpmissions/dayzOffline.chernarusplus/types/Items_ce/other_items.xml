@@ -1,141 +1,81 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
     <type name="Expansion_Gravecross">
-        <nominal>0</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="Expansion_Gravecross_LowLifetime">
-        <nominal>0</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="ExpansionGPS">
-        <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
-        <quantmin>150</quantmin>
-        <quantmax>350</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
-        <usage name="Hunting" />
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="HydraulicJack">
-        <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="TrafficCone">
-        <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="SLC_Tachi">
-        <nominal>0</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="SLCTachiSheath">
-        <nominal>0</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="SLC_Katana">
-        <nominal>0</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="SLCKatanaSheath">
-        <nominal>0</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Police"/>
-        <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="SLC_Ninjato">
-        <nominal>0</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Police"/>
-        <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="SLCNinjatoSheath">
-        <nominal>0</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Police"/>
-        <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="SLC_Wakazashi">
         <nominal>3</nominal>
@@ -146,23 +86,15 @@
         <quantmax>80</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools" />
-        <usage name="Hunting" />
+        <category name="tools"/>
+        <usage name="Hunting"/>
     </type>
     <type name="SLCWakazashiSheath">
-        <nominal>0</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Police"/>
-        <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="CodeLock">
         <nominal>1</nominal>
@@ -176,53 +108,33 @@
         <category name="tools"/>
         <usage name="Industrial"/>
         <value name="Tier4"/>
-
     </type>
     <type name="ExpansionParkingMeter">
-        <nominal>0</nominal>
         <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
-
     <!--  -->
     <type name="TD_Gold_Bar">
-        <nominal>0</nominal>
         <lifetime>21600</lifetime>
-        <restock>10800</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>2</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="TD_Gold_nugget">
-        <nominal>0</nominal>
         <lifetime>21600</lifetime>
-        <restock>10800</restock>
-        <min>0</min>
-        <quantmin>10</quantmin>
-        <quantmax>10</quantmax>
-        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="TD_Wallet">
         <nominal>10</nominal>
         <lifetime>21600</lifetime>
-        <restock>10800</restock>
+        <restock>2159</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -233,347 +145,193 @@
         <usage name="Village"/>
     </type>
     <type name="TD_Suitcase">
-        <nominal>0</nominal>
         <lifetime>21600</lifetime>
-        <restock>10800</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>5</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="TD_GRNnew_money20">
-        <nominal>0</nominal>
         <lifetime>21600</lifetime>
-        <restock>10800</restock>
-        <min>0</min>
-        <quantmin>2</quantmin>
-        <quantmax>50</quantmax>
-        <cost>2</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="TD_GRNnew_money50">
-        <nominal>0</nominal>
         <lifetime>21600</lifetime>
-        <restock>10800</restock>
-        <min>0</min>
-        <quantmin>2</quantmin>
-        <quantmax>50</quantmax>
-        <cost>2</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="TD_GRNnew_money100">
-        <nominal>0</nominal>
         <lifetime>21600</lifetime>
-        <restock>10800</restock>
-        <min>0</min>
-        <quantmin>2</quantmin>
-        <quantmax>50</quantmax>
-        <cost>2</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="TD_GRNnew_money200">
-        <nominal>0</nominal>
         <lifetime>21600</lifetime>
-        <restock>10800</restock>
-        <min>0</min>
-        <quantmin>2</quantmin>
-        <quantmax>50</quantmax>
-        <cost>2</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="TD_GRNnew_money500">
-        <nominal>0</nominal>
         <lifetime>21600</lifetime>
-        <restock>10800</restock>
-        <min>0</min>
-        <quantmin>2</quantmin>
-        <quantmax>50</quantmax>
-        <cost>2</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="TD_GRNnew_money1000">
-        <nominal>0</nominal>
         <lifetime>21600</lifetime>
-        <restock>10800</restock>
-        <min>0</min>
-        <quantmin>2</quantmin>
-        <quantmax>50</quantmax>
-        <cost>2</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="TD_GRN2014_money1">
-        <nominal>0</nominal>
         <lifetime>21600</lifetime>
-        <restock>10800</restock>
-        <min>0</min>
-        <quantmin>2</quantmin>
-        <quantmax>50</quantmax>
-        <cost>2</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="TD_GRN2014_money2">
-        <nominal>0</nominal>
         <lifetime>21600</lifetime>
-        <restock>10800</restock>
-        <min>0</min>
-        <quantmin>2</quantmin>
-        <quantmax>50</quantmax>
-        <cost>2</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="TD_GRN2014_money5">
-        <nominal>0</nominal>
         <lifetime>21600</lifetime>
-        <restock>10800</restock>
-        <min>0</min>
-        <quantmin>2</quantmin>
-        <quantmax>50</quantmax>
-        <cost>2</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="TD_GRN2014_money10">
-        <nominal>0</nominal>
         <lifetime>21600</lifetime>
-        <restock>10800</restock>
-        <min>0</min>
-        <quantmin>2</quantmin>
-        <quantmax>50</quantmax>
-        <cost>2</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="TD_GRN2014_money20">
-        <nominal>0</nominal>
         <lifetime>21600</lifetime>
-        <restock>10800</restock>
-        <min>0</min>
-        <quantmin>2</quantmin>
-        <quantmax>50</quantmax>
-        <cost>2</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="TD_GRN2014_money50">
-        <nominal>0</nominal>
         <lifetime>21600</lifetime>
-        <restock>10800</restock>
-        <min>0</min>
-        <quantmin>2</quantmin>
-        <quantmax>50</quantmax>
-        <cost>2</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="TD_GRN2014_money100">
-        <nominal>0</nominal>
         <lifetime>21600</lifetime>
-        <restock>10800</restock>
-        <min>0</min>
-        <quantmin>2</quantmin>
-        <quantmax>50</quantmax>
-        <cost>2</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="TD_GRN2014_money200">
-        <nominal>0</nominal>
         <lifetime>21600</lifetime>
-        <restock>10800</restock>
-        <min>0</min>
-        <quantmin>2</quantmin>
-        <quantmax>50</quantmax>
-        <cost>2</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="TD_GRN2014_money500">
-        <nominal>0</nominal>
         <lifetime>21600</lifetime>
-        <restock>10800</restock>
-        <min>0</min>
-        <quantmin>2</quantmin>
-        <quantmax>50</quantmax>
-        <cost>2</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="TD_GRN1992_money1">
-        <nominal>0</nominal>
         <lifetime>21600</lifetime>
-        <restock>10800</restock>
-        <min>0</min>
-        <quantmin>1</quantmin>
-        <quantmax>5</quantmax>
-        <cost>2</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="TD_GRN1992_money2">
-        <nominal>0</nominal>
         <lifetime>21600</lifetime>
-        <restock>10800</restock>
-        <min>0</min>
-        <quantmin>2</quantmin>
-        <quantmax>50</quantmax>
-        <cost>2</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="TD_GRN1992_money5">
-        <nominal>0</nominal>
         <lifetime>21600</lifetime>
-        <restock>10800</restock>
-        <min>0</min>
-        <quantmin>2</quantmin>
-        <quantmax>50</quantmax>
-        <cost>2</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="TD_GRN1992_money10">
-        <nominal>0</nominal>
         <lifetime>21600</lifetime>
-        <restock>10800</restock>
-        <min>0</min>
-        <quantmin>2</quantmin>
-        <quantmax>50</quantmax>
-        <cost>2</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="TD_GRN1992_money20">
-        <nominal>0</nominal>
         <lifetime>21600</lifetime>
-        <restock>10800</restock>
-        <min>0</min>
-        <quantmin>2</quantmin>
-        <quantmax>50</quantmax>
-        <cost>2</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="TD_GRN1992_money50">
-        <nominal>0</nominal>
         <lifetime>21600</lifetime>
-        <restock>10800</restock>
-        <min>0</min>
-        <quantmin>2</quantmin>
-        <quantmax>50</quantmax>
-        <cost>2</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="TD_GRN1992_money100">
-        <nominal>0</nominal>
         <lifetime>21600</lifetime>
-        <restock>10800</restock>
-        <min>0</min>
-        <quantmin>2</quantmin>
-        <quantmax>50</quantmax>
-        <cost>2</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="TD_GRN_Coin1">
-        <nominal>0</nominal>
         <lifetime>21600</lifetime>
-        <restock>72000</restock>
-        <min>0</min>
-        <quantmin>20</quantmin>
-        <quantmax>20</quantmax>
-        <cost>2</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <tag name="shelves"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="TD_GRN_Coin2">
-        <nominal>0</nominal>
         <lifetime>21600</lifetime>
-        <restock>72000</restock>
-        <min>0</min>
-        <quantmin>20</quantmin>
-        <quantmax>20</quantmax>
-        <cost>2</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <tag name="shelves"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="TD_GRN_Coin5">
-        <nominal>0</nominal>
         <lifetime>21600</lifetime>
-        <restock>72000</restock>
-        <min>0</min>
-        <quantmin>20</quantmin>
-        <quantmax>20</quantmax>
-        <cost>2</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <tag name="shelves"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="TD_GRN_Coin10">
-        <nominal>0</nominal>
         <lifetime>21600</lifetime>
-        <restock>72000</restock>
-        <min>0</min>
-        <quantmin>20</quantmin>
-        <quantmax>20</quantmax>
-        <cost>2</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <tag name="shelves"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <!--  -->
-</types>      
+</types>
