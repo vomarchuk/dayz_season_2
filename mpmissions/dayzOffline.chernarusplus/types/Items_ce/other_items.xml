@@ -44,7 +44,6 @@
         <category name="vehiclesparts"/>
         <tag name="floor"/>
     </type>
-
     <type name="TrafficCone">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
