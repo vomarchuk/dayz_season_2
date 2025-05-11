@@ -588,7 +588,7 @@
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 10.0,
-            "Loadout": "PatrolLoadout3",
+            "Loadout": "PatrolLoadoutNBC",
             "Units": [],
             "NumberOfAI": -3,
             "Behaviour": "ALTERNATE",
