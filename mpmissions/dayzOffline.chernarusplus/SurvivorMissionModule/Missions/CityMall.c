@@ -292,7 +292,7 @@ class CityMallMission extends SurvivorMissions
 	void SpawnRewards()
 	{
 		//new MissionObject after deleting orange bag
-		MissionObject = ItemBase.Cast( GetGame().CreateObject( "SeaChest", m_MissionPosition ));
+		MissionObject = ItemBase.Cast( GetGame().CreateObject( "OH_military_box_big_model_two_events", m_MissionPosition ));
 		
 
 		ref array<string> randomItems = RandomItemsList.GetItems();

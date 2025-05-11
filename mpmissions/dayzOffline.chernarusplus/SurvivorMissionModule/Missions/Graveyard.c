@@ -142,7 +142,7 @@ class GraveyardMission extends SurvivorMissions
 		}
 				
 		//Spawn seachest in stash
-		MissionObject = ItemBase.Cast( stash.GetInventory().CreateInInventory("SeaChest"));		
+		MissionObject = ItemBase.Cast( stash.GetInventory().CreateInInventory("OH_military_box_big_model_two_events"));		
 		
 		
 		ref array<string> randomItems = RandomItemsList.GetItems();
@@ -336,7 +336,7 @@ class GraveyardMission extends SurvivorMissions
 		//Check if container gets taken from player
 		if ( MissionSettings.Opt_DenyObjTakeaway )
 		{
-			if ( m_MissionObjects[0] && m_MissionObjects[0].ClassName() == "SeaChest" )
+			if ( m_MissionObjects[0] && m_MissionObjects[0].ClassName() == "OH_military_box_big_model_two_events" )
 			{
 				if ( player.GetInventory().HasEntityInInventory( EntityAI.Cast( m_MissionObjects[0] )) && !m_ContainerWasTaken )
 				{

@@ -1259,7 +1259,7 @@
     "RewardObjects": [
         {
             "Reward_Type": 1,
-            "ClassName": "Barrel_Red",
+            "ClassName": "OH_military_haarbig_box_events",
             "Replace_ClassName": "",
             "Loot_Initial": [],
             "Loot_Win": []

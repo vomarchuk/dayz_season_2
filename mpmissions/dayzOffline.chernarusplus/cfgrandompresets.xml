@@ -6,8 +6,8 @@
 	<cargo chance="0.00" name="kiwi_army">
 		<item name="SodaCan_Cola" chance="1.0" />
 	</cargo>
-	<cargo chance="0.00" name="kiwi_civillian">
-		<item name="SodaCan_Spite" chance="1.0" />
+	<cargo chance="0.15" name="kiwi_civillian">
+		<item name="LB_LC_Key1_Violet" chance="1.0" />
 	</cargo>
 	<cargo chance="0.00" name="kiwi_city">
 		<item name="SodaCan_Spite" chance="1.0" />
@@ -30,27 +30,27 @@
 	<cargo chance="0.00" name="kiwi_bosses">
 		<item name="SodaCan_Fronta" chance="1.0" />
 	</cargo>
-	<cargo chance="1.0" name="kiwi_bagfood">
-		<item name="KIWI_Can_MeatRabbit" chance="0.025" />
-		<item name="KIWI_Can_MeatChicken" chance="0.025" />
-		<item name="TunaCan" chance="0.05" />
-		<item name="Apple" chance="0.05" />
-		<item name="SodaCan_Cola" chance="0.05" />
-		<item name="SodaCan_Pipsi" chance="0.05" />
-		<item name="SodaCan_Spite" chance="0.05" />
-		<item name="SodaCan_Kvass" chance="0.05" />
-		<item name="SodaCan_Fronta" chance="0.05" />
-		<item name="WaterBottle" chance="0.05" />
+	<cargo chance="0.10" name="kiwi_food">
+		<item name="KIWI_Can_MeatRabbit" chance="0.01" />
+		<item name="KIWI_Can_MeatChicken" chance="0.01" />
+		<item name="SodaCan_Cola" chance="0.03" />
+		<item name="SodaCan_Pipsi" chance="0.03" />
+		<item name="SodaCan_Spite" chance="0.03" />
+		<item name="SodaCan_Kvass" chance="0.03" />
+		<item name="SodaCan_Fronta" chance="0.03" />
+		<item name="WaterBottle" chance="0.04" />
 		<item name="SardinesCan" chance="0.05" />
 		<item name="PeachesCan" chance="0.05" />
 		<item name="SpaghettiCan" chance="0.05" />
-		<item name="BakedBeansCan" chance="0.05" />
-		<item name="PowderedMilk" chance="0.05" />
-		<item name="Pajka" chance="0.05" />
-		<item name="Pate" chance="0.05" />
-		<item name="BrisketSpread" chance="0.05" />
-		<item name="SaltySticks" chance="0.05" />
-		<item name="Crackers" chance="0.05" />
+		<item name="BakedBeansCan" chance="0.04" />
+		<item name="TunaCan" chance="0.075" />
+		<item name="PowderedMilk" chance="0.075" />
+		<item name="BrisketSpread" chance="0.075" />
+		<item name="SaltySticks" chance="0.075" />
+		<item name="Crackers" chance="0.075" />
+		<item name="Pajka" chance="0.075" />
+		<item name="Pate" chance="0.075" />
+		<item name="Apple" chance="0.075" />
 	</cargo>
 	<cargo chance="1.0" name="kiwi_bagmedicine">
 		<item name="TerjeSurgicalTool_White" chance="0.05" />

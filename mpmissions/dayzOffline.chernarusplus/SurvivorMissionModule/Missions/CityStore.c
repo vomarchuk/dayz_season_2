@@ -312,7 +312,7 @@ class CityStoreMission extends SurvivorMissions
 	void SpawnRewards()
 	{		
 		//new MissionObject after deleting orange bag
-		MissionObject = ItemBase.Cast( GetGame().CreateObject( "SeaChest", m_MissionPosition ));
+		MissionObject = ItemBase.Cast( GetGame().CreateObject( "OH_military_box_big_model_two_events", m_MissionPosition ));
 		
 		
 		ref array<string> randomItems = RandomItemsList.GetItems();
@@ -664,7 +664,7 @@ class CityStoreMission extends SurvivorMissions
 		//Check if container gets taken from player
 		if ( MissionSettings.Opt_DenyObjTakeaway && !m_MissionExtended )
 		{
-			if ( m_MissionObjects[0] && m_MissionObjects[0].ClassName() == "SeaChest" )
+			if ( m_MissionObjects[0] && m_MissionObjects[0].ClassName() == "OH_military_box_big_model_two_events" )
 			{
 				if ( player.GetInventory().HasEntityInInventory( EntityAI.Cast( m_MissionObjects[0] ) ) && !m_ContainerWasTaken )
 				{
@@ -676,7 +676,7 @@ class CityStoreMission extends SurvivorMissions
 		}
 		
 		//Check if container has desired amount of mushrooms collected at primary mission position
-		if ( MissionObject && MissionObject.ClassName() == "SeaChest" && !m_MissionExtended )
+		if ( MissionObject && MissionObject.ClassName() == "OH_military_box_big_model_two_events" && !m_MissionExtended )
 		{
 			int LastCount = 0;
 			int CargoCount = MissionObject.GetInventory().CountInventory();			
