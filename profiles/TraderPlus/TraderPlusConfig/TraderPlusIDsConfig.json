@@ -46,15 +46,7 @@
         "Дробовики",
         "Штурмові гвинтівки",
         "Гвинтівки",
-        "Снайперські гвинтівки"
-      ],
-      "LicencesRequired": [],
-      "CurrenciesAccepted": []
-    },
-    {
-      "Id": 4,
-      "Categories": [
-        "Гранати",
+        "Снайперські гвинтівки",
         "Магазини",
         "Оптика",
         "Приклади",
@@ -62,13 +54,14 @@
         "Компенсатори",
         "Цев'я",
         "Багнети",
-        "Ліхтарики"
+        "Ліхтарики",
+        "Гранати"
       ],
       "LicencesRequired": [],
       "CurrenciesAccepted": []
     },
     {
-      "Id": 5,
+      "Id": 4,
       "Categories": [
         "Шоломи",
         "Окуляри",
@@ -91,7 +84,7 @@
       "CurrenciesAccepted": []
     },
     {
-      "Id": 6,
+      "Id": 5,
       "Categories": [
         "Hardware Supplies",
         "Cooking & Hunting Supplies",
@@ -107,7 +100,7 @@
       "CurrenciesAccepted": []
     },
     {
-      "Id": 7,
+      "Id": 6,
       "Categories": [
         "MMG goggles",
         "MMG Sniper Boonie",
@@ -140,7 +133,7 @@
       "CurrenciesAccepted": []
     },
     {
-      "Id": 8,
+      "Id": 7,
       "Categories": [
         "Packaged Food",
         "Drinks"
@@ -149,7 +142,7 @@
       "CurrenciesAccepted": []
     },
     {
-      "Id": 9,
+      "Id": 8,
       "Categories": [
         "IMP WEAPONS",
         "IMP items",
@@ -168,7 +161,7 @@
       "CurrenciesAccepted": []
     },
     {
-      "Id": 10,
+      "Id": 9,
       "Categories": [
         "М'ясо",
         "Частини тварин"
@@ -177,7 +170,7 @@
       "CurrenciesAccepted": []
     },
     {
-      "Id": 11,
+      "Id": 10,
       "Categories": [
         "Cannabis seeds",
         "Cigarette",
@@ -188,7 +181,7 @@
       "CurrenciesAccepted": []
     },
     {
-      "Id": 12,
+      "Id": 11,
       "Categories": [
         "Vegetables"
       ],
@@ -196,7 +189,7 @@
       "CurrenciesAccepted": []
     },
     {
-      "Id": 13,
+      "Id": 12,
       "Categories": [
         "Частини тіл"
       ],

@@ -73,17 +73,6 @@
       "Variants": []
     },
     {
-      "ClassName": "FOG_GPNVG_Elite",
-      "MaxPriceThreshold": 18,
-      "MinPriceThreshold": 18,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "SellPricePercent": 0,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
       "ClassName": "SLC_Tachi",
       "MaxPriceThreshold": 30,
       "MinPriceThreshold": 30,

@@ -198,39 +198,39 @@
     {
       "CategoryName": "Flags",
       "Products": [
-        "Flag_Chernarus,1,-1,10000,50",
-        "Flag_Chedaki,1,-1,10000,50",
-        "Flag_NAPA,1,-1,10000,50",
-        "Flag_CDF,1,-1,10000,50",
-        "Flag_Livonia,1,-1,10000,50",
-        "Flag_Altis,1,-1,10000,50",
-        "Flag_SSahrani,1,-1,10000,50",
-        "Flag_NSahrani,1,-1,10000,50",
-        "Flag_DayZ,1,-1,10000,50",
-        "Flag_LivoniaArmy,1,-1,10000,50",
-        "Flag_White,1,-1,10000,50",
-        "Flag_Bohemia,1,-1,10000,50",
-        "Flag_APA,1,-1,10000,50",
-        "Flag_UEC,1,-1,10000,50",
-        "Flag_Pirates,1,-1,10000,50",
-        "Flag_Cannibals,1,-1,10000,50",
-        "Flag_Bear,1,-1,10000,50",
-        "Flag_Wolf,1,-1,10000,50",
-        "Flag_BabyDeer,1,-1,10000,50",
-        "Flag_Rooster,1,-1,10000,50",
-        "Flag_LivoniaPolice,1,-1,10000,50",
-        "Flag_CMC,1,-1,10000,50",
-        "Flag_TEC,1,-1,10000,50",
-        "Flag_CHEL,1,-1,10000,50",
-        "Flag_Zenit,1,-1,10000,50",
-        "Flag_HunterZ,1,-1,10000,50",
-        "Flag_BrainZ,1,-1,10000,50",
-        "Flag_Refuge,1,-1,10000,50",
-        "Flag_RSTA,1,-1,10000,50",
-        "Flag_Snake,1,-1,10000,50",
-        "Flag_Crook,1,-1,10000,50",
-        "Flag_Rex,1,-1,10000,50",
-        "Flag_Zagorky,1,-1,10000,50"
+        "Flag_Chernarus,1,-1,1,10000,50",
+        "Flag_Chedaki,1,-1,1,10000,50",
+        "Flag_NAPA,1,-1,1,10000,50",
+        "Flag_CDF,1,-1,1,10000,50",
+        "Flag_Livonia,1,-1,1,10000,50",
+        "Flag_Altis,1,-1,1,10000,50",
+        "Flag_SSahrani,1,-1,1,10000,50",
+        "Flag_NSahrani,1,-1,1,10000,50",
+        "Flag_DayZ,1,-1,1,10000,50",
+        "Flag_LivoniaArmy,1,-1,1,10000,50",
+        "Flag_White,1,-1,1,10000,50",
+        "Flag_Bohemia,1,-1,1,10000,50",
+        "Flag_APA,1,-1,1,10000,50",
+        "Flag_UEC,1,-1,1,10000,50",
+        "Flag_Pirates,1,-1,1,10000,50",
+        "Flag_Cannibals,1,-1,1,10000,50",
+        "Flag_Bear,1,-1,1,10000,50",
+        "Flag_Wolf,1,-1,1,10000,50",
+        "Flag_BabyDeer,1,-1,1,10000,50",
+        "Flag_Rooster,1,-1,1,10000,50",
+        "Flag_LivoniaPolice,1,-1,1,10000,50",
+        "Flag_CMC,1,-1,1,10000,50",
+        "Flag_TEC,1,-1,1,10000,50",
+        "Flag_CHEL,1,-1,1,10000,50",
+        "Flag_Zenit,1,-1,1,10000,50",
+        "Flag_HunterZ,1,-1,1,10000,50",
+        "Flag_BrainZ,1,-1,1,10000,50",
+        "Flag_Refuge,1,-1,1,10000,50",
+        "Flag_RSTA,1,-1,1,10000,50",
+        "Flag_Snake,1,-1,1,10000,50",
+        "Flag_Crook,1,-1,1,10000,50",
+        "Flag_Rex,1,-1,1,10000,50",
+        "Flag_Zagorky,1,-1,1,10000,50"
       ]
     },
     {
@@ -421,14 +421,13 @@
         "PipeWrench,1,-1,1,-1,250",
         "WoodAxe,1,-1,0,-1,250",
         "FirefighterAxe,1,-1,0,-1,250",
-        "bl_repair_anvil,1,-1,0,-1,1000",
         "HP_Anvil,1,-1,0,-1,1000",
         "HP_Drill,1,-1,0,-1,1000",
         "HP_Grinde,1,-1,0,-1,1000",
         "HP_Oiler,1,-1,0,-1,1000",
         "HP_Vise,1,-1,0,-1,1000",
         "HP_Payalnik,1,-1,0,-1,1000",
-        "HP_Tester,1,-1,0,-1,250"
+        "OH_propane_baloon,1,-1,0,321,499"
       ]
     },
     {
@@ -444,7 +443,8 @@
         "Rangefinder,1,-1,0,-1,160",
         "NVGoggles,1,-1,0,-1,1500",
         "CodeLock,1,-1,0,-1,500",
-        "GPSReceiver,1,-1,0,-1,120"
+        "GPSReceiver,1,-1,0,-1,120",
+        "HP_Tester,1,-1,0,-1,250"
       ]
     },
     {
@@ -547,8 +547,6 @@
         "OH_big_locker_camo_Kit,1,-1,0,321,499",
         "OH_metal_shelving_barrel_Kit,1,-1,0,321,499",
         "OH_metal_shelving_barrel_big_Kit,1,-1,0,321,499",
-        "OH_sleeping_bag_1_blue_Kit,1,-1,0,321,499",
-        "OH_sleeping_bag_1_green_Kit,1,-1,0,321,499",
         "OH_sleeping_matrass_Kit,1,-1,0,321,499",
         "OH_carpet_floor_model_2_Kit,1,-1,0,321,499",
         "OH_box_metal_Kit,1,-1,0,321,499",
@@ -594,7 +592,6 @@
         "OH_Portable_Gas_Stove_1,1,-1,0,321,499",
         "OH_gas_coocking_stove_1,1,-1,0,321,499",
         "OH_gas_coocking_stove_2,1,-1,0,321,499",
-        "OH_propane_baloon,1,-1,0,321,499",
         "OH_gerlyanda_Kit,1,-1,0,321,499",
         "OH_crash_dummy_orange_Kit,1,-1,0,321,499",
         "OH_crash_dummy_blue_Kit,1,-1,0,321,499",
@@ -932,22 +929,22 @@
     {
       "CategoryName": "Оптика",
       "Products": [
-        "LongrangeOptic,1,-1,0,600,70",
-        "PistolOptic,1,-1,0,550,65",
-        "M4_CarryHandleOptic,1,-1,0,500,50",
-        "BUISOptic,1,-1,0,600,60",
-        "FNP45_MRDSOptic,1,-1,0,600,60",
-        "ACOGOptic,1,-1,0,900,90",
-        "M68Optic,1,-1,0,500,50",
-        "ACOGOptic_6x,1,-1,0,1100,110",
-        "M4_T3NRDSOptic,1,-1,0,500,50",
-        "ReflexOptic,1,-1,0,500,50",
-        "KobraOptic,1,-1,0,500,50",
-        "KashtanOptic,1,-1,0,500,50",
-        "PUScopeOptic,1,-1,0,450,45",
-        "HuntingOptic,1,-1,0,600,60",
-        "PSO1Optic,1,-1,0,600,60",
-        "PSO11Optic,1,-1,0,600,60",
+        "LongrangeOptic,1,-1,0,-1,70",
+        "PistolOptic,1,-1,0,-1,65",
+        "M4_CarryHandleOptic,1,-1,0,-1,50",
+        "BUISOptic,1,-1,0,-1,60",
+        "FNP45_MRDSOptic,1,-1,0,-1,60",
+        "ACOGOptic,1,-1,0,-1,90",
+        "M68Optic,1,-1,0,-1,50",
+        "ACOGOptic_6x,1,-1,0,-1,110",
+        "M4_T3NRDSOptic,1,-1,0,-1,50",
+        "ReflexOptic,1,-1,0,-1,50",
+        "KobraOptic,1,-1,0,-1,50",
+        "KashtanOptic,1,-1,0,-1,50",
+        "PUScopeOptic,1,-1,0,-1,45",
+        "HuntingOptic,1,-1,0,-1,60",
+        "PSO1Optic,1,-1,0,-1,60",
+        "PSO11Optic,1,-1,0,-1,60",
         "KazuarOptic,1,-1,0,-1,400",
         "StarlightOptic,1,-1,0,-1,700"
       ]
@@ -963,24 +960,24 @@
     {
       "CategoryName": "Компенсатори",
       "Products": [
-        "Mosin_Compensator,1,-1,0,300,50",
-        "MP5_Compensator,1,-1,0,550,55"
+        "Mosin_Compensator,1,-1,0,-1,50",
+        "MP5_Compensator,1,-1,0,-1,55"
       ]
     },
     {
       "CategoryName": "Багнети",
       "Products": [
-        "Mosin_Bayonet,1,-1,0,400,40",
-        "M9A1_Bayonet,1,-1,0,400,40",
-        "AK_Bayonet,1,-1,0,400,40",
-        "SKS_Bayonet,1,-1,0,400,40"
+        "Mosin_Bayonet,1,-1,0,-1,40",
+        "M9A1_Bayonet,1,-1,0,-1,40",
+        "AK_Bayonet,1,-1,0,-1,40",
+        "SKS_Bayonet,1,-1,0,-1,40"
       ]
     },
     {
       "CategoryName": "Ліхтарики",
       "Products": [
-        "TLRLight,1,-1,0,200,40",
-        "Universallight,1,-1,0,250,45"
+        "TLRLight,1,-1,0,-1,40",
+        "Universallight,1,-1,0,-1,45"
       ]
     },
     {

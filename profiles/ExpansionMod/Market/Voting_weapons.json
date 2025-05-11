@@ -7,14 +7,30 @@
   "InitStockPercent": 75.0,
   "Items": [
     {
-      "ClassName": "SCWS_M249",
+      "ClassName": "IMP_VEPR12",
+      "MaxPriceThreshold": 28,
+      "MinPriceThreshold": 28,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SellPricePercent": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "IMP_Mag_VEPR12_20Rnd",
+        "IMP_Bttstk_AK_VEPR"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "IMP_KelTecSUB2000_Supp",
       "MaxPriceThreshold": 20,
       "MinPriceThreshold": 20,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "SellPricePercent": 0,
       "QuantityPercent": -1,
-      "SpawnAttachments": [],
+      "SpawnAttachments": [
+        "IMP_Drum_Glock_50Rnd"
+      ],
       "Variants": []
     }
   ]

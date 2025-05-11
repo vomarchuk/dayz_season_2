@@ -168,32 +168,6 @@
     },
     {
       "Id": 4,
-      "Name": "SurvivorM_Jose",
-      "GivenName": "Jose",
-      "Role": "Набої та обвіси",
-      "Position": [
-        1404.724243,
-        329.329956,
-        649.807312
-      ],
-      "Orientation": [
-        -171.000122,
-        0.000000,
-        -0.000000
-      ],
-      "Clothes": [
-        "FAMAS",
-        "USMCJacket_Desert",
-        "USMCPants_Desert",
-        "CombatBoots_Black",
-        "TacticalGloves_Green",
-        "PlateCarrierVest",
-        "Mich2001Helmet",
-        "MilitaryBelt"
-      ]
-    },
-    {
-      "Id": 5,
       "Name": "SurvivorM_Hassan",
       "GivenName": "Hassan",
       "Role": "Одяг",
@@ -216,7 +190,7 @@
       ]
     },
     {
-      "Id": 6,
+      "Id": 5,
       "Name": "SurvivorM_Seth",
       "GivenName": "Seth",
       "Role": "Інструменти",
@@ -239,7 +213,7 @@
       ]
     },
     {
-      "Id": 7,
+      "Id": 6,
       "Name": "SurvivorM_Jose",
       "GivenName": "Jose",
       "Role": "Продавець модового одягу",
@@ -267,7 +241,7 @@
       ]
     },
     {
-      "Id": 8,
+      "Id": 7,
       "Name": "SurvivorM_Jose",
       "GivenName": "Jose",
       "Role": "Продукти харчування",
@@ -290,7 +264,7 @@
       ]
     },
     {
-      "Id": 9,
+      "Id": 8,
       "Name": "SurvivorF_Maria",
       "GivenName": "Maria",
       "Role": "Продавець модової зброї",
@@ -312,12 +286,11 @@
         "mmg_tactical_pants_multicam",
         "MMG_tactical_helmet_multicam",
         "SVD",
-        "IMP_ASH12",
-        "SCWS_FAMASF1FALL"
+        "IMP_ASH12"
       ]
     },
     {
-      "Id": 10,
+      "Id": 9,
       "Name": "SurvivorM_Mirek",
       "GivenName": "Mirek",
       "Role": "Охотник",
@@ -345,7 +318,7 @@
       ]
     },
     {
-      "Id": 11,
+      "Id": 10,
       "Name": "SurvivorM_Francis",
       "GivenName": "Дон Педро",
       "Role": "Cannabis Trader",
@@ -367,7 +340,7 @@
       ]
     },
     {
-      "Id": 12,
+      "Id": 11,
       "Name": "SurvivorM_Denis",
       "GivenName": "Василь",
       "Role": "Фермер",
@@ -390,7 +363,7 @@
       ]
     },
     {
-      "Id": 13,
+      "Id": 12,
       "Name": "SurvivorM_Mirek",
       "GivenName": "Мірик",
       "Role": "Авто запчастини",
@@ -413,7 +386,7 @@
       ]
     },
     {
-      "Id": 14,
+      "Id": 13,
       "Name": "SurvivorM_Denis",
       "GivenName": "Мясник",
       "Role": "Частини тіл",

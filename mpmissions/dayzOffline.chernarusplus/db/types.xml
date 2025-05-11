@@ -1377,7 +1377,7 @@
         <nominal>0</nominal>
     </type>
     <type name="AntiChemInjector">
-        <nominal>1</nominal>
+        <nominal>3</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>1</min>
