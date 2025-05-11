@@ -241,7 +241,7 @@ class PlaneCrashMission extends SurvivorMissions
 
 		for (int i = 0; i < ContainerSpawns.Count(); i++)
 		{
-			MissionObject = ItemBase.Cast(GetGame().CreateObject("SeaChest", CrashedC130.ModelToWorld(ContainerSpawns.Get(i))));
+			MissionObject = ItemBase.Cast(GetGame().CreateObject("OH_military_box_big_model_two_events", CrashedC130.ModelToWorld(ContainerSpawns.Get(i))));
 
 			// Get random loadout
 			selectedLoadout = Math.RandomIntInclusive(0, 11); //! Change randomization limit after adding new loadouts!

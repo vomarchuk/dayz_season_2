@@ -177,7 +177,7 @@ class FreePigsMission extends SurvivorMissions
 	void SpawnRewards()
 	{						
 		//new MissionObject after deleting hunting bag
-		MissionObject = ItemBase.Cast( GetGame().CreateObject("SeaChest", m_MissionPosition ));
+		MissionObject = ItemBase.Cast( GetGame().CreateObject("OH_military_box_big_model_two_events", m_MissionPosition ));
 		MissionObject.SetPosition( m_MissionPosition );
 		
 		
@@ -328,7 +328,7 @@ class FreePigsMission extends SurvivorMissions
 			m_MissionPosition = MissionBuilding.ModelToWorld( RewardsPosition );
 			
 			//Spawn mission target huntig bag
-			MissionObject = ItemBase.Cast( GetGame().CreateObject( "SeaChest", m_MissionPosition )); // HuntingBag
+			MissionObject = ItemBase.Cast( GetGame().CreateObject( "OH_military_box_big_model_two_events", m_MissionPosition )); // HuntingBag
 			MissionObject.SetPosition( m_MissionPosition );
 			MissionObject.SetOrientation( MissionBuilding.GetOrientation() + "-90 -25 0" );
 			m_MissionObjects.InsertAt( MissionObject, 0 );
@@ -469,7 +469,7 @@ class FreePigsMission extends SurvivorMissions
 		//Check if container gets taken from player
 		if ( MissionSettings.Opt_DenyObjTakeaway && !m_MissionExtended )
 		{
-			if ( m_MissionObjects[0] && m_MissionObjects[0].ClassName() == "SeaChest" ) //HuntingBag
+			if ( m_MissionObjects[0] && m_MissionObjects[0].ClassName() == "OH_military_box_big_model_two_events" ) //HuntingBag
 			{
 				if ( player.GetInventory().HasEntityInInventory( EntityAI.Cast( m_MissionObjects[0] ) ) && !m_ContainerWasTaken )
 				{
@@ -481,7 +481,7 @@ class FreePigsMission extends SurvivorMissions
 		}
 		
 		//Check if container has desired amount of steaks collected at primary mission position
-		if ( MissionObject && MissionObject.ClassName() == "SeaChest" && !m_MissionExtended ) // HuntingBag
+		if ( MissionObject && MissionObject.ClassName() == "OH_military_box_big_model_two_events" && !m_MissionExtended ) // HuntingBag
 		{
 			int CargoCount = MissionObject.GetInventory().CountInventory();
 			int LastCount = 0;

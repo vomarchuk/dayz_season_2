@@ -133,14 +133,14 @@ class BearHuntMission extends SurvivorMissions
 	
 	void SpawnContainer()
 	{
-		MissionObject =  ItemBase.Cast( GetGame().CreateObject( "SeaChest", m_MissionPosition )); //HuntingBag
+		MissionObject =  ItemBase.Cast( GetGame().CreateObject( "OH_military_box_big_model_two_events", m_MissionPosition )); //HuntingBag
 		m_MissionObjects.InsertAt( MissionObject, 0); 		
 	}
 	
 	void SpawnRewards()
 	{
 		//new MissionObject after deleting protector case
-		MissionObject = ItemBase.Cast( GetGame().CreateObject( "SeaChest", m_MissionPosition ));
+		MissionObject = ItemBase.Cast( GetGame().CreateObject( "OH_military_box_big_model_two_events", m_MissionPosition ));
 		
 		ref array<string> randomItems = RandomItemsList.GetItems();
 		int m_rewards = 4;
@@ -446,7 +446,7 @@ class BearHuntMission extends SurvivorMissions
 		//Check if container gets taken from player
 		if ( MissionSettings.Opt_DenyObjTakeaway && !m_MissionExtended )
 		{
-			if ( m_MissionObjects[0] && m_MissionObjects[0].ClassName() == "SeaChest" ) // HuntingBag
+			if ( m_MissionObjects[0] && m_MissionObjects[0].ClassName() == "OH_military_box_big_model_two_events" ) // HuntingBag
 			{
 				if ( player.GetInventory().HasEntityInInventory( EntityAI.Cast( m_MissionObjects[0] ) ) && !m_ContainerWasTaken )
 				{
@@ -458,7 +458,7 @@ class BearHuntMission extends SurvivorMissions
 		}
 		
 		//Check if container has desired amount of mushrooms collected at primary mission position
-		if ( MissionObject && MissionObject.ClassName() == "SeaChest" && !m_MissionExtended ) // HuntingBag
+		if ( MissionObject && MissionObject.ClassName() == "OH_military_box_big_model_two_events" && !m_MissionExtended ) // HuntingBag
 		{
 			int CargoCount = MissionObject.GetInventory().CountInventory();
 			int LastCount = 0;

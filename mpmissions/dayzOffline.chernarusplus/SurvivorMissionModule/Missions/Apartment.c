@@ -197,7 +197,7 @@ class ApartmentMission extends SurvivorMissions
 	{
 
 		// Spawn seachest as mission object
-		ItemBase MissionObject = ItemBase.Cast(GetGame().CreateObject("SeaChest", m_MissionPosition, false, false, false));
+		ItemBase MissionObject = ItemBase.Cast(GetGame().CreateObject("OH_military_box_big_model_two_events", m_MissionPosition, false, false, false));
 
 		ref array<string> randomItems = RandomItemsList.GetItems();
 		int m_rewards = 3;
@@ -438,7 +438,7 @@ class ApartmentMission extends SurvivorMissions
 		// Check if container gets taken from player
 		if (MissionSettings.Opt_DenyObjTakeaway)
 		{
-			if (m_MissionObjects[0] && m_MissionObjects[0].ClassName() == "SeaChest")
+			if (m_MissionObjects[0] && m_MissionObjects[0].ClassName() == "OH_military_box_big_model_two_events")
 			{
 				if (player.GetInventory().HasEntityInInventory(EntityAI.Cast(m_MissionObjects[0])) && !m_ContainerWasTaken)
 				{

@@ -183,7 +183,7 @@ class PsilosMission extends SurvivorMissions
 	void SpawnRewards()
 	{
 		// new MissionObject after deleting protector case
-		MissionObject = ItemBase.Cast(GetGame().CreateObject("SeaChest", m_MissionPosition));
+		MissionObject = ItemBase.Cast(GetGame().CreateObject("OH_military_box_big_model_two_events", m_MissionPosition));
 
 		// Get random loadout
 		int selectedLoadout = Math.RandomIntInclusive(0, 9); //! change randomization limit after adding new loadouts!
