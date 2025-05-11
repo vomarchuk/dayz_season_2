@@ -4,7 +4,7 @@
 
 <types>
     <type name="MMG_JPC_Vest_olive">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -15,7 +15,6 @@
         <category name="clothes"/>
         <usage name="Military"/>
         <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="MMG_MK_III_Armor_green">
         <nominal>0</nominal>
@@ -47,7 +46,7 @@
         <value name="Tier4"/>
     </type>
     <type name="MMG_tt_Vest_green">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -57,11 +56,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
     <type name="MMG_MK_V_Armor_green">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -70,7 +68,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage name="ContaminatedArea"/>
         <value name="Tier4"/>
     </type>
 

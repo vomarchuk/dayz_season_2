@@ -154,6 +154,12 @@
                 "Changehealth": 0
               },
               {
+                "Classname": "Pipe",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
                 "Classname": "HP_napilnik",
                 "Amount": 1,
                 "Destroy": 1,
@@ -200,6 +206,12 @@
                 "Classname": "Wrench",
                 "Amount": 1,
                 "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Wrench",
+                "Amount": 2,
+                "Destroy": 2,
                 "Changehealth": 0
               },
               {
@@ -315,8 +327,8 @@
               },
               {
                 "Classname": "HP_Pipe",
-                "Amount": 1,
-                "Destroy": 1,
+                "Amount": 3,
+                "Destroy": 3,
                 "Changehealth": 0
               },
               {
@@ -379,8 +391,8 @@
               },
               {
                 "Classname": "HP_Pipe",
-                "Amount": 2,
-                "Destroy": 2,
+                "Amount": 5,
+                "Destroy": 5,
                 "Changehealth": 0
               },
               {
@@ -639,8 +651,8 @@
               },
               {
                 "Classname": "HP_Pipe",
-                "Amount": 1,
-                "Destroy": 1,
+                "Amount": 3,
+                "Destroy": 3,
                 "Changehealth": 0
               },
               {
@@ -703,8 +715,8 @@
               },
               {
                 "Classname": "HP_Pipe",
-                "Amount": 2,
-                "Destroy": 2,
+                "Amount": 5,
+                "Destroy": 5,
                 "Changehealth": 0
               },
               {
@@ -933,8 +945,8 @@
               },
               {
                 "Classname": "HP_Pipe",
-                "Amount": 2,
-                "Destroy": 2,
+                "Amount": 3,
+                "Destroy": 3,
                 "Changehealth": 0
               },
               {
@@ -1021,8 +1033,8 @@
               },
               {
                 "Classname": "HP_Pipe",
-                "Amount": 2,
-                "Destroy": 2,
+                "Amount": 5,
+                "Destroy": 5,
                 "Changehealth": 0
               },
               {
@@ -1187,6 +1199,12 @@
                 "Changehealth": 0
               },
               {
+                "Classname": "HP_Pipe",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
                 "Classname": "RIP_OilPlastic",
                 "Amount": 40,
                 "Destroy": 40,
@@ -1263,8 +1281,8 @@
               },
               {
                 "Classname": "HP_Pipe",
-                "Amount": 1,
-                "Destroy": 1,
+                "Amount": 3,
+                "Destroy": 3,
                 "Changehealth": 0
               },
               {
@@ -1364,8 +1382,8 @@
               },
               {
                 "Classname": "HP_Pipe",
-                "Amount": 3,
-                "Destroy": 3,
+                "Amount": 5,
+                "Destroy": 5,
                 "Changehealth": 0
               },
               {
@@ -1588,61 +1606,6 @@
                 "Classname": "RIP_sovCap",
                 "Amount": 25,
                 "Destroy": 25,
-                "Changehealth": 0
-              }
-            ],
-            "AttachmentsNeed": [
-              "HP_Payalnik"
-            ]
-          },
-          {
-            "Result": "rag_baseitems_solarpanel_kit",
-            "ResultCount": 1,
-            "ComponentsDontAffectHealth": 1,
-            "CraftType": "voltagepic",
-            "RecipeName": "Сонячна панель",
-            "AttachmentDamage": 25.0,
-            "CraftComponents": [
-              {
-                "Classname": "RIP_GlassPK",
-                "Amount": 5,
-                "Destroy": 5,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "MetalPlate",
-                "Amount": 5,
-                "Destroy": 5,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "ElectronicRepairKit",
-                "Amount": 200,
-                "Destroy": 200,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "Screwdriver",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "EpoxyPutty",
-                "Amount": 200,
-                "Destroy": 200,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_sovCap",
-                "Amount": 25,
-                "Destroy": 25,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "MetalWire",
-                "Amount": 2,
-                "Destroy": 2,
                 "Changehealth": 0
               }
             ],
@@ -2371,297 +2334,6 @@
                 "Classname": "LargeGasCanister",
                 "Amount": 100,
                 "Destroy": 100,
-                "Changehealth": 0
-              }
-            ],
-            "AttachmentsNeed": [
-              "HP_Anvil",
-              "HP_Grinde",
-              "HP_Drill",
-              "HP_Vise"
-            ]
-          }
-        ]
-      },
-      {
-        "CategoryName": "Бронежилети",
-        "CraftItems": [
-          {
-            "Result": "MMG_JPC_Vest_black",
-            "ResultCount": 1,
-            "ComponentsDontAffectHealth": 1,
-            "CraftType": "craftpic",
-            "RecipeName": "Бронежилет 1 класу",
-            "AttachmentDamage": 25.0,
-            "CraftComponents": [
-              {
-                "Classname": "PlateCarrierVest",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_AP",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "Hammer",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "HP_napilnik",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "DeerPelt",
-                "Amount": 3,
-                "Destroy": 3,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_Carbon",
-                "Amount": 10,
-                "Destroy": 10,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "SewingKit",
-                "Amount": 300,
-                "Destroy": 300,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_rivets",
-                "Amount": 20,
-                "Destroy": 20,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "DuctTape",
-                "Amount": 300,
-                "Destroy": 300,
-                "Changehealth": 0
-              }
-            ],
-            "AttachmentsNeed": [
-              "HP_Anvil"
-            ]
-          },
-          {
-            "Result": "MMG_tt_Vest_black",
-            "ResultCount": 1,
-            "ComponentsDontAffectHealth": 1,
-            "CraftType": "craftpic",
-            "RecipeName": "Бронежилет 2 класу",
-            "AttachmentDamage": 25.0,
-            "CraftComponents": [
-              {
-                "Classname": "MMG_JPC_Vest_black",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_AP2",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "Hammer",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "HP_napilnik",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "WolfPelt",
-                "Amount": 5,
-                "Destroy": 5,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_Carbon",
-                "Amount": 20,
-                "Destroy": 20,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "SewingKit",
-                "Amount": 500,
-                "Destroy": 500,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_rivets",
-                "Amount": 30,
-                "Destroy": 30,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "DuctTape",
-                "Amount": 500,
-                "Destroy": 500,
-                "Changehealth": 0
-              }
-            ],
-            "AttachmentsNeed": [
-              "HP_Anvil",
-              "HP_Vise"
-            ]
-          },
-          {
-            "Result": "MMG_MK_III_Armor_black",
-            "ResultCount": 1,
-            "ComponentsDontAffectHealth": 1,
-            "CraftType": "craftpic",
-            "RecipeName": "Бронежилет 3 класу",
-            "AttachmentDamage": 25.0,
-            "CraftComponents": [
-              {
-                "Classname": "MMG_tt_Vest_black",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_AP3",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "Hammer",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "Pliers",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "TannedLeather",
-                "Amount": 12,
-                "Destroy": 12,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_Carbon",
-                "Amount": 30,
-                "Destroy": 30,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "Fabric",
-                "Amount": 15,
-                "Destroy": 15,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "LeatherSewingKit",
-                "Amount": 300,
-                "Destroy": 300,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_rivets",
-                "Amount": 30,
-                "Destroy": 30,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "TireRepairKit",
-                "Amount": 300,
-                "Destroy": 300,
-                "Changehealth": 0
-              }
-            ],
-            "AttachmentsNeed": [
-              "HP_Anvil",
-              "HP_Drill",
-              "HP_Vise"
-            ]
-          },
-          {
-            "Result": "MMG_MK_V_Armor_black",
-            "ResultCount": 1,
-            "ComponentsDontAffectHealth": 1,
-            "CraftType": "craftpic",
-            "RecipeName": "Бронежилет 4 класу",
-            "AttachmentDamage": 25.0,
-            "CraftComponents": [
-              {
-                "Classname": "MMG_MK_III_Armor_black",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_AP4",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "Hammer",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "Pliers",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_Kevlar",
-                "Amount": 5000,
-                "Destroy": 5000,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_Carbon",
-                "Amount": 40,
-                "Destroy": 40,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_Glue",
-                "Amount": 180,
-                "Destroy": 180,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "LeatherSewingKit",
-                "Amount": 500,
-                "Destroy": 500,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_rivets",
-                "Amount": 50,
-                "Destroy": 50,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "TireRepairKit",
-                "Amount": 500,
-                "Destroy": 500,
                 "Changehealth": 0
               }
             ],

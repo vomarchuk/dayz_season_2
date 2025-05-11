@@ -5,455 +5,585 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_AK_Adapter">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_AK_Adapter2">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AK_AEK">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AK_AK12">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AK_AK12M">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AK_FabDefense">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AK_HexagonKocherga">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AK_Magpul2">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AK_Magpul">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AK_PromagArchangel">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_RPK16_Black">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_RPK16_Green">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_RPK16_Tan">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AK_Tact2">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AK_Tact">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AK_VEPR">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AK_Zenit12">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AK_Zenit_Black">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AK_Zenit_Silver">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AK_ZenitPT3">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AR_AR15Ak12">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AR_Ar15StrikeIndustriesPDWStock">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AR_Ar15StrikeIndustriesViper">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AR_ARArmaconBaskak">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AR_ARTacticalSba3">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AR_ARVltorEmod">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AR_B15Precision">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AR_DoubleStarAceGen4">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AR_ErgoF93ProStock">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AR_FabDefenceGlCore">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AR_FabDefenceGlr16s">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AR_FabDefenceGLShock">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_M4_Fortis">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AR_KrissDefiance">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AR_KrissDefiance_Tan">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AR_MagpulPrsGen2">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AR_MagpulUbrGen2">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AR_MagpulUbrGen2_Tan">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AR_MFTBusButtstock">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_AR_RipStockMicro">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_Fal_MagpulPRS2">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_Fal_HumpBack">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_Fal_ParaBrsBttstck">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_Fal_ParaFoldingBttstck">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_Fal_SprBttstck">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_G36_KV">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_G36_Polymer">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_HK417AdjustableBttstck">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_HK417Concave">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_HKButtstock">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Bttstk_HKButtstockSlim">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_M4_CSBttstck">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Flashlight_Steiner9021">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Flashlight_SteinerLasTactical">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Flashlight_SureFireX400">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Flashlight_SureFireXC1">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Flashlight_Zenit2Irs">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Flashlight_Zenit2u">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Flashlight_ZenitPerst3">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_AK_AKArmsFactoryWar">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_AK_Big">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_AK_AKHexagon_black">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_AK_AKHexagon_red">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_AK_AKKrebs">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_AK_AKMagpulMOE_black">
         <lifetime>7200</lifetime>
@@ -467,196 +597,252 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_AK_AKMagpulMOE_od">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_AK_AKMagpulMOE_plm">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_AK_AKMagpulMOE_sg">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_AK_AKMagpulZhukov_black">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_AK_AKMagpulZhukov_fde">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_AK_AKMagpulZhukov_plm">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_AK_AKRailPolymer">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_AK_AKRedHeadAgressor">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_AK_Small">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_AK_AKTdix47_black">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_AK_AKTdix47_inox">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_AK_AKVltor">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_AK_VLTOR_Black">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_AK_VLTOR_Green">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_AK_VLTOR_Tan">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_AK_AKWood">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_AK_AKZenitB10m">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_AK_AKZenitB30">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_AK_Polymer_Black">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_AK_Polymer_Tan">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_AK_Romanian">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_AK_Zenit">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_FnFal_AimSportKeyModHndgrd">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_FnFal_AimSportMlokHndgrd">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_FnFal_BelgianStyleHndgrd">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_FnFal_DsArmsFullHndgrd">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_FnFal_OriginalStampedHndgrd">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Hndgrd_FnFal_VltorCasvHndgrd">
         <lifetime>7200</lifetime>
@@ -670,56 +856,72 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Muzzle_AK_AKSvv">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Muzzle_AK_AKSTD">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Muzzle_AK_AKTulaMuzzle">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Muzzle_AK_HexagonReactorMuzzle">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Muzzle_AK_ImacRRD">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Muzzle_AK_IzhmashAKml">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Muzzle_AK_SpikeTacticalAK">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Muzzle_AK_VenomAntidote">
         <lifetime>7200</lifetime>
@@ -733,14 +935,18 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_RailAK">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Suppressor_AK_Hexagon">
         <lifetime>7200</lifetime>
