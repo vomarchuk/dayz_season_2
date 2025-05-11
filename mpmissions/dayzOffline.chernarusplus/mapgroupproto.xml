@@ -18207,7 +18207,7 @@
 		<!-- 
    - Version-1 TEST modifs imoportées pour chernarus, des positions du loot  Underground by Irina 03/11/2023 
    -->
-		<group name="Land_Underground_Storage_Big_Vent" lootmax="10">
+		<!-- <group name="Land_Underground_Storage_Big_Vent" lootmax="10">
 				<value name="Tier3"/>
 				<value name="Tier4"/>
 				<usage name="Military"/>
@@ -18227,7 +18227,7 @@
 						<point pos="0.840184 0.012781 0.353421" range="1" height="1"/>
 						<point pos="-2.156343 0.012781 1.044717" range="1" height="1"/>
 				</container>
-		</group>
+		</group> -->
 		<group name="Land_Underground_Storage_Big" lootmax="10">
 				<value name="Tier3"/>
 				<value name="Tier4"/>
@@ -18270,7 +18270,7 @@
 						<point pos="4.017491 0.789505 5.800102" range="1" height="1"/>
 				</container>
 		</group>
-		<group name="Land_Underground_Stairs_Start" lootmax="5">
+		<!-- <group name="Land_Underground_Stairs_Start" lootmax="5">
 				<value name="Tier3"/>
 				<value name="Tier4"/>
 				<usage name="Military"/>
@@ -18285,7 +18285,7 @@
 						<point pos="-0.938973 -0.048050 0.813807" range="1" height="1"/>
 						<point pos="-2.394209 -0.045539 -0.350724" range="1" height="1"/>
 				</container>
-		</group>
+		</group> -->
 		<group name="Land_Underground_Stairs_Exit" lootmax="5">
 				<value name="Tier3"/>
 				<value name="Tier4"/>
@@ -18302,7 +18302,7 @@
 						<point pos="-0.535857 0.596175 -2.023790" range="1" height="1"/>
 				</container>
 		</group>
-		<group name="Land_Underground_Stairs_Block_Terminator" lootmax="2">
+		<!-- <group name="Land_Underground_Stairs_Block_Terminator" lootmax="2">
 				<value name="Tier3"/>
 				<value name="Tier4"/>
 				<usage name="Military"/>
@@ -18314,7 +18314,7 @@
 						<point pos="-2.742193 0.486816 -1.801975" range="1" height="1"/>
 						<point pos="-3.548159 0.486816 -0.235014" range="1" height="1"/>
 				</container>
-		</group>
+		</group> -->
 		<!-- 
    - Modification pour chernarus des positions du loot  Underground livonia by Irina 23/09/2023 
    -->
@@ -18463,7 +18463,7 @@
 						<point pos="1.768126 1.585022 -3.608747" range="0.232227" height="0.294983"/>
 				</container>
 		</group>
-		<group name="Land_Underground_Storage_Workshop" lootmax="10">
+		<!-- <group name="Land_Underground_Storage_Workshop" lootmax="10">
 				<usage name="Military"/>
 				<value name="Tier3"/>
 				<value name="Tier4"/>
@@ -18497,7 +18497,7 @@
 						<point pos="-2.184265 0.775879 0.056396" range="0.546875" height="1.367188"/>
 						<point pos="-7.276184 0.937866 -1.379150" range="0.650000" height="1.625000"/>
 				</container>
-		</group>
+		</group> -->
 		<group name="Land_Underground_Storage_POX" lootmax="10">
 				<value name="Tier3"/>
 				<value name="Tier4"/>
