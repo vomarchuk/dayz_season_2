@@ -154,6 +154,12 @@
                 "Changehealth": 0
               },
               {
+                "Classname": "Pipe",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
                 "Classname": "HP_napilnik",
                 "Amount": 1,
                 "Destroy": 1,
@@ -200,6 +206,12 @@
                 "Classname": "Wrench",
                 "Amount": 1,
                 "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Wrench",
+                "Amount": 2,
+                "Destroy": 2,
                 "Changehealth": 0
               },
               {
@@ -315,8 +327,8 @@
               },
               {
                 "Classname": "HP_Pipe",
-                "Amount": 1,
-                "Destroy": 1,
+                "Amount": 3,
+                "Destroy": 3,
                 "Changehealth": 0
               },
               {
@@ -379,8 +391,8 @@
               },
               {
                 "Classname": "HP_Pipe",
-                "Amount": 2,
-                "Destroy": 2,
+                "Amount": 5,
+                "Destroy": 5,
                 "Changehealth": 0
               },
               {
@@ -639,8 +651,8 @@
               },
               {
                 "Classname": "HP_Pipe",
-                "Amount": 1,
-                "Destroy": 1,
+                "Amount": 3,
+                "Destroy": 3,
                 "Changehealth": 0
               },
               {
@@ -703,8 +715,8 @@
               },
               {
                 "Classname": "HP_Pipe",
-                "Amount": 2,
-                "Destroy": 2,
+                "Amount": 5,
+                "Destroy": 5,
                 "Changehealth": 0
               },
               {
@@ -933,8 +945,8 @@
               },
               {
                 "Classname": "HP_Pipe",
-                "Amount": 2,
-                "Destroy": 2,
+                "Amount": 3,
+                "Destroy": 3,
                 "Changehealth": 0
               },
               {
@@ -1021,8 +1033,8 @@
               },
               {
                 "Classname": "HP_Pipe",
-                "Amount": 2,
-                "Destroy": 2,
+                "Amount": 5,
+                "Destroy": 5,
                 "Changehealth": 0
               },
               {
@@ -1187,6 +1199,12 @@
                 "Changehealth": 0
               },
               {
+                "Classname": "HP_Pipe",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
                 "Classname": "RIP_OilPlastic",
                 "Amount": 40,
                 "Destroy": 40,
@@ -1263,8 +1281,8 @@
               },
               {
                 "Classname": "HP_Pipe",
-                "Amount": 1,
-                "Destroy": 1,
+                "Amount": 3,
+                "Destroy": 3,
                 "Changehealth": 0
               },
               {
@@ -1364,8 +1382,8 @@
               },
               {
                 "Classname": "HP_Pipe",
-                "Amount": 3,
-                "Destroy": 3,
+                "Amount": 5,
+                "Destroy": 5,
                 "Changehealth": 0
               },
               {
@@ -1588,61 +1606,6 @@
                 "Classname": "RIP_sovCap",
                 "Amount": 25,
                 "Destroy": 25,
-                "Changehealth": 0
-              }
-            ],
-            "AttachmentsNeed": [
-              "HP_Payalnik"
-            ]
-          },
-          {
-            "Result": "rag_baseitems_solarpanel_kit",
-            "ResultCount": 1,
-            "ComponentsDontAffectHealth": 1,
-            "CraftType": "voltagepic",
-            "RecipeName": "Сонячна панель",
-            "AttachmentDamage": 25.0,
-            "CraftComponents": [
-              {
-                "Classname": "RIP_GlassPK",
-                "Amount": 5,
-                "Destroy": 5,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "MetalPlate",
-                "Amount": 5,
-                "Destroy": 5,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "ElectronicRepairKit",
-                "Amount": 200,
-                "Destroy": 200,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "Screwdriver",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "EpoxyPutty",
-                "Amount": 200,
-                "Destroy": 200,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_sovCap",
-                "Amount": 25,
-                "Destroy": 25,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "MetalWire",
-                "Amount": 2,
-                "Destroy": 2,
                 "Changehealth": 0
               }
             ],
