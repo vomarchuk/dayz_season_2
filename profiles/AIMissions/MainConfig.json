@@ -1316,7 +1316,7 @@
                     ]
                 },
                 {
-                    "ClassName": "VSS",
+                    "ClassName": "IMP_VSS",
                     "Magazine_ClassName": "Mag_VSS_10Rnd",
                     "Attach": [
                         "PSO1Optic"
@@ -1362,31 +1362,29 @@
                     ]
                 },
                 {
-                    "ClassName": "SCWS_P90_Fall",
-                    "Magazine_ClassName": "SCWS_P90_Magazine",
+                    "ClassName": "IMP_AK12New",
+                    "Magazine_ClassName": "IMP_Mag_AK12_30Rnd",
                     "Attach": [],
                     "Loot": [
-                        "SCWS_P90_Magazine",
-                        "AmmoBox_9x39_20Rnd",
-                        "AmmoBox_9x39_20Rnd",
-                        "AmmoBox_9x39_20Rnd",
-                        "AmmoBox_9x39_20Rnd",
-                        "AmmoBox_9x39_20Rnd",
-                        "AmmoBox_9x39_20Rnd",
-                        "AmmoBox_9x39_20Rnd",
-                        "AmmoBox_9x39_20Rnd",
-                        "AmmoBox_9x39_20Rnd",
-                        "AmmoBox_9x39_20Rnd",
+                        "AmmoBox_556x45_20Rnd",
+                        "AmmoBox_556x45_20Rnd",
+                        "AmmoBox_556x45_20Rnd",
+                        "AmmoBox_556x45_20Rnd",
+                        "AmmoBox_556x45_20Rnd",
+                        "AmmoBox_556x45_20Rnd",
+                        "AmmoBox_556x45_20Rnd",
+                        "AmmoBox_556x45_20Rnd",
+                        "AmmoBox_556x45_20Rnd",
+                        "AmmoBox_556x45_20Rnd",
                         "TerjeInjectorErytromixelin",
                         "Morphine"
                     ]
                 },
                 {
-                    "ClassName": "SCWS_CZ_Red",
-                    "Magazine_ClassName": "SCWS_CZ_Magazine",
+                    "ClassName": "IMP_KelTecSUB2000_Supp",
+                    "Magazine_ClassName": "IMP_KelTecSUB2000_Mag_50Rnd",
                     "Attach": [],
                     "Loot": [
-                        "SCWS_CZ_Magazine",
                         "AmmoBox_9x19_25rnd",
                         "AmmoBox_9x19_25rnd",
                         "AmmoBox_9x19_25rnd",
@@ -1404,11 +1402,6 @@
             ],
             "Armour": [
                 {
-                    "ClassName": "NVGoggles",
-                    "Attach": [],
-                    "Contents": []
-                },
-                {
                     "ClassName": "AmmoBox",
                     "Attach": [],
                     "Contents": [
@@ -1497,26 +1490,32 @@
                     ]
                 },
                 {
-                    "ClassName": "FOG_Vest_CPC_MCB",
-                    "Attach": [
-                        ""
-                    ],
-                    "Contents": []
-                },
-                {
-                    "ClassName": "FOG_Vest_CPC_MCB",
-                    "Attach": [
-                        ""
-                    ],
-                    "Contents": []
-                },
-                {
-                    "ClassName": "FOG_Helmet_FAST_SF_Black",
+                    "ClassName": "MMG_tt_Vest_multicam_tropic",
                     "Attach": [],
                     "Contents": []
                 },
                 {
-                    "ClassName": "FOG_Helmet_FAST_SF_Black",
+                    "ClassName": "MMG_tt_Vest_multicam",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "MMG_tt_Vest_multicamblack",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "MMG_striker_helmet_multicam_tropic",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "MMG_striker_helmet_multicamblack",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "MMG_striker_helmet_multicam",
                     "Attach": [],
                     "Contents": []
                 }
