@@ -1427,7 +1427,7 @@
 		<cargo preset="kiwi_city" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_Clerk_Normal_Green">
 		<cargo preset="drinks_T1" />
@@ -1437,7 +1437,7 @@
 		<cargo preset="kiwi_city" />
 		<cargo preset="toolsCommon_T1" />
 		<attachments preset="hatsCommon_T1" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_Clerk_Normal_Red">
 		<cargo preset="kiwi_food" />
@@ -1447,7 +1447,7 @@
 		<cargo preset="kiwi_city" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_Clerk_Normal_White">
 		<cargo preset="kiwi_food" />
@@ -1457,7 +1457,7 @@
 		<cargo preset="kiwi_city" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_CitizenANormal_Beige">
 		<cargo preset="kiwi_food" />
@@ -1468,7 +1468,7 @@
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_CitizenANormal_Blue">
 		<cargo preset="kiwi_food" />
@@ -1479,7 +1479,7 @@
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_CitizenANormal_Brown">
 		<cargo preset="drinks_T1" />
@@ -1490,7 +1490,7 @@
 		<cargo preset="kiwi_city" />
 		<attachments preset="hatsCommon_T1" />
 		<attachments preset="backpacks_T1" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_CitizenBSkinny">
 		<cargo preset="kiwi_food" />
@@ -1501,7 +1501,7 @@
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_JournalistNormal_Blue">
 		<cargo preset="kiwi_food" />
@@ -1511,7 +1511,7 @@
 		<cargo preset="kiwi_city" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_JournalistNormal_Green">
 		<cargo preset="kiwi_food" />
@@ -1521,7 +1521,7 @@
 		<cargo preset="kiwi_city" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_JournalistNormal_Red">
 		<cargo preset="kiwi_food" />
@@ -1531,7 +1531,7 @@
 		<cargo preset="kiwi_city" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_JournalistNormal_White">
 		<cargo preset="drinks_T1" />
@@ -1542,7 +1542,7 @@
 		<cargo preset="kiwi_city" />
 		<attachments preset="hatsCommon_T1" />
 		<attachments preset="backpacks_T1" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_ShortSkirt_beige">
 		<cargo preset="kiwi_food" />
@@ -1553,7 +1553,7 @@
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_ShortSkirt_black">
 		<cargo preset="drinks_T1" />
@@ -1564,7 +1564,7 @@
 		<cargo preset="toolsCommon_T1" />
 		<attachments preset="hatsCommon_T1" />
 		<attachments preset="backpacks_T1" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_ShortSkirt_brown">
 		<cargo preset="kiwi_food" />
@@ -1575,7 +1575,7 @@
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_ShortSkirt_checks">
 		<cargo preset="kiwi_food" />
@@ -1586,7 +1586,7 @@
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_ShortSkirt_green">
 		<cargo preset="kiwi_food" />
@@ -1596,7 +1596,7 @@
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_ShortSkirt_grey">
 		<cargo preset="kiwi_food" />
@@ -1607,7 +1607,7 @@
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_ShortSkirt_red">
 		<cargo preset="drinks_T1" />
@@ -1618,7 +1618,7 @@
 		<cargo preset="toolsCommon_T1" />
 		<attachments preset="hatsCommon_T1" />
 		<attachments preset="backpacks_T1" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_ShortSkirt_stripes">
 		<cargo preset="drinks_T1" />
@@ -1629,7 +1629,7 @@
 		<cargo preset="toolsCommon_T1" />
 		<attachments preset="hatsCommon_T1" />
 		<attachments preset="backpacks_T1" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_ShortSkirt_white">
 		<cargo preset="kiwi_food" />
@@ -1640,7 +1640,7 @@
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_ShortSkirt_yellow">
 		<cargo preset="kiwi_food" />
@@ -1651,7 +1651,7 @@
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_SkaterYoung_Brown">
 		<cargo preset="kiwi_food" />
@@ -1662,7 +1662,7 @@
 		<attachments preset="hatsCitySkate" />
 		<attachments preset="glassesCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_SkaterYoung_Striped">
 		<cargo preset="kiwi_food" />
@@ -1673,7 +1673,7 @@
 		<attachments preset="hatsCitySkate" />
 		<attachments preset="glassesCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_SkaterYoung_Violet">
 		<cargo preset="kiwi_food" />
@@ -1684,7 +1684,7 @@
 		<attachments preset="hatsCitySkate" />
 		<attachments preset="glassesCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_SurvivorNormal_Blue">
 		<cargo preset="kiwi_food" />
@@ -1695,7 +1695,7 @@
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_SurvivorNormal_Orange">
 		<cargo preset="drinks_T1" />
@@ -1706,7 +1706,7 @@
 		<cargo preset="kiwi_city" />
 		<attachments preset="hatsCommon_T1" />
 		<attachments preset="backpacks_T1" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_SurvivorNormal_Red">
 		<cargo preset="kiwi_food" />
@@ -1717,7 +1717,7 @@
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_SurvivorNormal_White">
 		<cargo preset="kiwi_food" />
@@ -1728,7 +1728,7 @@
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_CitizenASkinny_Blue">
 		<cargo preset="kiwi_food" />
@@ -1739,7 +1739,7 @@
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_CitizenASkinny_Brown">
 		<cargo preset="drinks_T1" />
@@ -1750,7 +1750,7 @@
 		<cargo preset="kiwi_city" />
 		<attachments preset="hatsCommon_T1" />
 		<attachments preset="backpacks_T1" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_CitizenASkinny_Grey">
 		<cargo preset="kiwi_food" />
@@ -1761,7 +1761,7 @@
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_CitizenASkinny_Red">
 		<cargo preset="kiwi_food" />
@@ -1772,7 +1772,7 @@
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_CitizenBFat_Blue">
 		<cargo preset="kiwi_food" />
@@ -1783,7 +1783,7 @@
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_CitizenBFat_Green">
 		<cargo preset="kiwi_food" />
@@ -1794,7 +1794,7 @@
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_CitizenBFat_Red">
 		<cargo preset="kiwi_food" />
@@ -1805,7 +1805,7 @@
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_ClerkFat_Brown">
 		<cargo preset="drinks_T1" />
@@ -1816,7 +1816,7 @@
 		<cargo preset="kiwi_city" />
 		<attachments preset="hatsCommon_T1" />
 		<attachments preset="backpacks_T1" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_ClerkFat_Grey">
 		<cargo preset="kiwi_food" />
@@ -1827,7 +1827,7 @@
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_ClerkFat_Khaki">
 		<cargo preset="kiwi_food" />
@@ -1838,7 +1838,7 @@
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_ClerkFat_White">
 		<cargo preset="kiwi_food" />
@@ -1849,7 +1849,7 @@
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_CommercialPilotOld_Blue">
 		<cargo preset="kiwi_food" />
@@ -1859,7 +1859,7 @@
 		<cargo preset="kiwi_city" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_CommercialPilotOld_Brown">
 		<cargo preset="kiwi_food" />
@@ -1879,7 +1879,7 @@
 		<cargo preset="kiwi_city" />
 		<attachments preset="hatsCommon_T1" />
 		<attachments preset="backpacks_T1" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_CommercialPilotOld_Olive">
 		<cargo preset="kiwi_food" />
@@ -1887,7 +1887,7 @@
 		<cargo preset="kiwi_city" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_Jacket_beige">
 		<cargo preset="kiwi_food" />
@@ -1898,7 +1898,7 @@
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_Jacket_black">
 		<cargo preset="kiwi_food" />
@@ -1909,7 +1909,7 @@
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_Jacket_blue">
 		<cargo preset="kiwi_food" />
@@ -1920,7 +1920,7 @@
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_Jacket_bluechecks">
 		<cargo preset="drinks_T1" />
@@ -1931,7 +1931,7 @@
 		<cargo preset="kiwi_city" />
 		<attachments preset="hatsCommon_T1" />
 		<attachments preset="backpacks_T1" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_Jacket_brown">
 		<cargo preset="kiwi_food" />
@@ -1942,7 +1942,7 @@
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_Jacket_greenchecks">
 		<cargo preset="kiwi_food" />
@@ -1953,7 +1953,7 @@
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_Jacket_grey">
 		<cargo preset="kiwi_food" />
@@ -1964,7 +1964,7 @@
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_Jacket_khaki">
 		<cargo preset="kiwi_food" />
@@ -1975,7 +1975,7 @@
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_Jacket_magenta">
 		<cargo preset="drinks_T1" />
@@ -1986,7 +1986,7 @@
 		<cargo preset="kiwi_city" />
 		<attachments preset="hatsCommon_T1" />
 		<attachments preset="backpacks_T1" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_Jacket_stripes">
 		<cargo preset="kiwi_food" />
@@ -1997,7 +1997,7 @@
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_JournalistSkinny">
 		<cargo preset="kiwi_food" />
@@ -2005,7 +2005,7 @@
 		<cargo preset="kiwi_all" />
 		<cargo preset="kiwi_civillian" />
 		<cargo preset="kiwi_city" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_MotobikerFat_Beige">
 		<cargo preset="kiwi_food" />
@@ -2014,7 +2014,7 @@
 		<cargo preset="kiwi_civillian" />
 		<cargo preset="kiwi_city" />
 		<attachments preset="hatsMotorbike" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_MotobikerFat_Black">
 		<cargo preset="drinks_T1" />
@@ -2025,7 +2025,7 @@
 		<cargo preset="kiwi_city" />
 		<attachments preset="helmetsCommon_T1" />
 		<attachments preset="backpacks_T1" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_MotobikerFat_Blue">
 		<cargo preset="kiwi_food" />
@@ -2034,7 +2034,7 @@
 		<cargo preset="kiwi_civillian" />
 		<cargo preset="kiwi_city" />
 		<attachments preset="hatsMotorbike" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_SkaterYoung_Blue">
 		<cargo preset="drinks_T1" />
@@ -2045,7 +2045,7 @@
 		<cargo preset="kiwi_city" />
 		<attachments preset="helmetsCommon_T1" />
 		<attachments preset="backpacks_T1" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_SkaterYoung_Brown">
 		<cargo preset="kiwi_food" />
@@ -2055,7 +2055,7 @@
 		<cargo preset="kiwi_city" />
 		<attachments preset="hatsCitySkate" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_SkaterYoung_Green">
 		<cargo preset="kiwi_food" />
@@ -2065,7 +2065,7 @@
 		<cargo preset="kiwi_city" />
 		<attachments preset="hatsCitySkate" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_SkaterYoung_Grey">
 		<cargo preset="kiwi_food" />
@@ -2075,7 +2075,7 @@
 		<cargo preset="kiwi_city" />
 		<attachments preset="hatsCitySkate" />
 		<attachments preset="bagsCity" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<!-- Industrial -->
 	<type name="ZmbF_BlueCollarFat_Blue">
@@ -2637,7 +2637,7 @@
 		<cargo preset="kiwi_all" />
 		<cargo preset="kiwi_civillian" />
 		<cargo preset="kiwi_village" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_MilkMaidOld_Black">
 		<cargo preset="kiwi_food" />
@@ -2645,7 +2645,7 @@
 		<cargo preset="kiwi_all" />
 		<cargo preset="kiwi_civillian" />
 		<cargo preset="kiwi_village" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_MilkMaidOld_Green">
 		<cargo preset="drinks_T1" />
@@ -2654,7 +2654,7 @@
 		<cargo preset="kiwi_all" />
 		<cargo preset="kiwi_civillian" />
 		<cargo preset="kiwi_village" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 		<attachments preset="hatsCommon_T1" />
 	</type>
 	<type name="ZmbF_MilkMaidOld_Grey">
@@ -2663,7 +2663,7 @@
 		<cargo preset="kiwi_all" />
 		<cargo preset="kiwi_civillian" />
 		<cargo preset="kiwi_village" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_VillagerOld_Blue">
 		<cargo preset="drinks_T1" />
@@ -2674,7 +2674,7 @@
 		<cargo preset="kiwi_village" />
 		<attachments preset="hatsCommon_T1" />
 		<attachments preset="backpacks_T1" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_VillagerOld_Green">
 		<cargo preset="kiwi_food" />
@@ -2684,7 +2684,7 @@
 		<cargo preset="kiwi_village" />
 		<attachments preset="glassesVillage" />
 		<attachments preset="hatsFarm" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_VillagerOld_Red">
 		<cargo preset="kiwi_food" />
@@ -2694,7 +2694,7 @@
 		<cargo preset="kiwi_village" />
 		<attachments preset="glassesVillage" />
 		<attachments preset="hatsFarm" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_VillagerOld_White">
 		<cargo preset="kiwi_food" />
@@ -2704,7 +2704,7 @@
 		<cargo preset="kiwi_village" />
 		<attachments preset="glassesVillage" />
 		<attachments preset="hatsFarm" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_JoggerSkinny_Blue">
 		<cargo preset="kiwi_food" />
@@ -2714,7 +2714,7 @@
 		<cargo preset="kiwi_village" />
 		<attachments preset="glassesVillage" />
 		<attachments preset="hatsFarm" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_JoggerSkinny_Brown">
 		<cargo preset="kiwi_food" />
@@ -2724,7 +2724,7 @@
 		<cargo preset="kiwi_village" />
 		<attachments preset="glassesVillage" />
 		<attachments preset="hatsFarm" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_JoggerSkinny_Green">
 		<cargo preset="kiwi_food" />
@@ -2734,7 +2734,7 @@
 		<cargo preset="kiwi_village" />
 		<attachments preset="glassesVillage" />
 		<attachments preset="hatsFarm" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbF_JoggerSkinny_Red">
 		<cargo preset="drinks_T1" />
@@ -2745,7 +2745,7 @@
 		<cargo preset="kiwi_village" />
 		<attachments preset="helmetsCommon_T1" />
 		<attachments preset="backpacks_T1" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_FarmerFat_Beige">
 		<cargo preset="drinks_T1" />
@@ -2756,7 +2756,7 @@
 		<cargo preset="kiwi_village" />
 		<attachments preset="hatsCommon_T1" />
 		<attachments preset="backpacks_T1" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_FarmerFat_Blue">
 		<cargo preset="kiwi_food" />
@@ -2765,7 +2765,7 @@
 		<cargo preset="kiwi_civillian" />
 		<cargo preset="kiwi_village" />
 		<attachments preset="glassesVillage" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_FarmerFat_Brown">
 		<cargo preset="kiwi_food" />
@@ -2774,7 +2774,7 @@
 		<cargo preset="kiwi_civillian" />
 		<cargo preset="kiwi_village" />
 		<attachments preset="glassesVillage" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_FarmerFat_Green">
 		<cargo preset="kiwi_food" />
@@ -2783,7 +2783,7 @@
 		<cargo preset="kiwi_civillian" />
 		<cargo preset="kiwi_village" />
 		<attachments preset="glassesVillage" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_JoggerSkinny_Blue">
 		<cargo preset="kiwi_food" />
@@ -2793,7 +2793,7 @@
 		<cargo preset="kiwi_village" />
 		<attachments preset="glassesVillage" />
 		<attachments preset="hatsFarm" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_JoggerSkinny_Green">
 		<cargo preset="kiwi_food" />
@@ -2803,7 +2803,7 @@
 		<cargo preset="kiwi_village" />
 		<attachments preset="glassesVillage" />
 		<attachments preset="hatsFarm" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_JoggerSkinny_Red">
 		<cargo preset="drinks_T1" />
@@ -2814,7 +2814,7 @@
 		<cargo preset="kiwi_village" />
 		<attachments preset="helmetsCommon_T1" />
 		<attachments preset="backpacks_T1" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_VillagerOld_Blue">
 		<cargo preset="kiwi_food" />
@@ -2824,7 +2824,7 @@
 		<cargo preset="kiwi_village" />
 		<attachments preset="glassesVillage" />
 		<attachments preset="hatsFarm" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_VillagerOld_Green">
 		<cargo preset="drinks_T1" />
@@ -2835,7 +2835,7 @@
 		<cargo preset="kiwi_village" />
 		<attachments preset="hatsCommon_T1" />
 		<attachments preset="backpacks_T1" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<type name="ZmbM_VillagerOld_White">
 		<cargo preset="kiwi_food" />
@@ -2845,7 +2845,7 @@
 		<cargo preset="kiwi_village" />
 		<attachments preset="glassesVillage" />
 		<attachments preset="hatsFarm" />
-		<!-- <attachments preset="kiwi_drybag" /> -->
+		<attachments preset="kiwi_drybag" />
 	</type>
 	<!-- Special -->
 	<type name="ZmbM_Santa">
@@ -2891,18 +2891,22 @@
 	<type name="FC_Zmb_Toxic_Blue">
 		<cargo preset="kiwi_all" />
 		<cargo preset="kiwi_mutants" />
+		<cargo preset="ContaminatedCargo" />
 	</type>
 	<type name="FC_Zmb_Toxic_Orange">
 		<cargo preset="kiwi_all" />
 		<cargo preset="kiwi_mutants" />
+		<cargo preset="ContaminatedCargo" />
 	</type>
 	<type name="FC_Zmb_Toxic_White">
 		<cargo preset="kiwi_all" />
 		<cargo preset="kiwi_mutants" />
+		<cargo preset="ContaminatedCargo" />
 	</type>
 	<type name="FC_Zmb_Toxic_Yellow">
 		<cargo preset="kiwi_all" />
 		<cargo preset="kiwi_mutants" />
+		<cargo preset="ContaminatedCargo" />
 	</type>
 	<type name="FC_Zmb_Worker_1">
 		<cargo preset="kiwi_all" />
@@ -3625,17 +3629,6 @@
 		<cargo preset="Xmas_Repairs_Small" />
 		<cargo preset="Xmas_Food_Small" />
 		<cargo preset="Xmas_Chemlights_Small" />
-	</type>
-	<type name="rag_baseitems_sewing_cushion">
-		<damage min="0.0" max="0.6" />
-		<attachments preset="needle1" />
-		<attachments preset="needle2" />
-		<attachments preset="needle3" />
-		<attachments preset="needle4" />
-		<attachments preset="needle5" />
-		<attachments preset="needle6" />
-		<attachments preset="needle7" />
-		<attachments preset="needle8" />
 	</type>
 	<!-- VEHICLES -->
 	<type name="Boat_01_Black">
