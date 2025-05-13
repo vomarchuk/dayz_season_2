@@ -1,0 +1,833 @@
+{
+    "title": "SEASON PASS",
+    "seasonMessage": "NEW SEASON STARTS ON 01/05/2025",
+    "getPremiumButton": "GET PREMIUM",
+    "getPremiumButtonDiscordLink": "https://discord.com/invite/BfGSxZGGF5",
+    "currentLevel": "CURRENT LEVEL",
+    "level": "LEVEL",
+    "rewardsButton": "REWARDS",
+    "tasksButton": "TASKS",
+    "claimRewardButton": "CLAIM REWARD",
+    "premium": "PREMIUM",
+    "free": "FREE",
+    "tasks": [
+        {
+            "taskName": "Kill Players",
+            "taskDescription": "Found in high-traffic areas like military bases, airfields, and big cities.",
+            "targetClassname": [
+                "SurvivorM_Mirek",
+                "SurvivorM_Boris",
+                "SurvivorM_Cyril",
+                "SurvivorM_Denis",
+                "SurvivorM_Elias",
+                "SurvivorM_Francis",
+                "SurvivorM_Guo",
+                "SurvivorM_Hassan",
+                "SurvivorM_Indar",
+                "SurvivorM_Jose",
+                "SurvivorM_Kaito",
+                "SurvivorM_Lewis",
+                "SurvivorM_Manua",
+                "SurvivorM_Niki",
+                "SurvivorM_Oliver",
+                "SurvivorM_Peter",
+                "SurvivorM_Quinn",
+                "SurvivorM_Rolf",
+                "SurvivorM_Seth",
+                "SurvivorM_Taiki",
+                "SurvivorF_Eva",
+                "SurvivorF_Frida",
+                "SurvivorF_Gabi",
+                "SurvivorF_Helga",
+                "SurvivorF_Irena",
+                "SurvivorF_Judy",
+                "SurvivorF_Keiko",
+                "SurvivorF_Linda",
+                "SurvivorF_Maria",
+                "SurvivorF_Naomi",
+                "SurvivorF_Baty"
+            ],
+            "taskXP": 100
+        },
+        {
+            "taskName": "Kill Foxes",
+            "taskDescription": "Roam forested areas and near tree lines, especially around rural regions.",
+            "targetClassname": [
+                "Animal_VulpesVulpes"
+            ],
+            "taskXP": 25
+        },
+        {
+            "taskName": "Kill Hares",
+            "taskDescription": "Common in open fields, farmlands, and grassy meadows.",
+            "targetClassname": [
+                "Animal_LepusEuropaeus"
+            ],
+            "taskXP": 10
+        },
+        {
+            "taskName": "Kill Hens",
+            "taskDescription": "Usually found in villages, farmyards, and around houses in rural towns.",
+            "targetClassname": [
+                "Animal_GallusGallusDomesticus",
+                "Animal_GallusGallusDomesticusF_Brown",
+                "Animal_GallusGallusDomesticusF_Spotted",
+                "Animal_GallusGallusDomesticusF_White"
+            ],
+            "taskXP": 5
+        },
+        {
+            "taskName": "Kill Bears",
+            "taskDescription": "Spawn deep in forests and mountainous areas — often in the far north or wilderness zones.",
+            "targetClassname": [
+                "Animal_UrsusArctos"
+            ],
+            "taskXP": 100
+        },
+        {
+            "taskName": "Kill Cows",
+            "taskDescription": "Grazing near barns, open pastures, and village outskirts.",
+            "targetClassname": [
+                "Animal_BosTaurusF_Brown",
+                "Animal_BosTaurusF_Spotted",
+                "Animal_BosTaurusF_White",
+                "Animal_BosTaurus_Brown",
+                "Animal_BosTaurus_Spotted",
+                "Animal_BosTaurus_White"
+            ],
+            "taskXP": 10
+        },
+        {
+            "taskName": "Kill Deers",
+            "taskDescription": "Found in dense forests and around clearings, especially early morning or dusk.",
+            "targetClassname": [
+                "Animal_CervusElaphus",
+                "Animal_CervusElaphusF"
+            ],
+            "taskXP": 25
+        },
+        {
+            "taskName": "Kill Goats",
+            "taskDescription": "Often spawn near rural homes, farms, and small village areas.",
+            "targetClassname": [
+                "Animal_CapraHircusF",
+                "Animal_CapraHircus_Black",
+                "Animal_CapraHircus_Brown",
+                "Animal_CapraHircus_White"
+            ],
+            "taskXP": 10
+        },
+        {
+            "taskName": "Kill Pigs",
+            "taskDescription": "Common in farmlands, forest edges, and near agricultural buildings.",
+            "targetClassname": [
+                "Animal_SusDomesticus"
+            ],
+            "taskXP": 10
+        },
+        {
+            "taskName": "Kill Roe Deers",
+            "taskDescription": "Wander lightly wooded areas and grassy slopes.",
+            "targetClassname": [
+                "Animal_CapreolusCapreolus",
+                "Animal_CapreolusCapreolusF"
+            ],
+            "taskXP": 25
+        },
+        {
+            "taskName": "Kill Sheeps",
+            "taskDescription": "Typically appear around farmhouses and fenced-in rural yards.",
+            "targetClassname": [
+                "Animal_OvisAries",
+                "Animal_OvisAriesF"
+            ],
+            "taskXP": 10
+        },
+        {
+            "taskName": "Kill Wild Boars",
+            "taskDescription": "Found in forests, forest clearings, and hilly wilderness regions.",
+            "targetClassname": [
+                "Animal_SusScrofa"
+            ],
+            "taskXP": 20
+        },
+        {
+            "taskName": "Kill Wolves",
+            "taskDescription": "Roam in packs within deep forests, especially in remote and northern parts of the map.",
+            "targetClassname": [
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_White"
+            ],
+            "taskXP": 30
+        },
+        {
+            "taskName": "Kill Zombies",
+            "taskDescription": "Present in nearly every town, village, and lootable building.",
+            "targetClassname": [
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Red",
+                "ZmbM_CitizenBFat_Blue",
+                "ZmbM_CitizenBFat_Green",
+                "ZmbM_CitizenBFat_Red",
+                "ZmbM_ClerkFat_Grey",
+                "ZmbM_ClerkFat_Khaki",
+                "ZmbM_ClerkFat_White",
+                "ZmbM_CommercialPilotOld_Blue",
+                "ZmbM_CommercialPilotOld_Brown",
+                "ZmbM_CommercialPilotOld_Olive",
+                "ZmbM_Gamedev_Black",
+                "ZmbM_Gamedev_Blue",
+                "ZmbM_Gamedev_Gray",
+                "ZmbM_JournalistSkinny",
+                "ZmbM_MotobikerFat_Beige",
+                "ZmbM_SkaterYoung_Brown",
+                "ZmbM_SkaterYoung_Green",
+                "ZmbM_SkaterYoung_Grey",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_ClerkFat_Brown",
+                "ZmbM_CommercialPilotOld_Grey",
+                "ZmbM_MotobikerFat_Black",
+                "ZmbM_SkaterYoung_Blue",
+                "ZmbM_FirefighterNormal",
+                "ZmbM_ConstrWorkerNormal_Beige",
+                "ZmbM_ConstrWorkerNormal_Black",
+                "ZmbM_ConstrWorkerNormal_Green",
+                "ZmbM_ConstrWorkerNormal_Grey",
+                "ZmbM_HandymanNormal_Beige",
+                "ZmbM_HandymanNormal_Blue",
+                "ZmbM_HandymanNormal_Green",
+                "ZmbM_HandymanNormal_Grey",
+                "ZmbM_HandymanNormal_White",
+                "ZmbM_HeavyIndustryWorker",
+                "ZmbM_MechanicSkinny_Blue",
+                "ZmbM_MechanicSkinny_Green",
+                "ZmbM_MechanicSkinny_Grey",
+                "ZmbM_MechanicSkinny_Red",
+                "ZmbM_OffshoreWorker_Green",
+                "ZmbM_OffshoreWorker_Orange",
+                "ZmbM_OffshoreWorker_Red",
+                "ZmbM_OffshoreWorker_Yellow",
+                "ZmbM_PrisonerSkinny",
+                "ZmbM_priestPopSkinny",
+                "ZmbM_FishermanOld_Blue",
+                "ZmbM_FishermanOld_Green",
+                "ZmbM_FishermanOld_Grey",
+                "ZmbM_FishermanOld_Red",
+                "ZmbM_HermitSkinny_Beige",
+                "ZmbM_HermitSkinny_Black",
+                "ZmbM_HermitSkinny_Green",
+                "ZmbM_HermitSkinny_Red",
+                "ZmbM_HikerSkinny_Blue",
+                "ZmbM_HikerSkinny_Green",
+                "ZmbM_HikerSkinny_Yellow",
+                "ZmbM_HunterOld_Autumn",
+                "ZmbM_HunterOld_Spring",
+                "ZmbM_HunterOld_Summer",
+                "ZmbM_HunterOld_Winter",
+                "ZmbM_FarmerFat_Blue",
+                "ZmbM_FarmerFat_Brown",
+                "ZmbM_FarmerFat_Green",
+                "ZmbM_Jacket_beige",
+                "ZmbM_Jacket_black",
+                "ZmbM_Jacket_blue",
+                "ZmbM_Jacket_brown",
+                "ZmbM_Jacket_greenchecks",
+                "ZmbM_Jacket_grey",
+                "ZmbM_Jacket_khaki",
+                "ZmbM_Jacket_stripes",
+                "ZmbM_JoggerSkinny_Blue",
+                "ZmbM_JoggerSkinny_Green",
+                "ZmbM_VillagerOld_Blue",
+                "ZmbM_VillagerOld_White",
+                "ZmbM_FarmerFat_Beige",
+                "ZmbM_Jacket_bluechecks",
+                "ZmbM_Jacket_magenta",
+                "ZmbM_JoggerSkinny_Red",
+                "ZmbM_VillagerOld_Green"
+            ],
+            "taskXP": 10
+        },
+        {
+            "taskName": "Kill Police Zombies",
+            "taskDescription": "Found near police stations in towns and cities.",
+            "targetClassname": [
+                "ZmbM_PolicemanFat",
+                "ZmbM_PolicemanSpecForce",
+                "ZmbM_PolicemanSpecForce_Heavy"
+            ],
+            "taskXP": 25
+        },
+        {
+            "taskName": "Kill Army Zombies",
+            "taskDescription": "Found in military bases, checkpoints, and airfields.",
+            "targetClassname": [
+                "ZmbM_PatrolNormal_Autumn",
+                "ZmbM_PatrolNormal_Flat",
+                "ZmbM_PatrolNormal_PautRev",
+                "ZmbM_PatrolNormal_Summer",
+                "ZmbM_SoldierNormal",
+                "ZmbM_usSoldier_normal_Desert",
+                "ZmbM_usSoldier_normal_Woodland",
+                "ZmbM_usSoldier_Heavy_Woodland",
+                "ZmbM_usSoldier_Officer_Desert"
+            ],
+            "taskXP": 40
+        },
+        {
+            "taskName": "Kill Medical Zombies",
+            "taskDescription": "Found around hospitals, clinics, field hospitals, and medical tents.",
+            "targetClassname": [
+                "ZmbM_DoctorFat",
+                "ZmbM_ParamedicNormal_Black",
+                "ZmbM_ParamedicNormal_Blue",
+                "ZmbM_ParamedicNormal_Green",
+                "ZmbM_ParamedicNormal_Red",
+                "ZmbM_PatientSkinny"
+            ],
+            "taskXP": 15
+        },
+        {
+            "taskName": "Kill NBC Zombies",
+            "taskDescription": "Appear near contaminated zones, quarantine areas, and scientific facilities.",
+            "targetClassname": [
+                "ZmbM_NBC_Grey",
+                "ZmbM_NBC_Yellow"
+            ],
+            "taskXP": 30
+        },
+        {
+            "taskName": "Kill Special Zombies",
+            "taskDescription": "Found in underground bunkers or high-tier zones.",
+            "targetClassname": [
+                "ZmbM_Santa"
+            ],
+            "taskXP": 50
+        }
+    ],
+    "levels": [
+        {
+            "startExp": 0,
+            "endExp": 100,
+            "free_reward": {
+                "name": "HuntingKnife",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "MKII",
+                "quantity": 1,
+                "attachments": [
+                    "Mag_MKII_10Rnd"
+                ]
+            }
+        },
+        {
+            "startExp": 100,
+            "endExp": 200,
+            "free_reward": {
+                "name": "",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "CZ75",
+                "quantity": 1,
+                "attachments": [
+                    "Mag_CZ75_15Rnd",
+                    "PistolSuppressor",
+                    "TLRLight"
+                ]
+            }
+        },
+        {
+            "startExp": 200,
+            "endExp": 300,
+            "free_reward": {
+                "name": "BarbedBaseballBat",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "Glock19",
+                "quantity": 1,
+                "attachments": [
+                    "Mag_Glock_15Rnd",
+                    "PistolSuppressor",
+                    "TLRLight"
+                ]
+            }
+        },
+        {
+            "startExp": 300,
+            "endExp": 400,
+            "free_reward": {
+                "name": "",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "FNX45",
+                "quantity": 1,
+                "attachments": [
+                    "Mag_FNX45_15Rnd",
+                    "FNP45_MRDSOptic",
+                    "PistolSuppressor",
+                    "TLRLight"
+                ]
+            }
+        },
+        {
+            "startExp": 500,
+            "endExp": 500,
+            "free_reward": {
+                "name": "AliceBag_Green",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "CZ61",
+                "quantity": 1,
+                "attachments": [
+                    "Mag_CZ61_20Rnd",
+                    "PistolSuppressor"
+                ]
+            }
+        },
+        {
+            "startExp": 600,
+            "endExp": 600,
+            "free_reward": {
+                "name": "",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "Deagle",
+                "quantity": 1,
+                "attachments": [
+                    "Mag_Deagle_9rnd"
+                ]
+            }
+        },
+        {
+            "startExp": 700,
+            "endExp": 700,
+            "free_reward": {
+                "name": "",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "Deagle_Gold",
+                "quantity": 1,
+                "attachments": [
+                    "Mag_Deagle_9rnd"
+                ]
+            }
+        },
+        {
+            "startExp": 800,
+            "endExp": 800,
+            "free_reward": {
+                "name": "",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "PP19",
+                "quantity": 1,
+                "attachments": [
+                    "PistolSuppressor",
+                    "PP19_Bttstck",
+                    "KobraOptic",
+                    "Mag_PP19_64Rnd"
+                ]
+            }
+        },
+        {
+            "startExp": 900,
+            "endExp": 900,
+            "free_reward": {
+                "name": "MountainBag_Red",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "LongHorn",
+                "quantity": 1,
+                "attachments": [
+                    "PistolOptic"
+                ]
+            }
+        },
+        {
+            "startExp": 1000,
+            "endExp": 1100,
+            "free_reward": {
+                "name": "",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "MP133Shotgun",
+                "quantity": 1,
+                "attachments": [
+                    "FNP45_MRDSOptic"
+                ]
+            }
+        },
+        {
+            "startExp": 1100,
+            "endExp": 1200,
+            "free_reward": {
+                "name": "",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "MP5K",
+                "quantity": 1,
+                "attachments": [
+                    "MP5_RailHndgrd",
+                    "MP5_PlasticHndgrd",
+                    "MP5k_StockBttstck",
+                    "Mag_MP5_30Rnd",
+                    "ReflexOptic",
+                    "MP5_Compensator"
+                ]
+            }
+        },
+        {
+            "startExp": 1200,
+            "endExp": 1300,
+            "free_reward": {
+                "name": "",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "UMP45",
+                "quantity": 1,
+                "attachments": [
+                    "Mag_UMP_25Rnd",
+                    "M68Optic",
+                    "PistolSuppressor",
+                    "TLRLight"
+                ]
+            }
+        },
+        {
+            "startExp": 1300,
+            "endExp": 1400,
+            "free_reward": {
+                "name": "PlateCarrierVest",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "VSS",
+                "quantity": 1,
+                "attachments": [
+                    "KashtanOptic",
+                    "Mag_VSS_10Rnd"
+                ]
+            }
+        },
+        {
+            "startExp": 1400,
+            "endExp": 1500,
+            "free_reward": {
+                "name": "",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "ASVAL",
+                "quantity": 1,
+                "attachments": [
+                    "Mag_VAL_20Rnd",
+                    "BUISOptic",
+                    "TLRLight"
+                ]
+            }
+        },
+        {
+            "startExp": 1500,
+            "endExp": 1600,
+            "free_reward": {
+                "name": "",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "CZ527",
+                "quantity": 1,
+                "attachments": [
+                    "HuntingOptic",
+                    "Mag_CZ527_5rnd"
+                ]
+            }
+        },
+        {
+            "startExp": 1600,
+            "endExp": 1700,
+            "free_reward": {
+                "name": "",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "Winchester70",
+                "quantity": 1,
+                "attachments": [
+                    "HuntingOptic"
+                ]
+            }
+        },
+        {
+            "startExp": 1700,
+            "endExp": 1800,
+            "free_reward": {
+                "name": "Mich2001Helmet",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "Mosin9130",
+                "quantity": 1,
+                "attachments": [
+                    "Mosin_Compensator",
+                    "PUScopeOptic"
+                ]
+            }
+        },
+        {
+            "startExp": 1800,
+            "endExp": 1900,
+            "free_reward": {
+                "name": "",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "SKS",
+                "quantity": 1,
+                "attachments": [
+                    "PUScopeOptic"
+                ]
+            }
+        },
+        {
+            "startExp": 1900,
+            "endExp": 2000,
+            "free_reward": {
+                "name": "",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "AKM",
+                "quantity": 1,
+                "attachments": [
+                    "AK_PlasticBttstck",
+                    "AK_PlasticHndgrd",
+                    "KashtanOptic",
+                    "AK_Suppressor",
+                    "Mag_AKM_30Rnd"
+                ]
+            }
+        },
+        {
+            "startExp": 2000,
+            "endExp": 2100,
+            "free_reward": {
+                "name": "",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "AK74",
+                "quantity": 1,
+                "attachments": [
+                    "AK74_WoodBttstck",
+                    "AK74_Hndgrd",
+                    "PSO11Optic",
+                    "Mag_AK74_45Rnd"
+                ]
+            }
+        },
+        {
+            "startExp": 2100,
+            "endExp": 2200,
+            "free_reward": {
+                "name": "NVGHeadstrap",
+                "quantity": 1,
+                "attachments": [
+                    "NVGoggles"
+                ]
+            },
+            "premium_reward": {
+                "name": "AKS74U",
+                "quantity": 1,
+                "attachments": [
+                    "AKS74U_Bttstck",
+                    "Mag_AK74_30Rnd"
+                ]
+            }
+        },
+        {
+            "startExp": 2200,
+            "endExp": 2300,
+            "free_reward": {
+                "name": "",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "AK101",
+                "quantity": 1,
+                "attachments": [
+                    "AK_PlasticBttstck",
+                    "AK_PlasticHndgrd",
+                    "KashtanOptic",
+                    "Mag_AK101_30Rnd"
+                ]
+            }
+        },
+        {
+            "startExp": 2300,
+            "endExp": 2400,
+            "free_reward": {
+                "name": "",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "M4A1",
+                "quantity": 1,
+                "attachments": [
+                    "M4_OEBttstck",
+                    "M4_PlasticHndgrd",
+                    "M4_CarryHandleOptic",
+                    "Mag_CMAG_30Rnd"
+                ]
+            }
+        },
+        {
+            "startExp": 2400,
+            "endExp": 2500,
+            "free_reward": {
+                "name": "",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "M16A2",
+                "quantity": 1,
+                "attachments": [
+                    "Mag_CMAG_30Rnd"
+                ]
+            }
+        },
+        {
+            "startExp": 2500,
+            "endExp": 2600,
+            "free_reward": {
+                "name": "Mosin9130",
+                "quantity": 1,
+                "attachments": [
+                    "Mosin_Compensator",
+                    "PUScopeOptic"
+                ]
+            },
+            "premium_reward": {
+                "name": "FAMAS",
+                "quantity": 1,
+                "attachments": [
+                    "Mag_FNX45_15Rnd",
+                    "FNP45_MRDSOptic",
+                    "PistolSuppressor",
+                    "TLRLight"
+                ]
+            }
+        },
+        {
+            "startExp": 2600,
+            "endExp": 2700,
+            "free_reward": {
+                "name": "",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "M4A1",
+                "quantity": 1,
+                "attachments": [
+                    "Mag_FAMAS_25Rnd"
+                ]
+            }
+        },
+        {
+            "startExp": 2700,
+            "endExp": 2800,
+            "free_reward": {
+                "name": "",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "Aug",
+                "quantity": 1,
+                "attachments": [
+                    "Mag_Aug_30Rnd",
+                    "ACOGOptic",
+                    "TLRLight"
+                ]
+            }
+        },
+        {
+            "startExp": 2800,
+            "endExp": 2900,
+            "free_reward": {
+                "name": "",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "SVD",
+                "quantity": 1,
+                "attachments": [
+                    "Mag_SVD_10Rnd",
+                    "KashtanOptic"
+                ]
+            }
+        },
+        {
+            "startExp": 2900,
+            "endExp": 3000,
+            "free_reward": {
+                "name": "M16A2",
+                "quantity": 1,
+                "attachments": [
+                    "Mag_CMAG_30Rnd"
+                ]
+            },
+            "premium_reward": {
+                "name": "FAL",
+                "quantity": 1,
+                "attachments": [
+                    "Fal_FoldingBttstck",
+                    "Mag_FAL_20Rnd"
+                ]
+            }
+        }
+    ],
+    "playerPremiumList": [
+        "76561198307197065",
+        "76561198307197064",
+        "76561198307197063",
+        "76561198307197062",
+        "76561198307197061"
+    ]
+}
