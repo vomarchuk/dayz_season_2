@@ -16,37 +16,7 @@
     "bldr_panel_concrete_2",
     "bldr_panels_concrete"
   ],
-  "NPCs": [
-    {
-      "ClassName": "SurvivorF_Linda",
-      "Position": [
-        8218.858398, 
-        469.535858, 
-        9049.728516
-      ],
-      "Orientation": [
-        -18.000004,
-        0.000000,
-        0.000000
-      ],
-      "ParkingPosition": [
-        8212.189453,
-        470.18,
-        9055.710938
-      ],
-      "ParkingOrientation": [
-        -116.472488,
-        1.126300,
-        -3.885513
-      ],
-      "Clothes": [
-        "Skirt_White",
-        "MiniDress_BlueWithDots",
-        "Ballerinas_White",
-        "ChristmasHeadband_Antlers"
-      ]
-    }
-  ],
+  "NPCs": [],
   "ParkingNotAvailable": "Парковка недоступна!",
   "NotEnoughMoney": "У вас недостатньо грошей",
   "NotRightToPark": "У вас немає прав для паркування цього транспортного засобу!",
