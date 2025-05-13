@@ -2619,15 +2619,848 @@
         "CategoryName": "Покращення сета Хантера",
         "CraftItems": [
           {
-            "Result": "VM_Ghost_Vest_V2",
+            "Result": "VM_Hunter_Top_GreenAndYellow_V2",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "craftpic",
-            "RecipeName": "Бронежилет Привида 2 класу",
+            "RecipeName": "Торс Хантера 2 класу",
+            "CraftComponents": [
+              {
+                "Classname": "VM_Hunter_Top_GreenAndYellow_V1",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DeerPelt",
+                "Amount": 3,
+                "Destroy": 3,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 10,
+                "Destroy": 10,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "SewingKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 20,
+                "Destroy": 20,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DuctTape",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil"
+            ]
+          },
+          {
+            "Result": "VM_Hunter_Top_GreyAndGreen_V2",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Торс Хантера 2 класу",
+            "CraftComponents": [
+              {
+                "Classname": "VM_Hunter_Top_GreyAndGreen_V1",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DeerPelt",
+                "Amount": 3,
+                "Destroy": 3,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 10,
+                "Destroy": 10,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "SewingKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 20,
+                "Destroy": 20,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DuctTape",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil"
+            ]
+          },
+          {
+            "Result": "VM_Hunter_Top_BlackAndBlue_V2",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Торс Хантера 2 класу",
+            "CraftComponents": [
+              {
+                "Classname": "VM_Hunter_Top_BlackAndBlue_V1",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DeerPelt",
+                "Amount": 3,
+                "Destroy": 3,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 10,
+                "Destroy": 10,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "SewingKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 20,
+                "Destroy": 20,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DuctTape",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil"
+            ]
+          },
+          {
+            "Result": "VM_Hunter_Top_Camo_V2",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Торс Хантера 2 класу",
+            "CraftComponents": [
+              {
+                "Classname": "VM_Hunter_Top_Camo_V1",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DeerPelt",
+                "Amount": 3,
+                "Destroy": 3,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 10,
+                "Destroy": 10,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "SewingKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 20,
+                "Destroy": 20,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DuctTape",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil"
+            ]
+          },
+          {
+            "Result": "VM_Hunter_Top_GreenAndYellow_V3",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Торс Хантера 3 класу",
+            "CraftComponents": [
+              {
+                "Classname": "VM_Hunter_Top_GreenAndYellow_V2",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP2",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "WolfPelt",
+                "Amount": 5,
+                "Destroy": 5,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 20,
+                "Destroy": 20,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "SewingKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DuctTape",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "VM_Hunter_Top_GreyAndGreen_V3",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Торс Хантера 3 класу",
+            "CraftComponents": [
+              {
+                "Classname": "VM_Hunter_Top_GreyAndGreen_V2",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP2",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "WolfPelt",
+                "Amount": 5,
+                "Destroy": 5,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 20,
+                "Destroy": 20,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "SewingKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DuctTape",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "VM_Hunter_Top_BlackAndBlue_V3",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Торс Хантера 3 класу",
+            "CraftComponents": [
+              {
+                "Classname": "VM_Hunter_Top_BlackAndBlue_V2",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP2",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "WolfPelt",
+                "Amount": 5,
+                "Destroy": 5,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 20,
+                "Destroy": 20,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "SewingKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DuctTape",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "VM_Hunter_Top_Camo_V3",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Торс Хантера 3 класу",
+            "CraftComponents": [
+              {
+                "Classname": "VM_Hunter_Top_Camo_V2",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP2",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "WolfPelt",
+                "Amount": 5,
+                "Destroy": 5,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 20,
+                "Destroy": 20,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "SewingKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DuctTape",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "VM_Hunter_Top_GreenAndYellow_V4",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Торс Хантера 4 класу",
+            "CraftComponents": [
+              {
+                "Classname": "VM_Hunter_Top_GreenAndYellow_V3",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP3",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Pliers",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Kevlar",
+                "Amount": 5000,
+                "Destroy": 5000,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Fabric",
+                "Amount": 15,
+                "Destroy": 15,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "LeatherSewingKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets2",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TireRepairKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Drill",
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "VM_Hunter_Top_GreyAndGreen_V4",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Торс Хантера 4 класу",
+            "CraftComponents": [
+              {
+                "Classname": "VM_Hunter_Top_GreyAndGreen_V3",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP3",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Pliers",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Kevlar",
+                "Amount": 5000,
+                "Destroy": 5000,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Fabric",
+                "Amount": 15,
+                "Destroy": 15,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "LeatherSewingKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets2",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TireRepairKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Drill",
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "VM_Hunter_Top_BlackAndBlue_V4",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Торс Хантера 4 класу",
+            "CraftComponents": [
+              {
+                "Classname": "VM_Hunter_Top_BlackAndBlue_V3",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP3",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Pliers",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Kevlar",
+                "Amount": 5000,
+                "Destroy": 5000,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Fabric",
+                "Amount": 15,
+                "Destroy": 15,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "LeatherSewingKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets2",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TireRepairKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Drill",
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "VM_Hunter_Top_Camo_V4",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Торс Хантера 4 класу",
+            "CraftComponents": [
+              {
+                "Classname": "VM_Hunter_Top_Camo_V3",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP3",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Pliers",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Kevlar",
+                "Amount": 5000,
+                "Destroy": 5000,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Fabric",
+                "Amount": 15,
+                "Destroy": 15,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "LeatherSewingKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets2",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TireRepairKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Drill",
+              "HP_Vise"
+            ]
+          }
+        ]
+      },
+      {
+        "CategoryName": "Покращення сета FIXER",
+        "CraftItems": [
+          {
+            "Result": "VM_FIXvestIIO_V2",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Бронежилет FIXER V2",
             "AttachmentDamage": 25.0,
             "CraftComponents": [
               {
-                "Classname": "VM_Ghost_Vest_V1",
+                "Classname": "VM_FIXvestIIO_V1",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -2687,7 +3520,75 @@
             ]
           },
           {
-            "Result": "VM_Ghost_Vest_V3",
+            "Result": "VM_FIXvestBGIIO_V2",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Бронежилет FIXER V2",
+            "AttachmentDamage": 25.0,
+            "CraftComponents": [
+              {
+                "Classname": "VM_FIXvestBGIIO_V1",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP2",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DeerPelt",
+                "Amount": 3,
+                "Destroy": 3,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 10,
+                "Destroy": 10,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "SewingKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 20,
+                "Destroy": 20,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DuctTape",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "VM_FIXvestIIO_V3",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "craftpic",
@@ -2695,7 +3596,7 @@
             "AttachmentDamage": 25.0,
             "CraftComponents": [
               {
-                "Classname": "VM_Ghost_Vest_V2",
+                "Classname": "VM_FIXvestIIO_V2",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -2743,7 +3644,7 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "DuctTape",
+                "Classname": "TireRepairKit",
                 "Amount": 500,
                 "Destroy": 500,
                 "Changehealth": 0
@@ -2756,21 +3657,21 @@
             ]
           },
           {
-            "Result": "VM_Ghost_Vest_V4",
+            "Result": "VM_FIXvestBGIIO_V3",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "craftpic",
-            "RecipeName": "Бронежилет 4 класу",
+            "RecipeName": "Бронежилет 3 класу",
             "AttachmentDamage": 25.0,
             "CraftComponents": [
               {
-                "Classname": "VM_Ghost_Vest_V3",
+                "Classname": "VM_FIXvestBGIIO_V2",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_AP4",
+                "Classname": "RIP_AP3",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -2782,33 +3683,27 @@
                 "Changehealth": 0
               },
               {
-                "Classname": "Pliers",
+                "Classname": "HP_napilnik",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
               },
               {
-                "Classname": "RIP_Kevlar",
-                "Amount": 5000,
-                "Destroy": 5000,
+                "Classname": "WolfPelt",
+                "Amount": 5,
+                "Destroy": 5,
                 "Changehealth": 0
               },
               {
                 "Classname": "RIP_Carbon",
-                "Amount": 30,
-                "Destroy": 30,
+                "Amount": 20,
+                "Destroy": 20,
                 "Changehealth": 0
               },
               {
-                "Classname": "Fabric",
-                "Amount": 15,
-                "Destroy": 15,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "LeatherSewingKit",
-                "Amount": 300,
-                "Destroy": 300,
+                "Classname": "SewingKit",
+                "Amount": 500,
+                "Destroy": 500,
                 "Changehealth": 0
               },
               {
@@ -2819,16 +3714,15 @@
               },
               {
                 "Classname": "TireRepairKit",
-                "Amount": 300,
-                "Destroy": 300,
+                "Amount": 500,
+                "Destroy": 500,
                 "Changehealth": 0
               }
             ],
             "AttachmentsNeed": [
               "HP_Anvil",
-              "HP_Drill",
               "HP_Vise",
-              "HP_Grinde"
+              "HP_Drill"
             ]
           }
         ]
@@ -2983,6 +3877,812 @@
             "CraftComponents": [
               {
                 "Classname": "VM_Ghost_Vest_V3",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP4",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Pliers",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Kevlar",
+                "Amount": 5000,
+                "Destroy": 5000,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Fabric",
+                "Amount": 15,
+                "Destroy": 15,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "LeatherSewingKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TireRepairKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Drill",
+              "HP_Vise",
+              "HP_Grinde"
+            ]
+          },
+          {
+            "Result": "VM_FIXvestIIO_V4",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Бронежилет FIXER V4",
+            "AttachmentDamage": 25.0,
+            "CraftComponents": [
+              {
+                "Classname": "VM_FIXvestIIO_V3",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP4",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Pliers",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Kevlar",
+                "Amount": 5000,
+                "Destroy": 5000,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Fabric",
+                "Amount": 15,
+                "Destroy": 15,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "LeatherSewingKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TireRepairKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Drill",
+              "HP_Vise",
+              "HP_Grinde"
+            ]
+          },
+          {
+            "Result": "VM_FIXvestBGIIO_V4",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Бронежилет FIXER V4",
+            "AttachmentDamage": 25.0,
+            "CraftComponents": [
+              {
+                "Classname": "VM_FIXvestBGIIO_V3",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP4",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Pliers",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Kevlar",
+                "Amount": 5000,
+                "Destroy": 5000,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Fabric",
+                "Amount": 15,
+                "Destroy": 15,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "LeatherSewingKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TireRepairKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Drill",
+              "HP_Vise",
+              "HP_Grinde"
+            ]
+          }
+        ]
+      },
+      {
+        "CategoryName": "Покращення сета Залізного Мреця",
+        "CraftItems": [
+          {
+            "Result": "VM_Iron_Revenant_Vest_V2",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Бронежилет Залізного Мреця V2",
+            "AttachmentDamage": 25.0,
+            "CraftComponents": [
+              {
+                "Classname": "VM_Iron_Revenant_Vest_V1",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP2",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DeerPelt",
+                "Amount": 3,
+                "Destroy": 3,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 10,
+                "Destroy": 10,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "SewingKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 20,
+                "Destroy": 20,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DuctTape",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "VM_Iron_Revenant_Vest_V3",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Бронежилет Залізного Мреця V3",
+            "AttachmentDamage": 25.0,
+            "CraftComponents": [
+              {
+                "Classname": "VM_Iron_Revenant_Vest_V2",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP3",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "WolfPelt",
+                "Amount": 5,
+                "Destroy": 5,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 20,
+                "Destroy": 20,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "SewingKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TireRepairKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Vise",
+              "HP_Drill"
+            ]
+          },
+          {
+            "Result": "VM_Iron_Revenant_Vest_V4",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Бронежилет Залізного Мреця V4",
+            "AttachmentDamage": 25.0,
+            "CraftComponents": [
+              {
+                "Classname": "VM_Iron_Revenant_Vest_V3",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP4",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Pliers",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Kevlar",
+                "Amount": 5000,
+                "Destroy": 5000,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Fabric",
+                "Amount": 15,
+                "Destroy": 15,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "LeatherSewingKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TireRepairKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Drill",
+              "HP_Vise",
+              "HP_Grinde"
+            ]
+          }
+        ]
+      },
+      {
+        "CategoryName": "Покращення сета Сатани",
+        "CraftItems": [
+          {
+            "Result": "VM_Satana_Vest_V2",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Бронежилет Сатани V2",
+            "AttachmentDamage": 25.0,
+            "CraftComponents": [
+              {
+                "Classname": "VM_Satana_Vest_V1",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP2",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DeerPelt",
+                "Amount": 3,
+                "Destroy": 3,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 10,
+                "Destroy": 10,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "SewingKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 20,
+                "Destroy": 20,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DuctTape",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "VM_Satana_Vest_V3",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Бронежилет Сатани V3",
+            "AttachmentDamage": 25.0,
+            "CraftComponents": [
+              {
+                "Classname": "VM_Satana_Vest_V2",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP3",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "WolfPelt",
+                "Amount": 5,
+                "Destroy": 5,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 20,
+                "Destroy": 20,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "SewingKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TireRepairKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Vise",
+              "HP_Drill"
+            ]
+          },
+          {
+            "Result": "VM_Satana_Vest_V4",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Бронежилет Сатани V4",
+            "AttachmentDamage": 25.0,
+            "CraftComponents": [
+              {
+                "Classname": "VM_Satana_Vest_V3",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP4",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Pliers",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Kevlar",
+                "Amount": 5000,
+                "Destroy": 5000,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Fabric",
+                "Amount": 15,
+                "Destroy": 15,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "LeatherSewingKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TireRepairKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Drill",
+              "HP_Vise",
+              "HP_Grinde"
+            ]
+          }
+        ]
+      },
+      {
+        "CategoryName": "Покращення сета Каскадер",
+        "CraftItems": [
+          {
+            "Result": "VM_Stuntman_Vest_V2",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Бронежилет Каскадер V2",
+            "AttachmentDamage": 25.0,
+            "CraftComponents": [
+              {
+                "Classname": "VM_Stuntman_Vest_V1",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP2",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DeerPelt",
+                "Amount": 3,
+                "Destroy": 3,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 10,
+                "Destroy": 10,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "SewingKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 20,
+                "Destroy": 20,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "DuctTape",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Vise"
+            ]
+          },
+          {
+            "Result": "VM_Stuntman_Vest_V3",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Бронежилет Каскадер V3",
+            "AttachmentDamage": 25.0,
+            "CraftComponents": [
+              {
+                "Classname": "VM_Stuntman_Vest_V2",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP3",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "HP_napilnik",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "WolfPelt",
+                "Amount": 5,
+                "Destroy": 5,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 20,
+                "Destroy": 20,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "SewingKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TireRepairKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Vise",
+              "HP_Drill"
+            ]
+          },
+          {
+            "Result": "VM_Stuntman_Vest_V4",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Бронежилет Каскадер V4",
+            "AttachmentDamage": 25.0,
+            "CraftComponents": [
+              {
+                "Classname": "VM_Stuntman_Vest_V3",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
