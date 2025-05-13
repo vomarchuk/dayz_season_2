@@ -1,51 +1,139 @@
 {
     "title": "SEASON PASS",
-    "seasonMessage": "NEW SEASON STARTS ON 01/05/2025",
+    "seasonMessage": "СТАРТ НОВОГО СЕЗОНА 01/06/2025",
     "getPremiumButton": "GET PREMIUM",
     "getPremiumButtonDiscordLink": "https://discord.com/invite/BfGSxZGGF5",
-    "currentLevel": "CURRENT LEVEL",
-    "level": "LEVEL",
-    "rewardsButton": "REWARDS",
-    "tasksButton": "TASKS",
-    "claimRewardButton": "CLAIM REWARD",
+    "currentLevel": "ПОТОЧНИЙ РIВЕНЬ",
+    "level": "РIВЕНЬ",
+    "rewardsButton": "НАГОРОДИ",
+    "tasksButton": "ЗАВДАННЯ",
+    "claimRewardButton": "ОТРИМАТИ НАГОРОДУ",
     "premium": "PREMIUM",
-    "free": "FREE",
+    "free": "БЕЗПЛАТНО",
     "tasks": [
+        {
+            "taskName": "Знищити ЗОМБI",
+            "taskDescription": "Знайти і знищити ЗОМБI в містах, селах та будівлях.",
+            "targetClassname": [
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Red",
+                "ZmbM_CitizenBFat_Blue",
+                "ZmbM_CitizenBFat_Green",
+                "ZmbM_CitizenBFat_Red",
+                "ZmbM_ClerkFat_Grey",
+                "ZmbM_ClerkFat_Khaki",
+                "ZmbM_ClerkFat_White",
+                "ZmbM_CommercialPilotOld_Blue",
+                "ZmbM_CommercialPilotOld_Brown",
+                "ZmbM_CommercialPilotOld_Olive",
+                "ZmbM_Gamedev_Black",
+                "ZmbM_Gamedev_Blue",
+                "ZmbM_Gamedev_Gray",
+                "ZmbM_JournalistSkinny",
+                "ZmbM_MotobikerFat_Beige",
+                "ZmbM_SkaterYoung_Brown",
+                "ZmbM_SkaterYoung_Green",
+                "ZmbM_SkaterYoung_Grey",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_ClerkFat_Brown",
+                "ZmbM_CommercialPilotOld_Grey",
+                "ZmbM_MotobikerFat_Black",
+                "ZmbM_SkaterYoung_Blue",
+                "ZmbM_FirefighterNormal",
+                "ZmbM_ConstrWorkerNormal_Beige",
+                "ZmbM_ConstrWorkerNormal_Black",
+                "ZmbM_ConstrWorkerNormal_Green",
+                "ZmbM_ConstrWorkerNormal_Grey",
+                "ZmbM_HandymanNormal_Beige",
+                "ZmbM_HandymanNormal_Blue",
+                "ZmbM_HandymanNormal_Green",
+                "ZmbM_HandymanNormal_Grey",
+                "ZmbM_HandymanNormal_White",
+                "ZmbM_HeavyIndustryWorker",
+                "ZmbM_MechanicSkinny_Blue",
+                "ZmbM_MechanicSkinny_Green",
+                "ZmbM_MechanicSkinny_Grey",
+                "ZmbM_MechanicSkinny_Red",
+                "ZmbM_OffshoreWorker_Green",
+                "ZmbM_OffshoreWorker_Orange",
+                "ZmbM_OffshoreWorker_Red",
+                "ZmbM_OffshoreWorker_Yellow",
+                "ZmbM_PrisonerSkinny",
+                "ZmbM_priestPopSkinny",
+                "ZmbM_FishermanOld_Blue",
+                "ZmbM_FishermanOld_Green",
+                "ZmbM_FishermanOld_Grey",
+                "ZmbM_FishermanOld_Red",
+                "ZmbM_HermitSkinny_Beige",
+                "ZmbM_HermitSkinny_Black",
+                "ZmbM_HermitSkinny_Green",
+                "ZmbM_HermitSkinny_Red",
+                "ZmbM_HikerSkinny_Blue",
+                "ZmbM_HikerSkinny_Green",
+                "ZmbM_HikerSkinny_Yellow",
+                "ZmbM_HunterOld_Autumn",
+                "ZmbM_HunterOld_Spring",
+                "ZmbM_HunterOld_Summer",
+                "ZmbM_HunterOld_Winter",
+                "ZmbM_FarmerFat_Blue",
+                "ZmbM_FarmerFat_Brown",
+                "ZmbM_FarmerFat_Green",
+                "ZmbM_Jacket_beige",
+                "ZmbM_Jacket_black",
+                "ZmbM_Jacket_blue",
+                "ZmbM_Jacket_brown",
+                "ZmbM_Jacket_greenchecks",
+                "ZmbM_Jacket_grey",
+                "ZmbM_Jacket_khaki",
+                "ZmbM_Jacket_stripes",
+                "ZmbM_JoggerSkinny_Blue",
+                "ZmbM_JoggerSkinny_Green",
+                "ZmbM_VillagerOld_Blue",
+                "ZmbM_VillagerOld_White",
+                "ZmbM_FarmerFat_Beige",
+                "ZmbM_Jacket_bluechecks",
+                "ZmbM_Jacket_magenta",
+                "ZmbM_JoggerSkinny_Red",
+                "ZmbM_VillagerOld_Green"
+            ],
+            "taskXP": 1
+        },
         {
             "taskName": "Kill Players",
             "taskDescription": "Found in high-traffic areas like military bases, airfields, and big cities.",
             "targetClassname": [
-                "SurvivorM_Mirek",
-                "SurvivorM_Boris",
-                "SurvivorM_Cyril",
-                "SurvivorM_Denis",
-                "SurvivorM_Elias",
-                "SurvivorM_Francis",
-                "SurvivorM_Guo",
-                "SurvivorM_Hassan",
-                "SurvivorM_Indar",
-                "SurvivorM_Jose",
-                "SurvivorM_Kaito",
-                "SurvivorM_Lewis",
-                "SurvivorM_Manua",
-                "SurvivorM_Niki",
-                "SurvivorM_Oliver",
-                "SurvivorM_Peter",
-                "SurvivorM_Quinn",
-                "SurvivorM_Rolf",
-                "SurvivorM_Seth",
-                "SurvivorM_Taiki",
-                "SurvivorF_Eva",
-                "SurvivorF_Frida",
-                "SurvivorF_Gabi",
-                "SurvivorF_Helga",
-                "SurvivorF_Irena",
-                "SurvivorF_Judy",
-                "SurvivorF_Keiko",
-                "SurvivorF_Linda",
-                "SurvivorF_Maria",
-                "SurvivorF_Naomi",
-                "SurvivorF_Baty"
+                "eAI_SurvivorM_Mirek",
+                "eAI_SurvivorM_Boris",
+                "eAI_SurvivorM_Cyril",
+                "eAI_SurvivorM_Denis",
+                "eAI_SurvivorM_Elias",
+                "eAI_SurvivorM_Francis",
+                "eAI_SurvivorM_Guo",
+                "eAI_SurvivorM_Hassan",
+                "eAI_SurvivorM_Indar",
+                "eAI_SurvivorM_Jose",
+                "eAI_SurvivorM_Kaito",
+                "eAI_SurvivorM_Lewis",
+                "eAI_SurvivorM_Manua",
+                "eAI_SurvivorM_Niki",
+                "eAI_SurvivorM_Oliver",
+                "eAI_SurvivorM_Peter",
+                "eAI_SurvivorM_Quinn",
+                "eAI_SurvivorM_Rolf",
+                "eAI_SurvivorM_Seth",
+                "eAI_SurvivorM_Taiki",
+                "eAI_SurvivorF_Eva",
+                "eAI_SurvivorF_Frida",
+                "eAI_SurvivorF_Gabi",
+                "eAI_SurvivorF_Helga",
+                "eAI_SurvivorF_Irena",
+                "eAI_SurvivorF_Judy",
+                "eAI_SurvivorF_Keiko",
+                "eAI_SurvivorF_Linda",
+                "eAI_SurvivorF_Maria",
+                "eAI_SurvivorF_Naomi",
+                "eAI_SurvivorF_Baty"
             ],
             "taskXP": 100
         },
@@ -161,94 +249,6 @@
             "taskXP": 30
         },
         {
-            "taskName": "Kill Zombies",
-            "taskDescription": "Present in nearly every town, village, and lootable building.",
-            "targetClassname": [
-                "ZmbM_CitizenASkinny_Blue",
-                "ZmbM_CitizenASkinny_Grey",
-                "ZmbM_CitizenASkinny_Red",
-                "ZmbM_CitizenBFat_Blue",
-                "ZmbM_CitizenBFat_Green",
-                "ZmbM_CitizenBFat_Red",
-                "ZmbM_ClerkFat_Grey",
-                "ZmbM_ClerkFat_Khaki",
-                "ZmbM_ClerkFat_White",
-                "ZmbM_CommercialPilotOld_Blue",
-                "ZmbM_CommercialPilotOld_Brown",
-                "ZmbM_CommercialPilotOld_Olive",
-                "ZmbM_Gamedev_Black",
-                "ZmbM_Gamedev_Blue",
-                "ZmbM_Gamedev_Gray",
-                "ZmbM_JournalistSkinny",
-                "ZmbM_MotobikerFat_Beige",
-                "ZmbM_SkaterYoung_Brown",
-                "ZmbM_SkaterYoung_Green",
-                "ZmbM_SkaterYoung_Grey",
-                "ZmbM_CitizenASkinny_Brown",
-                "ZmbM_ClerkFat_Brown",
-                "ZmbM_CommercialPilotOld_Grey",
-                "ZmbM_MotobikerFat_Black",
-                "ZmbM_SkaterYoung_Blue",
-                "ZmbM_FirefighterNormal",
-                "ZmbM_ConstrWorkerNormal_Beige",
-                "ZmbM_ConstrWorkerNormal_Black",
-                "ZmbM_ConstrWorkerNormal_Green",
-                "ZmbM_ConstrWorkerNormal_Grey",
-                "ZmbM_HandymanNormal_Beige",
-                "ZmbM_HandymanNormal_Blue",
-                "ZmbM_HandymanNormal_Green",
-                "ZmbM_HandymanNormal_Grey",
-                "ZmbM_HandymanNormal_White",
-                "ZmbM_HeavyIndustryWorker",
-                "ZmbM_MechanicSkinny_Blue",
-                "ZmbM_MechanicSkinny_Green",
-                "ZmbM_MechanicSkinny_Grey",
-                "ZmbM_MechanicSkinny_Red",
-                "ZmbM_OffshoreWorker_Green",
-                "ZmbM_OffshoreWorker_Orange",
-                "ZmbM_OffshoreWorker_Red",
-                "ZmbM_OffshoreWorker_Yellow",
-                "ZmbM_PrisonerSkinny",
-                "ZmbM_priestPopSkinny",
-                "ZmbM_FishermanOld_Blue",
-                "ZmbM_FishermanOld_Green",
-                "ZmbM_FishermanOld_Grey",
-                "ZmbM_FishermanOld_Red",
-                "ZmbM_HermitSkinny_Beige",
-                "ZmbM_HermitSkinny_Black",
-                "ZmbM_HermitSkinny_Green",
-                "ZmbM_HermitSkinny_Red",
-                "ZmbM_HikerSkinny_Blue",
-                "ZmbM_HikerSkinny_Green",
-                "ZmbM_HikerSkinny_Yellow",
-                "ZmbM_HunterOld_Autumn",
-                "ZmbM_HunterOld_Spring",
-                "ZmbM_HunterOld_Summer",
-                "ZmbM_HunterOld_Winter",
-                "ZmbM_FarmerFat_Blue",
-                "ZmbM_FarmerFat_Brown",
-                "ZmbM_FarmerFat_Green",
-                "ZmbM_Jacket_beige",
-                "ZmbM_Jacket_black",
-                "ZmbM_Jacket_blue",
-                "ZmbM_Jacket_brown",
-                "ZmbM_Jacket_greenchecks",
-                "ZmbM_Jacket_grey",
-                "ZmbM_Jacket_khaki",
-                "ZmbM_Jacket_stripes",
-                "ZmbM_JoggerSkinny_Blue",
-                "ZmbM_JoggerSkinny_Green",
-                "ZmbM_VillagerOld_Blue",
-                "ZmbM_VillagerOld_White",
-                "ZmbM_FarmerFat_Beige",
-                "ZmbM_Jacket_bluechecks",
-                "ZmbM_Jacket_magenta",
-                "ZmbM_JoggerSkinny_Red",
-                "ZmbM_VillagerOld_Green"
-            ],
-            "taskXP": 10
-        },
-        {
             "taskName": "Kill Police Zombies",
             "taskDescription": "Found near police stations in towns and cities.",
             "targetClassname": [
@@ -310,7 +310,7 @@
             "startExp": 0,
             "endExp": 100,
             "free_reward": {
-                "name": "HuntingKnife",
+                "name": "SteakKnife",
                 "quantity": 1,
                 "attachments": []
             },
@@ -326,7 +326,7 @@
             "startExp": 100,
             "endExp": 200,
             "free_reward": {
-                "name": "",
+                "name": "KIWI_Can_MeatChicken",
                 "quantity": 1,
                 "attachments": []
             },
@@ -344,7 +344,7 @@
             "startExp": 200,
             "endExp": 300,
             "free_reward": {
-                "name": "BarbedBaseballBat",
+                "name": "RIP_FilterSilencer",
                 "quantity": 1,
                 "attachments": []
             },
@@ -362,9 +362,11 @@
             "startExp": 300,
             "endExp": 400,
             "free_reward": {
-                "name": "",
+                "name": "Headtorch_Grey",
                 "quantity": 1,
-                "attachments": []
+                "attachments": [
+                    "Battery9V"
+                ]
             },
             "premium_reward": {
                 "name": "FNX45",
@@ -381,7 +383,7 @@
             "startExp": 500,
             "endExp": 500,
             "free_reward": {
-                "name": "AliceBag_Green",
+                "name": "VM_Leather_bag_35",
                 "quantity": 1,
                 "attachments": []
             },
@@ -398,12 +400,12 @@
             "startExp": 600,
             "endExp": 600,
             "free_reward": {
-                "name": "",
-                "quantity": 1,
+                "name": "DuctTape",
+                "quantity": 100,
                 "attachments": []
             },
             "premium_reward": {
-                "name": "Deagle",
+                "name": "VM_Leather_bag_45",
                 "quantity": 1,
                 "attachments": [
                     "Mag_Deagle_9rnd"
@@ -414,23 +416,21 @@
             "startExp": 700,
             "endExp": 700,
             "free_reward": {
-                "name": "",
+                "name": "TerjeInjectorAmoxiclav",
                 "quantity": 1,
                 "attachments": []
             },
             "premium_reward": {
-                "name": "Deagle_Gold",
+                "name": "TerjeInjectorZivirol",
                 "quantity": 1,
-                "attachments": [
-                    "Mag_Deagle_9rnd"
-                ]
+                "attachments": []
             }
         },
         {
             "startExp": 800,
             "endExp": 800,
             "free_reward": {
-                "name": "",
+                "name": "KIWI_Can_MeatCow",
                 "quantity": 1,
                 "attachments": []
             },
@@ -449,7 +449,7 @@
             "startExp": 900,
             "endExp": 900,
             "free_reward": {
-                "name": "MountainBag_Red",
+                "name": "VM_Leather_bag_45",
                 "quantity": 1,
                 "attachments": []
             },
@@ -465,8 +465,8 @@
             "startExp": 1000,
             "endExp": 1100,
             "free_reward": {
-                "name": "",
-                "quantity": 1,
+                "name": "Ammo_9x19",
+                "quantity": 50,
                 "attachments": []
             },
             "premium_reward": {
@@ -481,47 +481,37 @@
             "startExp": 1100,
             "endExp": 1200,
             "free_reward": {
-                "name": "",
+                "name": "TerjeInjectorZivirol",
                 "quantity": 1,
                 "attachments": []
             },
             "premium_reward": {
-                "name": "MP5K",
+                "name": "TerjeInjectorAmoxiclav",
                 "quantity": 1,
-                "attachments": [
-                    "MP5_RailHndgrd",
-                    "MP5_PlasticHndgrd",
-                    "MP5k_StockBttstck",
-                    "Mag_MP5_30Rnd",
-                    "ReflexOptic",
-                    "MP5_Compensator"
-                ]
+                "attachments": []
             }
         },
         {
             "startExp": 1200,
             "endExp": 1300,
             "free_reward": {
-                "name": "",
-                "quantity": 1,
-                "attachments": []
-            },
-            "premium_reward": {
-                "name": "UMP45",
+                "name": "Glock19",
                 "quantity": 1,
                 "attachments": [
-                    "Mag_UMP_25Rnd",
-                    "M68Optic",
-                    "PistolSuppressor",
-                    "TLRLight"
+                    "IMP_Mag_Glock_21Rnd"
                 ]
+            },
+            "premium_reward": {
+                "name": "IMP_Mag_Glock_21Rnd",
+                "quantity": 1,
+                "attachments": []
             }
         },
         {
             "startExp": 1300,
             "endExp": 1400,
             "free_reward": {
-                "name": "PlateCarrierVest",
+                "name": "VM_Leather_bag_60",
                 "quantity": 1,
                 "attachments": []
             },
@@ -538,7 +528,7 @@
             "startExp": 1400,
             "endExp": 1500,
             "free_reward": {
-                "name": "",
+                "name": "TerjeSurgicalKit",
                 "quantity": 1,
                 "attachments": []
             },
@@ -556,7 +546,7 @@
             "startExp": 1500,
             "endExp": 1600,
             "free_reward": {
-                "name": "",
+                "name": "SewingKit",
                 "quantity": 1,
                 "attachments": []
             },
@@ -573,23 +563,23 @@
             "startExp": 1600,
             "endExp": 1700,
             "free_reward": {
-                "name": "",
-                "quantity": 1,
-                "attachments": []
-            },
-            "premium_reward": {
-                "name": "Winchester70",
+                "name": "IMP_KelTecSUB2000",
                 "quantity": 1,
                 "attachments": [
-                    "HuntingOptic"
+                    "IMP_KelTecSUB2000_Mag_15Rnd"
                 ]
+            },
+            "premium_reward": {
+                "name": "IMP_KelTecSUB2000_Mag_50Rnd",
+                "quantity": 1,
+                "attachments": []
             }
         },
         {
             "startExp": 1700,
             "endExp": 1800,
             "free_reward": {
-                "name": "Mich2001Helmet",
+                "name": "VM_Leather_bag_80",
                 "quantity": 1,
                 "attachments": []
             },
@@ -606,7 +596,7 @@
             "startExp": 1800,
             "endExp": 1900,
             "free_reward": {
-                "name": "",
+                "name": "TerjeDrink6Energy",
                 "quantity": 1,
                 "attachments": []
             },
@@ -622,7 +612,7 @@
             "startExp": 1900,
             "endExp": 2000,
             "free_reward": {
-                "name": "",
+                "name": "WeaponCleaningKit",
                 "quantity": 1,
                 "attachments": []
             },
@@ -642,26 +632,23 @@
             "startExp": 2000,
             "endExp": 2100,
             "free_reward": {
-                "name": "",
-                "quantity": 1,
-                "attachments": []
-            },
-            "premium_reward": {
-                "name": "AK74",
+                "name": "IMP_AN94",
                 "quantity": 1,
                 "attachments": [
-                    "AK74_WoodBttstck",
-                    "AK74_Hndgrd",
-                    "PSO11Optic",
-                    "Mag_AK74_45Rnd"
+                    "Mag_AK74_30Rnd_Black"
                 ]
+            },
+            "premium_reward": {
+                "name": "IMP_Supp_PBS4_AK",
+                "quantity": 1,
+                "attachments": []
             }
         },
         {
             "startExp": 2100,
             "endExp": 2200,
             "free_reward": {
-                "name": "NVGHeadstrap",
+                "name": "VM_Leather_bag_100",
                 "quantity": 1,
                 "attachments": [
                     "NVGoggles"
@@ -734,7 +721,7 @@
             "startExp": 2500,
             "endExp": 2600,
             "free_reward": {
-                "name": "Mosin9130",
+                "name": "VM_Leather_bag_120",
                 "quantity": 1,
                 "attachments": [
                     "Mosin_Compensator",
@@ -807,11 +794,77 @@
             "startExp": 2900,
             "endExp": 3000,
             "free_reward": {
-                "name": "M16A2",
+                "name": "VM_Leather_bag_140",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "FAL",
                 "quantity": 1,
                 "attachments": [
-                    "Mag_CMAG_30Rnd"
+                    "Fal_FoldingBttstck",
+                    "Mag_FAL_20Rnd"
                 ]
+            }
+        },
+        {
+            "startExp": 3000,
+            "endExp": 3100,
+            "free_reward": {
+                "name": "",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "FAL",
+                "quantity": 1,
+                "attachments": [
+                    "Fal_FoldingBttstck",
+                    "Mag_FAL_20Rnd"
+                ]
+            }
+        },
+        {
+            "startExp": 3100,
+            "endExp": 3200,
+            "free_reward": {
+                "name": "",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "FAL",
+                "quantity": 1,
+                "attachments": [
+                    "Fal_FoldingBttstck",
+                    "Mag_FAL_20Rnd"
+                ]
+            }
+        },
+        {
+            "startExp": 3200,
+            "endExp": 3300,
+            "free_reward": {
+                "name": "",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "FAL",
+                "quantity": 1,
+                "attachments": [
+                    "Fal_FoldingBttstck",
+                    "Mag_FAL_20Rnd"
+                ]
+            }
+        },
+        {
+            "startExp": 3300,
+            "endExp": 3400,
+            "free_reward": {
+                "name": "VM_Leather_bag_160",
+                "quantity": 1,
+                "attachments": []
             },
             "premium_reward": {
                 "name": "FAL",
