@@ -141,17 +141,45 @@
 			}
 		},
 		{
-			"AreaName": "Biatlon",
+			"AreaName": "Biatlon1",
 			"Type": "ContaminatedArea_Static",
 			"TriggerType": "ContaminatedTrigger",
 			"Data": {
 				"Pos": [
-					491.758942,
-					0,
-					11107.988281
+					450.946136,
+					0.0,
+					11073.759766
 				],
-				"Radius": 100,
-				"PosHeight": 22,
+				"Radius": 150,
+				"PosHeight": 30,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1,
+				"OuterPartDist": 50,
+				"OuterOffset": 0,
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{
+			"AreaName": "Biatlon2",
+			"Type": "ContaminatedArea_Static",
+			"TriggerType": "ContaminatedTrigger",
+			"Data": {
+				"Pos": [
+					592.095520,
+					0.0,
+					11232.859375
+				],
+				"Radius": 150,
+				"PosHeight": 30,
 				"NegHeight": 10,
 				"InnerRingCount": 1,
 				"InnerPartDist": 50,

@@ -524,7 +524,7 @@
             "Allow_Helicopter_Reward": 1,
             "Static_Objects": [
                 {
-                    "ClassName": "StaticObj_Wreck_Train_742_Red_DE",
+                    "ClassName": "StaticObj_Wreck_Train_742_Red",
                     "Scale": 1.0,
                     "Position": [
                         10222.900391,
