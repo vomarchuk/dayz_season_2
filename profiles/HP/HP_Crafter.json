@@ -2624,6 +2624,7 @@
             "ComponentsDontAffectHealth": 1,
             "CraftType": "craftpic",
             "RecipeName": "Торс Хантера 2 класу",
+            "AttachmentDamage": 25.0,
             "CraftComponents": [
               {
                 "Classname": "VM_Hunter_Top_GreenAndYellow_V1",
@@ -2690,6 +2691,7 @@
             "ComponentsDontAffectHealth": 1,
             "CraftType": "craftpic",
             "RecipeName": "Торс Хантера 2 класу",
+            "AttachmentDamage": 25.0,
             "CraftComponents": [
               {
                 "Classname": "VM_Hunter_Top_GreyAndGreen_V1",
@@ -2756,6 +2758,7 @@
             "ComponentsDontAffectHealth": 1,
             "CraftType": "craftpic",
             "RecipeName": "Торс Хантера 2 класу",
+            "AttachmentDamage": 25.0,
             "CraftComponents": [
               {
                 "Classname": "VM_Hunter_Top_BlackAndBlue_V1",
@@ -2822,6 +2825,7 @@
             "ComponentsDontAffectHealth": 1,
             "CraftType": "craftpic",
             "RecipeName": "Торс Хантера 2 класу",
+            "AttachmentDamage": 25.0,
             "CraftComponents": [
               {
                 "Classname": "VM_Hunter_Top_Camo_V1",
@@ -2888,6 +2892,7 @@
             "ComponentsDontAffectHealth": 1,
             "CraftType": "craftpic",
             "RecipeName": "Торс Хантера 3 класу",
+            "AttachmentDamage": 25.0,
             "CraftComponents": [
               {
                 "Classname": "VM_Hunter_Top_GreenAndYellow_V2",
@@ -2955,6 +2960,7 @@
             "ComponentsDontAffectHealth": 1,
             "CraftType": "craftpic",
             "RecipeName": "Торс Хантера 3 класу",
+            "AttachmentDamage": 25.0,
             "CraftComponents": [
               {
                 "Classname": "VM_Hunter_Top_GreyAndGreen_V2",
@@ -3022,6 +3028,7 @@
             "ComponentsDontAffectHealth": 1,
             "CraftType": "craftpic",
             "RecipeName": "Торс Хантера 3 класу",
+            "AttachmentDamage": 25.0,
             "CraftComponents": [
               {
                 "Classname": "VM_Hunter_Top_BlackAndBlue_V2",
@@ -3089,6 +3096,7 @@
             "ComponentsDontAffectHealth": 1,
             "CraftType": "craftpic",
             "RecipeName": "Торс Хантера 3 класу",
+            "AttachmentDamage": 25.0,
             "CraftComponents": [
               {
                 "Classname": "VM_Hunter_Top_Camo_V2",
@@ -3156,6 +3164,7 @@
             "ComponentsDontAffectHealth": 1,
             "CraftType": "craftpic",
             "RecipeName": "Торс Хантера 4 класу",
+            "AttachmentDamage": 25.0,
             "CraftComponents": [
               {
                 "Classname": "VM_Hunter_Top_GreenAndYellow_V3",
@@ -3230,6 +3239,7 @@
             "ComponentsDontAffectHealth": 1,
             "CraftType": "craftpic",
             "RecipeName": "Торс Хантера 4 класу",
+            "AttachmentDamage": 25.0,
             "CraftComponents": [
               {
                 "Classname": "VM_Hunter_Top_GreyAndGreen_V3",
@@ -3304,6 +3314,7 @@
             "ComponentsDontAffectHealth": 1,
             "CraftType": "craftpic",
             "RecipeName": "Торс Хантера 4 класу",
+            "AttachmentDamage": 25.0,
             "CraftComponents": [
               {
                 "Classname": "VM_Hunter_Top_BlackAndBlue_V3",
@@ -3378,6 +3389,7 @@
             "ComponentsDontAffectHealth": 1,
             "CraftType": "craftpic",
             "RecipeName": "Торс Хантера 4 класу",
+            "AttachmentDamage": 25.0,
             "CraftComponents": [
               {
                 "Classname": "VM_Hunter_Top_Camo_V3",
