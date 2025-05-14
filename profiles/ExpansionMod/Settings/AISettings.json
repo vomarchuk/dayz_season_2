@@ -1,5 +1,5 @@
 {
-    "m_Version": 12,
+    "m_Version": 13,
     "AccuracyMin": 0.6499999761581421,
     "AccuracyMax": 0.8500000238418579,
     "ThreatDistanceLimit": 1000.0,
@@ -10,7 +10,6 @@
         "76561198161108074",
         "76561198104182080"
     ],
-    "MaximumDynamicPatrols": 15,
     "Vaulting": 1,
     "SniperProneDistanceThreshold": 0.0,
     "Manners": 0,
@@ -18,6 +17,7 @@
     "CanRecruitFriendly": 1,
     "CanRecruitGuards": 0,
     "PreventClimb": [],
+    "FormationScale": 1.0,
     "PlayerFactions": [],
     "LogAIHitBy": 1,
     "LogAIKilled": 1
