@@ -529,7 +529,7 @@
             "endExp": 1500,
             "free_reward": {
                 "name": "TerjeSurgicalKit",
-                "quantity": 1,
+                "quantity": 100,
                 "attachments": []
             },
             "premium_reward": {
@@ -547,7 +547,7 @@
             "endExp": 1600,
             "free_reward": {
                 "name": "SewingKit",
-                "quantity": 1,
+                "quantity": 100,
                 "attachments": []
             },
             "premium_reward": {
@@ -613,7 +613,7 @@
             "endExp": 2000,
             "free_reward": {
                 "name": "WeaponCleaningKit",
-                "quantity": 1,
+                "quantity": 100,
                 "attachments": []
             },
             "premium_reward": {
