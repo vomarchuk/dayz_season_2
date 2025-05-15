@@ -97,11 +97,67 @@
                 "ZmbM_JoggerSkinny_Red",
                 "ZmbM_VillagerOld_Green"
             ],
-            "taskXP": 1
+            "taskXP": 2
         },
         {
-            "taskName": "Kill Players",
-            "taskDescription": "Found in low-traffic areas like military bases, airfields, and big cities.",
+            "taskName": "Знищити поліцейських зомбі",
+            "taskDescription": "Часто зустрічаються поблизу поліцейських станцій в містах та селах.",
+            "targetClassname": [
+                "ZmbM_PolicemanFat",
+                "ZmbM_PolicemanSpecForce",
+                "ZmbM_PolicemanSpecForce_Heavy"
+            ],
+            "taskXP": 3
+        },
+        {
+            "taskName": "Знищити медичних зомбі",
+            "taskDescription": "Часто зустрічаються поблизу лікарень, клінік, польових лікарень та медичних тентів.",
+            "targetClassname": [
+                "ZmbM_DoctorFat",
+                "ZmbM_ParamedicNormal_Black",
+                "ZmbM_ParamedicNormal_Blue",
+                "ZmbM_ParamedicNormal_Green",
+                "ZmbM_ParamedicNormal_Red",
+                "ZmbM_PatientSkinny"
+            ],
+            "taskXP": 2
+        },
+        {
+            "taskName": "Знищити військові зомбі",
+            "taskDescription": "Знайти і знищити військові зомбі в військових базах, контрольних точках та аеродромах.",
+            "targetClassname": [
+                "ZmbM_PatrolNormal_Autumn",
+                "ZmbM_PatrolNormal_Flat",
+                "ZmbM_PatrolNormal_PautRev",
+                "ZmbM_PatrolNormal_Summer",
+                "ZmbM_SoldierNormal",
+                "ZmbM_usSoldier_normal_Desert",
+                "ZmbM_usSoldier_normal_Woodland",
+                "ZmbM_usSoldier_Heavy_Woodland",
+                "ZmbM_usSoldier_Officer_Desert"
+            ],
+            "taskXP": 5
+        },
+        {
+            "taskName": "Знищити NBC зомбі",
+            "taskDescription": "Часто зустрічаються поблизу забруднених зон, карантинних районів та наукових об'єктів.",
+            "targetClassname": [
+                "ZmbM_NBC_Grey",
+                "ZmbM_NBC_Yellow"
+            ],
+            "taskXP": 5
+        },
+        {
+            "taskName": "Знищити мутантів",
+            "taskDescription": "Часто зустрічаються в підземних бункерах або високорангових зонах.",
+            "targetClassname": [
+                "ZmbM_Santa"
+            ],
+            "taskXP": 15
+        },
+        {
+            "taskName": "Знищити AI в поліційних відділеннях",
+            "taskDescription": "Знайти і знищити AI в поліційних відділеннях.",
             "targetClassname": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -115,11 +171,11 @@
                 "eAI_SurvivorM_Oliver",
                 "eAI_SurvivorM_Peter"
             ],
-            "taskXP": 25
+            "taskXP": 7
         },
         {
-            "taskName": "Kill Players",
-            "taskDescription": "Found in mid-traffic areas like military bases, airfields, and big cities.",
+            "taskName": "Знищити AI на військових базах, аеродромах та хелікрашах",
+            "taskDescription": "Знайти і знищити AI на військових базах, аеродромах та хелікрашах.",
             "targetClassname": [
                 "eAI_SurvivorF_Irena",
                 "eAI_SurvivorF_Judy",
@@ -131,11 +187,11 @@
                 "eAI_SurvivorM_Lewis",
                 "eAI_SurvivorM_Manua"
             ],
-            "taskXP": 50
+            "taskXP": 15
         },
         {
-            "taskName": "Kill Players",
-            "taskDescription": "Found in high-traffic areas like military bases, airfields, and big cities.",
+            "taskName": "Знищити AI в данжах",
+            "taskDescription": "Знайти і знищити AI в данжах.",
             "targetClassname": [
                 "eAI_SurvivorM_Rolf",
                 "eAI_SurvivorM_Niki",
@@ -149,45 +205,45 @@
                 "eAI_SurvivorM_Seth",
                 "eAI_SurvivorM_Taiki"
             ],
-            "taskXP": 5
-        },
-        {
-            "taskName": "Kill Foxes",
-            "taskDescription": "Roam forested areas and near tree lines, especially around rural regions.",
-            "targetClassname": [
-                "Animal_VulpesVulpes"
-            ],
             "taskXP": 25
         },
         {
-            "taskName": "Kill Hares",
-            "taskDescription": "Common in open fields, farmlands, and grassy meadows.",
+            "taskName": "Знищити лисиць",
+            "taskDescription": "Знайти і знищити лисиць в лісах.",
+            "targetClassname": [
+                "Animal_VulpesVulpes"
+            ],
+            "taskXP": 3
+        },
+        {
+            "taskName": "Знищити зайців",
+            "taskDescription": "Знайти і знищити зайців в лісах.",
             "targetClassname": [
                 "Animal_LepusEuropaeus"
             ],
-            "taskXP": 10
+            "taskXP": 3
         },
         {
-            "taskName": "Kill Hens",
-            "taskDescription": "Usually found in villages, farmyards, and around houses in rural towns.",
+            "taskName": "Знищити кур",
+            "taskDescription": "Знайти і знищити кур в селах, фермах та поблизу будинків в сільських містах.",
             "targetClassname": [
                 "Animal_GallusGallusDomesticus",
                 "Animal_GallusGallusDomesticusF_Brown",
                 "Animal_GallusGallusDomesticusF_Spotted",
                 "Animal_GallusGallusDomesticusF_White"
             ],
-            "taskXP": 5
+            "taskXP": 3
         },
         {
-            "taskName": "Kill Bears",
-            "taskDescription": "Spawn deep in forests and mountainous areas — often in the far north or wilderness zones.",
+            "taskName": "Знищити ведмедів",
+            "taskDescription": "Знайти і знищити ведмедів в лісах.",
             "targetClassname": [
                 "Animal_UrsusArctos"
             ],
             "taskXP": 100
         },
         {
-            "taskName": "Kill Cows",
+            "taskName": "Знищити корови",
             "taskDescription": "Grazing near barns, open pastures, and village outskirts.",
             "targetClassname": [
                 "Animal_BosTaurusF_Brown",
@@ -197,20 +253,20 @@
                 "Animal_BosTaurus_Spotted",
                 "Animal_BosTaurus_White"
             ],
-            "taskXP": 10
+            "taskXP": 20
         },
         {
-            "taskName": "Kill Deers",
-            "taskDescription": "Found in dense forests and around clearings, especially early morning or dusk.",
+            "taskName": "Знищити оленів",
+            "taskDescription": "Знайти і знищити оленів в лісах.",
             "targetClassname": [
                 "Animal_CervusElaphus",
                 "Animal_CervusElaphusF"
             ],
-            "taskXP": 25
+            "taskXP": 15
         },
         {
-            "taskName": "Kill Goats",
-            "taskDescription": "Often spawn near rural homes, farms, and small village areas.",
+            "taskName": "Знищити кози",
+            "taskDescription": "Часто зустрічаються поблизу сільських будинків, ферм та маленьких сільських населених пунктів.",
             "targetClassname": [
                 "Animal_CapraHircusF",
                 "Animal_CapraHircus_Black",
@@ -220,25 +276,25 @@
             "taskXP": 10
         },
         {
-            "taskName": "Kill Pigs",
-            "taskDescription": "Common in farmlands, forest edges, and near agricultural buildings.",
+            "taskName": "Знищити свиней",
+            "taskDescription": "Часто зустрічаються в фермах, лісових краях та поблизу сільськогосподарських будівель.",
             "targetClassname": [
                 "Animal_SusDomesticus"
             ],
             "taskXP": 10
         },
         {
-            "taskName": "Kill Roe Deers",
-            "taskDescription": "Wander lightly wooded areas and grassy slopes.",
+            "taskName": "Знищити теляток",
+            "taskDescription": "Часто зустрічаються в лісових районах та на схилах.",
             "targetClassname": [
                 "Animal_CapreolusCapreolus",
                 "Animal_CapreolusCapreolusF"
             ],
-            "taskXP": 25
+            "taskXP": 12
         },
         {
-            "taskName": "Kill Sheeps",
-            "taskDescription": "Typically appear around farmhouses and fenced-in rural yards.",
+            "taskName": "Знищити овець",
+            "taskDescription": "Часто зустрічаються поблизу ферм та огорож.",
             "targetClassname": [
                 "Animal_OvisAries",
                 "Animal_OvisAriesF"
@@ -246,77 +302,21 @@
             "taskXP": 10
         },
         {
-            "taskName": "Kill Wild Boars",
-            "taskDescription": "Found in forests, forest clearings, and hilly wilderness regions.",
+            "taskName": "Знищити диких свиней",
+            "taskDescription": "Часто зустрічаються в лісах, лісових прогалинах та гірських районах.",
             "targetClassname": [
                 "Animal_SusScrofa"
             ],
-            "taskXP": 20
+            "taskXP": 11
         },
         {
-            "taskName": "Kill Wolves",
-            "taskDescription": "Roam in packs within deep forests, especially in remote and northern parts of the map.",
+            "taskName": "Знищити вовки",
+            "taskDescription": "Часто зустрічаються в глибоких лісах, особливо в віддалених та північних районах карти.",
             "targetClassname": [
                 "Animal_CanisLupus_Grey",
                 "Animal_CanisLupus_White"
             ],
-            "taskXP": 30
-        },
-        {
-            "taskName": "Kill Police Zombies",
-            "taskDescription": "Found near police stations in towns and cities.",
-            "targetClassname": [
-                "ZmbM_PolicemanFat",
-                "ZmbM_PolicemanSpecForce",
-                "ZmbM_PolicemanSpecForce_Heavy"
-            ],
-            "taskXP": 2
-        },
-        {
-            "taskName": "Kill Army Zombies",
-            "taskDescription": "Found in military bases, checkpoints, and airfields.",
-            "targetClassname": [
-                "ZmbM_PatrolNormal_Autumn",
-                "ZmbM_PatrolNormal_Flat",
-                "ZmbM_PatrolNormal_PautRev",
-                "ZmbM_PatrolNormal_Summer",
-                "ZmbM_SoldierNormal",
-                "ZmbM_usSoldier_normal_Desert",
-                "ZmbM_usSoldier_normal_Woodland",
-                "ZmbM_usSoldier_Heavy_Woodland",
-                "ZmbM_usSoldier_Officer_Desert"
-            ],
-            "taskXP": 3
-        },
-        {
-            "taskName": "Kill Medical Zombies",
-            "taskDescription": "Found around hospitals, clinics, field hospitals, and medical tents.",
-            "targetClassname": [
-                "ZmbM_DoctorFat",
-                "ZmbM_ParamedicNormal_Black",
-                "ZmbM_ParamedicNormal_Blue",
-                "ZmbM_ParamedicNormal_Green",
-                "ZmbM_ParamedicNormal_Red",
-                "ZmbM_PatientSkinny"
-            ],
-            "taskXP": 2
-        },
-        {
-            "taskName": "Kill NBC Zombies",
-            "taskDescription": "Appear near contaminated zones, quarantine areas, and scientific facilities.",
-            "targetClassname": [
-                "ZmbM_NBC_Grey",
-                "ZmbM_NBC_Yellow"
-            ],
-            "taskXP": 2
-        },
-        {
-            "taskName": "Kill Special Zombies",
-            "taskDescription": "Found in underground bunkers or high-tier zones.",
-            "targetClassname": [
-                "ZmbM_Santa"
-            ],
-            "taskXP": 50
+            "taskXP": 15
         }
     ],
     "levels": [
@@ -336,7 +336,7 @@
         },
         {
             "startExp": 100,
-            "endExp": 200,
+            "endExp": 250,
             "free_reward": {
                 "name": "KIWI_Can_MeatChicken",
                 "quantity": 1,
@@ -349,8 +349,8 @@
             }
         },
         {
-            "startExp": 200,
-            "endExp": 300,
+            "startExp": 250,
+            "endExp": 350,
             "free_reward": {
                 "name": "RIP_FilterSilencer",
                 "quantity": 1,
@@ -363,8 +363,8 @@
             }
         },
         {
-            "startExp": 300,
-            "endExp": 400,
+            "startExp": 350,
+            "endExp": 450,
             "free_reward": {
                 "name": "Headtorch_Grey",
                 "quantity": 1,
@@ -379,8 +379,8 @@
             }
         },
         {
-            "startExp": 500,
-            "endExp": 500,
+            "startExp": 450,
+            "endExp": 600,
             "free_reward": {
                 "name": "VM_Leather_bag_35",
                 "quantity": 1,
@@ -394,7 +394,7 @@
         },
         {
             "startExp": 600,
-            "endExp": 600,
+            "endExp": 750,
             "free_reward": {
                 "name": "DuctTape",
                 "quantity": 100,
@@ -407,8 +407,8 @@
             }
         },
         {
-            "startExp": 700,
-            "endExp": 700,
+            "startExp": 750,
+            "endExp": 900,
             "free_reward": {
                 "name": "TerjeInjectorAmoxiclav",
                 "quantity": 1,
@@ -421,8 +421,8 @@
             }
         },
         {
-            "startExp": 800,
-            "endExp": 800,
+            "startExp": 900,
+            "endExp": 1050,
             "free_reward": {
                 "name": "KIWI_Can_MeatCow",
                 "quantity": 1,
@@ -440,8 +440,8 @@
             }
         },
         {
-            "startExp": 900,
-            "endExp": 900,
+            "startExp": 1050,
+            "endExp": 1200,
             "free_reward": {
                 "name": "VM_Leather_bag_45",
                 "quantity": 1,
@@ -456,8 +456,8 @@
             }
         },
         {
-            "startExp": 1000,
-            "endExp": 1100,
+            "startExp": 1200,
+            "endExp": 1400,
             "free_reward": {
                 "name": "Ammo_9x19",
                 "quantity": 50,
@@ -472,8 +472,8 @@
             }
         },
         {
-            "startExp": 1100,
-            "endExp": 1200,
+            "startExp": 1400,
+            "endExp": 1600,
             "free_reward": {
                 "name": "TerjeInjectorZivirol",
                 "quantity": 1,
@@ -486,8 +486,8 @@
             }
         },
         {
-            "startExp": 1200,
-            "endExp": 1300,
+            "startExp": 1600,
+            "endExp": 1800,
             "free_reward": {
                 "name": "Glock19",
                 "quantity": 1,
@@ -502,8 +502,8 @@
             }
         },
         {
-            "startExp": 1300,
-            "endExp": 1400,
+            "startExp": 1800,
+            "endExp": 2000,
             "free_reward": {
                 "name": "VM_Leather_bag_60",
                 "quantity": 1,
@@ -519,8 +519,8 @@
             }
         },
         {
-            "startExp": 1400,
-            "endExp": 1500,
+            "startExp": 1800,
+            "endExp": 2000,
             "free_reward": {
                 "name": "TerjeSurgicalKit",
                 "quantity": 100,
@@ -537,8 +537,8 @@
             }
         },
         {
-            "startExp": 1500,
-            "endExp": 1600,
+            "startExp": 2000,
+            "endExp": 2200,
             "free_reward": {
                 "name": "SewingKit",
                 "quantity": 100,
@@ -554,8 +554,8 @@
             }
         },
         {
-            "startExp": 1600,
-            "endExp": 1700,
+            "startExp": 2200,
+            "endExp": 2400,
             "free_reward": {
                 "name": "IMP_KelTecSUB2000",
                 "quantity": 1,
@@ -570,8 +570,8 @@
             }
         },
         {
-            "startExp": 1700,
-            "endExp": 1800,
+            "startExp": 2400,
+            "endExp": 2600,
             "free_reward": {
                 "name": "VM_Leather_bag_80",
                 "quantity": 1,
@@ -587,8 +587,8 @@
             }
         },
         {
-            "startExp": 1800,
-            "endExp": 1900,
+            "startExp": 2600,
+            "endExp": 2800,
             "free_reward": {
                 "name": "TerjeDrink6Energy",
                 "quantity": 1,
@@ -603,8 +603,8 @@
             }
         },
         {
-            "startExp": 1900,
-            "endExp": 2000,
+            "startExp": 2800,
+            "endExp": 3000,
             "free_reward": {
                 "name": "WeaponCleaningKit",
                 "quantity": 100,
@@ -623,8 +623,8 @@
             }
         },
         {
-            "startExp": 2000,
-            "endExp": 2100,
+            "startExp": 3000,
+            "endExp": 3500,
             "free_reward": {
                 "name": "IMP_AN94",
                 "quantity": 1,
@@ -639,8 +639,8 @@
             }
         },
         {
-            "startExp": 2100,
-            "endExp": 2200,
+            "startExp": 3500,
+            "endExp": 4000,
             "free_reward": {
                 "name": "VM_Leather_bag_100",
                 "quantity": 1,
@@ -658,8 +658,8 @@
             }
         },
         {
-            "startExp": 2200,
-            "endExp": 2300,
+            "startExp": 4000,
+            "endExp": 4500,
             "free_reward": {
                 "name": "",
                 "quantity": 1,
@@ -677,8 +677,8 @@
             }
         },
         {
-            "startExp": 2300,
-            "endExp": 2400,
+            "startExp": 4500,
+            "endExp": 5000,
             "free_reward": {
                 "name": "",
                 "quantity": 1,
@@ -696,8 +696,8 @@
             }
         },
         {
-            "startExp": 2400,
-            "endExp": 2500,
+            "startExp": 5000,
+            "endExp": 5500,
             "free_reward": {
                 "name": "",
                 "quantity": 1,
@@ -712,8 +712,8 @@
             }
         },
         {
-            "startExp": 2500,
-            "endExp": 2600,
+            "startExp": 10000,
+            "endExp": 10500,
             "free_reward": {
                 "name": "VM_Leather_bag_120",
                 "quantity": 1,
@@ -734,8 +734,8 @@
             }
         },
         {
-            "startExp": 2600,
-            "endExp": 2700,
+            "startExp": 10500,
+            "endExp": 11100,
             "free_reward": {
                 "name": "",
                 "quantity": 1,
@@ -750,8 +750,8 @@
             }
         },
         {
-            "startExp": 2700,
-            "endExp": 2800,
+            "startExp": 11100,
+            "endExp": 11700,
             "free_reward": {
                 "name": "",
                 "quantity": 1,
@@ -768,105 +768,87 @@
             }
         },
         {
-            "startExp": 2800,
-            "endExp": 2900,
+            "startExp": 11700,
+            "endExp": 12300,
             "free_reward": {
                 "name": "",
                 "quantity": 1,
                 "attachments": []
             },
             "premium_reward": {
-                "name": "SVD",
+                "name": "",
                 "quantity": 1,
-                "attachments": [
-                    "Mag_SVD_10Rnd",
-                    "KashtanOptic"
-                ]
+                "attachments": []
             }
         },
         {
-            "startExp": 2900,
-            "endExp": 3000,
+            "startExp": 12300,
+            "endExp": 12900,
             "free_reward": {
                 "name": "VM_Leather_bag_140",
                 "quantity": 1,
                 "attachments": []
             },
             "premium_reward": {
-                "name": "FAL",
+                "name": "",
                 "quantity": 1,
-                "attachments": [
-                    "Fal_FoldingBttstck",
-                    "Mag_FAL_20Rnd"
-                ]
+                "attachments": []
             }
         },
         {
-            "startExp": 3000,
-            "endExp": 3100,
+            "startExp": 12900,
+            "endExp": 13500,
             "free_reward": {
                 "name": "",
                 "quantity": 1,
                 "attachments": []
             },
             "premium_reward": {
-                "name": "FAL",
+                "name": "",
                 "quantity": 1,
-                "attachments": [
-                    "Fal_FoldingBttstck",
-                    "Mag_FAL_20Rnd"
-                ]
+                "attachments": []
             }
         },
         {
-            "startExp": 3100,
-            "endExp": 3200,
+            "startExp": 13500,
+            "endExp": 14200,
             "free_reward": {
                 "name": "",
                 "quantity": 1,
                 "attachments": []
             },
             "premium_reward": {
-                "name": "FAL",
+                "name": "",
                 "quantity": 1,
-                "attachments": [
-                    "Fal_FoldingBttstck",
-                    "Mag_FAL_20Rnd"
-                ]
+                "attachments": []
             }
         },
         {
-            "startExp": 3200,
-            "endExp": 3300,
+            "startExp": 14200,
+            "endExp": 14900,
             "free_reward": {
                 "name": "",
                 "quantity": 1,
                 "attachments": []
             },
             "premium_reward": {
-                "name": "FAL",
+                "name": "",
                 "quantity": 1,
-                "attachments": [
-                    "Fal_FoldingBttstck",
-                    "Mag_FAL_20Rnd"
-                ]
+                "attachments": []
             }
         },
         {
-            "startExp": 3300,
-            "endExp": 3400,
+            "startExp": 14900,
+            "endExp": 15600,
             "free_reward": {
                 "name": "VM_Leather_bag_160",
                 "quantity": 1,
                 "attachments": []
             },
             "premium_reward": {
-                "name": "FAL",
+                "name": "",
                 "quantity": 1,
-                "attachments": [
-                    "Fal_FoldingBttstck",
-                    "Mag_FAL_20Rnd"
-                ]
+                "attachments": []
             }
         }
     ],
