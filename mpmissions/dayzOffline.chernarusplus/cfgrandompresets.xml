@@ -6,7 +6,7 @@
 	<cargo chance="0.00" name="kiwi_army">
 		<item name="SodaCan_Cola" chance="1.0" />
 	</cargo>
-	<cargo chance="0.15" name="kiwi_civillian">
+	<cargo chance="0.10" name="kiwi_civillian">
 		<item name="LB_LC_Key1_Violet" chance="1.0" />
 	</cargo>
 	<cargo chance="0.00" name="kiwi_city">
@@ -18,10 +18,10 @@
 	<cargo chance="0.00" name="kiwi_industrial">
 		<item name="SodaCan_Spite" chance="1.0" />
 	</cargo>
-	<cargo chance="0.20" name="kiwi_police">
+	<cargo chance="0.10" name="kiwi_police">
 		<item name="LB_LC_Key1_Black" chance="1.0" />
 	</cargo>
-	<cargo chance="0.20" name="kiwi_medic">
+	<cargo chance="0.10" name="kiwi_medic">
 		<item name="LB_LC_Key1_Green" chance="1.0" />
 	</cargo>
 	<cargo chance="0.00" name="kiwi_mutants">

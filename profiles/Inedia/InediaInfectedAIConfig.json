@@ -1289,10 +1289,12 @@
       "highdef": 2.98023225e-9
     },
     "DamageToZombieFromExplosionsMultiplier": {
-      "mediumdef": 0.30000001192092896,
-      "all": 0.4000000059604645,
-      "lowdef": 0.4000000059604645,
-      "highdef": 0.20000000298023224
+      "mediumdef": 0.85,
+      "all": 1.0,
+      "lowdef": 0.9,
+      "highdef": 0.8,
+      "mutants": 0.25,
+      "bosses": 0.25
     },
     "DamageToZombieFromHotItemsHp": {
       "all": 10
