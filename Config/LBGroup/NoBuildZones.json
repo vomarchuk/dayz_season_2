@@ -7,11 +7,9 @@
     "ignoreItems": [
         "LandMineTrap",
         "BearTrap",
-        "TerjeSleepingBag_Woodland",
+        "Fireplace",
         "TerjeSleepingBag_Blue",
-        "TerjeSleepingBagPlacing",
-        "TerjeSleepingBag",
-        "Fireplace"
+        "TerjeSleepingBag_Woodland"
     ],
     "circleColorR": 255,
     "circleColorG": 100,

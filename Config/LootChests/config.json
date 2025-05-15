@@ -1,7 +1,7 @@
 {
     "version": 3,
     "enabled": 1,
-    "minPlayerDistanceForRespawn": 0.0,
+    "minPlayerDistanceForRespawn": 300.0,
     "chestConfigs": [
         {
             "name": "PD_1",
@@ -19,7 +19,7 @@
             "openable": 1,
             "openTimeDelay": 0,
             "playedSoundSets": [],
-            "lootPreset": "Preset_Police_Chest",
+            "lootPreset": "Preset_Military_Chest_01",
             "lootHealthMin": 1.0,
             "lootHealthMax": 1.0,
             "lootRespawnTimeMin": 10,
@@ -44,6 +44,12 @@
                     "time": 3.0,
                     "damage": 1.0,
                     "successRate": 1.0
+                },
+                {
+                    "itemname": "Crowbar",
+                    "time": 15.0,
+                    "damage": 1.0,
+                    "successRate": 0.5
                 }
             ],
             "openable": 1,
@@ -66,7 +72,7 @@
             "maxSpawns": 10,
             "positionPool": "Medical",
             "chests": [
-                "LB_LC_Safe_1"
+                "LB_LC_Military1_Green"
             ],
             "keys": [
                 {
@@ -74,6 +80,12 @@
                     "time": 3.0,
                     "damage": 1.0,
                     "successRate": 1.0
+                },
+                {
+                    "itemname": "Crowbar",
+                    "time": 15.0,
+                    "damage": 1.0,
+                    "successRate": 0.5
                 }
             ],
             "openable": 1,
@@ -101,15 +113,15 @@
             "keys": [
                 {
                     "itemname": "Lockpick",
-                    "time": 10.0,
+                    "time": 20.0,
                     "damage": 1.0,
-                    "successRate": 1.0
+                    "successRate": 0.800000011920929
                 },
                 {
                     "itemname": "Crowbar",
-                    "time": 10.0,
+                    "time": 30.0,
                     "damage": 1.0,
-                    "successRate": 0.699999988079071
+                    "successRate": 0.30000001192092898
                 }
             ],
             "openable": 1,
@@ -122,6 +134,88 @@
             "lootRespawnTimeMax": 16200,
             "saveOpenedChestsOverRestart": 1,
             "saveClosedChestsOverRestart": 1
+        },
+        {
+            "name": "Money_small_safe_01",
+            "chestDisplayName": "",
+            "chestDescription": "",
+            "comment": "",
+            "enabled": 1,
+            "maxSpawns": 50,
+            "positionPool": "Money_01",
+            "chests": [
+                "LB_LC_Safe_1"
+            ],
+            "keys": [
+                {
+                    "itemname": "Crowbar",
+                    "time": 20.0,
+                    "damage": 1.0,
+                    "successRate": 0.6000000238418579
+                },
+                {
+                    "itemname": "Lockpick",
+                    "time": 15.0,
+                    "damage": 1.0,
+                    "successRate": 0.800000011920929
+                },
+                {
+                    "itemname": "LB_LC_Key1_Violet",
+                    "time": 3.0,
+                    "damage": 1.0,
+                    "successRate": 1.0
+                }
+            ],
+            "openable": 1,
+            "openTimeDelay": 0,
+            "playedSoundSets": [],
+            "lootPreset": "Preset_Money_low",
+            "lootHealthMin": 1.0,
+            "lootHealthMax": 1.0,
+            "lootRespawnTimeMin": 1600,
+            "lootRespawnTimeMax": 2000,
+            "saveOpenedChestsOverRestart": 1,
+            "saveClosedChestsOverRestart": 0
+        },
+        {
+            "name": "Toxic_zone_chest_01",
+            "chestDisplayName": "",
+            "chestDescription": "",
+            "comment": "",
+            "enabled": 1,
+            "maxSpawns": 5,
+            "positionPool": "TOXIC_zone_chest",
+            "chests": [
+                "LB_LC_StashPlastic",
+                "LB_LC_StashBarrelYellow",
+                "LB_LC_StashBarrelRed",
+                "LB_LC_StashBarrelGreen",
+                "LB_LC_StashBarrelBlue"
+            ],
+            "keys": [
+                {
+                    "itemname": "Crowbar",
+                    "time": 10.0,
+                    "damage": 1.0,
+                    "successRate": 0.6000000238418579
+                },
+                {
+                    "itemname": "Lockpick",
+                    "time": 3.0,
+                    "damage": 1.0,
+                    "successRate": 1.0
+                }
+            ],
+            "openable": 1,
+            "openTimeDelay": 0,
+            "playedSoundSets": [],
+            "lootPreset": "Preset_Medical_Chest",
+            "lootHealthMin": 1.0,
+            "lootHealthMax": 1.0,
+            "lootRespawnTimeMin": 3200,
+            "lootRespawnTimeMax": 4000,
+            "saveOpenedChestsOverRestart": 1,
+            "saveClosedChestsOverRestart": 0
         }
     ]
 }
