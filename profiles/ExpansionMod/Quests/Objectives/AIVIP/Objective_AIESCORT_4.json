@@ -15,6 +15,6 @@
     "ShowDistance": 1,
     "CanLootAI": 0,
     "NPCLoadoutFile": "SurvivorLoadout",
-    "NPCClassName": "",
+    "NPCClassName": "eAI_SurvivorF_Helga",
     "NPCName": "Агент"
 }
