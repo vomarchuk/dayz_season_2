@@ -223,8 +223,8 @@
         },
         {
             "ClassName": "Ammo_357",
-            "MaxPriceThreshold": 280,
-            "MinPriceThreshold": 280,
+            "MaxPriceThreshold": 14,
+            "MinPriceThreshold": 14,
             "SellPricePercent": 25,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
