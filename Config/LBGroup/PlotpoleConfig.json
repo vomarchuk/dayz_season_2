@@ -13,9 +13,9 @@
         "Barrel_ColorBase",
         "HydraulicJack",
         "OH_Kung_Kit",
-        "TerjeSleepingBag_Woodland",
+        "Fireplace",
         "TerjeSleepingBag_Blue",
-        "Fireplace"
+        "TerjeSleepingBag_Woodland"
     ],
     "preventUnauthorizedBuilding": 1,
     "preventUnauthorizedDismantling": 1,

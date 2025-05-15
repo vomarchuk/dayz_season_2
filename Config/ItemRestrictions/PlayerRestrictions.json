@@ -5,11 +5,13 @@
         {
             "displayName": "Sleeping Bags",
             "kitItemNames": [
-                "LBS_SleepingPacked_Base"
+                "LBS_SleepingPacked_Base",
+                "LBS_SleepingBag_New_Blue",
+                "LBS_SleepingPacked_New_Blue"
             ],
             "countItemNames": [],
             "limits": [
-                2
+                1
             ],
             "isAttachment": 0,
             "showOnMap": 1,
@@ -36,12 +38,9 @@
                 "TerjeSleepingBag_Blue",
                 "TerjeSleepingBag_Woodland"
             ],
-            "countItemNames": [
-                "TerjeSleepingBag_Blue",
-                "TerjeSleepingBag_Woodland"
-            ],
+            "countItemNames": [],
             "limits": [
-                1
+                2
             ],
             "isAttachment": 0,
             "showOnMap": 1,

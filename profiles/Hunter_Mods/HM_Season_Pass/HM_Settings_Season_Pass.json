@@ -135,7 +135,7 @@
                 "eAI_SurvivorF_Naomi",
                 "eAI_SurvivorF_Baty"
             ],
-            "taskXP": 100
+            "taskXP": 5
         },
         {
             "taskName": "Kill Foxes",
@@ -256,7 +256,7 @@
                 "ZmbM_PolicemanSpecForce",
                 "ZmbM_PolicemanSpecForce_Heavy"
             ],
-            "taskXP": 25
+            "taskXP": 2
         },
         {
             "taskName": "Kill Army Zombies",
@@ -272,7 +272,7 @@
                 "ZmbM_usSoldier_Heavy_Woodland",
                 "ZmbM_usSoldier_Officer_Desert"
             ],
-            "taskXP": 40
+            "taskXP": 3
         },
         {
             "taskName": "Kill Medical Zombies",
@@ -285,7 +285,7 @@
                 "ZmbM_ParamedicNormal_Red",
                 "ZmbM_PatientSkinny"
             ],
-            "taskXP": 15
+            "taskXP": 2
         },
         {
             "taskName": "Kill NBC Zombies",
@@ -294,7 +294,7 @@
                 "ZmbM_NBC_Grey",
                 "ZmbM_NBC_Yellow"
             ],
-            "taskXP": 30
+            "taskXP": 2
         },
         {
             "taskName": "Kill Special Zombies",
@@ -315,11 +315,9 @@
                 "attachments": []
             },
             "premium_reward": {
-                "name": "MKII",
+                "name": "",
                 "quantity": 1,
-                "attachments": [
-                    "Mag_MKII_10Rnd"
-                ]
+                "attachments": []
             }
         },
         {
@@ -331,13 +329,9 @@
                 "attachments": []
             },
             "premium_reward": {
-                "name": "CZ75",
+                "name": "",
                 "quantity": 1,
-                "attachments": [
-                    "Mag_CZ75_15Rnd",
-                    "PistolSuppressor",
-                    "TLRLight"
-                ]
+                "attachments": []
             }
         },
         {
@@ -349,13 +343,9 @@
                 "attachments": []
             },
             "premium_reward": {
-                "name": "Glock19",
+                "name": "",
                 "quantity": 1,
-                "attachments": [
-                    "Mag_Glock_15Rnd",
-                    "PistolSuppressor",
-                    "TLRLight"
-                ]
+                "attachments": []
             }
         },
         {
@@ -369,14 +359,9 @@
                 ]
             },
             "premium_reward": {
-                "name": "FNX45",
+                "name": "",
                 "quantity": 1,
-                "attachments": [
-                    "Mag_FNX45_15Rnd",
-                    "FNP45_MRDSOptic",
-                    "PistolSuppressor",
-                    "TLRLight"
-                ]
+                "attachments": []
             }
         },
         {
@@ -388,12 +373,9 @@
                 "attachments": []
             },
             "premium_reward": {
-                "name": "CZ61",
+                "name": "",
                 "quantity": 1,
-                "attachments": [
-                    "Mag_CZ61_20Rnd",
-                    "PistolSuppressor"
-                ]
+                "attachments": []
             }
         },
         {
@@ -405,11 +387,9 @@
                 "attachments": []
             },
             "premium_reward": {
-                "name": "VM_Leather_bag_45",
+                "name": "",
                 "quantity": 1,
-                "attachments": [
-                    "Mag_Deagle_9rnd"
-                ]
+                "attachments": []
             }
         },
         {
