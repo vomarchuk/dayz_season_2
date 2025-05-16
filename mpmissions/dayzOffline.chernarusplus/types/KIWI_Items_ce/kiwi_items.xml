@@ -553,4 +553,11 @@
         <restock>0</restock>
         <nominal>0</nominal>
     </type>
+    <type name="KIWI_Bag_upgrade">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
 </types>
