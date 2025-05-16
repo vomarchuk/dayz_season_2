@@ -351,7 +351,7 @@
                 "attachments": []
             },
             "premium_reward": {
-                "name": "",
+                "name": "SodaCan_Cola",
                 "quantity": 1,
                 "attachments": []
             }
@@ -365,7 +365,7 @@
                 "attachments": []
             },
             "premium_reward": {
-                "name": "",
+                "name": "VM_InjectorHP",
                 "quantity": 1,
                 "attachments": []
             }
