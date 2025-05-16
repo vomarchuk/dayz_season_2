@@ -4,7 +4,7 @@
     {
       "enabled": 1,
       "description": "Test Webhook for demonstration",
-      "webhookURL": "https://discord.com/api/webhooks/1369110697962766347/V1QRXUN6xobwIXP3yxvpna-1lYRUB2PG6DQUOIFcrm1nBT7bYtfBip7cGjQC-R5bUl8q",
+      "webhookURL": "https://discord.com/api/webhooks/",
       "webhookMessages": [
         "VehicleImpounded"
       ],
