@@ -20,7 +20,7 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TraderPlus_Money_Euro500",
+            "ClassName": "TD_GRN2014_money500",
             "Amount": 2,
             "Attachments": [],
             "DamagePercent": 0,
@@ -50,7 +50,7 @@
         }
     ],
     "QuestColor": -930200403,
-    "ReputationReward": 0,
+    "ReputationReward": 10,
     "ReputationRequirement": -1,
     "PreQuestIDs": [102],
     "RequiredFaction": "",

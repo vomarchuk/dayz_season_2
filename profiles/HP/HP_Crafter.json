@@ -2219,8 +2219,14 @@
               },
               {
                 "Classname": "SmallGasCanister",
-                "Amount": 50,
-                "Destroy": 50,
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "MediumGasCanister",
+                "Amount": 30,
+                "Destroy": 30,
                 "Changehealth": 0
               }
             ],
@@ -2277,6 +2283,12 @@
                 "Classname": "MediumGasCanister",
                 "Amount": 60,
                 "Destroy": 60,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "LargeGasCanister",
+                "Amount": 50,
+                "Destroy": 50,
                 "Changehealth": 0
               }
             ],

@@ -2,7 +2,7 @@
     "ConfigVersion": 28,
     "ID": 201,
     "ObjectiveType": 2,
-    "ObjectiveText": "Вполюй 5 курей",
+    "ObjectiveText": "Вполюй 5 ЗАЙЦІВ",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
@@ -14,10 +14,7 @@
     "MinDistance": -1.0,
     "Amount": 5,
     "ClassNames": [
-        "Animal_GallusGallusDomesticus",
-        "Animal_GallusGallusDomesticusF_Brown",
-        "Animal_GallusGallusDomesticusF_White",
-        "Animal_GallusGallusDomesticusF_Spotted"
+        "Animal_LepusEuropaeus"
     ],
     "CountSelfKill": 0,
     "AllowedWeapons": [],

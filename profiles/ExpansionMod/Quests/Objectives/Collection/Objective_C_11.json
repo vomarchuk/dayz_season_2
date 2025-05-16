@@ -11,6 +11,18 @@
             "ClassName": "Mackerel",
             "QuantityPercent": -1,
             "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 5,
+            "ClassName": "Carp",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 3,
+            "ClassName": "Bitterlings",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
         }
     ],
     "ShowDistance": 1,
