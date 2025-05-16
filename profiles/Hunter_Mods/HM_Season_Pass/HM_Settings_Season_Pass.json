@@ -409,7 +409,7 @@
                 "attachments": []
             },
             "premium_reward": {
-                "name": "",
+                "name": "Flag_KIWI",
                 "quantity": 1,
                 "attachments": []
             }
@@ -423,7 +423,7 @@
                 "attachments": []
             },
             "premium_reward": {
-                "name": "",
+                "name": "CodeLock",
                 "quantity": 1,
                 "attachments": []
             }
@@ -451,14 +451,9 @@
                 "attachments": []
             },
             "premium_reward": {
-                "name": "PP19",
+                "name": "OH_Kung_Kit",
                 "quantity": 1,
-                "attachments": [
-                    "PistolSuppressor",
-                    "PP19_Bttstck",
-                    "KobraOptic",
-                    "Mag_PP19_64Rnd"
-                ]
+                "attachments": []
             }
         },
         {
@@ -470,11 +465,9 @@
                 "attachments": []
             },
             "premium_reward": {
-                "name": "LongHorn",
+                "name": "NailBox",
                 "quantity": 1,
-                "attachments": [
-                    "PistolOptic"
-                ]
+                "attachments": []
             }
         },
         {
