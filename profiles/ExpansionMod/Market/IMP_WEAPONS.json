@@ -1,0 +1,283 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Зброя",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "IMP_Kivaari_Black",
+            "MaxPriceThreshold": 999,
+            "MinPriceThreshold": 999,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Kivaari_Green",
+                "IMP_Kivaari_Tan",
+                "IMP_Kivaari_Silver"
+            ]
+        },
+        {
+            "ClassName": "IMP_AS50",
+            "MaxPriceThreshold": 999,
+            "MinPriceThreshold": 999,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_AS50_1",
+                "IMP_AS50_2",
+                "IMP_AS50_3",
+                "IMP_AS50_4"
+            ]
+        },
+        {
+            "ClassName": "IMP_RemingtonMSR_Blue",
+            "MaxPriceThreshold": 999,
+            "MinPriceThreshold": 999,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_RemingtonMSR_Tan",
+                "IMP_RemingtonMSR_Grey"
+            ]
+        },
+        {
+            "ClassName": "IMP_AACHoneyBadger_Tan",
+            "MaxPriceThreshold": 999,
+            "MinPriceThreshold": 999,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_AACHoneyBadger_Black",
+                "IMP_AACHoneyBadger_Green",
+                "IMP_AACHoneyBadger_Gray"
+            ]
+        },
+        {
+            "ClassName": "IMP_M39EMR",
+            "MaxPriceThreshold": 999,
+            "MinPriceThreshold": 999,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_M39EMR_Brown",
+                "IMP_M39EMR_Tan",
+                "IMP_M39EMR_PixelCity",
+                "IMP_M39EMR_PixelTan"
+            ]
+        },
+        {
+            "ClassName": "IMP_AX338_Tan",
+            "MaxPriceThreshold": 999,
+            "MinPriceThreshold": 999,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_AX338_Black",
+                "IMP_AX338_Gray",
+                "IMP_AX338_Green"
+            ]
+        },
+        {
+            "ClassName": "IMP_M24_SWS",
+            "MaxPriceThreshold": 999,
+            "MinPriceThreshold": 999,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_M24_Camo1",
+                "IMP_M24_Camo2",
+                "IMP_M24_Camo3"
+            ]
+        },
+        {
+            "ClassName": "IMP_PKP_Tactical",
+            "MaxPriceThreshold": 999,
+            "MinPriceThreshold": 999,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_PKP_Tactical_Camo",
+                "IMP_PKP_Tactical_DesertCamo"
+            ]
+        },
+        {
+            "ClassName": "IMP_RPK16_Black",
+            "MaxPriceThreshold": 999,
+            "MinPriceThreshold": 999,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_RPK16_Green",
+                "IMP_RPK16_Tan"
+            ]
+        },
+        {
+            "ClassName": "IMP_SIG",
+            "MaxPriceThreshold": 999,
+            "MinPriceThreshold": 999,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_SIG_Tactical",
+                "IMP_SIG_Short"
+            ]
+        },
+        {
+            "ClassName": "IMP_M200",
+            "MaxPriceThreshold": 999,
+            "MinPriceThreshold": 999,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_M200_1",
+                "IMP_M200New_1",
+                "IMP_M200New_2"
+            ]
+        },
+        {
+            "ClassName": "sss",
+            "MaxPriceThreshold": 999,
+            "MinPriceThreshold": 999,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "sss",
+            "MaxPriceThreshold": 999,
+            "MinPriceThreshold": 999,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "sss",
+            "MaxPriceThreshold": 999,
+            "MinPriceThreshold": 999,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "sss",
+            "MaxPriceThreshold": 999,
+            "MinPriceThreshold": 999,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "sss",
+            "MaxPriceThreshold": 999,
+            "MinPriceThreshold": 999,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "sss",
+            "MaxPriceThreshold": 999,
+            "MinPriceThreshold": 999,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "sss",
+            "MaxPriceThreshold": 999,
+            "MinPriceThreshold": 999,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "sss",
+            "MaxPriceThreshold": 999,
+            "MinPriceThreshold": 999,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "sss",
+            "MaxPriceThreshold": 999,
+            "MinPriceThreshold": 999,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "sss",
+            "MaxPriceThreshold": 999,
+            "MinPriceThreshold": 999,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}
