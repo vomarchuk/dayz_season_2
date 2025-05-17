@@ -80,18 +80,16 @@
     </type>
     <type name="TerjeBookHunting1">
         <lifetime>28800</lifetime>
-        <nominal>5</nominal>
-        <min>2</min>
+        <nominal>3</nominal>
+        <min>1</min>
         <restock>0</restock>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="books"/>
         <usage name="Hunting"/>
         <tag name="shelves"/>
         <value name="Tier1" />
         <value name="Tier2" />
-
     </type>
     <type name="TerjeBookHunting2">
         <lifetime>28800</lifetime>
@@ -255,6 +253,90 @@
         <nominal>0</nominal>
     </type>
     <type name="TerjeBookSurvival5">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TerjeBookImmunity1">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TerjeBookImmunity2">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TerjeBookImmunity3">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TerjeBookImmunity4">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TerjeBookImmunity5">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TerjeBookMedicine1">
+        <lifetime>28800</lifetime>
+        <nominal>6</nominal>
+        <min>1</min>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="MedicalTools"/>
+        <tag name="shelves"/>
+        <usage name="Medic"/>
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+    </type>
+    <type name="TerjeBookMedicine2">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TerjeBookMedicine3">
+        <lifetime>28800</lifetime>
+        <nominal>3</nominal>
+        <min>1</min>
+        <restock>0</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="MedicalTools"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier4" />
+    </type>
+    <type name="TerjeBookMedicine4">
+        <lifetime>28800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TerjeBookMedicine5">
         <lifetime>28800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <min>0</min>

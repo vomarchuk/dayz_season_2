@@ -2708,7 +2708,7 @@
         "IMP_Optic_ACOG,1,-1,1,66,77",
         "IMP_Optic_AimPoint,1,-1,1,66,77",
         "IMP_Optic_ATNXSight,1,-1,0,660,770",
-        "IMP_Optic_AX338,1,-1,1,66,77",
+        "IMP_Optic_AX338,1,-1,1,-1,350",
         "IMP_Optic_BlackBridge,1,-1,1,66,77",
         "IMP_Optic_BlackBridgeMini,1,-1,1,66,77",
         "IMP_Optic_EoTech,1,-1,1,-1,250",
