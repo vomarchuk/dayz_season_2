@@ -1192,8 +1192,7 @@
                     "Magazine_ClassName": "Mag_CMAG_40Rnd",
                     "Attach": [
                         "M4_RISHndgrd",
-                        "M4_MPBttstck",
-                        "ACOGOptic"
+                        "M4_MPBttstck"
                     ]
                 },
                 {
@@ -1274,8 +1273,7 @@
                     "Attach": [
                         "Fal_OeBttsck",
                         "M4_RISHndgrd_Green",
-                        "M4_MPBttstck",
-                        "ACOGOptic"
+                        "M4_MPBttstck"
                     ],
                     "Loot": [
                         "Mag_STANAG_30Rnd",

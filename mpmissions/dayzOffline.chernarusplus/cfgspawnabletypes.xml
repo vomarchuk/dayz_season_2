@@ -3031,7 +3031,6 @@
 			<item name="M68Optic" chance="0.20" />
 			<item name="M4_T3NRDSOptic" chance="0.20" />
 			<item name="ReflexOptic" chance="0.20" />
-			<item name="ACOGOptic" chance="0.10" />
 		</attachments>
 		<attachments chance="0.10">
 			<item name="MP5_Compensator" chance="1.00" />
@@ -3047,7 +3046,6 @@
 			<item name="M68Optic" chance="0.15" />
 			<item name="M4_T3NRDSOptic" chance="0.20" />
 			<item name="ReflexOptic" chance="0.20" />
-			<item name="ACOGOptic" chance="0.30" />
 		</attachments>
 		<attachments chance="0.10">
 			<item name="TLRLight" chance="1.00" />
@@ -3072,7 +3070,6 @@
 			<item name="BUISOptic" chance="0.15" />
 			<item name="M4_T3NRDSOptic" chance="0.15" />
 			<item name="ReflexOptic" chance="0.15" />
-			<item name="ACOGOptic" chance="0.15" />
 		</attachments>
 		<attachments chance="0.10">
 			<item name="TLRLight" chance="1.00" />
@@ -3093,8 +3090,6 @@
 		<attachments chance="0.25">
 			<item name="M4_T3NRDSOptic" chance="0.30" />
 			<item name="ReflexOptic" chance="0.30" />
-			<item name="ACOGOptic" chance="0.25" />
-			<item name="ACOGOptic_6x" chance="0.15" />
 		</attachments>
 		<attachments chance="0.45">
 			<item name="Mag_SV98_10Rnd" chance="1.0" />
@@ -3283,34 +3278,19 @@
 		<attachments chance="0.75">
 			<item name="Mag_Scout_5Rnd" chance="1.00" />
 		</attachments>
-		<attachments chance="0.25">
-			<item name="M4_T3NRDSOptic" chance="0.25" />
-			<item name="M68Optic" chance="0.25" />
-			<item name="ACOGOptic" chance="0.25" />
-			<item name="ACOGOptic_6x" chance="0.25" />
-		</attachments>
+
 	</type>
 	<type name="Scout_Chernarus">
 		<attachments chance="0.75">
 			<item name="Mag_Scout_5Rnd" chance="1.00" />
 		</attachments>
-		<attachments chance="0.25">
-			<item name="M4_T3NRDSOptic" chance="0.25" />
-			<item name="M68Optic" chance="0.25" />
-			<item name="ACOGOptic" chance="0.25" />
-			<item name="ACOGOptic_6x" chance="0.25" />
-		</attachments>
+
 	</type>
 	<type name="Scout_Livonia">
 		<attachments chance="0.75">
 			<item name="Mag_Scout_5Rnd" chance="1.00" />
 		</attachments>
-		<attachments chance="0.25">
-			<item name="M4_T3NRDSOptic" chance="0.25" />
-			<item name="M68Optic" chance="0.25" />
-			<item name="ACOGOptic" chance="0.25" />
-			<item name="ACOGOptic_6x" chance="0.25" />
-		</attachments>
+
 	</type>
 	<type name="CZ550">
 		<damage min="0.3" max="0.7" />
@@ -3365,8 +3345,6 @@
 		<attachments chance="0.30">
 			<item name="M4_T3NRDSOptic" chance="0.30" />
 			<item name="ReflexOptic" chance="0.30" />
-			<item name="ACOGOptic" chance="0.30" />
-			<item name="ACOGOptic_6x" chance="0.10" />
 		</attachments>
 	</type>
 	<type name="M4_Suppressor">
