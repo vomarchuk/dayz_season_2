@@ -2,10 +2,18 @@
 <types>
     <type name="TerjeBookAthletic1">
         <lifetime>28800</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <min>0</min>
+        <nominal>5</nominal>
+        <min>2</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="books"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <tag name="shelves"/>
+        <value name="Tier1" />
+        <value name="Tier2" />
     </type>
     <type name="TerjeBookAthletic2">
         <lifetime>28800</lifetime>
@@ -72,10 +80,18 @@
     </type>
     <type name="TerjeBookHunting1">
         <lifetime>28800</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <min>0</min>
+        <nominal>5</nominal>
+        <min>2</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="books"/>
+        <usage name="Hunting"/>
+        <tag name="shelves"/>
+        <value name="Tier1" />
+        <value name="Tier2" />
+
     </type>
     <type name="TerjeBookHunting2">
         <lifetime>28800</lifetime>

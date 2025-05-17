@@ -163,7 +163,7 @@
         "MilitaryBoots_Black",
         "Balaclava3Holes_Green",
         "PlateCarrierVest_Green",
-        "SVD"
+        "IMP_SVD"
       ]
     },
     {
@@ -235,7 +235,7 @@
         "mmg_boonie_alpine",
         "mmg_tactical_gloves_alpine ",
         "mmg_tactical_pants_alpine",
-        "SVD",
+        "IMP_SVD",
         "IMP_KelTecSUB2000_Supp",
         "IMP_PKP_Tactical_Camo"
       ]
@@ -285,7 +285,7 @@
         "MMG_tactical_shirt_multicam",
         "mmg_tactical_pants_multicam",
         "MMG_tactical_helmet_multicam",
-        "SVD",
+        "IMP_SVD",
         "IMP_ASH12"
       ]
     },
@@ -406,7 +406,7 @@
         "CargoPants_Black",
         "WorkingGloves_Yellow",
         "HikingBoots_Black",
-        "SVD",
+        "IMP_SVD",
         "FangeKnife"
       ]
     }

@@ -1198,7 +1198,7 @@
                 },
                 {
                     "Loadout_ID": 2,
-                    "Weapon_ClassName": "SVD",
+                    "Weapon_ClassName": "IMP_SVD",
                     "Magazine_ClassName": "Mag_SVD_10Rnd",
                     "Attach": [
                         "PSO1Optic"
@@ -1294,7 +1294,7 @@
                     ]
                 },
                 {
-                    "ClassName": "SVD",
+                    "ClassName": "IMP_SVD",
                     "Magazine_ClassName": "Mag_SVD_10Rnd",
                     "Attach": [
                         "PSO1Optic"

@@ -210,7 +210,7 @@ class PsilosMission extends SurvivorMissions
 		}
 		if (selectedLoadout == 1)
 		{
-			weapon = MissionObject.GetInventory().CreateInInventory("SVD");
+			weapon = MissionObject.GetInventory().CreateInInventory("IMP_SVD");
 			weapon.GetInventory().CreateAttachment("PSO1Optic");
 			MissionObject.GetInventory().CreateInInventory("Mag_SVD_10Rnd");
 			MissionObject.GetInventory().CreateInInventory("Mag_SVD_10Rnd");

@@ -1849,7 +1849,7 @@
                     "SlotName": "Shoulder",
                     "Items": [
                         {
-                            "ClassName": "SVD",
+                            "ClassName": "IMP_SVD",
                             "Include": "",
                             "Chance": 1.0,
                             "Quantity": {

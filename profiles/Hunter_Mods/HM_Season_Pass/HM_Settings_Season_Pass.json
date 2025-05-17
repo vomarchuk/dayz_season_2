@@ -97,7 +97,7 @@
                 "ZmbM_JoggerSkinny_Red",
                 "ZmbM_VillagerOld_Green"
             ],
-            "taskXP": 2
+            "taskXP": 5
         },
         {
             "taskName": "Знищити поліцейських зомбі",
@@ -107,7 +107,7 @@
                 "ZmbM_PolicemanSpecForce",
                 "ZmbM_PolicemanSpecForce_Heavy"
             ],
-            "taskXP": 3
+            "taskXP": 9
         },
         {
             "taskName": "Знищити медичних зомбі",
@@ -120,7 +120,7 @@
                 "ZmbM_ParamedicNormal_Red",
                 "ZmbM_PatientSkinny"
             ],
-            "taskXP": 2
+            "taskXP": 7
         },
         {
             "taskName": "Знищити військові зомбі",
@@ -138,7 +138,7 @@
                 "ZmbM_NBC_Grey",
                 "ZmbM_NBC_Yellow"
             ],
-            "taskXP": 5
+            "taskXP": 12
         },
         {
             "taskName": "Знищити NBC зомбі",
@@ -149,7 +149,7 @@
                 "FC_Zmb_Toxic_White",
                 "FC_Zmb_Toxic_Yellow"
             ],
-            "taskXP": 15
+            "taskXP": 13
         },
         {
             "taskName": "Знищити мутантів",
@@ -175,7 +175,7 @@
                 "FC_Zmb_Worker_Soldier_Blood",
                 "FC_Zmb_Worker_Builder_Blood"
             ],
-            "taskXP": 20
+            "taskXP": 18
         },
         {
             "taskName": "Знищити AI в поліційних відділеннях",
@@ -193,7 +193,7 @@
                 "eAI_SurvivorM_Oliver",
                 "eAI_SurvivorM_Peter"
             ],
-            "taskXP": 7
+            "taskXP": 12
         },
         {
             "taskName": "Знищити AI на військових базах, аеродромах та хелікрашах",
@@ -227,7 +227,7 @@
                 "eAI_SurvivorM_Seth",
                 "eAI_SurvivorM_Taiki"
             ],
-            "taskXP": 25
+            "taskXP": 20
         },
         {
             "taskName": "Знищити лисиць",
@@ -235,7 +235,7 @@
             "targetClassname": [
                 "Animal_VulpesVulpes"
             ],
-            "taskXP": 3
+            "taskXP": 7
         },
         {
             "taskName": "Знищити зайців",
@@ -243,7 +243,7 @@
             "targetClassname": [
                 "Animal_LepusEuropaeus"
             ],
-            "taskXP": 3
+            "taskXP": 7
         },
         {
             "taskName": "Знищити кур",
@@ -254,7 +254,7 @@
                 "Animal_GallusGallusDomesticusF_Spotted",
                 "Animal_GallusGallusDomesticusF_White"
             ],
-            "taskXP": 3
+            "taskXP": 7
         },
         {
             "taskName": "Знищити ведмедів",
@@ -275,7 +275,7 @@
                 "Animal_BosTaurus_Spotted",
                 "Animal_BosTaurus_White"
             ],
-            "taskXP": 20
+            "taskXP": 30
         },
         {
             "taskName": "Знищити оленів",
@@ -284,7 +284,7 @@
                 "Animal_CervusElaphus",
                 "Animal_CervusElaphusF"
             ],
-            "taskXP": 15
+            "taskXP": 20
         },
         {
             "taskName": "Знищити кози",
@@ -295,7 +295,7 @@
                 "Animal_CapraHircus_Brown",
                 "Animal_CapraHircus_White"
             ],
-            "taskXP": 10
+            "taskXP": 20
         },
         {
             "taskName": "Знищити свиней",
@@ -303,7 +303,7 @@
             "targetClassname": [
                 "Animal_SusDomesticus"
             ],
-            "taskXP": 10
+            "taskXP": 20
         },
         {
             "taskName": "Знищити теляток",
@@ -312,7 +312,7 @@
                 "Animal_CapreolusCapreolus",
                 "Animal_CapreolusCapreolusF"
             ],
-            "taskXP": 12
+            "taskXP": 20
         },
         {
             "taskName": "Знищити овець",
@@ -321,7 +321,7 @@
                 "Animal_OvisAries",
                 "Animal_OvisAriesF"
             ],
-            "taskXP": 10
+            "taskXP": 20
         },
         {
             "taskName": "Знищити диких свиней",
@@ -329,7 +329,7 @@
             "targetClassname": [
                 "Animal_SusScrofa"
             ],
-            "taskXP": 11
+            "taskXP": 20
         },
         {
             "taskName": "Знищити вовки",
@@ -338,13 +338,13 @@
                 "Animal_CanisLupus_Grey",
                 "Animal_CanisLupus_White"
             ],
-            "taskXP": 15
+            "taskXP": 25
         }
     ],
     "levels": [
         {
             "startExp": 0,
-            "endExp": 150,
+            "endExp": 100,
             "free_reward": {
                 "name": "SteakKnife",
                 "quantity": 1,
@@ -357,10 +357,10 @@
             }
         },
         {
-            "startExp": 150,
-            "endExp": 300,
+            "startExp": 100,
+            "endExp": 200,
             "free_reward": {
-                "name": "OH_Kung_Kit",
+                "name": "FB_vatnik_pant_shirt_brown",
                 "quantity": 1,
                 "attachments": []
             },
@@ -371,22 +371,24 @@
             }
         },
         {
-            "startExp": 300,
-            "endExp": 450,
+            "startExp": 200,
+            "endExp": 300,
             "free_reward": {
-                "name": "RIP_FilterSilencer",
+                "name": "Glock19",
                 "quantity": 1,
-                "attachments": []
+                "attachments": [
+                    "IMP_Mag_Glock_21Rnd"
+                ]
             },
             "premium_reward": {
-                "name": "",
+                "name": "RIP_FilterSilencer",
                 "quantity": 1,
                 "attachments": []
             }
         },
         {
-            "startExp": 450,
-            "endExp": 600,
+            "startExp": 300,
+            "endExp": 450,
             "free_reward": {
                 "name": "Headtorch_Grey",
                 "quantity": 1,
@@ -395,28 +397,28 @@
                 ]
             },
             "premium_reward": {
-                "name": "",
-                "quantity": 1,
+                "name": "Ammo_9x19",
+                "quantity": 50,
                 "attachments": []
             }
         },
         {
-            "startExp": 600,
-            "endExp": 750,
+            "startExp": 450,
+            "endExp": 600,
             "free_reward": {
                 "name": "VM_Leather_bag_35",
                 "quantity": 1,
                 "attachments": []
             },
             "premium_reward": {
-                "name": "",
+                "name": "TerjeInjectorZivirol",
                 "quantity": 1,
                 "attachments": []
             }
         },
         {
-            "startExp": 750,
-            "endExp": 950,
+            "startExp": 600,
+            "endExp": 800,
             "free_reward": {
                 "name": "DuctTape",
                 "quantity": 100,
@@ -429,43 +431,45 @@
             }
         },
         {
-            "startExp": 950,
-            "endExp": 1150,
+            "startExp": 800,
+            "endExp": 1000,
             "free_reward": {
                 "name": "TerjeInjectorAmoxiclav",
                 "quantity": 1,
                 "attachments": []
             },
             "premium_reward": {
-                "name": "TerjeInjectorZivirol",
+                "name": "KIWI_Bag_upgrade",
                 "quantity": 1,
                 "attachments": []
             }
         },
         {
-            "startExp": 1150,
-            "endExp": 1350,
+            "startExp": 1000,
+            "endExp": 1250,
             "free_reward": {
-                "name": "KIWI_Can_MeatCow",
+                "name": "IMP_KelTecSUB2000",
+                "quantity": 1,
+                "attachments": [
+                    "IMP_KelTecSUB2000_Mag_15Rnd"
+                ]
+            },
+            "premium_reward": {
+                "name": "IMP_KelTecSUB2000_Mag_50Rnd",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 1250,
+            "endExp": 1550,
+            "free_reward": {
+                "name": "KIWI_Bag_upgrade",
                 "quantity": 1,
                 "attachments": []
             },
             "premium_reward": {
                 "name": "NailBox",
-                "quantity": 1,
-                "attachments": []
-            }
-        },
-        {
-            "startExp": 1350,
-            "endExp": 1550,
-            "free_reward": {
-                "name": "VM_Leather_bag_45",
-                "quantity": 1,
-                "attachments": []
-            },
-            "premium_reward": {
-                "name": "",
                 "quantity": 1,
                 "attachments": []
             }
@@ -479,11 +483,9 @@
                 "attachments": []
             },
             "premium_reward": {
-                "name": "MP133Shotgun",
+                "name": "KIWI_Can_MeatCow",
                 "quantity": 1,
-                "attachments": [
-                    "FNP45_MRDSOptic"
-                ]
+                "attachments": []
             }
         },
         {
@@ -504,15 +506,13 @@
             "startExp": 2000,
             "endExp": 2250,
             "free_reward": {
-                "name": "Glock19",
-                "quantity": 1,
-                "attachments": [
-                    "IMP_Mag_Glock_21Rnd"
-                ]
+                "name": "Ammo_9x19",
+                "quantity": 50,
+                "attachments": []
             },
             "premium_reward": {
-                "name": "IMP_Mag_Glock_21Rnd",
-                "quantity": 1,
+                "name": "Ammo_9x19",
+                "quantity": 50,
                 "attachments": []
             }
         },
@@ -520,17 +520,14 @@
             "startExp": 2250,
             "endExp": 2500,
             "free_reward": {
-                "name": "VM_Leather_bag_60",
+                "name": "KIWI_Bag_upgrade",
                 "quantity": 1,
                 "attachments": []
             },
             "premium_reward": {
-                "name": "VSS",
+                "name": "",
                 "quantity": 1,
-                "attachments": [
-                    "KashtanOptic",
-                    "Mag_VSS_10Rnd"
-                ]
+                "attachments": []
             }
         },
         {
@@ -542,13 +539,9 @@
                 "attachments": []
             },
             "premium_reward": {
-                "name": "ASVAL",
+                "name": "",
                 "quantity": 1,
-                "attachments": [
-                    "Mag_VAL_20Rnd",
-                    "BUISOptic",
-                    "TLRLight"
-                ]
+                "attachments": []
             }
         },
         {
@@ -560,26 +553,21 @@
                 "attachments": []
             },
             "premium_reward": {
-                "name": "CZ527",
+                "name": "",
                 "quantity": 1,
-                "attachments": [
-                    "HuntingOptic",
-                    "Mag_CZ527_5rnd"
-                ]
+                "attachments": []
             }
         },
         {
             "startExp": 3000,
             "endExp": 3300,
             "free_reward": {
-                "name": "IMP_KelTecSUB2000",
+                "name": "",
                 "quantity": 1,
-                "attachments": [
-                    "IMP_KelTecSUB2000_Mag_15Rnd"
-                ]
+                "attachments": []
             },
             "premium_reward": {
-                "name": "IMP_KelTecSUB2000_Mag_50Rnd",
+                "name": "",
                 "quantity": 1,
                 "attachments": []
             }
@@ -588,17 +576,14 @@
             "startExp": 3300,
             "endExp": 3600,
             "free_reward": {
-                "name": "VM_Leather_bag_80",
+                "name": "KIWI_Bag_upgrade",
                 "quantity": 1,
                 "attachments": []
             },
             "premium_reward": {
-                "name": "Mosin9130",
+                "name": "",
                 "quantity": 1,
-                "attachments": [
-                    "Mosin_Compensator",
-                    "PUScopeOptic"
-                ]
+                "attachments": []
             }
         },
         {
@@ -610,11 +595,9 @@
                 "attachments": []
             },
             "premium_reward": {
-                "name": "SKS",
+                "name": "",
                 "quantity": 1,
-                "attachments": [
-                    "PUScopeOptic"
-                ]
+                "attachments": []
             }
         },
         {
@@ -626,15 +609,9 @@
                 "attachments": []
             },
             "premium_reward": {
-                "name": "AKM",
+                "name": "",
                 "quantity": 1,
-                "attachments": [
-                    "AK_PlasticBttstck",
-                    "AK_PlasticHndgrd",
-                    "KashtanOptic",
-                    "AK_Suppressor",
-                    "Mag_AKM_30Rnd"
-                ]
+                "attachments": []
             }
         },
         {
@@ -657,7 +634,7 @@
             "startExp": 4500,
             "endExp": 5000,
             "free_reward": {
-                "name": "VM_Leather_bag_100",
+                "name": "KIWI_Bag_upgrade",
                 "quantity": 1,
                 "attachments": []
             },
@@ -728,7 +705,7 @@
             "startExp": 6000,
             "endExp": 6500,
             "free_reward": {
-                "name": "VM_Leather_bag_120",
+                "name": "KIWI_Bag_upgrade",
                 "quantity": 1,
                 "attachments": [
                     "Mosin_Compensator",
@@ -798,7 +775,7 @@
             "startExp": 8750,
             "endExp": 9500,
             "free_reward": {
-                "name": "VM_Leather_bag_140",
+                "name": "KIWI_Bag_upgrade",
                 "quantity": 1,
                 "attachments": []
             },
@@ -854,7 +831,7 @@
             "startExp": 12250,
             "endExp": 13250,
             "free_reward": {
-                "name": "VM_Leather_bag_160",
+                "name": "KIWI_Bag_upgrade",
                 "quantity": 1,
                 "attachments": []
             },
