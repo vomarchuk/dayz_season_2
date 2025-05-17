@@ -9964,11 +9964,19 @@
         <value name="Tier3"/>
     </type>
     <type name="Mag_Glock_15Rnd">
-        <lifetime>7200</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <min>0</min>
+        <nominal>25</nominal>
+        <lifetime>14400</lifetime>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <min>10</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
     </type>
     <type name="Mag_IJ70_8Rnd">
         <nominal>50</nominal>
@@ -10192,10 +10200,10 @@
         <nominal>0</nominal>
     </type>
     <type name="Mag_Saiga_8Rnd">
-        <nominal>15</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -10206,10 +10214,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_Saiga_Drum20Rnd">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>20</quantmin>
         <quantmax>40</quantmax>
         <cost>100</cost>
@@ -13354,10 +13362,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Saiga">
-        <nominal>7</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>0</min>
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -13368,10 +13376,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Saiga_Bttstck">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
