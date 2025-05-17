@@ -639,12 +639,9 @@
                 "attachments": []
             },
             "premium_reward": {
-                "name": "AKS74U",
+                "name": "",
                 "quantity": 1,
-                "attachments": [
-                    "AKS74U_Bttstck",
-                    "Mag_AK74_30Rnd"
-                ]
+                "attachments": []
             }
         },
         {
@@ -656,14 +653,9 @@
                 "attachments": []
             },
             "premium_reward": {
-                "name": "AK101",
+                "name": "",
                 "quantity": 1,
-                "attachments": [
-                    "AK_PlasticBttstck",
-                    "AK_PlasticHndgrd",
-                    "KashtanOptic",
-                    "Mag_AK101_30Rnd"
-                ]
+                "attachments": []
             }
         },
         {
@@ -675,14 +667,9 @@
                 "attachments": []
             },
             "premium_reward": {
-                "name": "M4A1",
+                "name": "",
                 "quantity": 1,
-                "attachments": [
-                    "M4_OEBttstck",
-                    "M4_PlasticHndgrd",
-                    "M4_CarryHandleOptic",
-                    "Mag_CMAG_30Rnd"
-                ]
+                "attachments": []
             }
         },
         {
@@ -732,11 +719,9 @@
                 "attachments": []
             },
             "premium_reward": {
-                "name": "M4A1",
+                "name": "",
                 "quantity": 1,
-                "attachments": [
-                    "Mag_FAMAS_25Rnd"
-                ]
+                "attachments": []
             }
         },
         {

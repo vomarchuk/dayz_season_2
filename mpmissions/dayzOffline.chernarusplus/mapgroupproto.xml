@@ -18756,12 +18756,6 @@
 						<point pos="-5.419433 0.012756 2.763063" range="1.190776" height="2.000000"/>
 				</container>
 				<dispatch dechance="1.000000">
-						<proxy type="AK101" pos="2.166992 0.012756 3.037353" rpy="90.000000 90.000000 0.000000" dechance="0.25"/>
-						<proxy type="AK101" pos="6.482910 0.012756 -0.18048" rpy="90.000000 90.000000 0.000000" dechance="0.25"/>
-						<proxy type="AK101" pos="2.447632 0.012756 -0.02749" rpy="90.000000 0.000000 0.000000" dechance="0.25"/>
-						<proxy type="AK101" pos="-1.808472 0.012756 -0.1717" rpy="90.000000 110.000000 0.000000" dechance="0.25"/>
-				</dispatch>
-				<dispatch dechance="1.000000">
 						<proxy type="PlateCarrierVest_Green" pos="-2.901246 0.012756 3.09815" rpy="0.000000 0.000000 0.000000" dechance="0.2"/>
 						<proxy type="PlateCarrierVest_Black" pos="-2.796021 0.012756 -3.1388" rpy="0.000000 0.000000 0.000000" dechance="0.2"/>
 						<proxy type="PlateCarrierVest_Green" pos="2.291627 0.012756 -3.21477" rpy="0.000000 0.000000 0.000000" dechance="0.2"/>
