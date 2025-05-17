@@ -9936,10 +9936,10 @@
         <nominal>0</nominal>
     </type>
     <type name="Mag_FAMAS_25Rnd">
-        <nominal>15</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>959</restock>
-        <min>3</min>
+        <min>0</min>
         <quantmin>10</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>

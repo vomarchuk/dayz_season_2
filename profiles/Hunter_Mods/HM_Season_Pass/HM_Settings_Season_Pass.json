@@ -700,14 +700,9 @@
                 ]
             },
             "premium_reward": {
-                "name": "FAMAS",
+                "name": "",
                 "quantity": 1,
-                "attachments": [
-                    "Mag_FNX45_15Rnd",
-                    "FNP45_MRDSOptic",
-                    "PistolSuppressor",
-                    "TLRLight"
-                ]
+                "attachments": []
             }
         },
         {
