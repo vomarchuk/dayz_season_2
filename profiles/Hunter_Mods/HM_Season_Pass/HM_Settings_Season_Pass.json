@@ -360,12 +360,12 @@
             "startExp": 150,
             "endExp": 300,
             "free_reward": {
-                "name": "KIWI_Can_MeatChicken",
+                "name": "OH_Kung_Kit",
                 "quantity": 1,
                 "attachments": []
             },
             "premium_reward": {
-                "name": "VM_InjectorHP",
+                "name": "Flag_KIWI",
                 "quantity": 1,
                 "attachments": []
             }
@@ -409,7 +409,7 @@
                 "attachments": []
             },
             "premium_reward": {
-                "name": "Flag_KIWI",
+                "name": "",
                 "quantity": 1,
                 "attachments": []
             }
@@ -451,7 +451,7 @@
                 "attachments": []
             },
             "premium_reward": {
-                "name": "OH_Kung_Kit",
+                "name": "NailBox",
                 "quantity": 1,
                 "attachments": []
             }
@@ -465,7 +465,7 @@
                 "attachments": []
             },
             "premium_reward": {
-                "name": "NailBox",
+                "name": "",
                 "quantity": 1,
                 "attachments": []
             }
