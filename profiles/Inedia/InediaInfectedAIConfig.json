@@ -4,9 +4,7 @@
       "police": [
         "ZmbF_PoliceWomanNormal_Base",
         "ZmbM_PolicemanFat_Base",
-        "ZmbM_PolicemanSpecForce_Base",
-        "FC_Zmb_Worker_Police",
-        "FC_Zmb_Worker_Police_Blood"
+        "ZmbM_PolicemanSpecForce_Base"
       ],
       "highstr": [
         "military",
@@ -37,9 +35,7 @@
         "ZmbM_HandymanNormal_Base",
         "ZmbM_HeavyIndustryWorker_Base",
         "ZmbM_MechanicSkinny_Base",
-        "ZmbM_OffshoreWorker_Base",
-        "FC_Zmb_Worker_Builder",
-        "FC_Zmb_Worker_Builder_Blood"
+        "ZmbM_OffshoreWorker_Base"
       ],
       "villagers": [
         "ZmbF_Runner_Base",
@@ -98,13 +94,7 @@
         "ZmbM_CommercialPilotOld_Base",
         "ZmbM_CommercialPilotOld_LT_Base",
         "ZmbM_JournalistSkinny_Base",
-        "ZmbM_MotobikerFat_Base",
-        "FC_Zmb_Worker_1",
-        "FC_Zmb_Worker_1_Blood",
-        "FC_Zmb_Worker_2",
-        "FC_Zmb_Worker_2_Blood",
-        "FC_Zmb_Worker_3",
-        "FC_Zmb_Worker_3_Blood"
+        "ZmbM_MotobikerFat_Base"
       ],
       "firefighters": [
         "ZmbM_FirefighterNormal_Base"
@@ -131,9 +121,7 @@
         "ZmbM_HunterOld_Base"
       ],
       "military": [
-        "ZmbM_SoldierNormal_Base",
-        "FC_Zmb_Worker_Soldier",
-        "FC_Zmb_Worker_Soldier_Blood"
+        "ZmbM_SoldierNormal_Base"
       ],
       "fishermen": [
         "ZmbM_FishermanOld_Base"
@@ -1262,18 +1250,18 @@
       "all": -1
     },
     "DamageToZombieHeadMeleeMultiplier": {
-      "mediumdef": 0.500000011920929,
-      "all": 0.6000000059604645,
-      "lowdef": 0.6000000059604645,
-      "highdef": 0.5000000029802323
+      "mediumdef": 0.2500000011920929,
+      "all": 0.3000000059604645,
+      "lowdef": 0.3000000059604645,
+      "highdef": 0.25000000029802323
     },
     "DamageToZombieHeadRangeMultiplier": {
       "all": 1
     },
     "DamageToZombieBodyMeleeMultiplier": {
-      "mediumdef": 0.500000011920929,
-      "all": 0.6000000059604645,
-      "lowdef": 0.6000000059604645,
+      "mediumdef": 0.2500000011920929,
+      "all": 0.3000000059604645,
+      "lowdef": 0.3000000059604645,
       "highdef": 0.20000000298023224
     },
     "DamageToZombieBodyRangeMultiplier": {
