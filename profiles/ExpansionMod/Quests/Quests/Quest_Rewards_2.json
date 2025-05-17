@@ -20,15 +20,6 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "DNA_KeyCard_BlisterPackChip_Yellow",
-            "Amount": 1,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        },
-        {
             "ClassName": "RIP_Carbon",
             "Amount": 3,
             "Attachments": [],
@@ -38,26 +29,8 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "RIP_bolts",
-            "Amount": 10,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        },
-        {
-            "ClassName": "RIP_nuts",
-            "Amount": 10,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        },
-        {
-            "ClassName": "RIP_rivets",
-            "Amount": 10,
+            "ClassName": "RIP_Rustymetal",
+            "Amount": 5,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -173,7 +146,7 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "CP_CannabisSeedsPackNomad",
+            "ClassName": "CP_CannabisBrickNomad",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -182,7 +155,7 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "CP_CannabisSeedsPackSkunk",
+            "ClassName": "CP_CannabisBrickSkunk",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -191,7 +164,7 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "CP_CannabisSeedsPackBlackFrost",
+            "ClassName": "CP_CannabisBrickBlackFrost",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -200,7 +173,7 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "CP_CannabisSeedsPackBlue",
+            "ClassName": "CP_CannabisBrickBlue",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -209,7 +182,7 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "CP_CannabisSeedsPackFuture",
+            "ClassName": "CP_CannabisBrickFuture",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -218,7 +191,7 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "CP_CannabisSeedsPackS1",
+            "ClassName": "CP_CannabisBrickS1",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -227,7 +200,7 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "CP_CannabisSeedsPackStardawg",
+            "ClassName": "CP_CannabisBrickStardawg",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -236,34 +209,7 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "CP_CannabisSeedsPackKush",
-            "Amount": 1,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        },
-        {
-            "ClassName": "TD_GRN2014_money10",
-            "Amount": 1,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        },
-        {
-            "ClassName": "TD_GRN2014_money20",
-            "Amount": 1,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        },
-        {
-            "ClassName": "TD_GRN2014_money50",
+            "ClassName": "CP_CannabisBrickKush",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
