@@ -355,7 +355,7 @@
 		<item name="GasMask_Filter" chance="1.00" />
 	</cargo>
 	<!-- KIWI ATTACHMENTS -->
-	<attachments chance="0.005" name="kiwi_drybag">
+	<attachments chance="0.01" name="kiwi_drybag">
 		<item name="DryBag_Green" chance="0.25" />
 		<item name="DryBag_Red" chance="0.25" />
 		<item name="DryBag_Yellow" chance="0.25" />

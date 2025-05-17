@@ -167,42 +167,6 @@
 		<cargo preset="mixArmy" />
 		<cargo preset="mixArmy" />
 	</type>
-	<type name="DryBag_Orange">
-		<cargo preset="foodVillage" />
-		<cargo preset="toolsIndustrial" />
-		<cargo preset="mixHunter" />
-	</type>
-	<type name="DryBag_Yellow">
-		<cargo preset="kiwi_food" />
-		<cargo preset="kiwi_food" />
-		<cargo preset="kiwi_food" />
-		<cargo preset="kiwi_food" />
-		<cargo preset="kiwi_food" />
-	</type>
-	<type name="DryBag_Blue">
-		<cargo preset="foodVillage" />
-		<cargo preset="toolsIndustrial" />
-		<cargo preset="mixHunter" />
-	</type>
-	<type name="DryBag_Green">
-		<cargo preset="kiwi_bagmedicine" />
-		<cargo preset="kiwi_bagmedicine" />
-		<cargo preset="kiwi_bagmedicine" />
-		<cargo preset="kiwi_bagmedicine" />
-		<cargo preset="kiwi_bagmedicine" />
-	</type>
-	<type name="DryBag_Black">
-		<cargo preset="kiwi_bagtools" />
-		<cargo preset="kiwi_bagtools" />
-		<cargo preset="kiwi_bagtools" />
-	</type>
-	<type name="DryBag_Red">
-		<cargo preset="kiwi_bagammo" />
-		<cargo preset="kiwi_bagammo" />
-		<cargo preset="kiwi_bagammo" />
-		<cargo preset="kiwi_bagammo" />
-		<cargo preset="kiwi_bagammo" />
-	</type>
 	<type name="HuntingBag">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsIndustrial" />
