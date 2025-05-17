@@ -506,13 +506,15 @@
             "startExp": 2000,
             "endExp": 2250,
             "free_reward": {
-                "name": "Ammo_9x19",
-                "quantity": 50,
-                "attachments": []
+                "name": "IMP_AN94",
+                "quantity": 1,
+                "attachments": [
+                    "Mag_AK74_30Rnd_Black"
+                ]
             },
             "premium_reward": {
-                "name": "Ammo_9x19",
-                "quantity": 50,
+                "name": "IMP_Supp_PBS4_AK",
+                "quantity": 1,
                 "attachments": []
             }
         },
@@ -525,7 +527,7 @@
                 "attachments": []
             },
             "premium_reward": {
-                "name": "",
+                "name": "TerjeFirstAidKitAdvance_Black",
                 "quantity": 1,
                 "attachments": []
             }

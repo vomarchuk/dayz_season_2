@@ -43,14 +43,14 @@
 		<item name="PeachesCan" chance="0.05" />
 		<item name="SpaghettiCan" chance="0.05" />
 		<item name="BakedBeansCan" chance="0.04" />
-		<item name="TunaCan" chance="0.075" />
-		<item name="PowderedMilk" chance="0.075" />
-		<item name="BrisketSpread" chance="0.075" />
-		<item name="SaltySticks" chance="0.075" />
-		<item name="Crackers" chance="0.075" />
-		<item name="Pajka" chance="0.075" />
-		<item name="Pate" chance="0.075" />
-		<item name="Apple" chance="0.075" />
+		<item name="TunaCan" chance="0.03" />
+		<item name="PowderedMilk" chance="0.03" />
+		<item name="BrisketSpread" chance="0.03" />
+		<item name="SaltySticks" chance="0.03" />
+		<item name="Crackers" chance="0.03" />
+		<item name="Pajka" chance="0.03" />
+		<item name="Pate" chance="0.03" />
+		<item name="Apple" chance="0.03" />
 	</cargo>
 	<cargo chance="1.0" name="kiwi_bagmedicine">
 		<item name="TerjeSurgicalTool_White" chance="0.05" />
@@ -354,7 +354,7 @@
 		<item name="GasMask_Filter" chance="1.00" />
 	</cargo>
 	<!-- KIWI ATTACHMENTS -->
-	<attachments chance="0.01" name="kiwi_drybag">
+	<attachments chance="0.02" name="kiwi_drybag">
 		<item name="DryBag_Green" chance="0.25" />
 		<item name="DryBag_Red" chance="0.25" />
 		<item name="DryBag_Yellow" chance="0.25" />
