@@ -236,7 +236,7 @@
             "Variants": []
         },
         {
-            "ClassName": "sss",
+            "ClassName": "ssds",
             "MaxPriceThreshold": 999,
             "MinPriceThreshold": 999,
             "SellPricePercent": -1.0,
