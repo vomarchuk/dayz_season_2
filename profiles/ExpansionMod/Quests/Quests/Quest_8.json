@@ -20,7 +20,7 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TD_GRN2014_money200",
+            "ClassName": "TraderPlus_Money_Euro100",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,

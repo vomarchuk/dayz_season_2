@@ -20,15 +20,6 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "DNA_KeyCard_BlisterPackChip_Yellow",
-            "Amount": 1,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        },
-        {
             "ClassName": "RIP_Carbon",
             "Amount": 3,
             "Attachments": [],
@@ -38,26 +29,8 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "RIP_bolts",
-            "Amount": 10,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        },
-        {
-            "ClassName": "RIP_nuts",
-            "Amount": 10,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        },
-        {
-            "ClassName": "RIP_rivets",
-            "Amount": 10,
+            "ClassName": "RIP_Rustymetal",
+            "Amount": 5,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -255,33 +228,6 @@
         },
         {
             "ClassName": "TerjeDrinkGang",
-            "Amount": 1,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        },
-        {
-            "ClassName": "TD_GRN2014_money10",
-            "Amount": 1,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        },
-        {
-            "ClassName": "TD_GRN2014_money20",
-            "Amount": 1,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        },
-        {
-            "ClassName": "TD_GRN2014_money50",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
