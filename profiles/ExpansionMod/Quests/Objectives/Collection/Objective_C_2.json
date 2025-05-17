@@ -8,25 +8,31 @@
     "Collections": [
         {
             "Amount": 1,
-            "ClassName": "FirefightersHelmet_Red",
+            "ClassName": "SurgicalGloves_Blue",
             "QuantityPercent": -1,
             "MinQuantityPercent": -1
         },
         {
             "Amount": 1,
-            "ClassName": "FirefightersPants_Black",
+            "ClassName": "ParamedicPants_Blue",
             "QuantityPercent": -1,
             "MinQuantityPercent": -1
         },
         {
             "Amount": 1,
-            "ClassName": "FirefighterJacket_Black",
+            "ClassName": "ParamedicJacket_Blue",
             "QuantityPercent": -1,
             "MinQuantityPercent": -1
         },
         {
             "Amount": 1,
-            "ClassName": "FirefighterAxe",
+            "ClassName": "MedicalScrubsHat_Blue",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 1,
+            "ClassName": "SurgicalMask",
             "QuantityPercent": -1,
             "MinQuantityPercent": -1
         }
