@@ -15505,7 +15505,7 @@
     <group name="Land_Underground_Stairs_Block" pos="4347.871582 449.230835 15025.264648" rpy="0.000000 0.000000 -53.999985" a="144"/>
     <group name="Land_Underground_Stairs_Exit" pos="4366.836914 464.089294 15009.402344" rpy="-0.000000 0.000000 125.999992" a="-36"/>
     <group name="Land_Underground_Stairs_Start" pos="4367.714355 454.671661 15010.598633" rpy="-0.000000 0.000000 125.999924" a="-35.9999"/>
-    <group name="Land_Underground_Entrance" pos="4399.091797 469.536560 15051.505859" rpy="-0.000000 0.000000 -143.999893" a="-126"/>
+    <!-- <group name="Land_Underground_Entrance" pos="4399.091797 469.536560 15051.505859" rpy="-0.000000 0.000000 -143.999893" a="-126"/> -->
     <group name="Land_Underground_Panel_Lever" pos="4405.511719 471.025177 15055.710938" rpy="0.000000 0.000000 -144.000000" a="-126"/>
     <group name="Land_Underground_Panel_Lever" pos="4398.364258 470.815002 15056.409180" rpy="0.000000 0.000000 125.484955" a="-35.485"/>
     <group name="Land_Underground_Tunnel_Single" pos="4392.449219 469.499146 15042.294922" rpy="-0.000000 -0.000000 35.999996" a="54"/>
