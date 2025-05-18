@@ -115,5 +115,81 @@
         "WhiteListAllow": 0,
         "WhiteList": [],
         "BlackList": []
+    },
+    {
+        "EnableSpawn": 1,
+        "Description": "Stary Yar",
+        "DoorClassName": "RZ_PrisonDoor",
+        "EnableAlarmSound": 1,
+        "AlarmSound": "RZ_KeyCardDoor_Alarm1_Loop_SoundSet",
+        "DoorPosition": [
+            [
+                4397.87,
+                470.877,
+                15057.9
+            ]
+        ],
+        "DoorOrientation": [
+            [
+                -144.0,
+                0.000000,
+                -0.000000
+            ]
+        ],
+        "DoorScale": 1.0,
+        "ActionName": "Відкрити ворота",
+        "TimeForOpen": 10.0,
+        "TimeForClose": 60.0,
+        "EnableNotificationForOpen": 0,
+        "NotificationForOpen": "",
+        "NotificationTitle": "",
+        "NotificationTime": 3.0,
+        "NeedItem": {
+            "Item": "",
+            "ModeFlag": 2,
+            "ItemHealthDamage": 0.0,
+            "ItemQuantityDamage": 0.20
+        },
+        "WhiteListAllow": 0,
+        "WhiteList": [],
+        "BlackList": []
+    },
+    {
+        "EnableSpawn": 1,
+        "Description": "Alkatras",
+        "DoorClassName": "RZ_FireproofDoubleDoor",
+        "EnableAlarmSound": 1,
+        "AlarmSound": "RZ_KeyCardDoor_Alarm1_Loop_SoundSet",
+        "DoorPosition": [
+            [
+                2741.8,
+                27.3712,
+                1284.13
+            ]
+        ],
+        "DoorOrientation": [
+            [
+                95.0242,
+                0.000000,
+                -0.000000
+            ]
+        ],
+        "DoorScale": 1.10,
+        "ActionName": "Відкрити ворота",
+        "TimeForOpen": 10.0,
+        "TimeForClose": 60.0,
+        "EnableNotificationForOpen": 0,
+        "NotificationForOpen": "",
+        "NotificationTitle": "",
+        "NotificationTime": 3.0,
+        "NeedItem": {
+            "Item": "",
+            "ModeFlag": 2,
+            "ItemHealthDamage": 0.0,
+            "ItemQuantityDamage": 0.20
+        },
+        "WhiteListAllow": 0,
+        "WhiteList": [],
+        "BlackList": []
     }
 ]

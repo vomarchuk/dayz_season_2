@@ -6,7 +6,7 @@
             "ObjectType": "vbldr_doorinterier_closed_prx",
             "ObjectCoordinates": [
                 8218.469727,
-                470.817993,
+                470.85,
                 9042.040039
             ],
             "ObjectOrientation": [
@@ -32,7 +32,7 @@
             "ObjectType": "vbldr_doorinterier_closed_prx",
             "ObjectCoordinates": [
                 1402.359985,
-                335.700012,
+                335.75,
                 626.989990
             ],
             "ObjectOrientation": [
@@ -75,7 +75,7 @@
             "RequiredItem": "",
             "RequiredItemDamagePercent": 0,
             "TeleportActiveTimeSeconds": 60,
-            "TeleportCooldownSeconds": 300,
+            "TeleportCooldownSeconds": 1,
             "MissingItemMessage": "Човен в дорозі, зачекай"
         },
         {
@@ -101,7 +101,7 @@
             "RequiredItem": "",
             "RequiredItemDamagePercent": 0,
             "TeleportActiveTimeSeconds": 60,
-            "TeleportCooldownSeconds": 300,
+            "TeleportCooldownSeconds": 1,
             "MissingItemMessage": "Човен в дорозі, зачекай"
         },
         {
