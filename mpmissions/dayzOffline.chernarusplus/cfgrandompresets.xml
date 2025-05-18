@@ -30,7 +30,7 @@
 	<cargo chance="0.00" name="kiwi_bosses">
 		<item name="SodaCan_Fronta" chance="1.0" />
 	</cargo>
-	<cargo chance="0.10" name="kiwi_food">
+	<cargo chance="0.075" name="kiwi_food">
 		<item name="KIWI_Can_MeatRabbit" chance="0.01" />
 		<item name="KIWI_Can_MeatChicken" chance="0.01" />
 		<item name="SodaCan_Cola" chance="0.03" />
@@ -43,14 +43,14 @@
 		<item name="PeachesCan" chance="0.05" />
 		<item name="SpaghettiCan" chance="0.05" />
 		<item name="BakedBeansCan" chance="0.04" />
-		<item name="TunaCan" chance="0.03" />
-		<item name="PowderedMilk" chance="0.03" />
-		<item name="BrisketSpread" chance="0.03" />
-		<item name="SaltySticks" chance="0.03" />
-		<item name="Crackers" chance="0.03" />
-		<item name="Pajka" chance="0.03" />
-		<item name="Pate" chance="0.03" />
-		<item name="Apple" chance="0.03" />
+		<item name="TunaCan" chance="0.075" />
+		<item name="PowderedMilk" chance="0.075" />
+		<item name="BrisketSpread" chance="0.075" />
+		<item name="SaltySticks" chance="0.075" />
+		<item name="Crackers" chance="0.075" />
+		<item name="Pajka" chance="0.075" />
+		<item name="Pate" chance="0.075" />
+		<item name="Apple" chance="0.075" />
 	</cargo>
 	<cargo chance="1.0" name="kiwi_bagmedicine">
 		<item name="TerjeSurgicalTool_White" chance="0.05" />
@@ -249,26 +249,26 @@
 	<cargo chance="0.3" name="ammoPolice">
 		<item name="Ammo_380" chance="0.25" />
 		<item name="AmmoBox_380_35Rnd" chance="0.15" />
-		<item name="Ammo_9x19" chance="0.125" />
-		<item name="AmmoBox_9x19_25Rnd" chance="0.125" />
-		<item name="Ammo_45ACP" chance="0.125" />
-		<item name="AmmoBox_45ACP_25Rnd" chance="0.125" />
-		<item name="Ammo_545x39" chance="0.05" />
-		<item name="AmmoBox_545x39_20Rnd" chance="0.05" />
+		<item name="Ammo_9x19" chance="0.15" />
+		<item name="AmmoBox_9x19_25Rnd" chance="0.1" />
+		<item name="Ammo_45ACP" chance="0.15" />
+		<item name="AmmoBox_45ACP_25Rnd" chance="0.1" />
+		<item name="Ammo_545x39" chance="0.075" />
+		<item name="AmmoBox_545x39_20Rnd" chance="0.025" />
 	</cargo>
 	<cargo chance="0.2" name="ammoArmy">
-		<item name="AmmoBox_9x39_20Rnd" chance="0.15" />
-		<item name="Ammo_9x39" chance="0.15" />
-		<item name="AmmoBox_545x39_20Rnd" chance="0.15" />
-		<item name="Ammo_545x39" chance="0.15" />
-		<item name="AmmoBox_556x45_20Rnd" chance="0.075" />
-		<item name="Ammo_556x45" chance="0.075" />
-		<item name="AmmoBox_762x39_20Rnd" chance="0.075" />
-		<item name="Ammo_762x39" chance="0.075" />
-		<item name="AmmoBox_762x54_20Rnd" chance="0.025" />
-		<item name="Ammo_762x54" chance="0.025" />
-		<item name="AmmoBox_308Win_20Rnd" chance="0.025" />
-		<item name="Ammo_308Win" chance="0.025" />
+		<item name="AmmoBox_9x39_20Rnd" chance="0.1" />
+		<item name="Ammo_9x39" chance="0.2" />
+		<item name="AmmoBox_545x39_20Rnd" chance="0.1" />
+		<item name="Ammo_545x39" chance="0.2" />
+		<item name="AmmoBox_556x45_20Rnd" chance="0.05" />
+		<item name="Ammo_556x45" chance="0.1" />
+		<item name="AmmoBox_762x39_20Rnd" chance="0.05" />
+		<item name="Ammo_762x39" chance="0.1" />
+		<item name="AmmoBox_762x54_20Rnd" chance="0.01" />
+		<item name="Ammo_762x54" chance="0.04" />
+		<item name="AmmoBox_308Win_20Rnd" chance="0.01" />
+		<item name="Ammo_308Win" chance="0.04" />
 	</cargo>
 	<cargo chance="0.1" name="mixVillage">
 		<item name="DuctTape" chance="0.07" />
