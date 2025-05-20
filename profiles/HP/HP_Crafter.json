@@ -782,7 +782,7 @@
         "CategoryName": "Лінійка крафту LYNX",
         "CraftItems": [
           {
-            "Result": "IMP_VHS2",
+            "Result": "IMP_SCARL",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "weaponpic",
@@ -837,15 +837,15 @@
             ]
           },
           {
-            "Result": "IMP_FAL",
+            "Result": "IMP_SCARH",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "weaponpic",
-            "RecipeName": "LAR",
+            "RecipeName": "SCARH",
             "AttachmentDamage": 25.0,
             "CraftComponents": [
               {
-                "Classname": "IMP_VHS2",
+                "Classname": "IMP_SCARL",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -920,7 +920,7 @@
             "AttachmentDamage": 25.0,
             "CraftComponents": [
               {
-                "Classname": "IMP_FAL",
+                "Classname": "IMP_SCARH",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0

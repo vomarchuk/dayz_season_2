@@ -2,8 +2,8 @@
     "BackpackLoot": [
         {
             "BackpackType": "DryBag_Red",
-            "MinCount": 3,
-            "MaxCount": 5,
+            "MinCount": 2,
+            "MaxCount": 4,
             "Items": [
                 {
                     "ItemType": "AmmoBox_22_50Rnd",
@@ -45,8 +45,8 @@
         },
         {
             "BackpackType": "DryBag_Black",
-            "MinCount": 3,
-            "MaxCount": 5,
+            "MinCount": 2,
+            "MaxCount": 3,
             "Items": [
                 {
                     "ItemType": "Crowbar",
@@ -101,7 +101,7 @@
         {
             "BackpackType": "DryBag_Green",
             "MinCount": 3,
-            "MaxCount": 5,
+            "MaxCount": 3,
             "Items": [
                 {
                     "ItemType": "TerjeSurgicalTool_White",
@@ -195,8 +195,8 @@
         },
         {
             "BackpackType": "DryBag_Yellow",
-            "MinCount": 3,
-            "MaxCount": 5,
+            "MinCount": 2,
+            "MaxCount": 4,
             "Items": [
                 {
                     "ItemType": "KIWI_Can_MeatRabbit",
@@ -277,6 +277,97 @@
                 {
                     "ItemType": "Apple",
                     "Chance": 0.075
+                }
+            ]
+        },
+        {
+            "BackpackType": "DryBag_Blue",
+            "MinCount": 1,
+            "MaxCount": 3,
+            "Items": [
+                {
+                    "ItemType": "TerjeBookAthletic1",
+                    "Chance": 0.072
+                },
+                {
+                    "ItemType": "TerjeBookAthletic2",
+                    "Chance": 0.048
+                },
+                {
+                    "ItemType": "TerjeBookAthletic3",
+                    "Chance": 0.024
+                },
+                {
+                    "ItemType": "TerjeBookFishing1",
+                    "Chance": 0.072
+                },
+                {
+                    "ItemType": "TerjeBookFishing2",
+                    "Chance": 0.048
+                },
+                {
+                    "ItemType": "TerjeBookFishing3",
+                    "Chance": 0.024
+                },
+                {
+                    "ItemType": "TerjeBookHunting1",
+                    "Chance": 0.072
+                },
+                {
+                    "ItemType": "TerjeBookHunting2",
+                    "Chance": 0.048
+                },
+                {
+                    "ItemType": "TerjeBookHunting3",
+                    "Chance": 0.024
+                },
+                {
+                    "ItemType": "TerjeBookStealth1",
+                    "Chance": 0.072
+                },
+                {
+                    "ItemType": "TerjeBookStealth2",
+                    "Chance": 0.048
+                },
+                {
+                    "ItemType": "TerjeBookStealth3",
+                    "Chance": 0.024
+                },
+                {
+                    "ItemType": "TerjeBookStrength1",
+                    "Chance": 0.072
+                },
+                {
+                    "ItemType": "TerjeBookStrength2",
+                    "Chance": 0.048
+                },
+                {
+                    "ItemType": "TerjeBookStrength3",
+                    "Chance": 0.024
+                },
+                {
+                    "ItemType": "TerjeBookSurvival1",
+                    "Chance": 0.072
+                },
+                {
+                    "ItemType": "TerjeBookSurvival2",
+                    "Chance": 0.048
+                },
+                {
+                    "ItemType": "TerjeBookSurvival3",
+                    "Chance": 0.024
+                },
+                {
+                    "ItemType": "TerjeBookMedicine1",
+                    "Chance": 0.072
+                },
+                {
+                    "ItemType": "TerjeBookMedicine2",
+                    "Chance": 0.048
+                },
+                {
+                    "ItemType": "TerjeBookMedicine3",
+                    "Chance": 0.024
                 }
             ]
         }

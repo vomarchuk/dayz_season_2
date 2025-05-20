@@ -1486,53 +1486,6 @@
           ]
         }
       ],
-      "mutants": [
-        {
-          "ClassId": "FC_Skin_Brain",
-          "DropChancePercent": 10,
-          "QuantityInStackFromPercent": 100,
-          "QuantityInStackToPercent": 100,
-          "ConditionFrom": 1,
-          "ConditionTo": 3,
-          "Foodstages": []
-        },
-        {
-          "ClassId": "FC_Skin_Heart",
-          "DropChancePercent": 20,
-          "QuantityInStackFromPercent": 100,
-          "QuantityInStackToPercent": 100,
-          "ConditionFrom": 1,
-          "ConditionTo": 3,
-          "Foodstages": []
-        },
-        {
-          "ClassId": "FC_Skin_Liver",
-          "DropChancePercent": 30,
-          "QuantityInStackFromPercent": 100,
-          "QuantityInStackToPercent": 100,
-          "ConditionFrom": 1,
-          "ConditionTo": 3,
-          "Foodstages": []
-        },
-        {
-          "ClassId": "FC_Skin_Eye",
-          "DropChancePercent": 40,
-          "QuantityInStackFromPercent": 100,
-          "QuantityInStackToPercent": 100,
-          "ConditionFrom": 1,
-          "ConditionTo": 3,
-          "Foodstages": []
-        },
-        {
-          "ClassId": "FC_Skin_Worm",
-          "DropChancePercent": 50,
-          "QuantityInStackFromPercent": 100,
-          "QuantityInStackToPercent": 100,
-          "ConditionFrom": 1,
-          "ConditionTo": 3,
-          "Foodstages": []
-        }
-      ],
       "bosses": [
         {
           "ClassId": "FC_Skin_Brain",

@@ -64,7 +64,7 @@
             {
                 "MinPlayers": 0,
                 "MaxPlayers": 255,
-                "MaxPatrols": 5
+                "MaxPatrols": -1
             }
         ],
         "HelicopterWreck": [
