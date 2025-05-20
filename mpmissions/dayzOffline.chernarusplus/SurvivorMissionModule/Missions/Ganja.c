@@ -4,6 +4,7 @@ class GanjaMission extends SurvivorMissions
 	Car MissionCar;
 	Object MissionBuilding;
 	ItemBase MissionObject;
+	Object MCar;
 	
 	//Mission parameters
 	int ReqWeedAmount = 25;					//pieces, mission ganja (equivalent to x * 4 gramms)
@@ -53,8 +54,8 @@ class GanjaMission extends SurvivorMissions
 
 
 		//Spawnpoints for MissionCar in Garage 
-		GarageCarSpawns.Insert("5.055 -1.504 -2.064"); 	//left garage
-		GarageCarSpawns.Insert("-4.702 -1.504 -1.843");	//right garage
+		GarageCarSpawns.Insert("5.055 -0.75 -2.064"); 	//left garage
+		GarageCarSpawns.Insert("-4.95 -0.75 -1.843");	//right garage
 		
 		//Spawnpoints for MissionObjects in middle garage (Do not change order!)
 		Spawnpoints.Insert("1.575 -0.605 -5.431");  //on table right (3x motor oil)
@@ -188,44 +189,44 @@ class GanjaMission extends SurvivorMissions
 		//Create MissionCar
 		Print("[SMM] Spawning mission vehicle");
 		
-		MissionCar = Car.Cast(GetGame().CreateObject("OffroadHatchback", m_MissionPosition ));
-		MissionCar.GetInventory().CreateAttachment("HatchbackWheel");
-		MissionCar.GetInventory().CreateAttachment("HatchbackWheel");
-		MissionCar.GetInventory().CreateAttachment("HatchbackWheel");
-		MissionCar.GetInventory().CreateAttachment("HatchbackWheel");
-		MissionCar.GetInventory().CreateAttachment("HatchbackWheel");
-		MissionCar.GetInventory().CreateAttachment("HatchbackTrunk");
-		MissionCar.GetInventory().CreateAttachment("HatchbackHood");
-		MissionCar.GetInventory().CreateAttachment("HatchbackDoors_Driver");
-		MissionCar.GetInventory().CreateAttachment("HatchbackDoors_CoDriver");
-		MissionCar.GetInventory().CreateAttachment("CarRadiator");
-		MissionCar.GetInventory().CreateAttachment("CarBattery");
-		MissionCar.GetInventory().CreateAttachment("SparkPlug");
-		MissionCar.GetInventory().CreateAttachment("HeadlightH7");
-		MissionCar.GetInventory().CreateAttachment("HeadlightH7");
+		MCar = Object.Cast(GetGame().CreateObject("StaticObj_Wreck_Uaz_DE", m_MissionPosition ));
+		// MissionCar.GetInventory().CreateAttachment("HatchbackWheel");
+		// MissionCar.GetInventory().CreateAttachment("HatchbackWheel");
+		// MissionCar.GetInventory().CreateAttachment("HatchbackWheel");
+		// MissionCar.GetInventory().CreateAttachment("HatchbackWheel");
+		// MissionCar.GetInventory().CreateAttachment("HatchbackWheel");
+		// MissionCar.GetInventory().CreateAttachment("HatchbackTrunk");
+		// MissionCar.GetInventory().CreateAttachment("HatchbackHood");
+		// MissionCar.GetInventory().CreateAttachment("HatchbackDoors_Driver");
+		// MissionCar.GetInventory().CreateAttachment("HatchbackDoors_CoDriver");
+		// MissionCar.GetInventory().CreateAttachment("CarRadiator");
+		// MissionCar.GetInventory().CreateAttachment("CarBattery");
+		// MissionCar.GetInventory().CreateAttachment("SparkPlug");
+		// MissionCar.GetInventory().CreateAttachment("HeadlightH7");
+		// MissionCar.GetInventory().CreateAttachment("HeadlightH7");
 		
-		//Create car inventory
-		MissionCar.GetInventory().CreateInInventory("Canteen");
-		MissionCar.GetInventory().CreateInInventory("PersonalRadio");
-		MissionCar.GetInventory().CreateInInventory("TireRepairKit");
-		MissionCar.GetInventory().CreateInInventory("Battery9V");
-		MissionCar.GetInventory().CreateInInventory("Battery9V");
-		MissionCar.GetInventory().CreateInInventory("Battery9V");
-		MissionCar.GetInventory().CreateInInventory("Battery9V");
-		MissionCar.GetInventory().CreateInInventory("HeadlightH7");
-		MissionCar.GetInventory().CreateInInventory("SparkPlug");
-		MissionCar.GetInventory().CreateInInventory("CarRadiator");
+		// //Create car inventory
+		// MissionCar.GetInventory().CreateInInventory("Canteen");
+		// MissionCar.GetInventory().CreateInInventory("PersonalRadio");
+		// MissionCar.GetInventory().CreateInInventory("TireRepairKit");
+		// MissionCar.GetInventory().CreateInInventory("Battery9V");
+		// MissionCar.GetInventory().CreateInInventory("Battery9V");
+		// MissionCar.GetInventory().CreateInInventory("Battery9V");
+		// MissionCar.GetInventory().CreateInInventory("Battery9V");
+		// MissionCar.GetInventory().CreateInInventory("HeadlightH7");
+		// MissionCar.GetInventory().CreateInInventory("SparkPlug");
+		// MissionCar.GetInventory().CreateInInventory("CarRadiator");
 
-		//Fill coolant with water
-		MissionCar.Fill(CarFluid.COOLANT, 20.0 );
+		// //Fill coolant with water
+		// MissionCar.Fill(CarFluid.COOLANT, 20.0 );
 		
-		//Set car orientation with rear to door 
-		MissionCar.SetOrientation( MissionBuilding.GetOrientation() + "180 0 0" );
+		// //Set car orientation with rear to door 
+		MCar.SetOrientation( MissionBuilding.GetOrientation() + "180 0 0" );
 		
 		//Set car CE lifetime
-		MissionCar.SetLifetime( 3600 );	
+		// MissionCar.SetLifetime( 3600 );	
 		
-		m_MissionObjects.InsertAt( MissionCar, 0 ); 		
+		m_MissionObjects.InsertAt( MCar, 0 ); 		
 	}
 	
 	void SpawnRewards()
@@ -529,8 +530,8 @@ class GanjaMission extends SurvivorMissions
 		// m_MissionMessage2 = "Drive to the    "+ m_MissionDescription[3] +" Gas Station  \nand bring the Ganjabag to cash desk. "+ SurvivorName +"'s ganja has the highest priority. Please don't steal or smoke any of it by your own because it could be very dangerous.";
 		// m_MissionMessage3 = "I have some things for you at the gas station. Be carefull, there might be bandits on the way to "+ m_MissionDescription[3] +". They could intercepted our little radio talk here. Good luck and drive carefully!";
 		
-		m_MissionMessage1 = "Чудово, ти знайшов машину. " + SurvivorName + " злив паливо й масло — підготуй її до поїздки. Збери всі 25 зразків канабісу в мішок.";
-		m_MissionMessage2 = "Достав мішок до АЗС\n  " + m_MissionDescription[3] + " і залиш його на касі. Будь обережний — це небезпечна речовина.";
+		m_MissionMessage1 = "Чудово, ти знайшов машину. " + SurvivorName + " злив паливо й масло. Збери всі 25 зразків канабісу в мішок.";
+		m_MissionMessage2 = "Достав мішок до АЗС " + m_MissionDescription[3] + " і залиш його на касі. Будь обережний — це небезпечна речовина.";
 		m_MissionMessage3 = "На заправці буде винагорода. Але обережно — бандити можуть дізнатися про нашу передачу.";
 
 		//init Messenger for new messages
