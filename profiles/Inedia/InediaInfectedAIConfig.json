@@ -1321,13 +1321,16 @@
     },
     "DamageToZombieWeaponsMultipliers": {
       "all": {
-        "all": 1
+        "all": 1,
+        "SLC_Ninjato": 1.2,
+        "SLC_Tachi": 1.2,
+        "SLC_Katana": 1.2
       },
       "mutants": {
         "BRDK_TakticoolKnife_M2": 10,
-        "SLC_Ninjato": 2,
-        "SLC_Tachi": 2,
-        "SLC_Katana": 2,
+        "SLC_Ninjato": 2.5,
+        "SLC_Tachi": 2.5,
+        "SLC_Katana": 2.5,
         "Bullet_12GaugePellets": 2
       },
       "bosses": {
