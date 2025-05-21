@@ -8,8 +8,8 @@ class RandomItemsList
         // список рандомних нагород
         return {  
             "Blowtorch",
-            "TD_GRN2014_money20",
-            "TD_GRN2014_money50",
+            "TraderPlus_Money_Euro20",
+            "TraderPlus_Money_Euro50",
             "CP_CannabisSeedsPackBlackFrost",
             "CP_CannabisSeedsPackFuture",
             "CP_CannabisSeedsPackNomad",
