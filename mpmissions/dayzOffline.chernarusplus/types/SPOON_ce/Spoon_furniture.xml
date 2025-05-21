@@ -452,7 +452,7 @@
         <nominal>0</nominal>
     </type>
     <type name="OH_old_locker_green_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>43200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -476,7 +476,7 @@
         <nominal>0</nominal>
     </type>
     <type name="OH_old_locker_green_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -825,7 +825,7 @@
     </type>
     <!-- ТЕПЛИЦА КИТ -->
     <type name="OH_kabak_house_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>43200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -982,7 +982,7 @@
     </type>
     <!-- ШИФОНЕР -->
     <type name="OH_shifoner_light_wood_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1004,7 +1004,7 @@
         <nominal>0</nominal>
     </type>
     <type name="OH_shifoner_dark_wood_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1026,7 +1026,7 @@
         <nominal>0</nominal>
     </type>
     <type name="OH_shifoner_red_wood_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1200,7 +1200,7 @@
     </type>
     <!-- ОСВЕЩЕНИЕ -->
     <type name="OH_lamp_wall_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1363,7 +1363,7 @@
     </type>
     <!-- ТУМБОЧКА -->
     <type name="OH_soviet_tumbochka_small_old_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1538,7 +1538,7 @@
     </type>
     <!-- КОМОД -->
     <type name="OH_dresser_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
