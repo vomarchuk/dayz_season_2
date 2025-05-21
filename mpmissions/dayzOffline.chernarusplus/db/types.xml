@@ -6334,21 +6334,21 @@
         <usage name="TrainCrash"/>
     </type>
     <type name="GardenPlot">
-        <lifetime>604800</lifetime>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
         <nominal>0</nominal>
     </type>
     <type name="GardenPlotGreenhouse">
-        <lifetime>604800</lifetime>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
         <nominal>0</nominal>
     </type>
     <type name="GardenPlotPolytunnel">
-        <lifetime>604800</lifetime>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
