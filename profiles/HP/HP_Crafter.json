@@ -5068,11 +5068,11 @@
         "CategoryName": "Фурнітура",
         "CraftItems": [
           {
-            "Result": "rag_baseitems_woodenshelf_small_kit",
+            "Result": "OH_soviet_tumbochka_small_old_Kit",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "craftpic",
-            "RecipeName": "Стелаж (400)",
+            "RecipeName": "Тумбочка для їжі",
             "AttachmentDamage": 25.0,
             "CraftComponents": [
               {
@@ -5090,15 +5090,15 @@
             ],
             "AttachmentsNeed": [
               "Hammer",
-              "Hacksaw"
+              "HandSaw"
             ]
           },
           {
-            "Result": "rag_baseitems_wardrobe_kit",
+            "Result": "OH_dresser_Kit",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "craftpic",
-            "RecipeName": "Шкаф (500)",
+            "RecipeName": "Тумбочка",
             "AttachmentDamage": 25.0,
             "CraftComponents": [
               {
@@ -5116,27 +5116,105 @@
             ],
             "AttachmentsNeed": [
               "Hammer",
-              "Hacksaw"
+              "HandSaw"
             ]
           },
           {
-            "Result": "rag_baseitems_woodenshelf_big_kit",
+            "Result": "OH_shifoner_light_wood_Kit",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "craftpic",
-            "RecipeName": "Сервант (600)",
+            "RecipeName": "Шифонер (світлий)",
             "AttachmentDamage": 25.0,
             "CraftComponents": [
               {
                 "Classname": "WoodenPlank",
-                "Amount": 40,
-                "Destroy": 40,
+                "Amount": 50,
+                "Destroy": 50,
                 "Changehealth": 0
               },
               {
                 "Classname": "Nail",
-                "Amount": 70,
-                "Destroy": 70,
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "Hammer",
+              "HandSaw"
+            ]
+          },
+          {
+            "Result": "OH_shifoner_dark_wood_Kit",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Шифонер (темний)",
+            "AttachmentDamage": 25.0,
+            "CraftComponents": [
+              {
+                "Classname": "WoodenPlank",
+                "Amount": 50,
+                "Destroy": 50,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Nail",
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "Hammer",
+              "HandSaw"
+            ]
+          },
+          {
+            "Result": "OH_shifoner_red_wood_Kit",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Шифонер (червоний)",
+            "AttachmentDamage": 25.0,
+            "CraftComponents": [
+              {
+                "Classname": "WoodenPlank",
+                "Amount": 50,
+                "Destroy": 50,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Nail",
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "Hammer",
+              "HandSaw"
+            ]
+          },
+          {
+            "Result": "OH_old_locker_green_Kit",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Шафа для спорядження",
+            "AttachmentDamage": 25.0,
+            "CraftComponents": [
+              {
+                "Classname": "MetalPlate",
+                "Amount": 20,
+                "Destroy": 20,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Nail",
+                "Amount": 100,
+                "Destroy": 100,
                 "Changehealth": 0
               }
             ],
@@ -5146,39 +5224,7 @@
             ]
           },
           {
-            "Result": "rag_baseitems_lantern_kit",
-            "ResultCount": 1,
-            "ComponentsDontAffectHealth": 1,
-            "CraftType": "craftpic",
-            "RecipeName": "Ліхтар",
-            "AttachmentDamage": 25.0,
-            "CraftComponents": [
-              {
-                "Classname": "WoodenLog",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "Spotlight",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "Nail",
-                "Amount": 50,
-                "Destroy": 50,
-                "Changehealth": 0
-              }
-            ],
-            "AttachmentsNeed": [
-              "SledgeHammer",
-              "Handsaw"
-            ]
-          },
-          {
-            "Result": "rag_baseitems_lantern_wall_kit",
+            "Result": "OH_lamp_wall_Kit",
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "craftpic",
@@ -5186,7 +5232,7 @@
             "AttachmentDamage": 25.0,
             "CraftComponents": [
               {
-                "Classname": "MetalPlate",
+                "Classname": "Pipe",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
@@ -5205,8 +5251,46 @@
               }
             ],
             "AttachmentsNeed": [
-              "SledgeHammer",
+              "Hammer",
               "Hacksaw"
+            ]
+          },
+          {
+            "Result": "OH_kabak_house_Kit",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Теплиця",
+            "AttachmentDamage": 25.0,
+            "CraftComponents": [
+              {
+                "Classname": "WoodenPlank",
+                "Amount": 50,
+                "Destroy": 50,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_GlassPK",
+                "Amount": 10,
+                "Destroy": 10,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Spotlight",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Nail",
+                "Amount": 150,
+                "Destroy": 150,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "Hammer",
+              "HandSaw"
             ]
           }
         ]

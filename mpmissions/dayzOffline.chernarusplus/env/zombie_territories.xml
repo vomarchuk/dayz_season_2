@@ -26,18 +26,18 @@
 
     <!-- Biatlon TOXIC -->
     <territory color="4278190132">
-        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="4" x="483.455872" z="11041.961914" r="20"/>
-        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="5" x="547.336487" z="11108.253906" r="25"/>
-        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="5" x="527.020996" z="11174.525391" r="25"/>
-        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="5" x="471.752625" z="11117.268555" r="25"/>
-        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="5" x="409.917908" z="11070.181641" r="25"/>
-        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="5" x="438.917908" z="11179.181641" r="25"/>
-        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="3" x="600.917908" z="11313.181641" r="25"/>
-        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="3" x="697.917908" z="11190.181641" r="25"/>
-        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="3" x="583.917908" z="11145.181641" r="25"/>
-        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="3" x="568.917908" z="11246.181641" r="25"/>
-        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="5" x="663.617615" z="11257.716797" r="30"/>
-        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="5" x="503.617615" z="11238.716797" r="30"/>
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="5" dmax="8" x="483.455872" z="11041.961914" r="30"/>
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="5" dmax="8" x="547.336487" z="11108.253906" r="35"/>
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="5" dmax="8" x="527.020996" z="11174.525391" r="35"/>
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="5" dmax="8" x="471.752625" z="11117.268555" r="35"/>
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="5" dmax="8" x="409.917908" z="11070.181641" r="35"/>
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="5" dmax="8" x="438.917908" z="11179.181641" r="35"/>
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="5" dmax="8" x="600.917908" z="11313.181641" r="35"/>
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="5" dmax="8" x="697.917908" z="11190.181641" r="35"/>
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="5" dmax="8" x="583.917908" z="11145.181641" r="35"/>
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="5" dmax="8" x="568.917908" z="11246.181641" r="35"/>
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="4" dmax="7" x="663.617615" z="11257.716797" r="30"/>
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="4" dmax="7" x="503.617615" z="11238.716797" r="30"/>
     </territory>
 
     <!-- Tisy TOXIC -->
@@ -45,21 +45,21 @@
         <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="5" dmax="15" x="599.419800" z="13664.320313" r="60"/>
         <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="5" x="589.419800" z="13611.320313" r="20"/>
         <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="5" x="619.419800" z="13569.320313" r="20"/>
-        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="3" x="593.336487" z="13635.253906" r="25"/>
-        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="3" x="574.020996" z="13659.525391" r="25"/>
-        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="2" x="546.752625" z="13666.268555" r="25"/>
-        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="2" x="587.917908" z="13700.181641" r="25"/>
-        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="2" x="626.617615" z="13667.716797" r="30"/>
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="5" x="593.336487" z="13635.253906" r="25"/>
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="5" x="574.020996" z="13659.525391" r="25"/>
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="5" x="546.752625" z="13666.268555" r="25"/>
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="5" x="587.917908" z="13700.181641" r="25"/>
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="5" x="626.617615" z="13667.716797" r="30"/>
     </territory>
 
     <!-- Rify TOXIC -->
     <territory color="4278190054">
         <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="5" x="13919.419800" z="11186.320313" r="20"/>
-        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="3" x="13838.336487" z="11190.253906" r="25"/>
-        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="3" x="13792.020996" z="11186.525391" r="25"/>
-        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="2" x="13739.752625" z="11184.268555" r="25"/>
-        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="2" x="13691.917908" z="11132.181641" r="25"/>
-        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="2" x="13708.617615" z="11219.716797" r="30"/>
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="5" x="13838.336487" z="11190.253906" r="25"/>
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="5" x="13792.020996" z="11186.525391" r="25"/>
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="5" x="13739.752625" z="11184.268555" r="25"/>
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="5" x="13691.917908" z="11132.181641" r="25"/>
+        <zone name="Infected_Toxic_t4" smin="0" smax="0" dmin="2" dmax="5" x="13708.617615" z="11219.716797" r="30"/>
     </territory>
     
     <territory color="4278190080">
