@@ -365,7 +365,7 @@
                 "attachments": []
             },
             "premium_reward": {
-                "name": "Flag_KIWI",
+                "name": "Flag_DayZ",
                 "quantity": 1,
                 "attachments": []
             }
@@ -541,7 +541,7 @@
                 "attachments": []
             },
             "premium_reward": {
-                "name": "",
+                "name": "TerjeBookAthletic5",
                 "quantity": 1,
                 "attachments": []
             }
@@ -555,7 +555,7 @@
                 "attachments": []
             },
             "premium_reward": {
-                "name": "",
+                "name": "WeaponCleaningKit",
                 "quantity": 1,
                 "attachments": []
             }
@@ -569,7 +569,7 @@
                 "attachments": []
             },
             "premium_reward": {
-                "name": "",
+                "name": "KIWI_Can_MeatCow",
                 "quantity": 1,
                 "attachments": []
             }
@@ -620,10 +620,10 @@
             "startExp": 4200,
             "endExp": 4500,
             "free_reward": {
-                "name": "IMP_AN94",
+                "name": "Flag_KIWI",
                 "quantity": 1,
                 "attachments": [
-                    "Mag_AK74_30Rnd_Black"
+                    ""
                 ]
             },
             "premium_reward": {
