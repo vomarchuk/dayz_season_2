@@ -3480,7 +3480,7 @@
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "craftpic",
-            "RecipeName": "Бронежилет FIXER V2",
+            "RecipeName": "Бронежилет FIXER 2 класу",
             "AttachmentDamage": 25.0,
             "CraftComponents": [
               {
@@ -3548,7 +3548,7 @@
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "craftpic",
-            "RecipeName": "Бронежилет FIXER V2",
+            "RecipeName": "Бронежилет FIXER 2 класу",
             "AttachmentDamage": 25.0,
             "CraftComponents": [
               {
@@ -3616,7 +3616,7 @@
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "craftpic",
-            "RecipeName": "Бронежилет 3 класу",
+            "RecipeName": "Бронежилет FIXER 3 класу",
             "AttachmentDamage": 25.0,
             "CraftComponents": [
               {
@@ -3685,7 +3685,7 @@
             "ResultCount": 1,
             "ComponentsDontAffectHealth": 1,
             "CraftType": "craftpic",
-            "RecipeName": "Бронежилет 3 класу",
+            "RecipeName": "Бронежилет FIXER 3 класу",
             "AttachmentDamage": 25.0,
             "CraftComponents": [
               {
@@ -3747,6 +3747,158 @@
               "HP_Anvil",
               "HP_Vise",
               "HP_Drill"
+            ]
+          },
+          {
+            "Result": "VM_FIXvestIIO_V4",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Бронежилет FIXER 4 класу",
+            "AttachmentDamage": 25.0,
+            "CraftComponents": [
+              {
+                "Classname": "VM_FIXvestIIO_V3",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP4",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Pliers",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Kevlar",
+                "Amount": 5000,
+                "Destroy": 5000,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Fabric",
+                "Amount": 15,
+                "Destroy": 15,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "LeatherSewingKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TireRepairKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Drill",
+              "HP_Vise",
+              "HP_Grinde"
+            ]
+          },
+          {
+            "Result": "VM_FIXvestBGIIO_V4",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Бронежилет FIXER 4 класу",
+            "AttachmentDamage": 25.0,
+            "CraftComponents": [
+              {
+                "Classname": "VM_FIXvestBGIIO_V3",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_AP4",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hammer",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Pliers",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Kevlar",
+                "Amount": 5000,
+                "Destroy": 5000,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Carbon",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Fabric",
+                "Amount": 15,
+                "Destroy": 15,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "LeatherSewingKit",
+                "Amount": 300,
+                "Destroy": 300,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_rivets",
+                "Amount": 30,
+                "Destroy": 30,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "TireRepairKit",
+                "Amount": 500,
+                "Destroy": 500,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Anvil",
+              "HP_Drill",
+              "HP_Vise",
+              "HP_Grinde"
             ]
           }
         ]
@@ -3901,158 +4053,6 @@
             "CraftComponents": [
               {
                 "Classname": "VM_Ghost_Vest_V3",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_AP4",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "Hammer",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "Pliers",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_Kevlar",
-                "Amount": 5000,
-                "Destroy": 5000,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_Carbon",
-                "Amount": 30,
-                "Destroy": 30,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "Fabric",
-                "Amount": 15,
-                "Destroy": 15,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "LeatherSewingKit",
-                "Amount": 300,
-                "Destroy": 300,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_rivets",
-                "Amount": 30,
-                "Destroy": 30,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "TireRepairKit",
-                "Amount": 500,
-                "Destroy": 500,
-                "Changehealth": 0
-              }
-            ],
-            "AttachmentsNeed": [
-              "HP_Anvil",
-              "HP_Drill",
-              "HP_Vise",
-              "HP_Grinde"
-            ]
-          },
-          {
-            "Result": "VM_FIXvestIIO_V4",
-            "ResultCount": 1,
-            "ComponentsDontAffectHealth": 1,
-            "CraftType": "craftpic",
-            "RecipeName": "Бронежилет FIXER V4",
-            "AttachmentDamage": 25.0,
-            "CraftComponents": [
-              {
-                "Classname": "VM_FIXvestIIO_V3",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_AP4",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "Hammer",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "Pliers",
-                "Amount": 1,
-                "Destroy": 1,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_Kevlar",
-                "Amount": 5000,
-                "Destroy": 5000,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_Carbon",
-                "Amount": 30,
-                "Destroy": 30,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "Fabric",
-                "Amount": 15,
-                "Destroy": 15,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "LeatherSewingKit",
-                "Amount": 300,
-                "Destroy": 300,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "RIP_rivets",
-                "Amount": 30,
-                "Destroy": 30,
-                "Changehealth": 0
-              },
-              {
-                "Classname": "TireRepairKit",
-                "Amount": 500,
-                "Destroy": 500,
-                "Changehealth": 0
-              }
-            ],
-            "AttachmentsNeed": [
-              "HP_Anvil",
-              "HP_Drill",
-              "HP_Vise",
-              "HP_Grinde"
-            ]
-          },
-          {
-            "Result": "VM_FIXvestBGIIO_V4",
-            "ResultCount": 1,
-            "ComponentsDontAffectHealth": 1,
-            "CraftType": "craftpic",
-            "RecipeName": "Бронежилет FIXER V4",
-            "AttachmentDamage": 25.0,
-            "CraftComponents": [
-              {
-                "Classname": "VM_FIXvestBGIIO_V3",
                 "Amount": 1,
                 "Destroy": 1,
                 "Changehealth": 0
