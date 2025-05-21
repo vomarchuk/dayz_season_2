@@ -5276,6 +5276,12 @@
                 "Changehealth": 0
               },
               {
+                "Classname": "Spotlight",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
                 "Classname": "Nail",
                 "Amount": 150,
                 "Destroy": 150,
