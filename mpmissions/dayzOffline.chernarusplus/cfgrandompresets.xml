@@ -24,11 +24,11 @@
 	<cargo chance="0.10" name="kiwi_medic">
 		<item name="LB_LC_Key1_Green" chance="1.0" />
 	</cargo>
-	<cargo chance="0.00" name="kiwi_mutants">
-		<item name="SodaCan_Kvass" chance="1.0" />
+	<cargo chance="0.075" name="kiwi_mutants">
+		<item name="RIP_DocFolderLeatherWide" chance="1.0" />
 	</cargo>
-	<cargo chance="0.00" name="kiwi_bosses">
-		<item name="SodaCan_Fronta" chance="1.0" />
+	<cargo chance="0.10" name="kiwi_bosses">
+		<item name="RIP_DocFolderLeather2" chance="1.0" />
 	</cargo>
 	<cargo chance="0.075" name="kiwi_food">
 		<item name="KIWI_Can_MeatRabbit" chance="0.01" />
