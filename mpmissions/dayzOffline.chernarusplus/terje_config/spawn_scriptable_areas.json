@@ -254,6 +254,23 @@
         "InnerRadius": 60.0,
         "Power": 0.35
       }
+    },
+    {
+      "Active": 1,
+      "Classname": "TerjePsionicScriptableArea",
+      "Position": [
+        1087.612549,
+        150.740356,
+        6633.815918
+      ],
+      "SpawnChance": 1.0,
+      "Data": {
+        "HeightMin": -50.0,
+        "HeightMax": 50.0,
+        "OuterRadius": 85.0,
+        "InnerRadius": 50.0,
+        "Power": 0.35
+      }
     }
   ]
 }
