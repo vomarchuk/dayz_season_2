@@ -175,7 +175,7 @@
                 469.674280,
                 15054.024414
             ],
-            "CheckRadius": 3,
+            "CheckRadius": 2,
             "RequiredItem": "",
             "RequiredItemDamagePercent": 0,
             "TeleportActiveTimeSeconds": 0,
@@ -185,7 +185,7 @@
         {
             "EnableTeleport": 1,
             "TeleportName": "Teleport in Yar",
-            "ObjectType": "bldr_TB_Doors_B",
+            "ObjectType": "bldr_TB_Doors_A",
             "ObjectCoordinates": [
                 4393.713867,
                 469.513794,
@@ -201,7 +201,7 @@
                 469.602136,
                 15048.516602
             ],
-            "CheckRadius": 3,
+            "CheckRadius": 2,
             "RequiredItem": "RZ_KeycardDD_lvl1",
             "RequiredItemDamagePercent": 100,
             "TeleportActiveTimeSeconds": 0,
