@@ -1827,10 +1827,9 @@
     {
       "CategoryName": "Best items",
       "Products": [
-        "DNA_KeyCard_Blank,1,-1,0,2000,200",
-        "DNA_KeyCard_KeyCardChip_Burnt,1,-1,0,-1,500",
         "HP_Crafter_Kit,1,-1,0,25000,2500",
-        "bl_repairbench_Kit,1,-1,0,100000,10000"
+        "Repair_Workbench_Box,1,-1,0,30000,3000",
+        "Repair_Workbench_Box,1,-1,0,20000,2000"
       ]
     },
     {

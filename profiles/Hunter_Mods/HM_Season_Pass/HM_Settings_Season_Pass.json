@@ -564,8 +564,8 @@
             "startExp": 3000,
             "endExp": 3300,
             "free_reward": {
-                "name": "",
-                "quantity": 1,
+                "name": "TD_GRN2014_money100",
+                "quantity": 10,
                 "attachments": []
             },
             "premium_reward": {
@@ -583,7 +583,7 @@
                 "attachments": []
             },
             "premium_reward": {
-                "name": "",
+                "name": "NailBox",
                 "quantity": 1,
                 "attachments": []
             }
@@ -627,7 +627,7 @@
                 ]
             },
             "premium_reward": {
-                "name": "IMP_Supp_PBS4_AK",
+                "name": "HuntingKnife",
                 "quantity": 1,
                 "attachments": []
             }
@@ -650,7 +650,7 @@
             "startExp": 5000,
             "endExp": 5500,
             "free_reward": {
-                "name": "",
+                "name": "TerjeBookSurvival4",
                 "quantity": 1,
                 "attachments": []
             },
