@@ -175,7 +175,7 @@
                 469.674280,
                 15054.024414
             ],
-            "CheckRadius": 5,
+            "CheckRadius": 3,
             "RequiredItem": "",
             "RequiredItemDamagePercent": 0,
             "TeleportActiveTimeSeconds": 0,
@@ -201,7 +201,7 @@
                 469.602136,
                 15048.516602
             ],
-            "CheckRadius": 5,
+            "CheckRadius": 3,
             "RequiredItem": "RZ_KeycardDD_lvl1",
             "RequiredItemDamagePercent": 100,
             "TeleportActiveTimeSeconds": 0,
