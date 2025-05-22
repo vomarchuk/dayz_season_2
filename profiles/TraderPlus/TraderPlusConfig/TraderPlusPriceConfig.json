@@ -1676,8 +1676,8 @@
         "NBCGlovesGray,1,-1,0,-1,250",
         "AirborneMask,1,-1,0,-1,350",
         "GP5GasMask,1,-1,0,-1,350",
-        "GasMask,1,-1,0,-1,150",
-        "GasMask_Filter,1,-1,0,-1,100"
+        "GasMask,1,-1,0,-1,200",
+        "GasMask_Filter,1,-1,0,-1,150"
       ]
     },
     {
