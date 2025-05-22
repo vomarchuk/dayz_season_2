@@ -3261,18 +3261,30 @@
         <nominal>0</nominal>
     </type>
     <type name="IMP_Mag_ASH12_10Rnd">
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
     </type>
     <type name="IMP_Mag_ASH12_20Rnd">
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="ContaminatedArea"/> 
+        <value name="Tier4"/>
     </type>
     <type name="IMP_Mag_ASH12_Tape_40Rnd">
         <lifetime>7200</lifetime>
@@ -3331,18 +3343,31 @@
         <nominal>0</nominal>
     </type>
     <type name="IMP_Mag_HK417_10Rnd">
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="IMP_Mag_HK417_20Rnd">
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
     </type>
     <type name="IMP_Mag_HKMR308_20Rnd">
         <lifetime>7200</lifetime>
@@ -3366,11 +3391,17 @@
         <nominal>0</nominal>
     </type>
     <type name="IMP_Mag_HB_30Rnd">
+        <nominal>3</nominal>
         <lifetime>7200</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
     </type>
     <type name="IMP_Mag_HB_Tape_60Rnd">
         <lifetime>7200</lifetime>
@@ -3408,11 +3439,17 @@
         <nominal>0</nominal>
     </type>
     <type name="IMP_Mag_MAR10_10rnd">
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
     </type>
     <type name="IMP_Mag_RPK16_Drum_90Rnd">
         <lifetime>7200</lifetime>
@@ -3422,11 +3459,17 @@
         <nominal>0</nominal>
     </type>
     <type name="IMP_Mag_SCARH_30Rnd">
+        <nominal>3</nominal>
         <lifetime>7200</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
     </type>
     <type name="IMP_Mag_SIG_30Rnd">
         <lifetime>7200</lifetime>
@@ -3653,11 +3696,17 @@
         <nominal>0</nominal>
     </type>
     <type name="IMP_Mag_AWM_5Rnd">
+        <nominal>3</nominal>
         <lifetime>7200</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
     </type>
     <type name="IMP_Mag_AX338_5Rnd">
         <lifetime>7200</lifetime>
@@ -3723,11 +3772,18 @@
         <nominal>0</nominal>
     </type>
     <type name="IMP_Mag_M24_5Rnd">
+        <nominal>6</nominal>
         <lifetime>7200</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="IMP_Mag_M300_5Rnd">
         <lifetime>7200</lifetime>
@@ -3737,25 +3793,43 @@
         <nominal>0</nominal>
     </type>
     <type name="IMP_Mag_M300New_5Rnd">
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
     </type>
     <type name="IMP_Mag_M82A1_10Rnd">
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="ContaminatedArea"/> 
+        <value name="Tier4"/>
     </type>
     <type name="IMP_Mag_M98B_10Rnd">
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
     </type>
     <type name="IMP_Mag_McMillan_CS5_10Rnd">
         <lifetime>7200</lifetime>
@@ -4199,11 +4273,17 @@
         <nominal>0</nominal>
     </type>
     <type name="IMP_Mag_GM6Lynx_5Rnd">
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="ContaminatedArea"/> 
+        <value name="Tier4"/>
     </type>
     <type name="IMP_KSVK_Mag_5Rnd">
         <lifetime>7200</lifetime>
@@ -4247,11 +4327,17 @@
         <value name="Tier4"/>
     </type>
     <type name="IMP_Mag_SnipeX_Alligator_5Rnd">
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <min>1</min>
+        <quantmin>30</quantmin>
+        <quantmax>70</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="ContaminatedArea"/>
+        <value name="Tier4"/>
     </type>
     <type name="IMP_Mag_PKM_150Rnd">
         <lifetime>7200</lifetime>
@@ -4259,5 +4345,18 @@
         <min>0</min>
         <restock>0</restock>
         <nominal>0</nominal>
+    </type>
+    <type name="IMP_ClipMag">
+        <nominal>4</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
     </type>
 </types>

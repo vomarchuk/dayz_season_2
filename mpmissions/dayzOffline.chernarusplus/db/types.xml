@@ -9323,10 +9323,10 @@
         <usage name="Military"/>
     </type>
     <type name="M4A1">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>3599</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>

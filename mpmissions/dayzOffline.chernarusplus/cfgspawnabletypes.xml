@@ -3181,7 +3181,7 @@
 			<item name="Mag_AK101_30Rnd" chance="1.00" />
 		</attachments>
 	</type>
-	<type name="M4A1">
+	<!-- <type name="M4A1">
 		<damage min="0.45" max="0.85" />
 		<attachments chance="1.00">
 			<item name="M4_OEBttstck" chance="1.00" />
@@ -3199,7 +3199,7 @@
 			<item name="Mag_CMAG_20Rnd" chance="0.70" />
 			<item name="Mag_CMAG_30Rnd" chance="1.00" />
 		</attachments>
-	</type>
+	</type> -->
 	<type name="M16A2">
 		<damage min="0.3" max="0.7" />
 		<attachments chance="0.30">
