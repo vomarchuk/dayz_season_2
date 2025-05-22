@@ -350,7 +350,7 @@
 	</attachments>
 	<!--NBC
 	Cargo-->
-	<cargo chance="0.1" name="ContaminatedCargo">
+	<cargo chance="0.01" name="ContaminatedCargo">
 		<item name="GasMask_Filter" chance="1.00" />
 	</cargo>
 	<!-- KIWI ATTACHMENTS -->

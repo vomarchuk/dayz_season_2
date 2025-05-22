@@ -511,7 +511,7 @@
 	</type>
 	<type name="GP5GasMask">
 		<damage min="0.0" max="0.35" />
-		<cargo chance="0.1">
+		<cargo chance="0.01">
 			<item name="GasMask_Filter" />
 		</cargo>
 	</type>
