@@ -262,15 +262,41 @@
         },
         {
             "EnableTeleport": 1,
+            "TeleportName": "Teleport out Tisy2",
+            "ObjectType": "bldr_static_mi8_civilian",
+            "ObjectCoordinates": [
+                892.125244,
+                475.284210,
+                14771.754883
+            ],
+            "ObjectOrientation": [
+                171.000076,
+                0.000000,
+                -0.000000
+            ],
+            "TeleportPosition": [
+                1315.176025,
+                454.756927,
+                14491.929688
+            ],
+            "CheckRadius": 5,
+            "RequiredItem": "",
+            "RequiredItemDamagePercent": 0,
+            "TeleportActiveTimeSeconds": 0,
+            "TeleportCooldownSeconds": 0,
+            "MissingItemMessage": "Підійди ближче"
+        },
+        {
+            "EnableTeleport": 1,
             "TeleportName": "Teleport out Tisy",
             "ObjectType": "bldr_TB_Doors_A",
             "ObjectCoordinates": [
-                1312.099365,
-                454.778320,
-                14492.850586
+                1304.952148,
+                454.425049,
+                14496.774414
             ],
             "ObjectOrientation": [
-                -64.467873,
+                -69.041199,
                 0.000000,
                 0.000000
             ],
@@ -279,7 +305,7 @@
                 454.756927,
                 14491.929688
             ],
-            "CheckRadius": 2,
+            "CheckRadius": 3,
             "RequiredItem": "",
             "RequiredItemDamagePercent": 0,
             "TeleportActiveTimeSeconds": 0,
@@ -301,11 +327,11 @@
                 0.000000
             ],
             "TeleportPosition": [
-                1310.437012,
-                454.650085,
-                14494.564453
+                1303.346069,
+                454.403900,
+                14497.942383
             ],
-            "CheckRadius": 2,
+            "CheckRadius": 3,
             "RequiredItem": "RZ_KeycardDD_lvl5",
             "RequiredItemDamagePercent": 100,
             "TeleportActiveTimeSeconds": 0,
