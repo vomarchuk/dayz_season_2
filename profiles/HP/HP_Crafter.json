@@ -857,6 +857,12 @@
                 "Changehealth": 0
               },
               {
+                "Classname": "Pipe",
+                "Amount": 2,
+                "Destroy": 2,
+                "Changehealth": 0
+              },
+              {
                 "Classname": "HP_napilnik",
                 "Amount": 1,
                 "Destroy": 1,
@@ -1616,7 +1622,7 @@
         ]
       },
       {
-        "CategoryName": "Кейси",
+        "CategoryName": "Кейси та холодильники",
         "CraftItems": [
           {
             "Result": "Custom_ProtectorCase_25",
@@ -1972,6 +1978,147 @@
               "HP_Anvil",
               "HP_Payalnik",
               "HP_napilnik"
+            ]
+          },
+          {
+            "Result": "PD_fridge_48",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Холодильник на 48 слотів",
+            "AttachmentDamage": 25.0,
+            "CraftComponents": [
+              {
+                "Classname": "PD_fridge_24",
+                "Amount": 2,
+                "Destroy": 2,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Blowtorch",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Screwdriver",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hacksaw",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "ElectronicRepairKit",
+                "Amount": 250,
+                "Destroy": 250,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "MetalPlate",
+                "Amount": 10,
+                "Destroy": 10,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "MediumGasCanister",
+                "Amount": 60,
+                "Destroy": 60,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Plastik",
+                "Amount": 25,
+                "Destroy": 25,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_CuttingDisc",
+                "Amount": 3,
+                "Destroy": 3,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Vise",
+              "HP_Anvil",
+              "HP_Drill",
+              "SledgeHammer"
+            ]
+          },
+          {
+            "Result": "PD_fridge_48",
+            "ResultCount": 1,
+            "ComponentsDontAffectHealth": 1,
+            "CraftType": "craftpic",
+            "RecipeName": "Холодильник на 100 слотів",
+            "AttachmentDamage": 25.0,
+            "CraftComponents": [
+              {
+                "Classname": "PD_fridge_48",
+                "Amount": 2,
+                "Destroy": 2,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Blowtorch",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Screwdriver",
+                "Amount": 2,
+                "Destroy": 2,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "Hacksaw",
+                "Amount": 1,
+                "Destroy": 1,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "ElectronicRepairKit",
+                "Amount": 400,
+                "Destroy": 400,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "MetalPlate",
+                "Amount": 20,
+                "Destroy": 20,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "LargeGasCanister",
+                "Amount": 100,
+                "Destroy": 100,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "RIP_Plastik",
+                "Amount": 50,
+                "Destroy": 50,
+                "Changehealth": 0
+              },
+              {
+                "Classname": "KIWI_DuctTape_XL",
+                "Amount": 1000,
+                "Destroy": 1000,
+                "Changehealth": 0
+              }
+            ],
+            "AttachmentsNeed": [
+              "HP_Vise",
+              "HP_Anvil",
+              "HP_Drill",
+              "HP_Grinde",
+              "SledgeHammer"
             ]
           }
         ]
