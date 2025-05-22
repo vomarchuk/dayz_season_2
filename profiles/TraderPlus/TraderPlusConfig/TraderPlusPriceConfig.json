@@ -1828,7 +1828,7 @@
       "CategoryName": "Best items",
       "Products": [
         "HP_Crafter_Kit,1,-1,0,25000,2500",
-        "Repair_Workbench_Box,1,-1,0,30000,3000",
+        "Ammo_Workbench_Box,1,-1,0,30000,3000",
         "Repair_Workbench_Box,1,-1,0,20000,2000"
       ]
     },
