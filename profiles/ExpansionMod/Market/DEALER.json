@@ -10,7 +10,7 @@
             "ClassName": "TraderPlus_Money_Euro1",
             "MaxPriceThreshold": 100,
             "MinPriceThreshold": 100,
-            "SellPricePercent": -1.0,
+            "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
