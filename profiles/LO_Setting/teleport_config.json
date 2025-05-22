@@ -159,14 +159,14 @@
         {
             "EnableTeleport": 1,
             "TeleportName": "Teleport out Yar",
-            "ObjectType": "Config-Type: bldr_TB_Doors_B",
+            "ObjectType": "bldr_TB_Doors_B",
             "ObjectCoordinates": [
-                4393.819824,
-                469.516998,
-                15048.599609
+                4393.772461,
+                469.487000,
+                15048.668945
             ],
             "ObjectOrientation": [
-                -52.377800,
+                -54.000389,
                 0.000000,
                 0.000000
             ],
@@ -187,64 +187,12 @@
             "TeleportName": "Teleport in Yar",
             "ObjectType": "bldr_TB_Doors_B",
             "ObjectCoordinates": [
-                4393.850098,
-                469.582001,
-                15051.200195
+                4393.713867,
+                469.513794,
+                15051.090820
             ],
             "ObjectOrientation": [
-                -143.637238,
-                0.000000,
-                -0.000000
-            ],
-            "TeleportPosition": [
-                4395.138184,
-                469.602136,
-                15048.516602
-            ],
-            "CheckRadius": 5,
-            "RequiredItem": "RZ_KeycardDD_lvl1",
-            "RequiredItemDamagePercent": 100,
-            "TeleportActiveTimeSeconds": 0,
-            "TeleportCooldownSeconds": 1,
-            "MissingItemMessage": ""
-        },
-        {
-            "EnableTeleport": 1,
-            "TeleportName": "Teleport out Yar",
-            "ObjectType": "Config-Type: bldr_TB_Doors_B",
-            "ObjectCoordinates": [
-                4393.819824,
-                469.516998,
-                15048.599609
-            ],
-            "ObjectOrientation": [
-                -52.377800,
-                0.000000,
-                0.000000
-            ],
-            "TeleportPosition": [
-                4395.540039,
-                469.674280,
-                15054.024414
-            ],
-            "CheckRadius": 5,
-            "RequiredItem": "",
-            "RequiredItemDamagePercent": 0,
-            "TeleportActiveTimeSeconds": 0,
-            "TeleportCooldownSeconds": 0,
-            "MissingItemMessage": ""
-        },
-        {
-            "EnableTeleport": 1,
-            "TeleportName": "Teleport in Yar",
-            "ObjectType": "bldr_TB_Doors_B",
-            "ObjectCoordinates": [
-                4393.850098,
-                469.582001,
-                15051.200195
-            ],
-            "ObjectOrientation": [
-                -143.637238,
+                -143.358810,
                 0.000000,
                 -0.000000
             ],
@@ -263,21 +211,21 @@
         {
             "EnableTeleport": 1,
             "TeleportName": "Teleport out Alka",
-            "ObjectType": "Config-Type: bldr_TB_Doors_B",
+            "ObjectType": "bldr_Prison_MainCastle_barsdoors",
             "ObjectCoordinates": [
-                2740.909912,
-                25.230900,
-                1283.540039
+                2746.715820,
+                27.096189,
+                1284.092651
             ],
             "ObjectOrientation": [
-                -91.790558,
+                2.522192,
                 0.000000,
                 -0.000000
             ],
             "TeleportPosition": [
-                2738.963379,
-                24.811466,
-                1284.883179
+                2739.717041,
+                24.958403,
+                1284.579346
             ],
             "CheckRadius": 5,
             "RequiredItem": "",
@@ -289,21 +237,21 @@
         {
             "EnableTeleport": 1,
             "TeleportName": "Teleport in Alka",
-            "ObjectType": "bldr_TB_Doors_B",
+            "ObjectType": "bldr_Prison_MainCastle_barsdoors",
             "ObjectCoordinates": [
-                2740.669922,
-                25.230900,
-                1283.510010
+                2741.024658,
+                26.303089,
+                1284.070923
             ],
             "ObjectOrientation": [
-                -93.409485,
+                -2.455685,
                 0.000000,
-                -0.000000
+                0.000000
             ],
             "TeleportPosition": [
-                2759.226074,
-                43.93,
-                1286.656738
+                2748.074707,
+                25.964479,
+                1283.511719
             ],
             "CheckRadius": 5,
             "RequiredItem": "RZ_KeycardDD_lvl3",
@@ -311,6 +259,58 @@
             "TeleportActiveTimeSeconds": 0,
             "TeleportCooldownSeconds": 1,
             "MissingItemMessage": ""
+        },
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Teleport out Tisy",
+            "ObjectType": "bldr_TB_Doors_A",
+            "ObjectCoordinates": [
+                1312.099365,
+                454.778320,
+                14492.850586
+            ],
+            "ObjectOrientation": [
+                -64.467873,
+                0.000000,
+                0.000000
+            ],
+            "TeleportPosition": [
+                1315.176025,
+                454.756927,
+                14491.929688
+            ],
+            "CheckRadius": 2,
+            "RequiredItem": "",
+            "RequiredItemDamagePercent": 0,
+            "TeleportActiveTimeSeconds": 0,
+            "TeleportCooldownSeconds": 0,
+            "MissingItemMessage": "Підійди ближче"
+        },
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Teleport in Tisy",
+            "ObjectType": "bldr_TB_Doors_A",
+            "ObjectCoordinates": [
+                1313.046387,
+                454.806976,
+                14492.558594
+            ],
+            "ObjectOrientation": [
+                -63.393570,
+                0.000000,
+                0.000000
+            ],
+            "TeleportPosition": [
+                1310.437012,
+                454.650085,
+                14494.564453
+            ],
+            "CheckRadius": 2,
+            "RequiredItem": "RZ_KeycardDD_lvl5",
+            "RequiredItemDamagePercent": 100,
+            "TeleportActiveTimeSeconds": 0,
+            "TeleportCooldownSeconds": 1,
+            "MissingItemMessage": "Підійди ближче"
         }
     ]
 }
