@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 20,
+    "ObjectiveType": 4,
+    "ObjectiveText": "обмін документів",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 5,
+            "ClassName": "RIP_DocFolderLeather2",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}
