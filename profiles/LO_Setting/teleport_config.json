@@ -76,7 +76,7 @@
             "RequiredItemDamagePercent": 100,
             "TeleportActiveTimeSeconds": 0,
             "TeleportCooldownSeconds": 1,
-            "MissingItemMessage": "Човен в дорозі, зачекай"
+            "MissingItemMessage": "Тримай в руках карту доступу 2 рівня"
         },
         {
             "EnableTeleport": 1,
@@ -128,7 +128,7 @@
             "RequiredItemDamagePercent": 100,
             "TeleportActiveTimeSeconds": 0,
             "TeleportCooldownSeconds": 0,
-            "MissingItemMessage": "Човен в дорозі, зачекай"
+            "MissingItemMessage": "Тримай в руках карту доступу 4 рівня"
         },
         {
             "EnableTeleport": 1,
@@ -206,7 +206,7 @@
             "RequiredItemDamagePercent": 100,
             "TeleportActiveTimeSeconds": 0,
             "TeleportCooldownSeconds": 1,
-            "MissingItemMessage": ""
+            "MissingItemMessage": "Тримай в руках карту доступу 1 рівня"
         },
         {
             "EnableTeleport": 1,
@@ -258,7 +258,7 @@
             "RequiredItemDamagePercent": 100,
             "TeleportActiveTimeSeconds": 0,
             "TeleportCooldownSeconds": 1,
-            "MissingItemMessage": ""
+            "MissingItemMessage": "Тримай в руках карту доступу 3 рівня"
         },
         {
             "EnableTeleport": 1,
@@ -336,7 +336,7 @@
             "RequiredItemDamagePercent": 100,
             "TeleportActiveTimeSeconds": 0,
             "TeleportCooldownSeconds": 1,
-            "MissingItemMessage": "Підійди ближче"
+            "MissingItemMessage": "Тримай в руках карту доступу 5 рівня"
         }
     ]
 }
