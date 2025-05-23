@@ -70,6 +70,10 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="mmg_types_ucp.xml" type="types" />
 	</ce>
 
+	<!-- DBN  -->
+	<ce folder="types/DBN_ce">
+		<file name="Novator.xml" type="types" />
+	</ce>
 	<!-- BRDK  -->
 	<ce folder="types/BRDK_ce">
 		<file name="BRDK_Transport_types.xml" type="types" />
