@@ -683,11 +683,9 @@
                 "attachments": []
             },
             "premium_reward": {
-                "name": "M16A2",
+                "name": "",
                 "quantity": 1,
-                "attachments": [
-                    "Mag_CMAG_30Rnd"
-                ]
+                "attachments": []
             }
         },
         {
@@ -696,10 +694,7 @@
             "free_reward": {
                 "name": "KIWI_Bag_upgrade",
                 "quantity": 1,
-                "attachments": [
-                    "Mosin_Compensator",
-                    "PUScopeOptic"
-                ]
+                "attachments": []
             },
             "premium_reward": {
                 "name": "",
@@ -730,12 +725,9 @@
                 "attachments": []
             },
             "premium_reward": {
-                "name": "Aug",
+                "name": "",
                 "quantity": 1,
-                "attachments": [
-                    "Mag_Aug_30Rnd",
-                    "TLRLight"
-                ]
+                "attachments": []
             }
         },
         {
@@ -824,10 +816,14 @@
         }
     ],
     "playerPremiumList": [
-        "76561198307197065",
-        "76561198307197064",
-        "76561198307197063",
-        "76561198307197062",
-        "76561198307197061"
+        "76561198104182080",
+        "76561198161108074",
+        "76561199485344583",
+        "76561198160896450",
+        "76561198093965225",
+        "76561198068897748",
+        "76561198216607920",
+        "76561198087498083",
+        "76561199091882922"
     ]
 }
