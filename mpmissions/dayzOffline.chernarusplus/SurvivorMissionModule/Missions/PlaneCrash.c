@@ -55,8 +55,8 @@ class PlaneCrashMission extends SurvivorMissions
 		// FireSpawns.Insert("5.15 0 55");			//fire trace
 
 		// Container spawnpoints
-		ContainerSpawns.Insert("0.87 -4.5 -2.5");
-		ContainerSpawns.Insert("0.87 -4.47 -0.5");
+		ContainerSpawns.Insert("0.0 -4.5 -2.5");
+		ContainerSpawns.Insert("0.0 -4.47 -0.5");
 
 		// Infected spawnpoints
 		InfectedSpawns.Insert("-10.5186 0 25.0269");
