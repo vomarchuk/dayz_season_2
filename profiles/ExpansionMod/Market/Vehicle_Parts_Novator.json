@@ -1,241 +1,152 @@
 {
     "m_Version": 12,
-    "DisplayName": "Запчастини для BMW M3",
+    "DisplayName": "Запчастини для Novator",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
     "InitStockPercent": 75.0,
     "Items": [
         {
-            "VehicleName": "UA_Novator",
-            "Height": 0,
-            "VehicleParts": [
-                "SparkPlug",
-                "CarBattery",
-                "CarRadiator",
-                "HeadlightH7",
-                "HeadlightH7",
+            "ClassName": "UA_Novator_doors_driver",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
                 "UA_Novator_doors_driver",
-                "UA_Novator_doors_codriver",
-                "UA_Novator_doors_cargo1",
-                "UA_Novator_doors_cargo2",
-                "UA_Novator_doors_trunk",
-                "UA_Novator_doors_hood",
-                "UA_Novator_F_wheel",
-                "UA_Novator_R_wheel",
-                "UA_Novator_F_wheel",
-                "UA_Novator_R_wheel"
-            ]
-        },
-        {
-            "VehicleName": "UA_Novator_2",
-            "Height": 0,
-            "VehicleParts": [
-                "SparkPlug",
-                "CarBattery",
-                "CarRadiator",
-                "HeadlightH7",
-                "HeadlightH7",
                 "UA_Novator2_doors_driver",
-                "UA_Novator2_doors_codriver",
-                "UA_Novator2_doors_cargo1",
-                "UA_Novator2_doors_cargo2",
-                "UA_Novator2_doors_trunk",
-                "UA_Novator2_doors_hood",
-                "UA_Novator_F_wheel",
-                "UA_Novator_R_wheel",
-                "UA_Novator_F_wheel",
-                "UA_Novator_R_wheel"
-            ]
-        },
-        {
-            "VehicleName": "UA_Novator_3",
-            "Height": 0,
-            "VehicleParts": [
-                "SparkPlug",
-                "CarBattery",
-                "CarRadiator",
-                "HeadlightH7",
-                "HeadlightH7",
                 "UA_Novator3_doors_driver",
-                "UA_Novator3_doors_codriver",
-                "UA_Novator3_doors_cargo1",
-                "UA_Novator3_doors_cargo2",
-                "UA_Novator3_doors_trunk",
-                "UA_Novator3_doors_hood",
-                "UA_Novator_F_wheel",
-                "UA_Novator_R_wheel",
-                "UA_Novator_F_wheel",
-                "UA_Novator_R_wheel"
-            ]
-        },
-        {
-            "VehicleName": "UA_Novator_AKPP",
-            "Height": 0,
-            "VehicleParts": [
-                "SparkPlug",
-                "CarBattery",
-                "CarRadiator",
-                "HeadlightH7",
-                "HeadlightH7",
-                "UA_Novator_doors_driver",
-                "UA_Novator_doors_codriver",
-                "UA_Novator_doors_cargo1",
-                "UA_Novator_doors_cargo2",
-                "UA_Novator_doors_trunk",
-                "UA_Novator_doors_hood",
-                "UA_Novator_F_wheel",
-                "UA_Novator_R_wheel",
-                "UA_Novator_F_wheel",
-                "UA_Novator_R_wheel"
-            ]
-        },
-        {
-            "VehicleName": "UA_Novator_2_AKPP",
-            "Height": 0,
-            "VehicleParts": [
-                "SparkPlug",
-                "CarBattery",
-                "CarRadiator",
-                "HeadlightH7",
-                "HeadlightH7",
-                "UA_Novator2_doors_driver",
-                "UA_Novator2_doors_codriver",
-                "UA_Novator2_doors_cargo1",
-                "UA_Novator2_doors_cargo2",
-                "UA_Novator2_doors_trunk",
-                "UA_Novator2_doors_hood",
-                "UA_Novator_F_wheel",
-                "UA_Novator_R_wheel",
-                "UA_Novator_F_wheel",
-                "UA_Novator_R_wheel"
-            ]
-        },
-        {
-            "VehicleName": "UA_Novator_3_AKPP",
-            "Height": 0,
-            "VehicleParts": [
-                "SparkPlug",
-                "CarBattery",
-                "CarRadiator",
-                "HeadlightH7",
-                "HeadlightH7",
-                "UA_Novator3_doors_driver",
-                "UA_Novator3_doors_codriver",
-                "UA_Novator3_doors_cargo1",
-                "UA_Novator3_doors_cargo2",
-                "UA_Novator3_doors_trunk",
-                "UA_Novator3_doors_hood",
-                "UA_Novator_F_wheel",
-                "UA_Novator_R_wheel",
-                "UA_Novator_F_wheel",
-                "UA_Novator_R_wheel"
-            ]
-        },
-        {
-            "VehicleName": "UA_Novator_4_DOG",
-            "Height": 0,
-            "VehicleParts": [
-                "SparkPlug",
-                "CarBattery",
-                "CarRadiator",
-                "HeadlightH7",
-                "HeadlightH7",
                 "UA_Novator4_DOG_doors_driver",
-                "UA_Novator4_DOG_doors_codriver",
-                "UA_Novator4_DOG_doors_cargo1",
-                "UA_Novator4_DOG_doors_cargo2",
-                "UA_Novator4_DOG_doors_trunk",
-                "UA_Novator4_DOG_doors_hood",
-                "UA_Novator_F_wheel",
-                "UA_Novator_R_wheel",
-                "UA_Novator_F_wheel",
-                "UA_Novator_R_wheel"
-            ]
-        },
-        {
-            "VehicleName": "UA_Novator_5_Homka",
-            "Height": 0,
-            "VehicleParts": [
-                "SparkPlug",
-                "CarBattery",
-                "CarRadiator",
-                "HeadlightH7",
-                "HeadlightH7",
                 "UA_Novator5_Homka_doors_driver",
-                "UA_Novator5_Homka_doors_codriver",
-                "UA_Novator5_Homka_doors_cargo1",
-                "UA_Novator5_Homka_doors_cargo2",
-                "UA_Novator5_Homka_doors_trunk",
-                "UA_Novator5_Homka_doors_hood",
-                "UA_Novator_F_wheel",
-                "UA_Novator_R_wheel",
-                "UA_Novator_F_wheel",
-                "UA_Novator_R_wheel"
-            ]
-        },
-        {
-            "VehicleName": "UA_Novator_6_Instructor",
-            "Height": 0,
-            "VehicleParts": [
-                "SparkPlug",
-                "CarBattery",
-                "CarRadiator",
-                "HeadlightH7",
-                "HeadlightH7",
                 "UA_Novator6_Instructor_doors_driver",
-                "UA_Novator6_Instructor_doors_codriver",
-                "UA_Novator6_Instructor_doors_cargo1",
-                "UA_Novator6_Instructor_doors_cargo2",
-                "UA_Novator6_Instructor_doors_trunk",
-                "UA_Novator6_Instructor_doors_hood",
-                "UA_Novator_F_wheel",
-                "UA_Novator_R_wheel",
-                "UA_Novator_F_wheel",
-                "UA_Novator_R_wheel"
-            ]
-        },
-        {
-            "VehicleName": "UA_Novator_7_Kacci",
-            "Height": 0,
-            "VehicleParts": [
-                "SparkPlug",
-                "CarBattery",
-                "CarRadiator",
-                "HeadlightH7",
-                "HeadlightH7",
                 "UA_Novator7_Kacci_doors_driver",
-                "UA_Novator7_Kacci_doors_codriver",
-                "UA_Novator7_Kacci_doors_cargo1",
-                "UA_Novator7_Kacci_doors_cargo2",
-                "UA_Novator7_Kacci_doors_trunk",
-                "UA_Novator7_Kacci_doors_hood",
-                "UA_Novator_F_wheel",
-                "UA_Novator_R_wheel",
-                "UA_Novator_F_wheel",
-                "UA_Novator_R_wheel"
+                "UA_Novator8_Pavlik_doors_driver"
             ]
         },
         {
-            "VehicleName": "UA_Novator_8_Pavlik",
-            "Height": 0,
-            "VehicleParts": [
-                "SparkPlug",
-                "CarBattery",
-                "CarRadiator",
-                "HeadlightH7",
-                "HeadlightH7",
-                "UA_Novator8_Pavlik_doors_driver",
-                "UA_Novator8_Pavlik_doors_codriver",
-                "UA_Novator8_Pavlik_doors_cargo1",
-                "UA_Novator8_Pavlik_doors_cargo2",
-                "UA_Novator8_Pavlik_doors_trunk",
-                "UA_Novator8_Pavlik_doors_hood",
-                "UA_Novator_F_wheel",
-                "UA_Novator_R_wheel",
-                "UA_Novator_F_wheel",
-                "UA_Novator_R_wheel"
+            "ClassName": "UA_Novator_doors_codriver",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "UA_Novator_doors_codriver",
+                "UA_Novator2_doors_codriver",
+                "UA_Novator3_doors_codriver",
+                "UA_Novator4_DOG_doors_codriver",
+                "UA_Novator5_Homka_doors_codriver",
+                "UA_Novator6_Instructor_doors_codriver",
+                "UA_Novator7_Kacci_doors_codriver",
+                "UA_Novator8_Pavlik_doors_codriver"
             ]
+        },
+        {
+            "ClassName": "UA_Novator_doors_cargo1",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "UA_Novator_doors_cargo1",
+                "UA_Novator2_doors_cargo1",
+                "UA_Novator3_doors_cargo1",
+                "UA_Novator4_DOG_doors_cargo1",
+                "UA_Novator5_Homka_doors_cargo1",
+                "UA_Novator6_Instructor_doors_cargo1",
+                "UA_Novator7_Kacci_doors_cargo1",
+                "UA_Novator8_Pavlik_doors_cargo1"
+            ]
+        },
+        {
+            "ClassName": "UA_Novator_doors_cargo2",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "UA_Novator_doors_cargo2",
+                "UA_Novator2_doors_cargo2",
+                "UA_Novator3_doors_cargo2",
+                "UA_Novator4_DOG_doors_cargo2",
+                "UA_Novator5_Homka_doors_cargo2",
+                "UA_Novator6_Instructor_doors_cargo2",
+                "UA_Novator7_Kacci_doors_cargo2",
+                "UA_Novator8_Pavlik_doors_cargo2"
+            ]
+        },
+        {
+            "ClassName": "UA_Novator_doors_trunk",
+            "MaxPriceThreshold": 850,
+            "MinPriceThreshold": 850,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "UA_Novator_doors_trunk",
+                "UA_Novator2_doors_trunk",
+                "UA_Novator3_doors_trunk",
+                "UA_Novator4_DOG_doors_trunk",
+                "UA_Novator5_Homka_doors_trunk",
+                "UA_Novator6_Instructor_doors_trunk",
+                "UA_Novator7_Kacci_doors_trunk",
+                "UA_Novator8_Pavlik_doors_trunk"
+            ]
+        },
+        {
+            "ClassName": "UA_Novator_doors_hood",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "UA_Novator_doors_hood",
+                "UA_Novator2_doors_hood",
+                "UA_Novator3_doors_hood",
+                "UA_Novator4_DOG_doors_hood",
+                "UA_Novator5_Homka_doors_hood",
+                "UA_Novator6_Instructor_doors_hood",
+                "UA_Novator7_Kacci_doors_hood",
+                "UA_Novator8_Pavlik_doors_hood"
+            ]
+        },
+        {
+            "ClassName": "UA_Novator_F_wheel",
+            "MaxPriceThreshold": 350,
+            "MinPriceThreshold": 350,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "UA_Novator_R_wheel",
+            "MaxPriceThreshold": 350,
+            "MinPriceThreshold": 350,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }
