@@ -1605,7 +1605,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Grip_Egg">
         <lifetime>7200</lifetime>
@@ -1619,56 +1621,72 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_VerticalGrip_Black">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Grip_KAC">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Grip_MagpulAFG_Black">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Grip_MagpulAFG_Green">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Grip_MagpulAFG_Tan">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Grip_Pillau">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Grip_StrikeIndustriesCT">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Grip_TacticalDynamicsSkel">
         <lifetime>7200</lifetime>
@@ -1682,7 +1700,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Grip_TangoDown_Blue">
         <lifetime>7200</lifetime>
@@ -1696,77 +1716,99 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Grip_VtacUVG">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Grip_ZenitB25u">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Grip_ZenitRK0">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Grip_ZenitRK1">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Grip_ZenitRK2">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Grip_ZenitRK4">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Grip_ZenitRK5">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_Grip_ZenitRK6">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_PistolGrip_AK_AK12Izhmash">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_PistolGrip_AK_AK74Plastic">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_PistolGrip_AK_CustomArms">
         <lifetime>7200</lifetime>
@@ -1808,28 +1850,36 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_PistolGrip_AK_Bakelit">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_PistolGrip_AK_MolotBakelit">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_PistolGrip_AK_AKM_Wood">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_PistolGrip_AK_StrikeIndustries_Tan">
         <lifetime>7200</lifetime>
@@ -1843,42 +1893,54 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_PistolGrip_AK_TapcoSaw">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_PistolGrip_AK_UsPalm">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_PistolGrip_AK_ZenitRK3">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_PistolGrip_AR_AR15A2">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_PistolGrip_AR_AR15DLG">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_PistolGrip_AR_AR15F1Skeletonized">
         <lifetime>7200</lifetime>
@@ -1899,7 +1961,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_PistolGrip_AR_AR15HKBattleGripBeaverTail">
         <lifetime>7200</lifetime>
@@ -1927,14 +1991,18 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_PistolGrip_AR_AR15HogueOverMolded">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_PistolGrip_AR_AR15HogueOverMolded_Tan">
         <lifetime>7200</lifetime>
@@ -1955,7 +2023,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_PistolGrip_AR_AR15MagpulMoe_Tan">
         <lifetime>7200</lifetime>
@@ -1997,7 +2067,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_PistolGrip_AR_AR15TacticalDynamicsSkel">
         <lifetime>7200</lifetime>
@@ -2018,7 +2090,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_ReceiverCover_AK_DogLegRailGen3">
         <lifetime>7200</lifetime>
@@ -2039,7 +2113,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
-        <nominal>0</nominal>
+        <nominal>1</nominal>
+        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="IMP_ReceiverCover_AK_Molot">
         <lifetime>7200</lifetime>
