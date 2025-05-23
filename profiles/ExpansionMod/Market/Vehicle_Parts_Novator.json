@@ -16,7 +16,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "UA_Novator_doors_driver",
                 "UA_Novator2_doors_driver",
                 "UA_Novator3_doors_driver",
                 "UA_Novator4_DOG_doors_driver",
@@ -36,7 +35,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "UA_Novator_doors_codriver",
                 "UA_Novator2_doors_codriver",
                 "UA_Novator3_doors_codriver",
                 "UA_Novator4_DOG_doors_codriver",
@@ -56,7 +54,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "UA_Novator_doors_cargo1",
                 "UA_Novator2_doors_cargo1",
                 "UA_Novator3_doors_cargo1",
                 "UA_Novator4_DOG_doors_cargo1",
@@ -76,7 +73,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "UA_Novator_doors_cargo2",
                 "UA_Novator2_doors_cargo2",
                 "UA_Novator3_doors_cargo2",
                 "UA_Novator4_DOG_doors_cargo2",
@@ -96,7 +92,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "UA_Novator_doors_trunk",
                 "UA_Novator2_doors_trunk",
                 "UA_Novator3_doors_trunk",
                 "UA_Novator4_DOG_doors_trunk",
@@ -116,7 +111,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "UA_Novator_doors_hood",
                 "UA_Novator2_doors_hood",
                 "UA_Novator3_doors_hood",
                 "UA_Novator4_DOG_doors_hood",
