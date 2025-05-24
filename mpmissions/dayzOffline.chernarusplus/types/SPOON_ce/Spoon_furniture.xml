@@ -204,7 +204,7 @@
     </type>
     <!-- МАЛЕНЬКИЙ АРМЕЙСКИЙ ЯЩИК-->
     <type name="OH_military_box_grey">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -219,7 +219,7 @@
         <usage name="Farm"/>
     </type>
     <type name="OH_military_box_Brown">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -234,7 +234,7 @@
         <usage name="TrainCrash"/>
     </type>
     <type name="OH_military_box_Green">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -249,7 +249,7 @@
         <usage name="TrainCrash"/>
     </type>
     <type name="OH_military_box_Olive">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -264,7 +264,7 @@
         <usage name="TrainCrash"/>
     </type>
     <type name="OH_military_box_Tan">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -280,7 +280,7 @@
     </type>
     <!-- БОЛЬШОЙ АРМЕЙСКИЙ ЯЩИК -->
     <type name="OHmilitary_big_box_grey">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -295,7 +295,7 @@
         <usage name="TrainCrash"/>
     </type>
     <type name="OHmilitary_big_box_Brown">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -310,7 +310,7 @@
         <usage name="TrainCrash"/>
     </type>
     <type name="OHmilitary_big_box_Green">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -325,7 +325,7 @@
         <usage name="TrainCrash"/>
     </type>
     <type name="OHmilitary_big_box_Olive">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -340,7 +340,7 @@
         <usage name="TrainCrash"/>
     </type>
     <type name="OHmilitary_big_box_Tan">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1729,7 +1729,7 @@
     </type>
     <!-- АРМЕЙСКИЕ ЯЩИКИ МОДЕЛЬ2 -->
     <type name="OH_military_box_big_model_two_Brown">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1746,7 +1746,7 @@
         <value name="Tier4"/>
     </type>
     <type name="OH_military_box_big_model_two_Green">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1763,7 +1763,7 @@
         <value name="Tier4"/>
     </type>
     <type name="OH_military_box_big_model_two_Olive">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1780,7 +1780,7 @@
         <value name="Tier4"/>
     </type>
     <type name="OH_military_box_big_model_two_Tan">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>0</min>
