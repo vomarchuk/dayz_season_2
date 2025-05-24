@@ -122,6 +122,7 @@
     </territory>
     <!-- City T4 -->
     <territory color="4289524723">
+        <zone name="Infected_City_t4" smin="0" smax="0" dmin="5" dmax="10" x="15170.5" z="13838.5" r="50"/>
         <zone name="Infected_City_t4" smin="0" smax="0" dmin="2" dmax="5" x="6475.5" z="14956.5" r="50"/>
         <zone name="Infected_City_t4" smin="0" smax="0" dmin="2" dmax="5" x="6382.5" z="12702.5" r="80"/>
         <zone name="Infected_City_t4" smin="0" smax="0" dmin="2" dmax="5" x="6195" z="12685" r="80"/>
