@@ -151,8 +151,8 @@
     },
     {
       "ClassName": "TD_GRN2014_money10",
-      "MaxPriceThreshold": 5,
-      "MinPriceThreshold": 5,
+      "MaxPriceThreshold": 10,
+      "MinPriceThreshold": 10,
       "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
