@@ -18,15 +18,7 @@
 		<export name="Rail7" shape="dz\structures\rail\tracks\rail_tracke_r30_20.p3d" />
 		<export name="Rail8" shape="dz\structures\rail\tracks\rail_tracke_l25_10.p3d" />
 		<export name="Rail9" shape="dz\structures\rail\tracks\rail_tracke_r25_10.p3d" />
-		<!--
-			<export name="Stone1" shape="dz\rocks\stone1.p3d" />
-			<export name="Stone2" shape="dz\rocks\stone2.p3d" />
-			<export name="Stone3" shape="dz\rocks\stone3.p3d" />
-			<export name="Stone4" shape="dz\rocks\stone4.p3d" />
-			<export name="Stone5" shape="dz\rocks\stone5.p3d" />
 
-			<export name="QuercusRobur_3d" shape="dz\plants\tree\t_quercusRobur_3d.p3d" />
--->
 		<export name="AppleTree1" shape="dz\plants\tree\t_malusDomestica_1s.p3d" />
 		<export name="AppleTree2" shape="dz\plants\tree\t_malusDomestica_2s.p3d" />
 		<export name="AppleTree3" shape="dz\plants\tree\t_malusDomestica_3s.p3d" />
@@ -34,9 +26,7 @@
 		<export name="PearTree2" shape="dz\plants\tree\t_pyrusCommunis_2s.p3d" />
 		<export name="PearTree3" shape="dz\plants\tree\t_pyrusCommunis_3s.p3d" />
 		<export name="PlumTree1" shape="dz\plants\tree\t_prunusDomestica_2s.p3d" />
-		<!-- 		<export name="ChickenCoop" shape="dz\structures\Residential\Misc\misc_chickenCoop.p3d" /> --><!--Feathers
-		Eggs Will be moved to normal groups-->
-		<!-- -->
+
 		<export name="PiceaAbies_2d" shape="dz\plants\tree\t_piceaabies_2d.p3d" />
 		<export name="PiceaAbies_3d" shape="dz\plants\tree\t_piceaabies_3d.p3d" />
 		<export name="PiceaAbies_fallen" shape="dz\plants\tree\d_piceaabies_fallen.p3d" />
