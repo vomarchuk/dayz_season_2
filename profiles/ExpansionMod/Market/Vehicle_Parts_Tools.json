@@ -128,7 +128,22 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": ["BRDK_german_motorcycle_Bag_black"]
+            "Variants": [
+                "BRDK_german_motorcycle_Bag_black"
+            ]
+        },
+        {
+            "ClassName": "Garage_Sign_PlayerKit",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "BRDK_german_motorcycle_Bag_black"
+            ]
         }
     ]
 }
