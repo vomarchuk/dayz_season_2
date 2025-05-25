@@ -1115,7 +1115,26 @@
 		<pos x="6764.30" z="2983.21" a="0.0" y="7.4" group="Gravyards"/>
 		<pos x="6673.30" z="2925.21" a="0.0" y="8.17" group="Gravyards"/>
 	</event>
-
+	<event name="Kamikadze">
+		<pos x="327.000000" z="9382.000000" a="0.0" y="294.17" group="Kamikadzes"/>
+		<pos x="1150.000000" z="7247.000000" a="0.0" y="185.17" group="Kamikadzes"/>
+		<pos x="2504.000000" z="5083.000000" a="0.0" y="193.17" group="Kamikadzes"/>
+		<pos x="1804.000000" z="13808.000000" a="0.0" y="436.17" group="Kamikadzes"/>
+		<pos x="1654.000000" z="14209.000000" a="0.0" y="452.0" group="Kamikadzes"/>
+		<pos x="3691.000000" z="14771.000000" a="0.0" y="363.72" group="Kamikadzes"/>
+		<pos x="4004.000000" z="11841.000000" a="0.0" y="375.67" group="Kamikadzes"/>
+		<pos x="4195.000000" z="11066.000000" a="0.0" y="338.425" group="Kamikadzes"/>
+		<pos x="4398.000000" z="10930.000000" a="0.0" y="338.6097" group="Kamikadzes"/>
+		<pos x="4644.000000" z="10453.000000" a="0.0" y="339.17" group="Kamikadzes"/>
+		<pos x="4980.000000" z="9997.000000" a="0.0" y="339.17" group="Kamikadzes"/>
+		<pos x="4524.000000" z="9565.000000" a="0.0" y="339.17" group="Kamikadzes"/>
+		<pos x="4536.000000" z="8313.000000" a="0.0" y="317.67" group="Kamikadzes"/>
+		<pos x="7805.000000" z="14788.000000" a="0.0" y="356.17" group="Kamikadzes"/>
+		<pos x="7991.000000" z="14634.000000" a="0.0" y="339.57" group="Kamikadzes"/>
+		<pos x="8521.000000" z="13991.000000" a="0.0" y="203.77" group="Kamikadzes"/>
+		<pos x="7097.000000" z="12713.000000" a="0.0" y="130.557" group="Kamikadzes"/>
+		<pos x="13632.000000" z="13761.000000" a="0.0" y="5.77" group="Kamikadzes"/>
+	</event>
 
 	<!-- <event name="VehicleTransitBus" /> -->
 	<event name="InfectedVillage" />

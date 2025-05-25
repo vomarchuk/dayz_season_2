@@ -1133,4 +1133,7 @@
         <child type="Ptc_UP_BLUE_50" spawnsecondary="false" x="0" z="0" a="248.746"/>
         <child type="BRDK_MedievalMan2_zmb" spawnsecondary="false" x="0" z="0" a="123.888"/>
     </group>
+    <group name="Kamikadzes">
+        <child type="AP_zmb_kamikaze" spawnsecondary="false" x="0" z="0" a="0"/>
+    </group>
 </eventgroupdef>
