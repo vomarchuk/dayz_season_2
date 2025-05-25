@@ -117,13 +117,13 @@
   },
   {
     "type": 0,
-    "uid": 65538193,
+    "uid": 65138193,
     "name": "Штраф стоянка",
     "icon": "DZ\\gear\\navigation\\data\\map_tree_ca.paa",
     "position": [
-      3702.35,
-      402.012,
-      5989.5
+      7213.871582,
+      329.292236,
+      8257.808594
     ],
     "currentSubgroup": 0,
     "colorA": 255,
