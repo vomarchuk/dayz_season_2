@@ -287,87 +287,59 @@
             "Items": [
                 {
                     "ItemType": "TerjeBookAthletic1",
-                    "Chance": 0.072
+                    "Chance": 0.09
                 },
                 {
                     "ItemType": "TerjeBookAthletic2",
-                    "Chance": 0.048
-                },
-                {
-                    "ItemType": "TerjeBookAthletic3",
-                    "Chance": 0.024
+                    "Chance": 0.06
                 },
                 {
                     "ItemType": "TerjeBookFishing1",
-                    "Chance": 0.072
+                    "Chance": 0.09
                 },
                 {
                     "ItemType": "TerjeBookFishing2",
-                    "Chance": 0.048
-                },
-                {
-                    "ItemType": "TerjeBookFishing3",
-                    "Chance": 0.024
+                    "Chance": 0.06
                 },
                 {
                     "ItemType": "TerjeBookHunting1",
-                    "Chance": 0.072
+                    "Chance": 0.09
                 },
                 {
                     "ItemType": "TerjeBookHunting2",
-                    "Chance": 0.048
-                },
-                {
-                    "ItemType": "TerjeBookHunting3",
-                    "Chance": 0.024
+                    "Chance": 0.06
                 },
                 {
                     "ItemType": "TerjeBookStealth1",
-                    "Chance": 0.072
+                    "Chance": 0.09
                 },
                 {
                     "ItemType": "TerjeBookStealth2",
-                    "Chance": 0.048
-                },
-                {
-                    "ItemType": "TerjeBookStealth3",
-                    "Chance": 0.024
+                    "Chance": 0.06
                 },
                 {
                     "ItemType": "TerjeBookStrength1",
-                    "Chance": 0.072
+                    "Chance": 0.09
                 },
                 {
                     "ItemType": "TerjeBookStrength2",
-                    "Chance": 0.048
-                },
-                {
-                    "ItemType": "TerjeBookStrength3",
-                    "Chance": 0.024
+                    "Chance": 0.06
                 },
                 {
                     "ItemType": "TerjeBookSurvival1",
-                    "Chance": 0.072
+                    "Chance": 0.09
                 },
                 {
                     "ItemType": "TerjeBookSurvival2",
-                    "Chance": 0.048
-                },
-                {
-                    "ItemType": "TerjeBookSurvival3",
-                    "Chance": 0.024
+                    "Chance": 0.06
                 },
                 {
                     "ItemType": "TerjeBookMedicine1",
-                    "Chance": 0.072
+                    "Chance": 0.09
                 },
                 {
                     "ItemType": "TerjeBookMedicine2",
-                    "Chance": 0.048
-                },
-                {
-                    "ItemType": "TerjeBookMedicine3",
-                    "Chance": 0.024
+                    "Chance": 0.06
                 }
             ]
         }
