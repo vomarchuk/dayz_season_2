@@ -187,7 +187,7 @@
                 "RaG_BB_Pillar"
             ],
             "limits": [
-                3
+                5
             ],
             "isAttachment": 0,
             "showOnMap": 0,
@@ -202,7 +202,7 @@
                 "OHcupboard"
             ],
             "limits": [
-                1
+                2
             ],
             "isAttachment": 1,
             "showOnMap": 0,
@@ -224,30 +224,17 @@
             "show3D": 0
         },
         {
-            "displayName": "ОРУЖ СТОЙКА",
+            "displayName": "Стійка для зброї",
             "kitItemNames": [
-                "OH_GunrackKit"
-            ],
-            "countItemNames": [
-                "OH_Gunrack"
-            ],
-            "limits": [
-                1
-            ],
-            "isAttachment": 1,
-            "showOnMap": 0,
-            "show3D": 0
-        },
-        {
-            "displayName": "2-я ОРУЖ СТОЙКА",
-            "kitItemNames": [
+                "OH_GunrackKit",
                 "OH_Gunrack_doubleKit"
             ],
             "countItemNames": [
+                "OH_Gunrack",
                 "OH_Gunrack_double"
             ],
             "limits": [
-                1
+                2
             ],
             "isAttachment": 1,
             "showOnMap": 0,
@@ -286,49 +273,43 @@
             "show3D": 0
         },
         {
-            "displayName": "М АРМЕЙСКИЙ ЯЩИК",
+            "displayName": "Армійські ящики",
             "kitItemNames": [
                 "OH_military_box_grey",
                 "OH_military_box_Brown",
                 "OH_military_box_Green",
                 "OH_military_box_Olive",
-                "OH_military_box_Tan"
-            ],
-            "countItemNames": [],
-            "limits": [
-                1
-            ],
-            "isAttachment": 1,
-            "showOnMap": 0,
-            "show3D": 0
-        },
-        {
-            "displayName": "Б АРМЕЙСКИЙ ЯЩИК",
-            "kitItemNames": [
-                "OH_military_big_box_grey",
-                "OH_military_big_box_Brown",
-                "OH_military_big_box_Green",
-                "OH_military_big_box_Olive",
-                "OH_military_big_box_Tan"
-            ],
-            "countItemNames": [],
-            "limits": [
-                1
-            ],
-            "isAttachment": 1,
-            "showOnMap": 0,
-            "show3D": 0
-        },
-        {
-            "displayName": "Б ЯЩИК ДЛЯ АМУНИЦИИ",
-            "kitItemNames": [
+                "OH_military_box_Tan",
+                "OHmilitary_big_box_Brown",
+                "OHmilitary_big_box_Green",
+                "OHmilitary_big_box_Olive",
+                "OHmilitary_big_box_Tan",
+                "OHmilitary_big_box_grey",
                 "OH_militaryAmunitionBigKit"
             ],
             "countItemNames": [
-                "OH_militaryAmunitionBig"
+                "OH_militaryAmunitionBig",
+                "OHmilitary_big_box_Brown",
+                "OHmilitary_big_box_Green",
+                "OHmilitary_big_box_Olive",
+                "OHmilitary_big_box_Tan",
+                "OHmilitary_big_box_grey",
+                "OH_military_box_Brown",
+                "OH_military_box_Green",
+                "OH_military_box_Olive",
+                "OH_military_box_Tan",
+                "OH_military_box_grey",
+                "OH_military_box_medium_black",
+                "OH_military_box_medium_brown",
+                "OH_military_box_medium_green",
+                "OH_military_box_medium_olive",
+                "OH_military_box_slim_black",
+                "OH_military_box_slim_brown",
+                "OH_military_box_slim_green",
+                "OH_military_box_slim_olive"
             ],
             "limits": [
-                1
+                3
             ],
             "isAttachment": 1,
             "showOnMap": 0,
@@ -382,29 +363,33 @@
                 "OHlocker_GymLockerDamage_GREY"
             ],
             "limits": [
-                1
+                2
             ],
             "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "ВЕРСТАК",
+            "displayName": "Верстакі",
             "kitItemNames": [
-                "OH_workbenchKit"
+                "HP_Crafter_Kit",
+                "Repair_Workbench_Box",
+                "Ammo_Workbench_Box"
             ],
             "countItemNames": [
-                "OH_workbench"
+                "HP_Crafter",
+                "Repair_Workbench",
+                "Ammo_Workbench"
             ],
             "limits": [
-                1
+                3
             ],
             "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "ХОЛОДИЛЬНИКИ",
+            "displayName": "Холодильники",
             "kitItemNames": [
                 "OH_fridge_white",
                 "OH_zil_old_refrigerator_white",
@@ -413,7 +398,7 @@
             ],
             "countItemNames": [],
             "limits": [
-                1
+                2
             ],
             "isAttachment": 1,
             "showOnMap": 0,
@@ -454,7 +439,7 @@
             "show3D": 0
         },
         {
-            "displayName": "ТЕПЛИЦА",
+            "displayName": "Теплиці",
             "kitItemNames": [
                 "OH_kabak_house_Kit",
                 "OH_kabackhouse_Plot",
@@ -463,17 +448,20 @@
                 "OH_kabackPlot"
             ],
             "countItemNames": [
-                "OH_kabak_house"
+                "OH_kabackPlot",
+                "OH_kabackPlotGreenhouse",
+                "OH_kabackPlotPolytunnel",
+                "OH_kabackhouse_Plot"
             ],
             "limits": [
-                1
+                2
             ],
             "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "МУСОРКА",
+            "displayName": "Смітник",
             "kitItemNames": [
                 "OH_trash_box_Kit"
             ],
@@ -481,14 +469,14 @@
                 "OH_trash_box"
             ],
             "limits": [
-                1
+                2
             ],
             "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "ПЕЧКА",
+            "displayName": "Пічка",
             "kitItemNames": [
                 "OH_pechka"
             ],
@@ -501,7 +489,7 @@
             "show3D": 0
         },
         {
-            "displayName": "ДИВАН",
+            "displayName": "Диван",
             "kitItemNames": [
                 "OH_sofa_gun_rack_Kit",
                 "OH_soviet_sofa_gun_rack_red_Kit"
@@ -511,14 +499,14 @@
                 "OH_soviet_sofa_gun_rack_red"
             ],
             "limits": [
-                1
+                2
             ],
             "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "ШТОРКИ И ЖАЛЮЗИ",
+            "displayName": "Шторкі/Жалюзі",
             "kitItemNames": [
                 "OH_blind_window_Kit",
                 "OH_home_blind_windows_blue_kit",
@@ -542,14 +530,14 @@
                 "OH_home_blind_windows_olive"
             ],
             "limits": [
-                1
+                6
             ],
             "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "СВЕТ",
+            "displayName": "Світло",
             "kitItemNames": [
                 "OH_lamp_wall_Kit"
             ],
@@ -558,7 +546,7 @@
                 "OH_Lamp_old"
             ],
             "limits": [
-                1
+                6
             ],
             "isAttachment": 1,
             "showOnMap": 0,
@@ -573,7 +561,7 @@
             ],
             "countItemNames": [],
             "limits": [
-                1
+                3
             ],
             "isAttachment": 1,
             "showOnMap": 0,
@@ -595,7 +583,7 @@
             "show3D": 0
         },
         {
-            "displayName": "БЕСЕДКА",
+            "displayName": "Альтанка",
             "kitItemNames": [
                 "OH_wood_gazebo_Kit"
             ],
@@ -634,7 +622,7 @@
                 "OH_wall_mount_weapon"
             ],
             "limits": [
-                1
+                2
             ],
             "isAttachment": 1,
             "showOnMap": 0,
@@ -683,7 +671,7 @@
                 "OH_carpet_wall_model_2"
             ],
             "limits": [
-                1
+                2
             ],
             "isAttachment": 1,
             "showOnMap": 0,
@@ -717,7 +705,7 @@
                 "OH_sleeping_matrass"
             ],
             "limits": [
-                1
+                4
             ],
             "isAttachment": 1,
             "showOnMap": 0,
@@ -732,7 +720,7 @@
                 "OH_carpet_floor_model_2"
             ],
             "limits": [
-                1
+                2
             ],
             "isAttachment": 1,
             "showOnMap": 0,
@@ -761,39 +749,6 @@
             "countItemNames": [
                 "OH_box_wood"
             ],
-            "limits": [
-                1
-            ],
-            "isAttachment": 1,
-            "showOnMap": 0,
-            "show3D": 0
-        },
-        {
-            "displayName": "АРМЕЙСКИЕ ЯЩИКИ",
-            "kitItemNames": [
-                "OH_military_box_big_model_two_Brown",
-                "OH_military_box_big_model_two_Green",
-                "OH_military_box_big_model_two_Olive",
-                "OH_military_box_big_model_two_Tan",
-                "OH_military_box_big_model_two_black",
-                "OH_military_box_big_model_two_red",
-                "OH_military_box_big_model_two_orange",
-                "OH_military_box_medium_olive",
-                "OH_military_box_medium_black",
-                "OH_military_box_medium_brown",
-                "OH_military_box_medium_green",
-                "OH_military_box_slim_olive",
-                "OH_military_box_slim_black",
-                "OH_military_box_slim_brown",
-                "OH_military_box_slim_green",
-                "OH_military_haarbig_box_Brown",
-                "OH_military_haarbig_box_Green",
-                "OH_military_haarbig_box_Olive",
-                "OH_military_haarbig_box_Tan",
-                "OH_military_haarbig_box_black",
-                "OH_military_haarbig_box_red"
-            ],
-            "countItemNames": [],
             "limits": [
                 1
             ],
@@ -841,20 +796,20 @@
                 "OH_roll_gate_black"
             ],
             "limits": [
-                1
+                6
             ],
             "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "БОЧКА ДЛЯ ВОДЫ",
+            "displayName": "Бочка для води",
             "kitItemNames": [
                 "OH_55gallons_water_Barrel_blue"
             ],
             "countItemNames": [],
             "limits": [
-                1
+                2
             ],
             "isAttachment": 1,
             "showOnMap": 0,
@@ -883,7 +838,7 @@
             ],
             "countItemNames": [],
             "limits": [
-                1
+                3
             ],
             "isAttachment": 1,
             "showOnMap": 0,
@@ -903,14 +858,14 @@
             "show3D": 0
         },
         {
-            "displayName": "ДОМАШНИЕ ЛАМПЫ",
+            "displayName": "Добашні лампи",
             "kitItemNames": [
                 "OH_home_lamp_torsher",
                 "OH_home_lamp_table"
             ],
             "countItemNames": [],
             "limits": [
-                1
+                6
             ],
             "isAttachment": 1,
             "showOnMap": 0,
@@ -921,12 +876,13 @@
             "kitItemNames": [
                 "OH_shifoner_light_wood_Kit",
                 "OH_shifoner_dark_wood_Kit",
-                "OH_shifoner_red_wood_Kit",
-                "OH_shifoner_light_wood",
+                "OH_shifoner_red_wood_Kit"
+            ],
+            "countItemNames": [
                 "OH_shifoner_dark_wood",
+                "OH_shifoner_light_wood",
                 "OH_shifoner_red_wood"
             ],
-            "countItemNames": [],
             "limits": [
                 1
             ],
@@ -935,7 +891,7 @@
             "show3D": 0
         },
         {
-            "displayName": "УМЫВАЛЬНИК",
+            "displayName": "Умивалка",
             "kitItemNames": [
                 "OH_hand_washer_Kit"
             ],
@@ -943,14 +899,14 @@
                 "OH_hand_washer"
             ],
             "limits": [
-                1
+                2
             ],
             "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "ГАЗОВАЯ ПЛИТКА",
+            "displayName": "Газова плитка",
             "kitItemNames": [
                 "OH_Portable_Gas_Stove_1",
                 "OH_gas_coocking_stove_1",
@@ -958,7 +914,7 @@
             ],
             "countItemNames": [],
             "limits": [
-                1
+                2
             ],
             "isAttachment": 1,
             "showOnMap": 0,
@@ -973,7 +929,7 @@
                 "OH_gerlyanda"
             ],
             "limits": [
-                1
+                4
             ],
             "isAttachment": 1,
             "showOnMap": 0,
@@ -1002,14 +958,14 @@
                 "OH_crash_dummy_red"
             ],
             "limits": [
-                1
+                4
             ],
             "isAttachment": 1,
             "showOnMap": 0,
             "show3D": 0
         },
         {
-            "displayName": "старая сов тумбочка",
+            "displayName": "стара сов тумбочка",
             "kitItemNames": [
                 "OH_soviet_tumbochka_old_Kit"
             ],
@@ -1020,6 +976,35 @@
                 1
             ],
             "isAttachment": 1,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Бочкі",
+            "kitItemNames": [
+                "Barrel_Blue",
+                "Barrel_Green",
+                "Barrel_Red",
+                "Barrel_Yellow"
+            ],
+            "countItemNames": [],
+            "limits": [
+                4
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Ящики",
+            "kitItemNames": [
+                "Varta_Box"
+            ],
+            "countItemNames": [],
+            "limits": [
+                4
+            ],
+            "isAttachment": 0,
             "showOnMap": 0,
             "show3D": 0
         }

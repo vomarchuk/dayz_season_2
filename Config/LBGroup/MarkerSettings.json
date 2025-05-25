@@ -66,7 +66,7 @@
     "addPlayerDeathMarker": 1,
     "deathMarkerPrivate": 0,
     "deathMarkerGroup": 1,
-    "deleteOldDeathMarker": 1,
+    "deleteOldDeathMarker": 0,
     "deathMarkerIcon": "LBmaster_Groups\\gui\\icons\\skull.paa",
     "availableIcons": [
         "LBmaster_Groups\\gui\\icons\\marker.paa",

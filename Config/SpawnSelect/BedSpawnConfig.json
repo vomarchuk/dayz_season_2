@@ -2,7 +2,7 @@
     "version": 10,
     "globalBagLimit": -1,
     "enable_bag_renaming": 1,
-    "enable_bag_give_to_friend": 1,
+    "enable_bag_give_to_friend": 0,
     "enable_give_bag_name_obfuscation": 0,
     "bedConfigs": [
         {
@@ -13,10 +13,11 @@
                 "",
                 "",
                 "",
+                "",
                 ""
             ],
-            "timeoutSeconds": 0,
-            "timeoutPlacedDown": 0,
+            "timeoutSeconds": 3600,
+            "timeoutPlacedDown": 900,
             "radiusToNotTriggerTheKilledTimeout": 0.0,
             "killedTimeoutRadius": 0.0,
             "itemLimit": 1,

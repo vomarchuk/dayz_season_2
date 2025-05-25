@@ -45,6 +45,20 @@
             "isAttachment": 0,
             "showOnMap": 1,
             "show3D": 1
+        },
+        {
+            "displayName": "Fishing",
+            "kitItemNames": [
+                "FishNetTrap",
+                "SmallFishTrap"
+            ],
+            "countItemNames": [],
+            "limits": [
+                5
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
         }
     ]
 }

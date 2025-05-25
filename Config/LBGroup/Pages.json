@@ -21,7 +21,19 @@
                 "buttonName": "Донат",
                 "subtext": "Підтримайте наш сервер донатом",
                 "hoverTooltip": "Допоможіть нам підтримувати сервер і оплачувати щомісячні витрати, залишивши невелику пожертву.",
-                "link": "https://send.monobank.ua/jar/6wrbhGC53o"
+                "link": "https://discord.com/channels/1312567112568668230/1322239178964205690"
+            },
+            {
+                "buttonName": "",
+                "subtext": "",
+                "hoverTooltip": "",
+                "link": ""
+            },
+            {
+                "buttonName": "",
+                "subtext": "",
+                "hoverTooltip": "",
+                "link": ""
             }
         ]
     },

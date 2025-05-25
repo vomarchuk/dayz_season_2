@@ -21,6 +21,27 @@
             "isAttachment": 0,
             "showOnMap": 1,
             "show3D": 1
+        },
+        {
+            "displayName": "Plots",
+            "kitItemNames": [
+                "GardenPlot",
+                "GardenPlotGreenhouse",
+                "GardenPlotPlacing",
+                "GardenPlotPolytunnel"
+            ],
+            "countItemNames": [
+                "GardenPlot",
+                "GardenPlotGreenhouse",
+                "GardenPlotPlacing",
+                "GardenPlotPolytunnel"
+            ],
+            "limits": [
+                2
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
         }
     ]
 }

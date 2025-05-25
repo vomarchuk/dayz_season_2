@@ -6,7 +6,6 @@
     "canSeePlacedItemsMarkersOnPanelMap": 1,
     "useMemberCountAsGroupLevel": 1,
     "disabledCraftingRecipes": [
-        "CraftWoodenCrate",
         "CraftRaG_BB_PillarKit"
     ]
 }

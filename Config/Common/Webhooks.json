@@ -4,9 +4,19 @@
     {
       "enabled": 1,
       "description": "Test Webhook for demonstration",
-      "webhookURL": "https://discord.com/api/webhooks/",
+      "webhookURL": "https://discord.com/api/webhooks/1372995526156353546/it8G1yqh-VXXACmHluh2cq3P_glmF389YAjjyFD8QJ6laJ23NJm4O453_zp5yTc082-e",
       "webhookMessages": [
         "VehicleImpounded"
+      ],
+      "steamidFilter": [],
+      "overwrittenMessages": {}
+    },
+    {
+      "enabled": 1,
+      "description": "Global Chat",
+      "webhookURL": "https://discord.com/api/webhooks/1367984757954056232/WYbMKbcV07hhLluXfTelW6oaN24mwC2uLvdxObupsP9oiUBQtHzrh9j_q2dv-UYV-cjM",
+      "webhookMessages": [
+        "GlobalChat"
       ],
       "steamidFilter": [],
       "overwrittenMessages": {}
@@ -68,6 +78,9 @@
     "PlayerUnmute": {
       "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Player was unmuted\",\"description\":\"\",\"color\":65280,\"fields\":[{\"name\":\"Target\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Reason\",\"value\":\"$$3$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
     },
+    "GroupKick": {
+      "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Player kicked from their Group\",\"description\":\"\",\"color\":65280,\"fields\":[{\"name\":\"Kicked by\",\"value\":\"[$$5$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$6$$)\",\"inline\":true},{\"name\":\"Group Name\",\"value\":\"$$3$$\",\"inline\":true},{\"name\":\"Group Tag\",\"value\":\"$$4$$\",\"inline\":true},{\"name\":\"Player\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
+    },
     "ATMDeleted": {
       "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Admin Deleted an ATM\",\"description\":\"\",\"color\":16711680,\"fields\":[{\"name\":\"Admin\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Location\",\"value\":\"$$3$$\",\"inline\":true},{\"name\":\"Position\",\"value\":\"X: $$4$$ Y: $$5$$ Z: $$6$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
     },
@@ -92,8 +105,8 @@
     "SleepingbagPacked": {
       "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Sleepingbag Packed\",\"description\":\"A sleepingbag was packed at X:$$4$$ Y:$$5$$ Z:$$6$$\",\"color\":65280,\"fields\":[{\"name\":\"Packer\",\"value\":\"[$$2$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$3$$)\",\"inline\":true},{\"name\":\"Bag ID\",\"value\":\"$$7$$\",\"inline\":true},{\"name\":\"Owner\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$1$$)\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
     },
-    "ATMPlaced": {
-      "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Admin Placed an ATM\",\"description\":\"\",\"color\":65280,\"fields\":[{\"name\":\"Admin\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Item Classname\",\"value\":\"$$3$$\",\"inline\":true},{\"name\":\"Position\",\"value\":\"X: $$4$$ Y: $$5$$ Z: $$6$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
+    "SpawnPlayerAtHouse": {
+      "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Player Spawned at Sleeping Bag\",\"description\":\"\",\"color\":65280,\"fields\":[{\"name\":\"Player\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Exact Coords\",\"value\":\"X:$$4$$ Y:$$5$$ Z:$$6$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
     },
     "ATMResetRobbers": {
       "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Admin reset robber info at ATM\",\"description\":\"\",\"color\":65280,\"fields\":[{\"name\":\"Admin\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Name\",\"value\":\"$$3$$\",\"inline\":true},{\"name\":\"Position\",\"value\":\"X: $$4$$ Y: $$5$$ Z: $$6$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
@@ -149,8 +162,8 @@
     "GroupNewLeader": {
       "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"New Leader\",\"description\":\"The Leader of the group left and it got a new Leader\",\"color\":65535,\"fields\":[{\"name\":\"Group Name\",\"value\":\"$$5$$\",\"inline\":true},{\"name\":\"Group Tag\",\"value\":\"$$6$$\",\"inline\":true},{\"name\":\"Old Leader\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"New Leader\",\"value\":\"[$$3$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$4$$)\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
     },
-    "GroupPromoteAdmin": {
-      "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Admin Promoted player in a group\",\"description\":\"\",\"color\":65280,\"fields\":[{\"name\":\"Admin\",\"value\":\"[$$7$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$8$$)\",\"inline\":true},{\"name\":\"Group Name\",\"value\":\"$$5$$\",\"inline\":true},{\"name\":\"Group Tag\",\"value\":\"$$6$$\",\"inline\":true},{\"name\":\"Player\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Old Rank\",\"value\":\"$$3$$\",\"inline\":true},{\"name\":\"New Rank\",\"value\":\"$$4$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
+    "ChatCommandUsed": {
+      "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Player used a Chat command\",\"description\":\"\",\"color\":65535,\"fields\":[{\"name\":\"Player\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Command\",\"value\":\"$$3$$\",\"inline\":true},{\"name\":\"Arguments\",\"value\":\"$$4$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
     },
     "VehicleRefueld": {
       "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Vehicle refueled\",\"description\":\"\",\"color\":65280,\"fields\":[{\"name\":\"Player\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Vehicle\",\"value\":\"$$3$$\",\"inline\":true},{\"name\":\"Vehicle ID\",\"value\":\"$$5$$\",\"inline\":true},{\"name\":\"Trader ID\",\"value\":\"$$4$$\",\"inline\":true},{\"name\":\"Cost\",\"value\":\"$$6$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
@@ -212,11 +225,11 @@
     "GarageHacking_Cancel": {
       "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Garage Hacking Canceled\",\"description\":\"\",\"color\":65280,\"fields\":[{\"name\":\"Hacker\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Garage Position\",\"value\":\"X:$$4$$ Y:$$5$$ Z:$$6$$\",\"inline\":true},{\"name\":\"Garage UID\",\"value\":\"$$3$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
     },
-    "ChatCommandUsed": {
-      "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Player used a Chat command\",\"description\":\"\",\"color\":65535,\"fields\":[{\"name\":\"Player\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Command\",\"value\":\"$$3$$\",\"inline\":true},{\"name\":\"Arguments\",\"value\":\"$$4$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
+    "GroupPromoteAdmin": {
+      "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Admin Promoted player in a group\",\"description\":\"\",\"color\":65280,\"fields\":[{\"name\":\"Admin\",\"value\":\"[$$7$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$8$$)\",\"inline\":true},{\"name\":\"Group Name\",\"value\":\"$$5$$\",\"inline\":true},{\"name\":\"Group Tag\",\"value\":\"$$6$$\",\"inline\":true},{\"name\":\"Player\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Old Rank\",\"value\":\"$$3$$\",\"inline\":true},{\"name\":\"New Rank\",\"value\":\"$$4$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
     },
-    "SpawnPlayerAtHouse": {
-      "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Player Spawned at Sleeping Bag\",\"description\":\"\",\"color\":65280,\"fields\":[{\"name\":\"Player\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Exact Coords\",\"value\":\"X:$$4$$ Y:$$5$$ Z:$$6$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
+    "ATMPlaced": {
+      "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Admin Placed an ATM\",\"description\":\"\",\"color\":65280,\"fields\":[{\"name\":\"Admin\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Item Classname\",\"value\":\"$$3$$\",\"inline\":true},{\"name\":\"Position\",\"value\":\"X: $$4$$ Y: $$5$$ Z: $$6$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
     },
     "GarageUpgraded": {
       "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Garage Upgraded\",\"description\":\"The Garage at X:$$3$$ Y:$$4$$ Z:$$5$$ was upgraded to the next level\",\"color\":65280,\"fields\":[{\"name\":\"Player\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Garage Owner\",\"value\":\"[$$6$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$6$$)\",\"inline\":true},{\"name\":\"Garage Group\",\"value\":\"$$7$$\",\"inline\":true},{\"name\":\"New Level\",\"value\":\"$$8$$\",\"inline\":true},{\"name\":\"Cost\",\"value\":\"$$9$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"

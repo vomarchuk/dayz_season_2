@@ -1452,8 +1452,8 @@
             "items": [],
             "itemname": "TD_GRN2014_money10",
             "addToHotbar": 0,
-            "quantmin": 0.007000000216066837,
-            "quantmax": 0.019999999552965165,
+            "quantmin": 0.00800000037997961,
+            "quantmax": 0.029999999329447748,
             "spawnIn": "any"
         },
         {
@@ -1463,7 +1463,7 @@
             "items": [],
             "itemname": "TD_GRN2014_money20",
             "addToHotbar": 0,
-            "quantmin": 0.0010000000474974514,
+            "quantmin": 0.0020000000949949028,
             "quantmax": 0.006000000052154064,
             "spawnIn": "any"
         },
@@ -1485,7 +1485,7 @@
             "items": [],
             "itemname": "TD_GRN2014_money1",
             "addToHotbar": 0,
-            "quantmin": 0.019999999552965165,
+            "quantmin": 0.029999999329447748,
             "quantmax": 0.07000000029802323,
             "spawnIn": "any"
         },
