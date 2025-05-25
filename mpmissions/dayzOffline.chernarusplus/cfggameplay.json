@@ -91,6 +91,7 @@
       "disableHeightPlacementCheck": true,
       "disableIsUnderwaterCheck": false,
       "disableIsInTerrainCheck": true,
+      "disableColdAreaPlacementCheck": true,
       "disallowedTypesInUnderground": [
         "FenceKit",
         "TerritoryFlagKit",
