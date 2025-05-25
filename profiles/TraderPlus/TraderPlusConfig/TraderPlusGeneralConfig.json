@@ -364,29 +364,6 @@
     },
     {
       "Id": 12,
-      "Name": "SurvivorM_Mirek",
-      "GivenName": "Мірик",
-      "Role": "Авто запчастини",
-      "Position": [
-        3702.921387,
-        402.360382,
-        6008.772461
-      ],
-      "Orientation": [
-        111.202003,
-        0.0,
-        -0.0
-      ],
-      "Clothes": [
-        "Ushanka_Black",
-        "DownJacket_Blue",
-        "CargoPants_Black",
-        "WorkingGloves_Yellow",
-        "HikingBoots_Black"
-      ]
-    },
-    {
-      "Id": 13,
       "Name": "SurvivorM_Denis",
       "GivenName": "Мясник",
       "Role": "Частини тіл",
@@ -408,6 +385,29 @@
         "HikingBoots_Black",
         "IMP_SVD",
         "FangeKnife"
+      ]
+    },
+    {
+      "Id": 13,
+      "Name": "SurvivorM_Denis",
+      "GivenName": "Василь",
+      "Role": "Фермер",
+      "Position": [
+        9077.909180,
+        248.159302,
+        8055.714355
+      ],
+      "Orientation": [
+        -39.209656,
+        0.0,
+        0.0
+      ],
+      "Clothes": [
+        "WoolGlovesFingerless_ChristmasRed",
+        "Ushanka_Blue",
+        "QuiltedJacket_Yellow",
+        "Jeans_Grey",
+        "HikingBootsLow_Blue"
       ]
     }
   ],
