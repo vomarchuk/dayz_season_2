@@ -119,7 +119,7 @@
     "type": 0,
     "uid": 65138193,
     "name": "Штраф стоянка",
-    "icon": "DZ\\gear\\navigation\\data\\map_tree_ca.paa",
+    "icon": "LBmaster_Groups\\gui\\icons\\roadblock.paa",
     "position": [
       7213.871582,
       329.292236,
