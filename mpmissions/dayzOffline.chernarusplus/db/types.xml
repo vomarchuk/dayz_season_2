@@ -12461,10 +12461,10 @@
         <nominal>0</nominal>
     </type>
     <type name="Pliers">
-        <nominal>45</nominal>
+        <nominal>40</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

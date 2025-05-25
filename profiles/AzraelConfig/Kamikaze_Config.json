@@ -7,10 +7,10 @@
     "cfg_CanRemoveVestFromZombie": 1,
     "cfg_CanDisarmVestOnGround": 1,
     "cfg_CanExplodeRuinedVest": 1,
-    "cfg_CanPlayerActivateJihadVest": 0,
+    "cfg_CanPlayerActivateJihadVest": 1,
     "cfg_ChanceSpawnKamikazeTorso": 1.0,
     "cfg_JihadVestAmmoName_EXAMPLE": "For example: KmkzJihad_light_Ammo, KmkzJihad_medium_Ammo, KmkzJihad_hard_Ammo",
-    "cfg_JihadVestAmmoName": "KmkzJihad_medium_Ammo",
+    "cfg_JihadVestAmmoName": "KmkzJihad_light_Ammo",
     "SECTION2": "====== 2. Remains Settings ======",
     "cfg_KamikazeRemainsCountMin": 1,
     "cfg_KamikazeRemainsCountMax": 1,
@@ -23,7 +23,7 @@
             "toolName": "Pliers",
             "toolChance": 0.8,
             "toolTime": 4,
-            "toolDamage": 25,
+            "toolDamage": 50,
             "toolQuantity": 0
         },
         {
@@ -38,7 +38,7 @@
             "toolChance": 0.949999988079071,
             "toolTime": 3,
             "toolDamage": 0,
-            "toolQuantity": 25
+            "toolQuantity": 50
         }
     ]
 }

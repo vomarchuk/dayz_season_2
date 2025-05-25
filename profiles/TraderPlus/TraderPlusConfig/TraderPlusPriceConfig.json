@@ -1752,9 +1752,10 @@
       ]
     },
     {
-      "CategoryName": "Toxic tools",
+      "CategoryName": "Tools",
       "Products": [
-        "RIP_Kevlar,1,-1,2500,-1,500"
+        "RIP_Kevlar,1,-1,2500,-1,500",
+        "AP_vest_kamikaze,1,-1,0,-1,2000"
       ]
     },
     {
