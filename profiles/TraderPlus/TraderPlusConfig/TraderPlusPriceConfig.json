@@ -427,7 +427,7 @@
         "HP_Oiler,1,-1,0,-1,1000",
         "HP_Vise,1,-1,0,-1,1000",
         "HP_Payalnik,1,-1,0,-1,1000",
-        "OH_propane_baloon,1,-1,0,321,499"
+        "OH_propane_baloon,1,-1,0,-1,399"
       ]
     },
     {
