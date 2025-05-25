@@ -2188,10 +2188,10 @@
         <nominal>0</nominal>
     </type>
     <type name="IMP_AEK">
-        <nominal>4</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>30</quantmin>
         <quantmax>70</quantmax>
         <cost>100</cost>
@@ -2252,12 +2252,12 @@
 
     </type>
     <type name="IMP_AN94">
-        <nominal>4</nominal>
+        <nominal>6</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>2</min>
-        <quantmin>30</quantmin>
-        <quantmax>70</quantmax>
+        <min>4</min>
+        <quantmin>10</quantmin>
+        <quantmax>60</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
