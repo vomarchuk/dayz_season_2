@@ -97,7 +97,7 @@
                 "ZmbM_JoggerSkinny_Red",
                 "ZmbM_VillagerOld_Green"
             ],
-            "taskXP": 5
+            "taskXP": 3
         },
         {
             "taskName": "Знищити поліцейських зомбі",
@@ -107,7 +107,7 @@
                 "ZmbM_PolicemanSpecForce",
                 "ZmbM_PolicemanSpecForce_Heavy"
             ],
-            "taskXP": 9
+            "taskXP": 7
         },
         {
             "taskName": "Знищити медичних зомбі",
@@ -120,7 +120,7 @@
                 "ZmbM_ParamedicNormal_Red",
                 "ZmbM_PatientSkinny"
             ],
-            "taskXP": 7
+            "taskXP": 5
         },
         {
             "taskName": "Знищити військові зомбі",
@@ -138,7 +138,7 @@
                 "ZmbM_NBC_Grey",
                 "ZmbM_NBC_Yellow"
             ],
-            "taskXP": 12
+            "taskXP": 9
         },
         {
             "taskName": "Знищити NBC зомбі",
@@ -149,7 +149,7 @@
                 "FC_Zmb_Toxic_White",
                 "FC_Zmb_Toxic_Yellow"
             ],
-            "taskXP": 13
+            "taskXP": 10
         },
         {
             "taskName": "Знищити мутантів",
@@ -162,7 +162,7 @@
                 "FC_Zmb_Worker_Soldier",
                 "FC_Zmb_Worker_Builder"
             ],
-            "taskXP": 15
+            "taskXP": 12
         },
         {
             "taskName": "Знищити закровлених мутантів",
@@ -175,7 +175,7 @@
                 "FC_Zmb_Worker_Soldier_Blood",
                 "FC_Zmb_Worker_Builder_Blood"
             ],
-            "taskXP": 18
+            "taskXP": 15
         },
         {
             "taskName": "Знищити AI в поліційних відділеннях",
@@ -193,7 +193,7 @@
                 "eAI_SurvivorM_Oliver",
                 "eAI_SurvivorM_Peter"
             ],
-            "taskXP": 12
+            "taskXP": 10
         },
         {
             "taskName": "Знищити AI на військових базах, аеродромах та хелікрашах",
@@ -209,7 +209,7 @@
                 "eAI_SurvivorM_Lewis",
                 "eAI_SurvivorM_Manua"
             ],
-            "taskXP": 15
+            "taskXP": 12
         },
         {
             "taskName": "Знищити AI в данжах",
@@ -227,7 +227,7 @@
                 "eAI_SurvivorM_Seth",
                 "eAI_SurvivorM_Taiki"
             ],
-            "taskXP": 20
+            "taskXP": 15
         },
         {
             "taskName": "Знищити лисиць",
@@ -235,7 +235,7 @@
             "targetClassname": [
                 "Animal_VulpesVulpes"
             ],
-            "taskXP": 7
+            "taskXP": 5
         },
         {
             "taskName": "Знищити зайців",
@@ -243,7 +243,7 @@
             "targetClassname": [
                 "Animal_LepusEuropaeus"
             ],
-            "taskXP": 7
+            "taskXP": 5
         },
         {
             "taskName": "Знищити кур",
@@ -254,7 +254,7 @@
                 "Animal_GallusGallusDomesticusF_Spotted",
                 "Animal_GallusGallusDomesticusF_White"
             ],
-            "taskXP": 7
+            "taskXP": 5
         },
         {
             "taskName": "Знищити ведмедів",
@@ -262,7 +262,7 @@
             "targetClassname": [
                 "Animal_UrsusArctos"
             ],
-            "taskXP": 100
+            "taskXP": 50
         },
         {
             "taskName": "Знищити корови",
@@ -275,7 +275,7 @@
                 "Animal_BosTaurus_Spotted",
                 "Animal_BosTaurus_White"
             ],
-            "taskXP": 30
+            "taskXP": 20
         },
         {
             "taskName": "Знищити оленів",
@@ -284,7 +284,7 @@
                 "Animal_CervusElaphus",
                 "Animal_CervusElaphusF"
             ],
-            "taskXP": 20
+            "taskXP": 15
         },
         {
             "taskName": "Знищити кози",
@@ -295,7 +295,7 @@
                 "Animal_CapraHircus_Brown",
                 "Animal_CapraHircus_White"
             ],
-            "taskXP": 20
+            "taskXP": 10
         },
         {
             "taskName": "Знищити свиней",
@@ -303,7 +303,7 @@
             "targetClassname": [
                 "Animal_SusDomesticus"
             ],
-            "taskXP": 20
+            "taskXP": 10
         },
         {
             "taskName": "Знищити теляток",
@@ -312,7 +312,7 @@
                 "Animal_CapreolusCapreolus",
                 "Animal_CapreolusCapreolusF"
             ],
-            "taskXP": 20
+            "taskXP": 10
         },
         {
             "taskName": "Знищити овець",
@@ -321,7 +321,7 @@
                 "Animal_OvisAries",
                 "Animal_OvisAriesF"
             ],
-            "taskXP": 20
+            "taskXP": 10
         },
         {
             "taskName": "Знищити диких свиней",
@@ -329,7 +329,7 @@
             "targetClassname": [
                 "Animal_SusScrofa"
             ],
-            "taskXP": 20
+            "taskXP": 10
         },
         {
             "taskName": "Знищити вовки",
@@ -338,7 +338,7 @@
                 "Animal_CanisLupus_Grey",
                 "Animal_CanisLupus_White"
             ],
-            "taskXP": 25
+            "taskXP": 15
         }
     ],
     "levels": [
@@ -346,13 +346,13 @@
             "startExp": 0,
             "endExp": 100,
             "free_reward": {
-                "name": "TD_GRN2014_money1",
+                "name": "SteakKnife",
                 "quantity": 1,
                 "attachments": []
             },
             "premium_reward": {
-                "name": "",
-                "quantity": 99,
+                "name": "SodaCan_Cola",
+                "quantity": 999,
                 "attachments": []
             }
         },
@@ -360,12 +360,12 @@
             "startExp": 100,
             "endExp": 200,
             "free_reward": {
-                "name": "TD_GRN2014_money1",
+                "name": "TerjeInjectorZivirol",
                 "quantity": 1,
                 "attachments": []
             },
             "premium_reward": {
-                "name": "",
+                "name": "Flag_DayZ",
                 "quantity": 1,
                 "attachments": []
             }
@@ -374,12 +374,14 @@
             "startExp": 200,
             "endExp": 300,
             "free_reward": {
-                "name": "TD_GRN2014_money1",
+                "name": "Glock19",
                 "quantity": 1,
-                "attachments": []
+                "attachments": [
+                    "IMP_Mag_Glock_21Rnd"
+                ]
             },
             "premium_reward": {
-                "name": "",
+                "name": "RIP_FilterSilencer",
                 "quantity": 1,
                 "attachments": []
             }
@@ -388,12 +390,14 @@
             "startExp": 300,
             "endExp": 450,
             "free_reward": {
-                "name": "TD_GRN2014_money1",
+                "name": "Headtorch_Grey",
                 "quantity": 1,
-                "attachments": []
+                "attachments": [
+                    "Battery9V"
+                ]
             },
             "premium_reward": {
-                "name": "",
+                "name": "Ammo_9x19",
                 "quantity": 50,
                 "attachments": []
             }
@@ -402,12 +406,12 @@
             "startExp": 450,
             "endExp": 600,
             "free_reward": {
-                "name": "TD_GRN2014_money1",
+                "name": "VM_Leather_bag_35",
                 "quantity": 1,
                 "attachments": []
             },
             "premium_reward": {
-                "name": "",
+                "name": "TerjeInjectorZivirol",
                 "quantity": 1,
                 "attachments": []
             }
@@ -416,12 +420,12 @@
             "startExp": 600,
             "endExp": 800,
             "free_reward": {
-                "name": "TD_GRN2014_money1",
-                "quantity": 1,
+                "name": "DuctTape",
+                "quantity": 100,
                 "attachments": []
             },
             "premium_reward": {
-                "name": "",
+                "name": "CodeLock",
                 "quantity": 1,
                 "attachments": []
             }
@@ -430,12 +434,12 @@
             "startExp": 800,
             "endExp": 1000,
             "free_reward": {
-                "name": "TD_GRN2014_money1",
+                "name": "TerjeInjectorAmoxiclav",
                 "quantity": 1,
                 "attachments": []
             },
             "premium_reward": {
-                "name": "",
+                "name": "KIWI_Bag_upgrade",
                 "quantity": 1,
                 "attachments": []
             }
@@ -444,12 +448,14 @@
             "startExp": 1000,
             "endExp": 1250,
             "free_reward": {
-                "name": "TD_GRN2014_money1",
+                "name": "IMP_KelTecSUB2000",
                 "quantity": 1,
-                "attachments": []
+                "attachments": [
+                    "IMP_KelTecSUB2000_Mag_15Rnd"
+                ]
             },
             "premium_reward": {
-                "name": "",
+                "name": "IMP_KelTecSUB2000_Mag_50Rnd",
                 "quantity": 1,
                 "attachments": []
             }
@@ -458,12 +464,12 @@
             "startExp": 1250,
             "endExp": 1550,
             "free_reward": {
-                "name": "TD_GRN2014_money1",
+                "name": "KIWI_Bag_upgrade",
                 "quantity": 1,
                 "attachments": []
             },
             "premium_reward": {
-                "name": "",
+                "name": "NailBox",
                 "quantity": 1,
                 "attachments": []
             }
@@ -472,13 +478,13 @@
             "startExp": 1550,
             "endExp": 1750,
             "free_reward": {
-                "name": "TD_GRN2014_money1",
-                "quantity": 1,
+                "name": "Ammo_9x19",
+                "quantity": 50,
                 "attachments": []
             },
             "premium_reward": {
-                "name": "",
-                "quantity": 1,
+                "name": "KIWI_Can_MeatCow",
+                "quantity": 100,
                 "attachments": []
             }
         },
@@ -486,12 +492,12 @@
             "startExp": 1750,
             "endExp": 2000,
             "free_reward": {
-                "name": "TD_GRN2014_money1",
+                "name": "TerjeInjectorZivirol",
                 "quantity": 1,
                 "attachments": []
             },
             "premium_reward": {
-                "name": "",
+                "name": "TerjeInjectorAmoxiclav",
                 "quantity": 1,
                 "attachments": []
             }
@@ -500,12 +506,14 @@
             "startExp": 2000,
             "endExp": 2250,
             "free_reward": {
-                "name": "TD_GRN2014_money1",
+                "name": "IMP_AN94",
                 "quantity": 1,
-                "attachments": []
+                "attachments": [
+                    "Mag_AK74_30Rnd_Black"
+                ]
             },
             "premium_reward": {
-                "name": "",
+                "name": "IMP_Supp_PBS4_AK",
                 "quantity": 1,
                 "attachments": []
             }
@@ -514,13 +522,13 @@
             "startExp": 2250,
             "endExp": 2500,
             "free_reward": {
-                "name": "TD_GRN2014_money1",
+                "name": "KIWI_Bag_upgrade",
                 "quantity": 1,
                 "attachments": []
             },
             "premium_reward": {
-                "name": "",
-                "quantity": 1,
+                "name": "TerjeFirstAidKitAdvance_Black",
+                "quantity": 999,
                 "attachments": []
             }
         },
@@ -528,12 +536,12 @@
             "startExp": 2500,
             "endExp": 2750,
             "free_reward": {
-                "name": "TD_GRN2014_money1",
-                "quantity": 1,
+                "name": "TerjeSurgicalKit",
+                "quantity": 100,
                 "attachments": []
             },
             "premium_reward": {
-                "name": "",
+                "name": "TerjeBookAthletic4",
                 "quantity": 1,
                 "attachments": []
             }
@@ -542,13 +550,13 @@
             "startExp": 2750,
             "endExp": 3000,
             "free_reward": {
-                "name": "TD_GRN2014_money1",
-                "quantity": 1,
+                "name": "SewingKit",
+                "quantity": 100,
                 "attachments": []
             },
             "premium_reward": {
-                "name": "",
-                "quantity": 1,
+                "name": "WeaponCleaningKit",
+                "quantity": 100,
                 "attachments": []
             }
         },
@@ -557,11 +565,11 @@
             "endExp": 3300,
             "free_reward": {
                 "name": "TD_GRN2014_money100",
-                "quantity": 1,
+                "quantity": 10,
                 "attachments": []
             },
             "premium_reward": {
-                "name": "",
+                "name": "KIWI_Can_MeatCow",
                 "quantity": 1,
                 "attachments": []
             }
@@ -570,12 +578,12 @@
             "startExp": 3300,
             "endExp": 3600,
             "free_reward": {
-                "name": "TD_GRN2014_money1",
+                "name": "KIWI_Bag_upgrade",
                 "quantity": 1,
                 "attachments": []
             },
             "premium_reward": {
-                "name": "",
+                "name": "NailBox",
                 "quantity": 1,
                 "attachments": []
             }
@@ -584,12 +592,12 @@
             "startExp": 3600,
             "endExp": 3900,
             "free_reward": {
-                "name": "TD_GRN2014_money1",
-                "quantity": 1,
+                "name": "TerjeDrink6Energy",
+                "quantity": 999,
                 "attachments": []
             },
             "premium_reward": {
-                "name": "",
+                "name": "PD_fridge_24",
                 "quantity": 1,
                 "attachments": []
             }
@@ -598,12 +606,12 @@
             "startExp": 3900,
             "endExp": 4200,
             "free_reward": {
-                "name": "TD_GRN2014_money1",
-                "quantity": 1,
+                "name": "WeaponCleaningKit",
+                "quantity": 100,
                 "attachments": []
             },
             "premium_reward": {
-                "name": "",
+                "name": "TerjeBookStealth3",
                 "quantity": 1,
                 "attachments": []
             }
@@ -612,14 +620,14 @@
             "startExp": 4200,
             "endExp": 4500,
             "free_reward": {
-                "name": "TD_GRN2014_money1",
+                "name": "Flag_KIWI",
                 "quantity": 1,
                 "attachments": [
                     ""
                 ]
             },
             "premium_reward": {
-                "name": "",
+                "name": "HuntingKnife",
                 "quantity": 1,
                 "attachments": []
             }
@@ -628,7 +636,7 @@
             "startExp": 4500,
             "endExp": 5000,
             "free_reward": {
-                "name": "TD_GRN2014_money1",
+                "name": "KIWI_Bag_upgrade",
                 "quantity": 1,
                 "attachments": []
             },
@@ -642,7 +650,7 @@
             "startExp": 5000,
             "endExp": 5500,
             "free_reward": {
-                "name": "",
+                "name": "TerjeBookSurvival4",
                 "quantity": 1,
                 "attachments": []
             },
@@ -684,7 +692,7 @@
             "startExp": 6000,
             "endExp": 6500,
             "free_reward": {
-                "name": "",
+                "name": "KIWI_Bag_upgrade",
                 "quantity": 1,
                 "attachments": []
             },
@@ -740,7 +748,7 @@
             "startExp": 8750,
             "endExp": 9500,
             "free_reward": {
-                "name": "",
+                "name": "KIWI_Bag_upgrade",
                 "quantity": 1,
                 "attachments": []
             },
@@ -796,7 +804,7 @@
             "startExp": 12250,
             "endExp": 13250,
             "free_reward": {
-                "name": "",
+                "name": "KIWI_Bag_upgrade",
                 "quantity": 1,
                 "attachments": []
             },

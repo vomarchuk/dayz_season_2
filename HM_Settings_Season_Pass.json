@@ -97,7 +97,7 @@
                 "ZmbM_JoggerSkinny_Red",
                 "ZmbM_VillagerOld_Green"
             ],
-            "taskXP": 5
+            "taskXP": 3
         },
         {
             "taskName": "Знищити поліцейських зомбі",
@@ -107,7 +107,7 @@
                 "ZmbM_PolicemanSpecForce",
                 "ZmbM_PolicemanSpecForce_Heavy"
             ],
-            "taskXP": 9
+            "taskXP": 7
         },
         {
             "taskName": "Знищити медичних зомбі",
@@ -120,7 +120,7 @@
                 "ZmbM_ParamedicNormal_Red",
                 "ZmbM_PatientSkinny"
             ],
-            "taskXP": 7
+            "taskXP": 5
         },
         {
             "taskName": "Знищити військові зомбі",
@@ -138,7 +138,7 @@
                 "ZmbM_NBC_Grey",
                 "ZmbM_NBC_Yellow"
             ],
-            "taskXP": 12
+            "taskXP": 9
         },
         {
             "taskName": "Знищити NBC зомбі",
@@ -149,7 +149,7 @@
                 "FC_Zmb_Toxic_White",
                 "FC_Zmb_Toxic_Yellow"
             ],
-            "taskXP": 13
+            "taskXP": 10
         },
         {
             "taskName": "Знищити мутантів",
@@ -162,7 +162,7 @@
                 "FC_Zmb_Worker_Soldier",
                 "FC_Zmb_Worker_Builder"
             ],
-            "taskXP": 15
+            "taskXP": 12
         },
         {
             "taskName": "Знищити закровлених мутантів",
@@ -175,7 +175,7 @@
                 "FC_Zmb_Worker_Soldier_Blood",
                 "FC_Zmb_Worker_Builder_Blood"
             ],
-            "taskXP": 18
+            "taskXP": 15
         },
         {
             "taskName": "Знищити AI в поліційних відділеннях",
@@ -193,7 +193,7 @@
                 "eAI_SurvivorM_Oliver",
                 "eAI_SurvivorM_Peter"
             ],
-            "taskXP": 12
+            "taskXP": 10
         },
         {
             "taskName": "Знищити AI на військових базах, аеродромах та хелікрашах",
@@ -209,7 +209,7 @@
                 "eAI_SurvivorM_Lewis",
                 "eAI_SurvivorM_Manua"
             ],
-            "taskXP": 15
+            "taskXP": 12
         },
         {
             "taskName": "Знищити AI в данжах",
@@ -227,7 +227,7 @@
                 "eAI_SurvivorM_Seth",
                 "eAI_SurvivorM_Taiki"
             ],
-            "taskXP": 20
+            "taskXP": 15
         },
         {
             "taskName": "Знищити лисиць",
@@ -235,7 +235,7 @@
             "targetClassname": [
                 "Animal_VulpesVulpes"
             ],
-            "taskXP": 7
+            "taskXP": 5
         },
         {
             "taskName": "Знищити зайців",
@@ -243,7 +243,7 @@
             "targetClassname": [
                 "Animal_LepusEuropaeus"
             ],
-            "taskXP": 7
+            "taskXP": 5
         },
         {
             "taskName": "Знищити кур",
@@ -254,7 +254,7 @@
                 "Animal_GallusGallusDomesticusF_Spotted",
                 "Animal_GallusGallusDomesticusF_White"
             ],
-            "taskXP": 7
+            "taskXP": 5
         },
         {
             "taskName": "Знищити ведмедів",
@@ -262,7 +262,7 @@
             "targetClassname": [
                 "Animal_UrsusArctos"
             ],
-            "taskXP": 100
+            "taskXP": 50
         },
         {
             "taskName": "Знищити корови",
@@ -275,7 +275,7 @@
                 "Animal_BosTaurus_Spotted",
                 "Animal_BosTaurus_White"
             ],
-            "taskXP": 30
+            "taskXP": 20
         },
         {
             "taskName": "Знищити оленів",
@@ -284,7 +284,7 @@
                 "Animal_CervusElaphus",
                 "Animal_CervusElaphusF"
             ],
-            "taskXP": 20
+            "taskXP": 15
         },
         {
             "taskName": "Знищити кози",
@@ -295,7 +295,7 @@
                 "Animal_CapraHircus_Brown",
                 "Animal_CapraHircus_White"
             ],
-            "taskXP": 20
+            "taskXP": 10
         },
         {
             "taskName": "Знищити свиней",
@@ -303,7 +303,7 @@
             "targetClassname": [
                 "Animal_SusDomesticus"
             ],
-            "taskXP": 20
+            "taskXP": 10
         },
         {
             "taskName": "Знищити теляток",
@@ -312,7 +312,7 @@
                 "Animal_CapreolusCapreolus",
                 "Animal_CapreolusCapreolusF"
             ],
-            "taskXP": 20
+            "taskXP": 10
         },
         {
             "taskName": "Знищити овець",
@@ -321,7 +321,7 @@
                 "Animal_OvisAries",
                 "Animal_OvisAriesF"
             ],
-            "taskXP": 20
+            "taskXP": 10
         },
         {
             "taskName": "Знищити диких свиней",
@@ -329,7 +329,7 @@
             "targetClassname": [
                 "Animal_SusScrofa"
             ],
-            "taskXP": 20
+            "taskXP": 10
         },
         {
             "taskName": "Знищити вовки",
@@ -338,7 +338,7 @@
                 "Animal_CanisLupus_Grey",
                 "Animal_CanisLupus_White"
             ],
-            "taskXP": 25
+            "taskXP": 15
         }
     ],
     "levels": [
@@ -352,7 +352,7 @@
             },
             "premium_reward": {
                 "name": "SodaCan_Cola",
-                "quantity": 99,
+                "quantity": 999,
                 "attachments": []
             }
         },
@@ -360,7 +360,7 @@
             "startExp": 100,
             "endExp": 200,
             "free_reward": {
-                "name": "Roadflare",
+                "name": "TerjeInjectorZivirol",
                 "quantity": 1,
                 "attachments": []
             },
@@ -528,7 +528,7 @@
             },
             "premium_reward": {
                 "name": "TerjeFirstAidKitAdvance_Black",
-                "quantity": 1,
+                "quantity": 999,
                 "attachments": []
             }
         },
@@ -556,7 +556,7 @@
             },
             "premium_reward": {
                 "name": "WeaponCleaningKit",
-                "quantity": 1,
+                "quantity": 100,
                 "attachments": []
             }
         },
@@ -593,7 +593,7 @@
             "endExp": 3900,
             "free_reward": {
                 "name": "TerjeDrink6Energy",
-                "quantity": 1,
+                "quantity": 999,
                 "attachments": []
             },
             "premium_reward": {
