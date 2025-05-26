@@ -1135,5 +1135,6 @@
     </group>
     <group name="Kamikadzes">
         <child type="AP_zmb_kamikaze" spawnsecondary="false" x="0" z="0" a="0"/>
+        <child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="1" lootmin="1" x="2" z="2" a="248.746"/>
     </group>
 </eventgroupdef>
