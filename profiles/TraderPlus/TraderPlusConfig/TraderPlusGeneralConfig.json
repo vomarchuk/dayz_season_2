@@ -389,8 +389,8 @@
     },
     {
       "Id": 13,
-      "Name": "SurvivorM_Denis",
-      "GivenName": "Василь",
+      "Name": "SurvivorF_Linda",
+      "GivenName": "Лінда",
       "Role": "Фермер",
       "Position": [
         8539.095703,
@@ -403,11 +403,10 @@
         -0.000000
       ],
       "Clothes": [
-        "WoolGlovesFingerless_ChristmasRed",
-        "Ushanka_Blue",
-        "QuiltedJacket_Yellow",
-        "Jeans_Grey",
-        "HikingBootsLow_Blue"
+        "Skirt_White",
+        "MiniDress_BlueWithDots",
+        "Ballerinas_White",
+        "ChristmasHeadband_Antlers"
       ]
     }
   ],
