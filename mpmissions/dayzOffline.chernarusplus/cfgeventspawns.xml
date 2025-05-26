@@ -1115,7 +1115,7 @@
 		<pos x="6764.30" z="2983.21" a="0.0" y="7.4" group="Gravyards"/>
 		<pos x="6673.30" z="2925.21" a="0.0" y="8.17" group="Gravyards"/>
 	</event>
-	<event name="Kamikadze">
+	<event name="StaticKamikadze">
 		<pos x="327.000000" z="9382.000000" a="0.0" y="294.17" group="Kamikadzes"/>
 		<pos x="1150.000000" z="7247.000000" a="0.0" y="185.17" group="Kamikadzes"/>
 		<pos x="2504.000000" z="5083.000000" a="0.0" y="193.17" group="Kamikadzes"/>

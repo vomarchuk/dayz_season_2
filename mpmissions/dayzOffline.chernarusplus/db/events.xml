@@ -1418,7 +1418,7 @@
         <active>1</active>
         <children />
     </event>
-    <event name="Kamikadze">
+    <event name="StaticKamikadze">
         <nominal>6</nominal>
         <min>1</min>
         <max>6</max>
