@@ -1418,10 +1418,10 @@
         <active>1</active>
         <children />
     </event>
-    <event name="StaticKamikadze">
+    <event name="Kamikadze">
         <nominal>6</nominal>
-        <min>3</min>
-        <max>0</max>
+        <min>1</min>
+        <max>6</max>
         <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>

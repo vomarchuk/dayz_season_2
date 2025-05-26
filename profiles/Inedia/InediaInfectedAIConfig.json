@@ -655,7 +655,8 @@
     },
     "InjuryHandlerIsActive": {
       "all": 1,
-      "bosses": 0
+      "bosses": 0,
+      "AP_zmb_kamikaze": 0
     },
     "InjuryHandlerInjuryOnExplosiveDamageChancePercent": {
       "all": 100
@@ -1405,7 +1406,8 @@
     },
     "RespawnInCrawlingChancePercent": {
       "all": 10,
-      "bosses": 0
+      "bosses": 0,
+      "AP_zmb_kamikaze": 0
     },
     "ScreamHandlerIsActive": {
       "all": 1
