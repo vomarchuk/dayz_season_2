@@ -386,6 +386,29 @@
         "IMP_SVD",
         "FangeKnife"
       ]
+    },
+    {
+      "Id": 13,
+      "Name": "SurvivorM_Denis",
+      "GivenName": "Василь",
+      "Role": "Фермер",
+      "Position": [
+        8539.095703,
+        342.689240,
+        8028.934082
+      ],
+      "Orientation": [
+        -58.588226,
+        -0.000000,
+        -0.000000
+      ],
+      "Clothes": [
+        "WoolGlovesFingerless_ChristmasRed",
+        "Ushanka_Blue",
+        "QuiltedJacket_Yellow",
+        "Jeans_Grey",
+        "HikingBootsLow_Blue"
+      ]
     }
   ],
   "TraderObjects": []
