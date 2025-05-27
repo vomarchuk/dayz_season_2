@@ -25,7 +25,7 @@
     </type>
     <!-- МАЛЕНЬКИЙ ХОЛОДИЛЬНИК -->
     <type name="OH_fridge_white">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -42,7 +42,7 @@
     </type>
     <!-- СРЕДНИЕ ХОЛОДИЛЬНИКИ -->
     <type name="OH_zil_old_refrigerator_white">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -57,7 +57,7 @@
         <usage name="Farm"/>
     </type>
     <type name="OH_ussr_old_refrigerator_white">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -72,7 +72,7 @@
         <usage name="Farm"/>
     </type>
     <type name="OH_refrigerator_medium_white">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -911,7 +911,7 @@
     </type>
     <!-- ПЕЧКА -->
     <type name="OH_pechka">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1224,7 +1224,7 @@
     </type>
     <!-- ДОМАШНИЕ ЛАМПЫ -->
     <type name="OH_home_lamp_torsher">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1240,7 +1240,7 @@
         <usage name="TrainCrash"/>
     </type>
     <type name="OH_home_lamp_table">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1257,7 +1257,7 @@
     </type>
     <!-- НАСТОЛЬНАЯ ЛАМПА -->
     <type name="OH_Lamp_old">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1274,7 +1274,7 @@
     </type>
     <!-- АРМЕЙСКИЙ ДЕРЕВНЯННЫЙ ЯЩИК -->
     <type name="OH_mil_ru_box_green">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>43200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1287,7 +1287,7 @@
         <usage name="Military"/>
     </type>
     <type name="OH_mil_ru_box_long_green">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>43200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1300,7 +1300,7 @@
         <usage name="Military"/>
     </type>
     <type name="OH_military_metal_crate">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1410,7 +1410,7 @@
     </type>
     <!-- ЯЩИК ДЛЯ ИНСТРУМЕНТОВ -->
     <type name="OH_tool_box_1_blue">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1425,7 +1425,7 @@
         <usage name="TrainCrash"/>
     </type>
     <type name="OH_crate_for_tools_red">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1440,7 +1440,7 @@
         <usage name="TrainCrash"/>
     </type>
     <type name="OH_crate_for_tools_blue">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1455,7 +1455,7 @@
         <usage name="TrainCrash"/>
     </type>
     <type name="OH_crate_for_tools_green">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -2320,7 +2320,7 @@
     </type>
     <!-- ГАЗОВЫЕ ПЛИТЫ -->
     <type name="OH_Portable_Gas_Stove_1">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -2334,7 +2334,7 @@
         <usage name="TrainCrash"/>
     </type>
     <type name="OH_gas_coocking_stove_1">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -2348,7 +2348,7 @@
         <usage name="TrainCrash"/>
     </type>
     <type name="OH_gas_coocking_stove_2">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>0</min>
