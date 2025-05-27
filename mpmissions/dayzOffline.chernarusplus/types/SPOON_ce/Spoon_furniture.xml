@@ -1797,7 +1797,7 @@
         <value name="Tier4"/>
     </type>
     <type name="OH_military_box_big_model_two_black">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1814,7 +1814,7 @@
         <value name="Tier4"/>
     </type>
     <type name="OH_military_box_big_model_two_red">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1831,7 +1831,7 @@
         <value name="Tier4"/>
     </type>
     <type name="OH_military_box_big_model_two_orange">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1856,7 +1856,7 @@
     </type>
     <!-- АРМЕЙСКИЕ ЯЩИКИ СРЕДНИЕ -->
     <type name="OH_military_box_medium_olive">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1873,7 +1873,7 @@
         <value name="Tier4"/>
     </type>
     <type name="OH_military_box_medium_black">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1890,7 +1890,7 @@
         <value name="Tier4"/>
     </type>
     <type name="OH_military_box_medium_brown">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1907,7 +1907,7 @@
         <value name="Tier4"/>
     </type>
     <type name="OH_military_box_medium_green">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1925,7 +1925,7 @@
     </type>
     <!-- АРМЕЙСКИЕ ЯЩИКИ SLIM -->
     <type name="OH_military_box_slim_olive">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1942,7 +1942,7 @@
         <value name="Tier4"/>
     </type>
     <type name="OH_military_box_slim_black">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1959,7 +1959,7 @@
         <value name="Tier4"/>
     </type>
     <type name="OH_military_box_slim_brown">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1976,7 +1976,7 @@
         <value name="Tier4"/>
     </type>
     <type name="OH_military_box_slim_green">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1994,7 +1994,7 @@
     </type>
     <!-- АРМЕЙСКИЕ ЯЩИКИ HAARBIG -->
     <type name="OH_military_haarbig_box_Brown">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -2009,7 +2009,7 @@
         <value name="Tier4"/>
     </type>
     <type name="OH_military_haarbig_box_Green">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -2024,7 +2024,7 @@
         <value name="Tier4"/>
     </type>
     <type name="OH_military_haarbig_box_Olive">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -2039,7 +2039,7 @@
         <value name="Tier4"/>
     </type>
     <type name="OH_military_haarbig_box_Tan">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -2054,7 +2054,7 @@
         <value name="Tier4"/>
     </type>
     <type name="OH_military_haarbig_box_black">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -2069,7 +2069,7 @@
         <value name="Tier4"/>
     </type>
     <type name="OH_military_haarbig_box_red">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>0</min>
