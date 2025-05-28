@@ -1,0 +1,74 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1004,
+    "Type": 1,
+    "Title": "Частина перша: Ознайомлення!",
+    "Descriptions": [
+        "Тут таке діло, вчора двоє моїх людей пішли до літнього табору «Надежда», недалеко звідсить на пошуки, вони мали повернутися за пару годин, але по невідомим причинам не повернулися до сих пір, Остап, один з наших мисливців, повідомив мені що зранку він сидів на мисливській вишці в очікуванні щось вполювати, він почув два постріла приблизно зі сторони табору, до сих пір не відомо що там трапилось, зможеш піти і перевірити що з моїми людьми?",
+        "Тут таке діло, вчора двоє моїх людей пішли до літнього табору «Надежда», недалеко звідсить на пошуки, вони мали повернутися за пару годин, але по невідомим причинам не повернулися до сих пір, Остап, один з наших мисливців, повідомив мені що зранку він сидів на мисливській вишці в очікуванні щось вполювати, він почув два постріла приблизно зі сторони табору, до сих пір не відомо що там трапилось, зможеш піти і перевірити що з моїми людьми?",
+        "Треба показати записку Артему"
+    ],
+    "ObjectiveText": "Дізнатися що сталося",
+    "FollowUpQuest": 1005,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 1,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "quest1",
+    "QuestItems": [
+        {
+            "ClassName": "MakarovIJ70",
+            "Amount": 1
+        },
+        {
+            "ClassName": "Mag_IJ70_8Rnd",
+            "Amount": 2
+        }
+    ],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionQuestItemPaper",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": 1005,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [2],
+    "QuestTurnInIDs": [],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1001,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 1002,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": -930200403,
+    "ReputationReward": 10,
+    "ReputationRequirement": 100,
+    "PreQuestIDs": [1003],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

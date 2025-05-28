@@ -1,24 +1,24 @@
 {
     "ConfigVersion": 6,
-    "ID": 2,
-    "ClassName": "ExpansionQuestNPCAIMirek",
+    "ID": 5,
+    "ClassName": "ExpansionQuestNPCAINiki",
     "Position": [
-        8349.493164,
-        292.011963,
-        5975.987793
+        1400.749512,
+        329.334259,
+        619.072876
     ],
     "Orientation": [
-        -151.599365,
+        -174.352936,
         0.000000,
         -0.000000
     ],
-    "NPCName": "Артем",
-    "DefaultNPCText": "Привіт! Поки для тебе нічого немає, приходь пізніше",
+    "NPCName": "Стаф",
+    "DefaultNPCText": "Привіт!",
     "Waypoints": [
         [
-            8349.493164,
-            292.011963,
-            5975.987793
+            1400.749512,
+            329.334259,
+            619.072876
         ]
     ],
     "NPCEmoteID": 46,

@@ -1,0 +1,65 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1006,
+    "Type": 1,
+    "Title": "Частина перша: Ознайомлення!",
+    "Descriptions": [
+        "Передай будь ласка цей лист на Вівтар,це недалеко від села Горка, там Стаф всім заправляє, і трошки провізії віднеси в знак поваги!",
+        "Передай будь ласка цей лист на Вівтар,це недалеко від села Горка, там Стаф всім заправляє, і трошки провізії віднеси в знак поваги!",
+        "Ти від Артема? Чув що сталося з його хлопцями… Світ став жорстким… Невідомо звідки взявся цей туман, але відомо як він діє, щоб знаходитися в ньому потрібні спеціальні препарати які зменшують негативний вплив на мозок, я поділюся з тобою на той випадок якщо сам захочеш туди сходити а також передай це письмо Артему!"
+    ],
+    "ObjectiveText": "Дістатися до вівтаря",
+    "FollowUpQuest": 1007,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [
+        {
+            "ClassName": "ExpansionQuestItemPackage",
+            "Amount": 1
+        }
+    ],
+    "Rewards": [
+        {
+            "ClassName": "HuntingKnife",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [2],
+    "QuestTurnInIDs": [5],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1003,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": -930200403,
+    "ReputationReward": 10,
+    "ReputationRequirement": 200,
+    "PreQuestIDs": [1005],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

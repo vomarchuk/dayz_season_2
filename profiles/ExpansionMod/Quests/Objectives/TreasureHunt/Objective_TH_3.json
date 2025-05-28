@@ -7,26 +7,89 @@
     "Active": 1,
     "ShowDistance": 0,
     "ContainerName": "ExpansionQuestSeaChest",
-    "DigInStash": 0,
+    "DigInStash": 1,
     "MarkerName": "",
-    "MarkerVisibility": 0,
-    "Positions": [  
+    "MarkerVisibility": 4,
+    "Positions": [
         [
-            9135.820313, 
-            258.688721, 
-            4110.861816
+            11476.006836,
+            343.133728,
+            11328.184570
         ]
     ],
-    "LootItemsAmount": 1,
-    "MaxDistance": 10.0,
+    "LootItemsAmount": 8,
+    "MaxDistance": 100.0,
     "Loot": [
         {
-            "Name": "DNA_KeyCard_Yellow",
+            "Name": "IMP_KelTecSUB2000",
+            "Chance": 1.0,
+            "Attachments": ["IMP_KelTecSUB2000_Mag_15Rnd"],
+            "QuantityPercent": -2,
+            "Max": 1,
+            "Min": 1,
+            "Variants": []
+        },
+        {
+            "Name": "WaterBottle",
             "Chance": 1.0,
             "Attachments": [],
-            "QuantityPercent": 30,
-            "Max": -1,
-            "Min": 0,
+            "QuantityPercent": -2,
+            "Max": 1,
+            "Min": 1,
+            "Variants": []
+        },
+        {
+            "Name": "BakedBeansCan",
+            "Chance": 1.0,
+            "Attachments": [],
+            "QuantityPercent": -2,
+            "Max": 1,
+            "Min": 1,
+            "Variants": []
+        },
+        {
+            "Name": "SpaghettiCan",
+            "Chance": 1.0,
+            "Attachments": [],
+            "QuantityPercent": -2,
+            "Max": 1,
+            "Min": 1,
+            "Variants": []
+        },
+        {
+            "Name": "TerjePlaster",
+            "Chance": 1.0,
+            "Attachments": [],
+            "QuantityPercent": -2,
+            "Max": 1,
+            "Min": 1,
+            "Variants": []
+        },
+        {
+            "Name": "TerjeInjectorZivirol",
+            "Chance": 1.0,
+            "Attachments": [],
+            "QuantityPercent": -2,
+            "Max": 1,
+            "Min": 1,
+            "Variants": []
+        },
+        {
+            "Name": "TerjeInjectorZivirol",
+            "Chance": 1.0,
+            "Attachments": [],
+            "QuantityPercent": -2,
+            "Max": 1,
+            "Min": 1,
+            "Variants": []
+        },
+        {
+            "Name": "RIP_FlashUSB2",
+            "Chance": 1.0,
+            "Attachments": [],
+            "QuantityPercent": -2,
+            "Max": 1,
+            "Min": 1,
             "Variants": []
         }
     ]
