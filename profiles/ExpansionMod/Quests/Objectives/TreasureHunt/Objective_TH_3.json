@@ -17,20 +17,20 @@
             11328.184570
         ]
     ],
-    "LootItemsAmount": 8,
+    "LootItemsAmount": 7,
     "MaxDistance": 100.0,
     "Loot": [
         {
             "Name": "IMP_KelTecSUB2000",
             "Chance": 1.0,
-            "Attachments": ["IMP_KelTecSUB2000_Mag_15Rnd"],
+            "Attachments": [],
             "QuantityPercent": -2,
             "Max": 1,
             "Min": 1,
             "Variants": []
         },
         {
-            "Name": "WaterBottle",
+            "Name": "IMP_KelTecSUB2000_Mag_15Rnd",
             "Chance": 1.0,
             "Attachments": [],
             "QuantityPercent": -2,
@@ -58,15 +58,6 @@
         },
         {
             "Name": "TerjePlaster",
-            "Chance": 1.0,
-            "Attachments": [],
-            "QuantityPercent": -2,
-            "Max": 1,
-            "Min": 1,
-            "Variants": []
-        },
-        {
-            "Name": "TerjeInjectorZivirol",
             "Chance": 1.0,
             "Attachments": [],
             "QuantityPercent": -2,

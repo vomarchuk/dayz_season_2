@@ -18,8 +18,27 @@
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
     "QuestItems": [],
-    "Rewards": [],
-    "NeedToSelectReward": 0,
+    "Rewards": [
+        {
+            "ClassName": "FieldShovel",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "Shovel",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 0,
