@@ -3,12 +3,12 @@
     "ID": 5,
     "ClassName": "ExpansionQuestNPCAINiki",
     "Position": [
-        1400.749512,
-        329.334259,
-        619.072876
+        1389.397827,
+        329.336273,
+        612.630066
     ],
     "Orientation": [
-        -174.352936,
+        43.058819,
         0.000000,
         -0.000000
     ],
@@ -16,14 +16,14 @@
     "DefaultNPCText": "Привіт!",
     "Waypoints": [
         [
-            1400.749512,
-            329.334259,
-            619.072876
+            1389.397827,
+            329.336273,
+            612.630066
         ]
     ],
     "NPCEmoteID": 46,
     "NPCEmoteIsStatic": 0,
-    "NPCLoadoutFile": "HumanLoadout",
+    "NPCLoadoutFile": "PlayerSurvivorLoadout",
     "NPCInteractionEmoteID": 1,
     "NPCQuestCancelEmoteID": 60,
     "NPCQuestStartEmoteID": 58,
