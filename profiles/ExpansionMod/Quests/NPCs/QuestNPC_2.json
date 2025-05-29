@@ -1,0 +1,34 @@
+{
+    "ConfigVersion": 6,
+    "ID": 2,
+    "ClassName": "ExpansionQuestNPCAIMirek",
+    "Position": [
+        8349.493164,
+        292.011963,
+        5975.987793
+    ],
+    "Orientation": [
+        -151.599365,
+        0.000000,
+        -0.000000
+    ],
+    "NPCName": "Артем",
+    "DefaultNPCText": "Привіт! Поки для тебе нічого немає, приходь пізніше",
+    "Waypoints": [
+        [
+            8349.493164,
+            292.011963,
+            5975.987793
+        ]
+    ],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "PlayerSurvivorLoadout",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 2,
+    "Active": 1
+}
