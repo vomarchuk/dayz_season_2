@@ -161,21 +161,21 @@
             "TeleportName": "Teleport out Yar",
             "ObjectType": "bldr_TB_Doors_B",
             "ObjectCoordinates": [
-                4393.772461,
-                469.487000,
-                15048.668945
+                4395.899902,
+                469.795013,
+                15045.500000
             ],
             "ObjectOrientation": [
-                -54.000389,
+                -143.319580,
                 0.000000,
-                0.000000
+                -0.000000
             ],
             "TeleportPosition": [
                 4395.540039,
                 469.674280,
                 15054.024414
             ],
-            "CheckRadius": 2,
+            "CheckRadius": 3,
             "RequiredItem": "",
             "RequiredItemDamagePercent": 0,
             "TeleportActiveTimeSeconds": 0,
@@ -197,11 +197,11 @@
                 -0.000000
             ],
             "TeleportPosition": [
-                4395.138184,
-                469.602136,
-                15048.516602
+                4393.677246,
+                469.537048,
+                15044.338867
             ],
-            "CheckRadius": 2,
+            "CheckRadius": 3,
             "RequiredItem": "RZ_KeycardDD_lvl1",
             "RequiredItemDamagePercent": 100,
             "TeleportActiveTimeSeconds": 0,
