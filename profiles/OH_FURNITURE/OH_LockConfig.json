@@ -1,6 +1,6 @@
 {
     "RaidTimeLocks": 1.0,
-    "AutoCloseTimerSec": 180,
+    "AutoCloseTimerSec": 3888000,
     "CanAttachToFur": "true",
     "CanRaidLocks": "false",
     "CanDigBarrels": "false",
