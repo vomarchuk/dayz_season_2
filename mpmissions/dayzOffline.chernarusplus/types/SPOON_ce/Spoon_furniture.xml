@@ -384,7 +384,7 @@
     <type name="OH_shelf_stand_Kit">
         <nominal>1</nominal>
         <lifetime>43200</lifetime>
-        <restock>43199</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -407,7 +407,7 @@
     <type name="OH_workbenchKit">
         <nominal>1</nominal>
         <lifetime>43200</lifetime>
-        <restock>43199</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -781,7 +781,7 @@
     <type name="OH_shelf_materials_Kit">
         <nominal>1</nominal>
         <lifetime>43200</lifetime>
-        <restock>43199</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -803,7 +803,7 @@
     <type name="OH_gun_cabinet_Kit">
         <nominal>1</nominal>
         <lifetime>43200</lifetime>
-        <restock>43199</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1331,7 +1331,7 @@
         <usage name="TrainCrash"/>
     </type>
     <type name="OH_soviet_sofa_gun_rack_red">
-        <lifetime>28800</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
@@ -2480,7 +2480,7 @@
     <type name="OH_55gallons_water_Barrel_blue">
         <nominal>1</nominal>
         <lifetime>3888000</lifetime>
-        <restock>600</restock>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
