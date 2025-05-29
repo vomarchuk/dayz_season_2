@@ -25,6 +25,10 @@
         {
             "ClassName": "Mag_IJ70_8Rnd",
             "Amount": 2
+        },
+        {
+            "ClassName": "Ammo_380",
+            "Amount": 50
         }
     ],
     "Rewards": [
