@@ -2,74 +2,6 @@
   "Areas": [
     {
       "Active": 1,
-      "Classname": "TerjeRadioactiveScriptableArea",
-      "Position": [
-        12284.750977,
-        0.0,
-        12534.62207
-      ],
-      "SpawnChance": 1.0,
-      "Data": {
-        "HeightMin": -100.0,
-        "HeightMax": 150.0,
-        "OuterRadius": 280.0,
-        "InnerRadius": 200.0,
-        "Power": 5.0
-      }
-    },
-    {
-      "Active": 1,
-      "Classname": "TerjeRadioactiveScriptableArea",
-      "Position": [
-        12025.651367,
-        0.0,
-        12573.119141
-      ],
-      "SpawnChance": 1.0,
-      "Data": {
-        "HeightMin": -100.0,
-        "HeightMax": 150.0,
-        "OuterRadius": 320.0,
-        "InnerRadius": 200.0,
-        "Power": 5.0
-      }
-    },
-    {
-      "Active": 1,
-      "Classname": "TerjeRadioactiveScriptableArea",
-      "Position": [
-        597.987976,
-        509.835663,
-        13664.046875
-      ],
-      "SpawnChance": 1.0,
-      "Data": {
-        "HeightMin": -100.0,
-        "HeightMax": 150.0,
-        "OuterRadius": 250.0,
-        "InnerRadius": 100.0,
-        "Power": 5.0
-      }
-    },
-    {
-      "Active": 1,
-      "Classname": "TerjeRadioactiveScriptableArea",
-      "Position": [
-        13807.695313,
-        14.190087,
-        11150.918945
-      ],
-      "SpawnChance": 1.0,
-      "Data": {
-        "HeightMin": -100.0,
-        "HeightMax": 150.0,
-        "OuterRadius": 150.0,
-        "InnerRadius": 100.0,
-        "Power": 5.0
-      }
-    },
-    {
-      "Active": 1,
       "Classname": "TerjePsionicScriptableArea",
       "Position": [
         12542.476563,
@@ -99,7 +31,7 @@
         "HeightMax": 50.0,
         "OuterRadius": 125.0,
         "InnerRadius": 85.0,
-        "Power": 0.25
+        "Power": 0.35
       }
     },
     {
@@ -116,7 +48,7 @@
         "HeightMax": 50.0,
         "OuterRadius": 100.0,
         "InnerRadius": 70.0,
-        "Power": 0.25
+        "Power": 0.35
       }
     },
     {
