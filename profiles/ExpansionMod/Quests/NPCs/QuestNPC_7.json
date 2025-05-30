@@ -1,29 +1,29 @@
 {
     "ConfigVersion": 6,
-    "ID": 2,
-    "ClassName": "ExpansionQuestNPCAIMirek",
+    "ID": 7,
+    "ClassName": "ExpansionQuestNPCAIManua",
     "Position": [
-        8347.679688,
-        292.008820,
-        5979.818848
+        8393.610352,
+        292.177887,
+        5967.712402
     ],
     "Orientation": [
-        42.599365,
+        30.058819,
         0.000000,
         -0.000000
     ],
-    "NPCName": "Артем",
-    "DefaultNPCText": "Привіт! Поки для тебе нічого немає, приходь пізніше",
+    "NPCName": "Марк",
+    "DefaultNPCText": "Хеллоу!",
     "Waypoints": [
         [
-            8347.679688,
-            292.008820,
-            5979.818848
+            8393.610352,
+            292.177887,
+            5967.712402
         ]
     ],
     "NPCEmoteID": 46,
     "NPCEmoteIsStatic": 0,
-    "NPCLoadoutFile": "SurvivorLoadout",
+    "NPCLoadoutFile": "SurvivorLoadout",  
     "NPCInteractionEmoteID": 1,
     "NPCQuestCancelEmoteID": 60,
     "NPCQuestStartEmoteID": 58,

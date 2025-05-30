@@ -1,14 +1,14 @@
 {
     "ConfigVersion": 28,
-    "ID": 1004,
+    "ID": 1005,
     "ObjectiveType": 3,
-    "ObjectiveText": "Дістатися до табору",
+    "ObjectiveText": "Знайти Павла",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        8349.493164,
-        292.011963,
-        5975.987793
+        203.427887,
+        103.813004,
+        2387.439941
     ],
     "MaxDistance": 5.0,
     "MarkerName": "",

@@ -1043,7 +1043,7 @@
 		<pos x="10784.112" z="6684.350" a="0" y="93.008" group="Ambush_Dolina" />
 		<pos x="9779.0" z="10973.1" a="0" y="214.959" group="Ambush_Dubrovka" />
 		<pos x="5768.208" z="10208.027" a="0" y="274.293" group="Ambush_Grishino" />
-		<pos x="8387.078" z="5988.155" a="0" y="292.062" group="Ambush_Kumyrna" />
+		<!-- <pos x="8387.078" z="5988.155" a="0" y="292.062" group="Ambush_Kumyrna" /> -->
 		<pos x="1203.912" z="7974.503" a="0" y="218.039" group="Ambush_Metalurg" />
 		<pos x="9834.277" z="4667.238" a="0" y="84.831" group="Supply_Elektro" />
 		<pos x="4132.739" z="5649.462" a="0" y="347.288" group="Supply_GreenMountain" />

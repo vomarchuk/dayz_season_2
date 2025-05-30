@@ -12,7 +12,7 @@
     ],
     "MaxDistance": 5.0,
     "MarkerName": "",
-    "ShowDistance": 1,
+    "ShowDistance": 0,
     "TriggerOnEnter": 1,
     "TriggerOnExit": 0
 }
