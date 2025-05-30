@@ -2,13 +2,13 @@
     "ConfigVersion": 28,
     "ID": 3,
     "ObjectiveType": 6,
-    "ObjectiveText": "Знайди сховок",
+    "ObjectiveText": "Знайди сховок 11476-11328",
     "TimeLimit": -1,
     "Active": 1,
-    "ShowDistance": 0,
+    "ShowDistance": 1,
     "ContainerName": "ExpansionQuestSeaChest",
     "DigInStash": 1,
-    "MarkerName": "",
+    "MarkerName": "?",
     "MarkerVisibility": 4,
     "Positions": [
         [
