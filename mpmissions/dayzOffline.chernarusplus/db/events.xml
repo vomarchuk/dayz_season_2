@@ -788,7 +788,7 @@
         <min>1</min>
         <max>3</max>
         <lifetime>2100</lifetime>
-        <restock>0</restock>
+        <restock>900</restock>
         <saferadius>1000</saferadius>
         <distanceradius>1000</distanceradius>
         <cleanupradius>1000</cleanupradius>
