@@ -18,10 +18,10 @@
         ]
     ],
     "LootItemsAmount": 7,
-    "MaxDistance": 100.0,
+    "MaxDistance": 50.0,
     "Loot": [
         {
-            "Name": "IMP_KelTecSUB2000",
+            "Name": "IMP_STM9",
             "Chance": 1.0,
             "Attachments": [],
             "QuantityPercent": -2,
@@ -30,7 +30,7 @@
             "Variants": []
         },
         {
-            "Name": "IMP_KelTecSUB2000_Mag_15Rnd",
+            "Name": "IMP_Mag_Glock_30Rnd",
             "Chance": 1.0,
             "Attachments": [],
             "QuantityPercent": -2,

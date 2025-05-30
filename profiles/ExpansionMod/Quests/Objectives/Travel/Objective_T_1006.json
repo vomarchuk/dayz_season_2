@@ -1,16 +1,16 @@
 {
     "ConfigVersion": 28,
-    "ID": 1004,
+    "ID": 1006,
     "ObjectiveType": 3,
-    "ObjectiveText": "Дістатися до табору",
-    "TimeLimit": -1,
+    "ObjectiveText": "Знайти бандитів",
+    "TimeLimit": 3600,
     "Active": 1,
     "Position": [
-        8347.679688,
-        291.996918,
-        5979.818848
+        15067.806641,
+        27.347717,
+        13548.791992
     ],
-    "MaxDistance": 10.0,
+    "MaxDistance": 150.0,
     "MarkerName": "",
     "ShowDistance": 0,
     "TriggerOnEnter": 1,
