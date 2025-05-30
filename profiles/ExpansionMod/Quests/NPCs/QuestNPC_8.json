@@ -1,24 +1,24 @@
 {
     "ConfigVersion": 6,
-    "ID": 2,
-    "ClassName": "ExpansionQuestNPCAIMirek",
+    "ID": 8,
+    "ClassName": "ExpansionQuestNPCAIQuinn",
     "Position": [
-        8347.679688,
-        292.008820,
-        5979.818848
+        8368.875977,
+        292.008362,
+        5980.167969
     ],
     "Orientation": [
-        42.599365,
+        -34.058819,
         0.000000,
-        -0.000000
+        0.000000
     ],
-    "NPCName": "Артем",
-    "DefaultNPCText": "Привіт! Поки для тебе нічого немає, приходь пізніше",
+    "NPCName": "Остап",
+    "DefaultNPCText": "Здоровенкі були!",
     "Waypoints": [
         [
-            8347.679688,
-            292.008820,
-            5979.818848
+            8368.875977,
+            292.008362,
+            5980.167969
         ]
     ],
     "NPCEmoteID": 46,

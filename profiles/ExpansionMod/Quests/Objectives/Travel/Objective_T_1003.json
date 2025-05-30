@@ -11,8 +11,8 @@
         9042.040039
     ],
     "MaxDistance": 5.0,
-    "MarkerName": "Вівтарь",
-    "ShowDistance": 1,
+    "MarkerName": "",
+    "ShowDistance": 0,
     "TriggerOnEnter": 1,
     "TriggerOnExit": 0
 }
