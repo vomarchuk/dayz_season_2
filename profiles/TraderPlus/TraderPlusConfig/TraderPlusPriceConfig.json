@@ -968,10 +968,7 @@
     },
     {
       "CategoryName": "Ліхтарики",
-      "Products": [
-        "TLRLight,1,-1,0,-1,40",
-        "Universallight,1,-1,0,-1,45"
-      ]
+      "Products": ["TLRLight,1,-1,0,-1,40", "Universallight,1,-1,0,-1,45"]
     },
     {
       "CategoryName": "Окуляри",
@@ -1825,7 +1822,8 @@
       "Products": [
         "HP_Crafter_Kit,1,-1,0,25000,2500",
         "Ammo_Workbench_Box,1,-1,0,30000,3000",
-        "Repair_Workbench_Box,1,-1,0,20000,2000"
+        "Repair_Workbench_Box,1,-1,0,20000,2000",
+        "VM_Leather_bag_35,1,-1,0,10000,1000"
       ]
     },
     {
