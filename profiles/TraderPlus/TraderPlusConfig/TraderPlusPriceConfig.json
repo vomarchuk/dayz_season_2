@@ -2154,6 +2154,9 @@
     {
       "CategoryName": "MMG Holster",
       "Products": [
+        "MMG_holster_pouch_black,1,-1,1,-1,120",
+        "MMG_holster_pouch_green,1,-1,1,-1,120",
+        "MMG_holster_pouch_tan,1,-1,1,-1,120",
         "MMG_Holster_black,1,-1,1,-1,120",
         "MMG_Holster_green,1,-1,1,-1,120",
         "MMG_Holster_tan,1,-1,1,-1,120",
@@ -2329,7 +2332,10 @@
       "CategoryName": "MMG Balaclava",
       "Products": [
         "MMG_facemask_black,1,-1,1,-1,100",
-        "MMG_facemask_olive,1,-1,1,-1,100",
+        "MMG_facemask_green,1,-1,1,-1,100",
+        "MMG_facemask_skull,1,-1,1,-1,100",
+        "MMG_facemask_joker,1,-1,1,-1,100",
+        "MMG_facemask_skull,1,-1,1,-1,100",
         "MMG_facemask_tan,1,-1,1,-1,100",
         "MMG_facemask_erdl,1,-1,1,-1,100",
         "MMG_facemask_alpine,1,-1,1,-1,100",
