@@ -13,7 +13,7 @@
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "SellPricePercent": 0,
-      "QuantityPercent": -1,
+      "QuantityPercent": 0,
       "SpawnAttachments": [],
       "Variants": []
     }

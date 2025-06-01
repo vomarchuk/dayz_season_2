@@ -2328,6 +2328,17 @@
     {
       "CategoryName": "MMG Balaclava",
       "Products": [
+        "MMG_facemask_black,1,-1,1,-1,100",
+        "MMG_facemask_olive,1,-1,1,-1,100",
+        "MMG_facemask_tan,1,-1,1,-1,100",
+        "MMG_facemask_erdl,1,-1,1,-1,100",
+        "MMG_facemask_alpine,1,-1,1,-1,100",
+        "MMG_facemask_multicamblack,1,-1,1,-1,100",
+        "MMG_facemask_multicam,1,-1,1,-1,100",
+        "MMG_facemask_dark_woodland,1,-1,1,-1,100",
+        "MMG_facemask_ucp,1,-1,1,-1,100",
+        "MMG_facemask_multicam_tropic,1,-1,1,-1,100",
+        "MMG_facemask_atacs,1,-1,1,-1,100",
         "MMG_balaclava_black,1,-1,1,-1,100",
         "MMG_balaclava_olive,1,-1,1,-1,100",
         "MMG_balaclava_tan,1,-1,1,-1,100",
