@@ -15,8 +15,7 @@
       "SellPricePercent": 0,
       "QuantityPercent": -1,
       "SpawnAttachments": [
-        "IMP_Mag_VEPR12_20Rnd",
-        "IMP_Bttstk_AK_VEPR"
+        "IMP_Mag_VEPR12_20Rnd"
       ],
       "Variants": []
     },
