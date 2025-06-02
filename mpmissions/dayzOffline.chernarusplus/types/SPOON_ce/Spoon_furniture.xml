@@ -958,7 +958,7 @@
     </type>
     <!-- ДИВАН без функции сесть/лечь -->
     <type name="OH_sofa_gun_rack_nosleep_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1339,7 +1339,7 @@
     </type>
     <!-- КРАСНЫЙ ДИВАН без функции сесть/лечь -->
     <type name="OH_soviet_sofa_gun_rack_red_nosleep_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
