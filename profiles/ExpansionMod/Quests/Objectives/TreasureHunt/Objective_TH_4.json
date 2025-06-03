@@ -34,8 +34,17 @@
             "Chance": 1.0,
             "Attachments": [],
             "QuantityPercent": -2,
-            "Max": 2,
-            "Min": 2,
+            "Max": 1,
+            "Min": 1,
+            "Variants": []
+        },
+        {
+            "Name": "AmmoBox_308Win_20Rnd",
+            "Chance": 1.0,
+            "Attachments": [],
+            "QuantityPercent": -2,
+            "Max": 1,
+            "Min": 1,
             "Variants": []
         },
         {

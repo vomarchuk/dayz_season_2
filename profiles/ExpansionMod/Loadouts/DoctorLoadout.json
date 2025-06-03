@@ -25,7 +25,7 @@
                     "SlotName": "Body",
                     "Items": [
                         {
-                            "ClassName": "LabCoat",
+                            "ClassName": "NBCJacketGray",
                             "Include": "",
                             "Chance": 1.0,
                             "Quantity": {
@@ -50,7 +50,7 @@
                     "SlotName": "Legs",
                     "Items": [
                         {
-                            "ClassName": "SlacksPants_White",
+                            "ClassName": "NBCPantsGray",
                             "Include": "",
                             "Chance": 1.0,
                             "Quantity": {
@@ -75,7 +75,7 @@
                     "SlotName": "Feet",
                     "Items": [
                         {
-                            "ClassName": "DressShoes_Black",
+                            "ClassName": "NBCBootsGray",
                             "Include": "",
                             "Chance": 1.0,
                             "Quantity": {
@@ -100,7 +100,7 @@
                     "SlotName": "Headgear",
                     "Items": [
                         {
-                            "ClassName": "MedicalScrubsHat_Blue",
+                            "ClassName": "NBCHoodGray",
                             "Include": "",
                             "Chance": 1.0,
                             "Quantity": {
@@ -125,7 +125,7 @@
                     "SlotName": "Gloves",
                     "Items": [
                         {
-                            "ClassName": "SurgicalGloves_LightBlue",
+                            "ClassName": "NBCGlovesGray",
                             "Include": "",
                             "Chance": 1.0,
                             "Quantity": {

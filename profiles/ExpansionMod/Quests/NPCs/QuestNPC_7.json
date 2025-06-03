@@ -3,12 +3,12 @@
     "ID": 7,
     "ClassName": "ExpansionQuestNPCAIManua",
     "Position": [
-        8393.610352,
-        292.177887,
-        5967.712402
+        8381.163086,
+        292.074219,
+        5975.683594
     ],
     "Orientation": [
-        30.058819,
+        38.672417,
         0.000000,
         -0.000000
     ],
@@ -16,14 +16,14 @@
     "DefaultNPCText": "Хеллоу!",
     "Waypoints": [
         [
-            8393.610352,
-            292.177887,
-            5967.712402
+            8381.163086,
+            292.074219,
+            5975.683594
         ]
     ],
     "NPCEmoteID": 46,
     "NPCEmoteIsStatic": 0,
-    "NPCLoadoutFile": "SurvivorLoadout",  
+    "NPCLoadoutFile": "SurvivorLoadout",
     "NPCInteractionEmoteID": 1,
     "NPCQuestCancelEmoteID": 60,
     "NPCQuestStartEmoteID": 58,
