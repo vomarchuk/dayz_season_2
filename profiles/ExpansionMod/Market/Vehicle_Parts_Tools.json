@@ -120,6 +120,17 @@
             "Variants": []
         },
         {
+            "ClassName": "Varta_Box",
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 30000,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "BRDK_german_motorcycle_Bag",
             "MaxPriceThreshold": 2000,
             "MinPriceThreshold": 2000,

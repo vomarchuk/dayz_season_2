@@ -669,18 +669,6 @@
       ]
     },
     {
-      "CategoryName": "Car attachments",
-      "Products": [
-        "KIWI_Barrel_01,1,-1,0,10000,1000",
-        "KIWI_Barrel_02,1,-1,0,10000,1000",
-        "KIWI_Barrel_03,1,-1,0,10000,1000",
-        "KIWI_WoodenCrate_01,1,-1,1,10000,1000",
-        "Varta_Box,1,-1,1,20000,2000",
-        "BRDK_german_motorcycle_Bag,1,-1,1,2000,200",
-        "BRDK_german_motorcycle_Bag_black,1,-1,1,2000,200"
-      ]
-    },
-    {
       "CategoryName": "Seeds & Lime",
       "Products": [
         "TomatoSeedsPack,1,-1,1,-1,25",
