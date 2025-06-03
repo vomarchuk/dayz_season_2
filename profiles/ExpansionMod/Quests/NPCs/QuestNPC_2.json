@@ -3,12 +3,12 @@
     "ID": 2,
     "ClassName": "ExpansionQuestNPCAIMirek",
     "Position": [
-        8347.679688,
-        292.008820,
-        5979.818848
+        8365.636719,
+        292.024933,
+        5973.320313
     ],
     "Orientation": [
-        42.599365,
+        40.482109,
         0.000000,
         -0.000000
     ],
@@ -16,14 +16,14 @@
     "DefaultNPCText": "Привіт! Поки для тебе нічого немає, приходь пізніше",
     "Waypoints": [
         [
-            8347.679688,
-            292.008820,
-            5979.818848
+            8365.636719,
+            292.024933,
+            5973.320313
         ]
     ],
     "NPCEmoteID": 46,
     "NPCEmoteIsStatic": 0,
-    "NPCLoadoutFile": "SurvivorLoadout",
+    "NPCLoadoutFile": "ArtemLoadout",
     "NPCInteractionEmoteID": 1,
     "NPCQuestCancelEmoteID": 60,
     "NPCQuestStartEmoteID": 58,

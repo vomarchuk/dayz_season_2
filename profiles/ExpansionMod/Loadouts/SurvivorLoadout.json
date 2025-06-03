@@ -1537,26 +1537,6 @@
             "SlotName": "Melee",
             "Items": [
                 {
-                    "ClassName": "BaseballBat",
-                    "Include": "",
-                    "Chance": 0.05000000074505806,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
                     "ClassName": "FirefighterAxe",
                     "Include": "",
                     "Chance": 0.05000000074505806,
@@ -1598,26 +1578,6 @@
                 },
                 {
                     "ClassName": "PipeWrench",
-                    "Include": "",
-                    "Chance": 0.05000000074505806,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "Pipe",
                     "Include": "",
                     "Chance": 0.05000000074505806,
                     "Quantity": {

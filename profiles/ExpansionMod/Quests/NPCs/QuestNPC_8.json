@@ -3,12 +3,12 @@
     "ID": 8,
     "ClassName": "ExpansionQuestNPCAIQuinn",
     "Position": [
-        8368.875977,
-        292.008362,
-        5980.167969
+        8349.680664,
+        292.019501,
+        5981.577148
     ],
     "Orientation": [
-        -34.058819,
+        65.376282,
         0.000000,
         0.000000
     ],
@@ -16,14 +16,14 @@
     "DefaultNPCText": "Здоровенкі були!",
     "Waypoints": [
         [
-            8368.875977,
-            292.008362,
-            5980.167969
+            8349.680664,
+            292.019501,
+            5981.577148
         ]
     ],
     "NPCEmoteID": 46,
     "NPCEmoteIsStatic": 0,
-    "NPCLoadoutFile": "SurvivorLoadout",
+    "NPCLoadoutFile": "HunterLoadout",
     "NPCInteractionEmoteID": 1,
     "NPCQuestCancelEmoteID": 60,
     "NPCQuestStartEmoteID": 58,
