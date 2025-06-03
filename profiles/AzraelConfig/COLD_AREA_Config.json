@@ -10,7 +10,7 @@
     "cfg_AreaDamageTickTime": 2.0,
     "cfg_AreaNotifications": 1,
     "cfg_ClothingStateNotifications": 1,
-    "cfg_EnablePlayerHeatBufferReset": 1,
+    "cfg_EnablePlayerHeatBufferReset": 0,
     "cfg_EnablePlayerTemperatureReset": 1,
     "cfg_EnableFrozenItemInInventory": 1,
     "SECTION2": "====== 2. Protection Settings ======",
