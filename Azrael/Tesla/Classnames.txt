@@ -1,0 +1,23 @@
+Azrael Infected Tesla Mod
+1.1
+
+AP_zmb_voltage_miltary
+- Тесла-Зомби / Telsa-Zombie
+
+AP_part_zmb_voltage_head
+- Голова Тесла-Зомби / Head of Tesla-Zombie
+
+AP_document_secret_voltage
+- Документ с заметками (рус) / Notes (rus)
+
+AP_document_secret_voltage_eng
+- Документ с заметками (англ) / Notes (eng)
+
+
+
+
+    <type name="AP_zmb_voltage_miltary">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+       <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>   

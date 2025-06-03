@@ -1,0 +1,160 @@
+Azrael Infected Tesla Mod
+1.1
+
+Path to Json-Config: $profile:\\AzraelConfig\\ZMB_VOLTAGE_Config.json
+
+
+
+===================== "SECTION1": "====== 1. Zombie Settings ======",
+
+"cfg_MinStartWaveDist": 2,  // (meters)
+"cfg_MaxStartWaveDist": 10,  // (meters)
+	- Мин. и макс. радиус, в котором зомби проверяет наличие противника для нанесения урона разрядом тока
+	- Min. and max. the radius in which the zombie checks for the presence of an enemy to deal shock damage
+
+"cfg_MaxChrgDamageDist": 10,  // (meters)
+	- Максимальный радиус воздействия (урона) от электроимпульса
+	- Maximum radius of impact (damage) from an electric pulse
+
+"cfg_MeleeReverseDamageDist": 3.0,  // (meters)
+	- При достижении этой дистанции или меньше вы будете получать урон при попытке атаковать зомби оружием ближнего боя
+	- When you reach this distance or less, you will take damage when attempting to attack a zombie with a melee weapon
+
+"cfg_CheckHeight": 0,  // (0 - off, 1 - on)
+	- Включить/выключить проверку высоты нахождения противника для зомби для возможности удара разрядом тока (Например: если включить эту опцию, то зомби не будет наносить удар разрядом тока, если разница в высоте нахождения между зомби и игроком более чем указана в cfg_CheckHeightValue)
+	- Enable/disable checking the enemy's height for zombies to be able to shock (For example: if you enable this option, the zombie will not shock if the difference in height between the zombie and the player is more than specified in cfg_CheckHeightValue)
+
+"cfg_CheckHeightValue": 1.5,  // (meters)
+	- Значение разницы в высоте для проверки в опции cfg_CheckHeight
+	- The height difference value to check in the cfg_CheckHeight option
+
+"cfg_TimeChrgAttackRepeat": 5,  // (sec)
+	- Периодичность, с которой зомби будет пытаться атаковать электрическим разрядом
+	- The frequency with which a zombie will attempt to attack with an electrical discharge
+
+"cfg_EnableAnimalsDamageWithElectro": 1,  // (0 - off, 1 - on)
+	- Включить/выключить урон животным от электрического разряда
+	- Enable/disable electrical damage to animals
+
+"cfg_EnableOtherZombieElectrification": 1,  // (0 - off, 1 - on)
+	- Включить/выключить электрификации других зомби, оказавшихся в радиусе поражения электроимпульса (в течении указанного в m_TimeToElectroFuzzingStop времени атакующий этих зомби оружием ближнего боя игрок будет получать урон от электрического тока)
+	- Turn on/off the electrification of other zombies that are within the radius of the electric pulse (during the time specified in m_TimeToElectroFuzzingStop, the player attacking these zombies with a melee weapon will receive damage from the electric current)
+
+"m_TimeToElectroFuzzingStop": 10,  // (sec)
+	- Длительность нахождения зомби в состоянии электрификации (для опции cfg_EnableOtherZombieElectrification)
+	- Duration of a zombie being in a state of electrification (for the cfg_EnableOtherZombieElectrification option)
+
+
+===================== "SECTION2": "====== 2. Player Settings ======",
+
+"cfg_DontAttackPlrUncon": 1,  // (0 - off, 1 - on)
+	- Включить/выключить функцию вызова электроимпульса у зомби, если игрок (являющийся целью) находится в бессознательном состоянии
+	- Enable/disable the function of causing an electrical pulse to zombies if the player (who is the target) is unconscious
+
+
+"cfg_WaveShockDmgModif": 100.0,  //
+	- Максимальное количество шока, которое получит игрок находясь в эпицентре электроимпульса (уменьшается в зависимости от дистанции)
+	- The maximum amount of shock that a player will receive while at the epicenter of an electrical pulse (decreases depending on the distance)
+
+"cfg_WaveHealthDmgModif": 20.0,  //
+	- Максимальное количество урона по здоровью, которое получит игрок находясь в эпицентре электроимпульса (уменьшается в зависимости от дистанции)
+	- The maximum amount of health damage that a player will receive while at the epicenter of an electrical pulse (decreases depending on the distance)
+
+"cfg_ReverseShockDmgMin": 20.0,  //
+"cfg_ReverseShockDmgMax": 40.0,  //
+	- Мин. и макс. количество шока, которое получит игрок, ударив зомби оружием ближнего боя
+	- Min. and max. the amount of shock a player will receive when hitting a zombie with a melee weapon
+
+"cfg_ReverseHealthDmgMin": 10.0,  //
+"cfg_ReverseHealthDmgMax": 20.0,  //
+	- Мин. и макс. урон по здоровью, который получит игрок, ударив зомби оружием ближнего боя
+	- Min. and max. health damage a player will receive when hitting a zombie with a melee weapon
+
+
+===================== "SECTION3": "====== 3. Cut Head Settings ======",
+
+"cfg_CutHeadToolsList": [
+	"CombatKnife",
+	"Hatchet",
+	"HuntingKnife"
+],
+	- Список инструментов, с помощью которых можно отрезать голову зомби Тесла
+	- List of tools that can be used to cut off the head of a Tesla zombie
+	
+	
+	
+===================== "SECTION4": "====== 4. Electrical Device Settings ======",
+
+"cfg_EnableElectronicDestroy": 1,  // (0 - off, 1 - on)
+	- Включить/выключить уничтожение и повреждение электроники из списка cfg_ElectronicDestroyList при нанесении урона электрическим разрядом
+	- Enable/disable destruction and damage to electronics from the cfg_ElectronicDestroyList when dealing electrical damage
+
+
+"cfg_DeathDistanceForElectricalDevice": 5,  // (meters)
+	- Находящаяся в этом радиусе электроника будет уничтожена, остальная получит повреждения
+	- Electronics located in this radius will be destroyed, the rest will be damaged
+
+
+"cfg_ElectronicDestroyList": [
+	"NVGoggles",
+	"Battery9V",
+	"PersonalRadio"
+],
+	- Список предметов, на которые распространяются функции, описанные выше
+	- List of items covered by the functions described above
+	
+	
+	
+===================== "SECTION5": "====== 5. Protection Settings ======",
+
+"cfg_EnableEquipElectroProtection": 1,  // (0 - off, 1 - on)
+	- Включить/выключить систему защиты от электричества, настраиваемую в m_ZMBVOLTAGEprotectEquip
+	- Enable/disable the electrical protection system configured in m_ZMBVOLTAGEprotectEquip
+
+
+"cfg_EnableEquipWetModifier": 1,  // (0 - off, 1 - on)
+	- Включить/выключить повышенный урон от электричества, если одежда игрока мокрая
+	- Enable/disable increased electricity damage if player's clothes are wet
+
+
+"m_ZMBVOLTAGEprotectEquip": [
+	{
+		"cfg_equip_Name": "NBCHoodBase",
+		"cfg_equip_Protection": 0.20000000298023225   // 0.0 - 0%, 1.0 - 100%
+	},
+	{
+		"cfg_equip_Name": "NBCJacketBase",
+		"cfg_equip_Protection": 0.20000000298023225
+	},
+	{
+		"cfg_equip_Name": "Wellies_ColorBase",
+		"cfg_equip_Protection": 0.20000000298023225
+	}
+],
+	- Список вещей, защищающих от электричества и коэффициент защиты. Коэффициента защиты суммируются. (1.0 - полная защита)
+	- List of things that protect against electricity and protection factor. The protection factors are summed up. (1.0 - full protection)
+	
+	
+	
+===================== "SECTION6": "====== 6. Loot Settings ======",
+
+"m_ZMBVOLTAGELoot": [
+	{
+		"cfg_loot_Name": "CombatKnife",  // класснейм предмета / item classname
+		"cfg_loot_Chance": 0.4000000059604645,  // 0.0-1.0 - шанс спавна предмета / chance of item spawn
+		"cfg_loot_IsStack": 0,  // имеет ли параметр количество (яблоко, швейный набор и тд) / does the parameter have a quantity (apple, sewing kit, etc.)
+		"cfg_loot_QuantityMin": 1,  // мин количество предметов/параметра количество // min number of items/parameter quantity
+		"cfg_loot_QuantityMax": 1,  // макс количество предметов/параметра количество // max number of items/parameter quantity
+		"cfg_loot_HealthMin": 0.30000001192092898,  // мин здоровье предмета // min health item
+		"cfg_loot_HealthMax": 0.699999988079071  // макс здоровье предмета // max health item
+	},
+	{
+		"cfg_loot_Name": "TacticalBaconCan_Opened",
+		"cfg_loot_Chance": 0.30000001192092898,
+		"cfg_loot_IsStack": 1,
+		"cfg_loot_QuantityMin": 10,
+		"cfg_loot_QuantityMax": 300,
+		"cfg_loot_HealthMin": 0.30000001192092898,
+		"cfg_loot_HealthMax": 0.699999988079071
+	}
+]

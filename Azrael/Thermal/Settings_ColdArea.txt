@@ -1,0 +1,81 @@
+Azrael Thermal Area Mod
+2.0
+
+Path to Json-Config: $profile:\\AzraelConfig\\COLD_AREA_Config.json
+
+
+
+COLD AREA SETTINGS
+
+============================== Main_Config =============================
+
+"====== 1. Cold Area Settings ======"
+
+"cfg_EnableDebugMode": 0,  // (0 - off, 1 - on)
+	- Вкл/выкл технические логи в чат в игре (указывает нынешний уровень теплоизоляции и необходимый)
+	- Turn on/off technical logs in the game chat (indicates the current level of thermal insulation and the required one)
+	
+"cfg_AreaTemperatureCap": -100,  // (int/целое)
+	- Темература в зоне. Работает странно для больших значений, для действительно сильного мороза активируйте параметр cfg_EnablePlayerTemperatureReset
+	- Temperature in the zone. Works strangely for large values, for really strong frost activate the parameter cfg_EnablePlayerTemperatureReset
+	
+"cfg_AreaDamageMultipler": 5.0,  // (float/дробное)
+	- Урон, получаемый игроком в зоне без защитной одежды, каждые cfg_AreaDamageTickTime секунд.
+	- Damage taken by a player in an area without protective clothing, every cfg_AreaDamageTickTime seconds.
+	
+"cfg_AreaDamageTickTime": 2.0,  // (float/дробное)
+	- Время (примерно секунды) между получением урона игроком.
+	- The time (approximately seconds) between a player receiving damage.
+	
+"cfg_AreaNotifications": 1,  // (0 - off, 1 - on)
+	- Вкл/выкл уведомление о входе в зону.
+	- Turn on/off notification of entering the zone.
+	
+"cfg_ClothingStateNotifications": 1,  // (0 - off, 1 - on)
+	- Вкл/выкл уведомление об утрате одеждой необходимой теплоизоляции (сломалась, промокла).
+	- Turn on/off notification about loss of necessary thermal insulation by clothes (broken, wet).
+	
+"cfg_EnablePlayerHeatBufferReset": 1,  // (0 - off, 1 - on)
+	- Вкл/выкл сброс теплового буфера игрока в зоне.
+	- Toggle reset of player's heat buffer in zone.
+	
+"cfg_EnablePlayerTemperatureReset": 0,  // (0 - off, 1 - on)
+	- Вкл/выкл сброс температуры игрока в минимум каждые cfg_AreaDamageTickTime секунд.
+	- Enable/disable resetting player temperature to minimum every cfg_AreaDamageTickTime seconds.
+	
+"cfg_EnableFrozenItemInInventory": 0,  // (0 - off, 1 - on)
+	- Вкл/выкл замерзание предметов в инвентаре игрока в зоне.
+	- Enable/disable freezing of items in the player's inventory in the zone.
+
+
+"====== 2. Protection Settings ======"
+
+"cfg_EnableEquipColdAreaProtection": 1,  // (0 - off, 1 - on)
+	- Вкл/выкл возможность защиты игрока от смертельного холода с помощью одежды (настраивается ниже).
+	- Enable/disable the ability to protect the player from the deadly cold with clothing (configured below).
+
+"cfg_EnableEquipColdAreaWetModifier": 1,  // (0 - off, 1 - on)
+	- Вкл/выкл влияние влажности одежды на ее показатель защиты от смертельного холода в зоне.
+	- On/off the influence of clothing humidity on its protection index against deadly cold in the zone.
+	
+"cfg_MinimalWetnessLevelForDebuff": 0.3,  // (float/дробное 0.0 ... 1.0)
+	- Коэффициент влажности одежды, свыше которого он начинает влиять на теплоизоляцию одежды в зоне.
+	- The moisture content of clothing above which it begins to affect the thermal insulation of clothing in the zone.
+
+"cfg_UseVanillaHeatIsolation": 0,  // (0 - off, 1 - on)
+	- Использовать ванильные значения теплоизоляции одежды для расчета защиты от мороза.
+	- Use vanilla clothing insulation values ​​to calculate frost protection.
+	
+"cfg_NeededVanillaHeatIsolationSummary": 5.0,  // (float/дробное)
+	- Суммарная теплоизоляция всей одежды на игроке, необходимая для защиты от мороза (для примера лучшее утепление одной вещи - это примерно от 0.8 до 1.0).
+	- Total thermal insulation of all clothing on the player, necessary for protection from frost (for example, the best insulation of one item is approximately from 0.8 to 1.0).
+	
+	
+"cfg_ColdAreaProtectEquipList": [
+{
+	"cfg_equip_Name": "Headdress_Wolf",
+	"cfg_equip_Protection": 0.20000000298023225
+}
+]
+	- Данный список не активен при значении cfg_UseVanillaHeatIsolation: 1. Здесь вы можете указать класснейм (можно указать базовый) одежды и ее коэффициент защиты от мороза. Защита будет работать, если сумма всех коэффициентов будет больше/равна 1.0
+	- This list is not active if cfg_UseVanillaHeatIsolation is set to: 1. Here you can specify the class name (you can specify the base one) of the clothing and its frost protection coefficient. The protection will work if the sum of all coefficients is greater than/equal to 1.0

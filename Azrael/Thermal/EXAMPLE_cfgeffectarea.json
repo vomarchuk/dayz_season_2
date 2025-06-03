@@ -1,0 +1,50 @@
+{
+    "Areas": [
+        { 	"AreaName": "EXAMPLENAME_COLD_AREA", 
+			"Type": "AP_ColdArea_Static", 
+			"TriggerType": "AP_ColdAreaTrigger",
+			"Data": { 
+				"Pos": [ 2700, 0, 6160 ],
+				"Radius": 170,
+				"PosHeight": 20,
+				"NegHeight": 20,
+				"InnerRingCount": 2,
+				"InnerPartDist": 40,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "AP_coldarea/ptc/cold_area_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "AP_coldarea/ptc/cold_area_around",
+				"TinyPartName": "AP_coldarea/ptc/cold_area_around_tiny",
+				"PPERequesterType": "PPERequester_APColdAreaTint"
+			}
+		},
+        { 	"AreaName": "EXAMPLENAME_HOT_AREA", 
+			"Type": "AP_HotArea_Static", 
+			"TriggerType": "AP_HotAreaTrigger",
+			"Data": { 
+				"Pos": [ 2600, 0, 5960 ],
+				"Radius": 170,
+				"PosHeight": 20,
+				"NegHeight": 20,
+				"InnerRingCount": 2,
+				"InnerPartDist": 40,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "AP_coldarea/ptc/hot_area_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "AP_coldarea/ptc/hot_area_around",
+				"TinyPartName": "AP_coldarea/ptc/hot_area_around_tiny",
+				"PPERequesterType": "PPERequester_APHotAreaTint"
+			}
+		}
+    ]
+}

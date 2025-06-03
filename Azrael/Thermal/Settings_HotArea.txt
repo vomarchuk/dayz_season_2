@@ -1,0 +1,70 @@
+Azrael Thermal Area Mod
+2.0
+
+Path to Json-Config: $profile:\\AzraelConfig\\HOT_AREA_Config.json
+
+
+
+HOT AREA SETTINGS
+
+============================== Main_Config =============================
+
+"====== 1. Hot Area Settings ======"
+
+"cfgh_EnableDebugMode": 0,  // (0 - off, 1 - on)
+	- Вкл/выкл технические логи в чат в игре (указывает нынешний уровень защиты от жары и необходимый)
+	- Turn on/off technical logs in the game chat (indicates the current level of heat protection and the required)
+	
+"cfgh_AreaTemperatureCap": 100,  // (int/целое)
+	- Темература в зоне. Работает странно для больших значений, для действительно сильной жары активируйте параметр cfgh_EnablePlayerTemperatureReset
+	- Temperature in the zone. Works strangely for large values, for really strong heat activate the parameter cfgh_EnablePlayerTemperatureReset
+	
+"cfgh_AreaPlayerDamageMultipler": 5.0,  // (float/дробное)
+	- Урон, получаемый игроком в зоне без защитной одежды, каждые cfgh_AreaDamageTickTime секунд.
+	- Damage taken by a player in an area without protective clothing, every cfgh_AreaDamageTickTime seconds.
+	
+"cfgh_AreaClothingDamageMultipler": 2.0,  // (float/дробное)
+	- Урон, получаемый одеждой игрока в зоне, каждые cfgh_AreaDamageTickTime секунд. (умножается на модификатор cfgh_equip_DmgModif для одежды из списка). 0.0 - отключить.
+	- Damage taken by player's clothing in the area every cfgh_AreaDamageTickTime seconds. (multiplied by cfgh_equip_DmgModif modifier for clothing in the list). 0.0 - disable damage.
+	
+"cfgh_AreaDamageTickTime": 2.0,  // (float/дробное)
+	- Время (примерно секунды) между получением урона игроком.
+	- The time (approximately seconds) between a player receiving damage.
+	
+"cfgh_AreaNotifications": 1,  // (0 - off, 1 - on)
+	- Вкл/выкл уведомление о входе в зону.
+	- Turn on/off notification of entering the zone.
+	
+"cfgh_ClothingStateNotifications": 1,  // (0 - off, 1 - on)
+	- Вкл/выкл уведомление об утрате одеждой необходимой защиты (сломалась).
+	- Turn on/off notification about loss of necessary protection by clothing (broken).
+	
+"cfgh_EnablePlayerHeatBufferToFull": 0,  // (0 - off, 1 - on)
+	- Вкл/выкл повышение теплового буфера игрока в зоне до максимума.
+	- Toggles increasing the player's heat buffer in the zone to maximum.
+	
+"cfgh_EnablePlayerTemperatureReset": 0,  // (0 - off, 1 - on)
+	- Вкл/выкл резкое увеличение температуры игрока до максимума каждые cfg_AreaDamageTickTime секунд.
+	- Enable/disable sharp increase of player temperature to maximum every cfg_AreaDamageTickTime seconds.
+
+
+"====== 2. Protection Settings ======"
+
+"cfgh_EnableEquipHotAreaProtection": 1,  // (0 - off, 1 - on)
+	- Вкл/выкл возможность защиты игрока от смертельной жары с помощью одежды (настраивается ниже).
+	- Enable/disable the ability to protect the player from deadly heat using clothing (configured below).
+
+"cfgh_EnableClothingDamageIfYouHaveProtect": 1,  // (0 - off, 1 - on)
+	- Вкл/выкл повреждение одежды при наличии у игрока защиты от жары (cfg_equip_Protection суммарно равно или более 1.0 и параметре cfgh_AreaClothingDamageMultipler больше 0).
+	- Enable/disable clothing damage when the player has heat protection (cfg_equip_Protection total is equal to or greater than 1.0 and cfgh_AreaClothingDamageMultipler parameter is greater than 0).
+	
+	
+"cfgh_HotAreaProtectEquipList": [
+{
+	"cfg_equip_Name": "FirefightersHelmet_ColorBase",
+	"cfg_equip_Protection": 0.2,
+	"cfgh_equip_DmgModif": 0.05
+}
+]
+	- Здесь вы можете указать класснейм (можно указать базовый) одежды и ее коэффициент защиты от жары и множитель к получаемому урона для одежды в зоне (cfgh_equip_DmgModif - 1.0 повреждается как любая одежда, 0.0 не получает повреждений). Защита будет работать, если сумма всех коэффициентов будет больше/равна 1.0.
+	- Here you can specify the class name (you can specify the base one) of the clothes and its heat protection coefficient and the multiplier to the damage received for clothes in the zone (cfgh_equip_DmgModif - 1.0 is damaged like any clothes, 0.0 does not receive damage). The protection will work if the sum of all coefficients is greater than/equal to 1.0.
