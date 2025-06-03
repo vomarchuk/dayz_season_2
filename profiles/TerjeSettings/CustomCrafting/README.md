@@ -1,99 +1,76 @@
-# **Загальні відомості**
+# General
+You can create your own craft recipes on the server using this system.
+Each individual craft recipe must be in a separate file in this folder. The file names do not matter, but must have the `.json` extension.
 
-Ви можете створювати власні рецепти крафту на сервері, використовуючи цю систему.  
-Кожен окремий рецепт крафту має бути у окремому файлі в цій папці. Назви файлів не мають значення, але вони повинні мати розширення `.json`.
+## Crafting recipes format
 
-## **Формат рецептів крафту**
+> **Name**
+> The name of the recipe that will be displayed in the game. It is allowed to use localization tags defined in your `stringtable.csv`.
 
-> **Name (Назва)**  
-> Назва рецепта, яка буде відображатися у грі. Дозволяється використовувати теги локалізації, визначені у вашому файлі `stringtable.csv`.
+> **Enabled**
+> Determines whether this recipe is enabled on the server. (0 - disabled, 1 - enabled)
 
-> **Enabled (Увімкнено)**  
-> Визначає, чи увімкнено цей рецепт на сервері. (0 - вимкнено, 1 - увімкнено)
+> **IsInstaRecipe**
+> Determines whether this recipe should be instant (0 - no, 1 - yes)
 
-> **IsInstaRecipe (Миттєвий рецепт)**  
-> Визначає, чи має цей рецепт виконуватися миттєво (0 - ні, 1 - так).
+> **AnimationLength**
+> Determines the time in seconds (floating number) required for the player to make this recipe (when `IsInstaRecipe` is off).
 
-> **AnimationLength (Тривалість анімації)**  
-> Визначає час у секундах (дробове число), необхідний для створення предмета (коли `IsInstaRecipe` вимкнено).
+> **FirstIngredient** and **SecondIngredient**
+> Two ingredients that must be combined in the game to produce a craft.
+> 
+>> **Items**
+>> List of class names of items that can be used as an ingredient. It is allowed to use base classes when needed.
+>
+>> **DeleteRequired**
+>> Determines whether the ingredient will be deleted after the end of the craft (0 - no, 1 - yes)
+>
+>> **MinQuantity**
+>> The minimum amount of the quantity needed to start crafting. Floating number equal or greater then 0. Use -1 to disable the check.
+>
+>> **MaxQuantity**
+>> The maximum possbile amount of the quantity to start crafting. Floating number equal or greater then 0. Use -1 to disable the check.
+>
+>> **MinDamage**
+>> The minimum damage of the ingredient needed to start crafting. Floating number equal or greater then 0. Use -1 to disable the check.
+>> *Important: this is not a health of the ingredient, but its state, where 0 is pristine, 1 is worn, 2 is damaged, 3 is badly damaged, 4 is ruined.*
+>
+>> **MaxDamage**
+>> The maximum possbile damage of the ingredient to start crafting. Floating number equal or greater then 0. Use -1 to disable the check.
+>> *Important: this is not a health of the ingredient, but its state, where 0 is pristine, 1 is worn, 2 is damaged, 3 is badly damaged, 4 is ruined.*
+>
+>> **AddHealth**
+>> Determines how much health will be added to the ingredient after the crafting is complete. Can be used to repair items if `DeleteRequired` is turned off. Floating number equal or greater then 0.
+>
+>> **SetHealth**
+>> Determines how much health will be set to the ingredient after the crafting is complete. Can be used to repair items if `DeleteRequired` is turned off. Floating number equal or greater then 0. Use -1 to disable this behaviour.
+>
+>> **AddQuantity**
+>> Determines how many units of quantity will be added to the ingredient after crafting is completed. Can be used to repair items if `DeleteRequired` is turned off. Floating number equal or greater then 0.
 
-> **FirstIngredient (Перший інгредієнт)** та **SecondIngredient (Другий інгредієнт)**  
-> Два інгредієнти, які потрібно поєднати у грі для створення предмета.
-
-> > **Items (Предмети)**  
-> > Список класових назв предметів, які можна використовувати як інгредієнт. Дозволяється використовувати базові класи, якщо потрібно.
-
-> > **DeleteRequired (Видалення після крафту)**  
-> > Визначає, чи буде інгредієнт видалений після завершення крафту (0 - ні, 1 - так).
-
-> > **MinQuantity (Мінімальна кількість)**  
-> > Мінімальна кількість предмета, необхідна для початку крафту. Дробове число ≥ 0. Використовуйте -1, щоб вимкнути перевірку.
-
-> > **MaxQuantity (Максимальна кількість)**  
-> > Максимальна допустима кількість предмета для початку крафту. Дробове число ≥ 0. Використовуйте -1, щоб вимкнути перевірку.
-
-> > **MinDamage (Мінімальний стан предмета)**  
-> > Мінімальний рівень пошкодження інгредієнта, необхідний для початку крафту. Дробове число ≥ 0. Використовуйте -1, щоб вимкнути перевірку.  
-> > _Важливо: це не рівень здоров'я предмета, а його стан, де 0 - ідеальний, 1 - зношений, 2 - пошкоджений, 3 - сильно пошкоджений, 4 - зруйнований._
-
-> > **MaxDamage (Максимальний стан предмета)**  
-> > Максимальний допустимий рівень пошкодження інгредієнта для початку крафту. Дробове число ≥ 0. Використовуйте -1, щоб вимкнути перевірку.  
-> > _Важливо: це не рівень здоров'я предмета, а його стан, де 0 - ідеальний, 1 - зношений, 2 - пошкоджений, 3 - сильно пошкоджений, 4 - зруйнований._
-
-> > **AddHealth (Додати здоров'я)**  
-> > Визначає, скільки здоров'я буде додано інгредієнту після завершення крафту. Може використовуватися для ремонту предметів, якщо `DeleteRequired` вимкнено. Дробове число ≥ 0.
-
-> > **SetHealth (Встановити здоров'я)**  
-> > Визначає, скільки здоров'я буде встановлено для інгредієнта після завершення крафту. Може використовуватися для ремонту предметів, якщо `DeleteRequired` вимкнено. Дробове число ≥ 0. Використовуйте -1, щоб вимкнути цю функцію.
-
-> > **AddQuantity (Додати кількість)**  
-> > Визначає, скільки одиниць кількості буде додано до інгредієнта після завершення крафту. Може використовуватися для ремонту предметів, якщо `DeleteRequired` вимкнено. Дробове число ≥ 0.
-
-> **CraftingResults (Результати крафту)**  
-> Список результатів крафту (може бути порожнім, якщо потрібно).
-
-> > **Item (Предмет)**  
-> > Класова назва предмета, який буде створений після крафту.
-
-> > **SetFullQuantity (Повна кількість)**  
-> > Використовуйте 1, щоб встановити повну кількість, або 0, щоб не змінювати.
-
-> > **SetQuantity (Встановити кількість)**  
-> > Встановлює конкретну кількість для отриманого предмета. Дробове число ≥ 0. Використовуйте -1, щоб вимкнути цю функцію.
-
-> > **SetHealth (Встановити здоров'я)**  
-> > Встановлює конкретний рівень здоров'я для отриманого предмета. Дробове число ≥ 0. Використовуйте -1, щоб вимкнути цю функцію.
-
-> > **InheritsHealth (Успадкування здоров'я)**  
-> > Визначає, як буде успадковуватися здоров'я предмета. Використовуйте:
-> >
-> > - `-1` — без змін.
-> > - `-2` — здоров'я успадковується від усіх інгредієнтів середнім значенням.
-> > - `0` — здоров'я успадковується від першого інгредієнта.
-> > - `1` — здоров'я успадковується від другого інгредієнта.
-
-> > **InheritsColor (Успадкування кольору)**  
-> > Визначає, як буде успадковуватися колір предмета. Використовуйте:
-> >
-> > - `-1` — без змін.
-> > - `0` — колір успадковується від першого інгредієнта.
-> > - `1` — колір успадковується від другого інгредієнта.
-
-> > **ToInventory (Розташування предмета після крафту)**  
-> > Визначає, де з’явиться отриманий предмет після крафту:
-> >
-> > - `-2` — на землі.
-> > - `-1` — у будь-якому місці інвентаря гравця.
-> > - `0` — замінює перший інгредієнт у тому ж місці.
-> > - `1` — замінює другий інгредієнт у тому ж місці.
-
-> > **ReplacesIngredient (Заміна інгредієнта)**  
-> > Визначає, чи буде результат крафту заміняти один із інгредієнтів, успадковуючи його властивості (наприклад, вкладення, модифікації тощо):
-> >
-> > - `-1` — без змін.
-> > - `0` — результат крафту замінить перший інгредієнт.
-> > - `1` — результат крафту замінить другий інгредієнт.
-
----
-
-Тепер переклад повний! Якщо щось потрібно уточнити або перефразувати, дай знати. 😊
+> **CraftingResults**
+> List with crafting results (can be empty if necessary)
+>
+>> **Item**
+>> Class name of resulted item to be spawned.
+>
+>> **SetFullQuantity**
+>> Use 1 to set full quantity or 0 to do nothing.
+>
+>> **SetQuantity**
+>> Sets the specific quantity for the resulted item. Floating number equal or greater then 0. Use -1 to disable this behaviour.
+>
+>> **SetHealth**
+>> Sets the specific number of health for the resulted item. Floating number equal or greater then 0. Use -1 to disable this behaviour.
+>
+>> **InheritsHealth**
+>> Sets the specific behaviour for resulted items health. Use -1 to do nothing. Use -2 to this result will inherit health from all ingredients averaged. Or use 0 (first ingredient) or 1 (second ingredient) to this result will inherit health from the specific ingredient. 
+>
+>> **InheritsColor**
+>> Sets the specific behaviour for resulted items color. Use -1 to do nothing. Or use 0 (first ingredient) or 1 (second ingredient) to composite result classname for this result item and config value 'color' of ingredient.
+>
+>> **ToInventory**
+>> Sets the specific behaviour to determine spawning position for the resulting item. Use -2 to spawn result on the ground. Use -1 to place anywhere in the players inventory. Or use 0 (first ingredient) or 1 (second ingredient) to switch position with specific ingredient.
+>
+>> **ReplacesIngredient**
+>> Sets the specific behavior for determining the spawn properties for the resulting item. Use -1 to do nothing or use 0 (first ingredient) or 1 (second ingredient) to transfer item properties, attachments etc.. from an specific ingredient to this resulted item.
