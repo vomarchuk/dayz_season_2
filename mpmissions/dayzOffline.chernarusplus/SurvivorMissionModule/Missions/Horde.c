@@ -374,15 +374,15 @@ class HordeMission extends SurvivorMissions
 	{	//When player enters last mission target zone	
 
 		//Alert infected 
-		for ( int j = 1 ; j < m_MissionAIs.Count(); j++ )
-		{
-			DayZInfected Zed = DayZInfected.Cast( m_MissionAIs.Get(j));
-			if ( Zed )
-			{
-				DayZInfectedCommandMove moveCommandZ = Zed.GetCommand_Move();
-				moveCommandZ.SetIdleState(2);
-			}
-		}
+		// for ( int j = 1 ; j < m_MissionAIs.Count(); j++ )
+		// {
+		// 	DayZInfected Zed = DayZInfected.Cast( m_MissionAIs.Get(j));
+		// 	if ( Zed )
+		// 	{
+		// 		DayZInfectedCommandMove moveCommandZ = Zed.GetCommand_Move();
+		// 		moveCommandZ.SetIdleState(2);
+		// 	}
+		// }
 		
 		//Finish mission
 		m_RewardsSpawned = true;

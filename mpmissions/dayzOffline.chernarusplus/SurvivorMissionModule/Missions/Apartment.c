@@ -421,9 +421,9 @@ class ApartmentMission extends SurvivorMissions
 			if (InfectedDistance > 5.0)
 			{
 				DayZInfected Zed = DayZInfected.Cast(GetGame().CreateObject(RandomInfected, InfectedPos, false, true));
-				DayZInfectedCommandMove moveCommandZ = Zed.GetCommand_Move();
-				moveCommandZ.SetIdleState(2);
-				m_MissionAIs.Insert(Zed);
+				// DayZInfectedCommandMove moveCommandZ = Zed.GetCommand_Move();
+				// moveCommandZ.SetIdleState(2);
+				// m_MissionAIs.Insert(Zed);
 			}
 		}
 
