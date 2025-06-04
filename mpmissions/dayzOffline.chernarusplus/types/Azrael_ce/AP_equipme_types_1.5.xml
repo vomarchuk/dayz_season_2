@@ -396,18 +396,18 @@
 		<value name="Tier1"/>
     </type>
 	<type name="AP_helm_steelface_grey">			
-        <nominal>0</nominal>					
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>30</quantmin>
+        <quantmax>80</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Historical"/>
-		<usage name="Hunting"/>
-		<value name="Tier1"/>
+        <category name="weapons"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
     </type>
 	<type name="AP_belt_tyrtac_green">			
         <nominal>0</nominal>					

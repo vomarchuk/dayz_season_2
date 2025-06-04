@@ -2125,7 +2125,8 @@
         "MMG_striker_helmet_atacs,1,-1,1,-1,250",
         "mmg_armored_helmet_green,1,-1,1,-1,300",
         "mmg_armored_helmet_black,1,-1,1,-1,300",
-        "mmg_armored_helmet_tan,1,-1,1,-1,300"
+        "mmg_armored_helmet_tan,1,-1,1,-1,300",
+        "AP_helm_steelface_grey,1,-1,1,-1,350"
       ]
     },
     {
