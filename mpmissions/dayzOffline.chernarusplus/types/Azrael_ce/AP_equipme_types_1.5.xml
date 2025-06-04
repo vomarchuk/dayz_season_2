@@ -88,10 +88,10 @@
 		<value name="Tier1"/>
     </type>
 	<type name="AP_vest_kevlar_sand">			
-        <nominal>0</nominal>					
+        <nominal>2</nominal>					
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -102,10 +102,10 @@
 		<value name="Tier1"/>
     </type>
 	<type name="AP_vest_kevlar_blue">			
-        <nominal>0</nominal>					
+        <nominal>2</nominal>					
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -116,10 +116,10 @@
 		<value name="Tier1"/>
     </type>
 	<type name="AP_vest_kevlar_green">			
-        <nominal>0</nominal>					
+        <nominal>2</nominal>					
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -130,10 +130,10 @@
 		<value name="Tier1"/>
     </type>
 	<type name="AP_vest_kevlar_camo">			
-        <nominal>0</nominal>					
+        <nominal>2</nominal>					
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

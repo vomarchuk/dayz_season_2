@@ -956,7 +956,10 @@
     },
     {
       "CategoryName": "Ліхтарики",
-      "Products": ["TLRLight,1,-1,0,-1,40", "Universallight,1,-1,0,-1,45"]
+      "Products": [
+        "TLRLight,1,-1,0,-1,40",
+        "Universallight,1,-1,0,-1,45"
+      ]
     },
     {
       "CategoryName": "Окуляри",
@@ -1271,6 +1274,10 @@
         "HuntingVest_Winter,1,-1,0,1000,100",
         "PressVest_LightBlue,1,-1,0,1500,150",
         "PressVest_Blue,1,-1,0,1500,150",
+        "AP_vest_kirasa_sand,1,-1,0,1500,150",
+        "AP_vest_kirasa_green,1,-1,0,1500,150",
+        "AP_vest_kirasa_black,1,-1,0,1500,150",
+        "AP_vest_kirasa_press,1,-1,0,1500,150",
         "UKAssVest_Black,1,-1,0,1250,125",
         "UKAssVest_Khaki,1,-1,0,1250,125",
         "UKAssVest_Olive,1,-1,0,1250,125",
