@@ -4,7 +4,7 @@
     {
       "enabled": 1,
       "description": "Test Webhook for demonstration",
-      "webhookURL": "https://discord.com/api/webhooks/1376205495794270208/nuHc1x9ruATsi5aoOZK66O6j0uw0ljd-CptyNwim4F_bRgQBpR7vPGoGlFZKlnxCPm5I",
+      "webhookURL": "",
       "webhookMessages": [
         "VehicleImpounded"
       ],
@@ -14,7 +14,7 @@
     {
       "enabled": 1,
       "description": "Global Chat",
-      "webhookURL": "https://discord.com/api/webhooks/1376205063122587679/bn_sWbGGg_CllKYlzt7DtvX1Pxb8JhmqjQ9IEkcRVe102VLRBEp9CayETfIeuIO_C-Mo",
+      "webhookURL": "",
       "webhookMessages": [
         "GlobalChat"
       ],
