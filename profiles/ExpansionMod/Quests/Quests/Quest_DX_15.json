@@ -1,0 +1,85 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1015,
+    "Type": 1,
+    "Title": "Частина друга! Отруєна земля!",
+    "Descriptions": [
+        "Нажаль ми не встигли…Хвороба почала прогресувати, і він почав перетворюватися на цю потвору…Нам довелося його ліквідувати…Припарат цей залиш собі, надіюся він зможе врятувати хочаб тебе…Слухай, в тому житті коли все було добре, і по вулицям не шлялися ці покидьки, я вважав що помста це великий гріх, типу око за око і всі будуть сліпі, але зараз в мені бурлять ці ємоції, і вгамує їх тільки помста, я хочу щоб ти знищив там все, піди в то село і вбий цю заразу!",
+        "Нажаль ми не встигли…Хвороба почала прогресувати, і він почав перетворюватися на цю потвору…Нам довелося його ліквідувати…Припарат цей залиш собі, надіюся він зможе врятувати хочаб тебе…Слухай, в тому житті коли все було добре, і по вулицям не шлялися ці покидьки, я вважав що помста це великий гріх, типу око за око і всі будуть сліпі, але зараз в мені бурлять ці ємоції, і вгамує їх тільки помста, я хочу щоб ти знищив там все, піди в то село і вбий цю заразу!",
+        "Дякую що виконав це…Мені стало трошки легше, ми поховали його на гарному місці, можливо там краще чим в цьому бездушному світі! Стільки смертів…Думаю нам треба відпочити від всього цього, як ти відносишся до рибалки? Сходи, посиди на самоті, відпочинь!"
+    ],
+    "ObjectiveText": "Помста",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [
+        {
+            "ClassName": "TerjeInjectorZivirol",
+            "Amount": 1
+        }
+    ],
+    "Rewards": [
+        {
+            "ClassName": "AmmoBox_556x45_20Rnd",
+            "Amount": 5,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "AmmoBox_762x39_20Rnd",
+            "Amount": 5,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        2
+    ],
+    "QuestTurnInIDs": [
+        2
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1007,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 1005,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": -930200403,
+    "ReputationReward": 10,
+    "ReputationRequirement": 600,
+    "PreQuestIDs": [
+        1014
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 0
+}
