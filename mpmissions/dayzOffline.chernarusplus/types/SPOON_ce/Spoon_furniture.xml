@@ -1614,7 +1614,7 @@
     </type>
     <!-- ОГРОМНЫЙ ШКАФ -->
     <type name="OH_big_locker_grey_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>43200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1636,7 +1636,7 @@
         <nominal>0</nominal>
     </type>
     <type name="OH_big_locker_olive_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>43200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1658,7 +1658,7 @@
         <nominal>0</nominal>
     </type>
     <type name="OH_big_locker_camo_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>43200</lifetime>
         <restock>0</restock>
         <min>0</min>

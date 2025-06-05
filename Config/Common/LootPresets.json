@@ -1453,7 +1453,7 @@
             "itemname": "TD_GRN2014_money10",
             "addToHotbar": 0,
             "quantmin": 0.00800000037997961,
-            "quantmax": 0.029999999329447748,
+            "quantmax": 0.03999999910593033,
             "spawnIn": "any"
         },
         {
@@ -1464,7 +1464,7 @@
             "itemname": "TD_GRN2014_money20",
             "addToHotbar": 0,
             "quantmin": 0.0020000000949949028,
-            "quantmax": 0.006000000052154064,
+            "quantmax": 0.007000000216066837,
             "spawnIn": "any"
         },
         {
@@ -1486,7 +1486,7 @@
             "itemname": "TD_GRN2014_money1",
             "addToHotbar": 0,
             "quantmin": 0.029999999329447748,
-            "quantmax": 0.07000000029802323,
+            "quantmax": 0.09000000357627869,
             "spawnIn": "any"
         },
         {
@@ -1542,6 +1542,17 @@
             "addToHotbar": 1,
             "quantmin": 0.05000000074505806,
             "quantmax": 0.5,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "TraderPlus_Money_Euro1",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "TraderPlus_Money_Euro1",
+            "addToHotbar": 0,
+            "quantmin": 1.0,
+            "quantmax": 10.0,
             "spawnIn": "any"
         }
     ]

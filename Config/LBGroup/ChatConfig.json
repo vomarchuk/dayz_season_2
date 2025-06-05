@@ -122,9 +122,14 @@
     ],
     "badWords": [
         "nigger",
-        "nazi"
+        "nazi",
+        "бля",
+        "сука",
+        "хуй",
+        "блять",
+        "пизда"
     ],
-    "enabledBadWordsCensor": 0,
+    "enabledBadWordsCensor": 1,
     "blockBadWordContainingMessages": 0,
     "badWordsBlockedMessage": "#lb_ag_message_contains_bad_word",
     "badWordsMuteTime": 10

@@ -345,200 +345,716 @@
         {
             "startExp": 0,
             "endExp": 100,
-            "free_reward": {"name": "SteakKnife","quantity": 1,"attachments": []},
-            "premium_reward": {"name": "SodaCan_Cola","quantity": 999,"attachments": []}
+            "free_reward": {
+                "name": "SteakKnife",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "SodaCan_Cola",
+                "quantity": 999,
+                "attachments": []
+            }
         },
         {
             "startExp": 100,
             "endExp": 200,
-            "free_reward": {"name": "TerjeInjectorZivirol","quantity": 1,"attachments": []},
-            "premium_reward": {"name": "Flag_DayZ","quantity": 1,"attachments": []}
+            "free_reward": {
+                "name": "TerjeInjectorZivirol",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "Flag_DayZ",
+                "quantity": 1,
+                "attachments": []
+            }
         },
         {
             "startExp": 200,
             "endExp": 300,
-            "free_reward": {"name": "Glock19","quantity": 1,"attachments": ["IMP_Mag_Glock_21Rnd"]},
-            "premium_reward": {"name": "RIP_FilterSilencer","quantity": 1,"attachments": []}
+            "free_reward": {
+                "name": "Glock19",
+                "quantity": 1,
+                "attachments": [
+                    "IMP_Mag_Glock_21Rnd"
+                ]
+            },
+            "premium_reward": {
+                "name": "RIP_FilterSilencer",
+                "quantity": 1,
+                "attachments": []
+            }
         },
         {
             "startExp": 300,
             "endExp": 450,
-            "free_reward": {"name": "Headtorch_Grey","quantity": 1,"attachments": ["Battery9V"]},
-            "premium_reward": {"name": "Ammo_9x19","quantity": 50,"attachments": []}
+            "free_reward": {
+                "name": "Headtorch_Grey",
+                "quantity": 1,
+                "attachments": [
+                    "Battery9V"
+                ]
+            },
+            "premium_reward": {
+                "name": "Ammo_9x19",
+                "quantity": 50,
+                "attachments": []
+            }
         },
         {
             "startExp": 450,
             "endExp": 600,
-            "free_reward": {"name": "VM_Leather_bag_35","quantity": 1,"attachments": []},
-            "premium_reward": {"name": "TerjeInjectorZivirol","quantity": 1,"attachments": []}
+            "free_reward": {
+                "name": "VM_Leather_bag_35",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "TerjeInjectorZivirol",
+                "quantity": 1,
+                "attachments": []
+            }
         },
         {
             "startExp": 600,
             "endExp": 800,
-            "free_reward": {"name": "DuctTape","quantity": 100,"attachments": []},
-            "premium_reward": {"name": "CodeLock","quantity": 1,"attachments": []}
+            "free_reward": {
+                "name": "DuctTape",
+                "quantity": 100,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "CodeLock",
+                "quantity": 1,
+                "attachments": []
+            }
         },
         {
             "startExp": 800,
             "endExp": 1000,
-            "free_reward": {"name": "TerjeInjectorAmoxiclav","quantity": 1,"attachments": []},
-            "premium_reward": {"name": "KIWI_Bag_upgrade","quantity": 1,"attachments": []}
+            "free_reward": {
+                "name": "TerjeInjectorAmoxiclav",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "KIWI_Bag_upgrade",
+                "quantity": 1,
+                "attachments": []
+            }
         },
         {
             "startExp": 1000,
             "endExp": 1250,
-            "free_reward": {"name": "IMP_KelTecSUB2000","quantity": 1,"attachments": ["IMP_KelTecSUB2000_Mag_15Rnd"]},
-            "premium_reward": {"name": "IMP_KelTecSUB2000_Mag_50Rnd","quantity": 1,"attachments": []}
+            "free_reward": {
+                "name": "IMP_KelTecSUB2000",
+                "quantity": 1,
+                "attachments": [
+                    "IMP_KelTecSUB2000_Mag_15Rnd"
+                ]
+            },
+            "premium_reward": {
+                "name": "IMP_KelTecSUB2000_Mag_50Rnd",
+                "quantity": 1,
+                "attachments": []
+            }
         },
         {
             "startExp": 1250,
             "endExp": 1550,
-            "free_reward": {"name": "KIWI_Bag_upgrade","quantity": 1,"attachments": []},
-            "premium_reward": {"name": "NailBox","quantity": 1,"attachments": []}
+            "free_reward": {
+                "name": "KIWI_Bag_upgrade",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "NailBox",
+                "quantity": 1,
+                "attachments": []
+            }
         },
         {
             "startExp": 1550,
             "endExp": 1750,
-            "free_reward": {"name": "Ammo_9x19","quantity": 50,"attachments": []},
-            "premium_reward": {"name": "KIWI_Can_MeatCow","quantity": 100,"attachments": []}
+            "free_reward": {
+                "name": "Ammo_9x19",
+                "quantity": 50,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "KIWI_Can_MeatCow",
+                "quantity": 100,
+                "attachments": []
+            }
         },
         {
             "startExp": 1750,
             "endExp": 2000,
-            "free_reward": {"name": "TerjeInjectorZivirol","quantity": 1,"attachments": []},
-            "premium_reward": {"name": "TerjeInjectorAmoxiclav","quantity": 1,"attachments": []}
+            "free_reward": {
+                "name": "TerjeInjectorZivirol",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "TerjeInjectorAmoxiclav",
+                "quantity": 1,
+                "attachments": []
+            }
         },
         {
             "startExp": 2000,
             "endExp": 2250,
-            "free_reward": {"name": "IMP_AN94","quantity": 1,"attachments": ["Mag_AK74_30Rnd_Black"]},
-            "premium_reward": {"name": "IMP_Supp_PBS4_AK","quantity": 1,"attachments": []}
+            "free_reward": {
+                "name": "IMP_AN94",
+                "quantity": 1,
+                "attachments": [
+                    "Mag_AK74_30Rnd_Black"
+                ]
+            },
+            "premium_reward": {
+                "name": "IMP_Supp_PBS4_AK",
+                "quantity": 1,
+                "attachments": []
+            }
         },
         {
             "startExp": 2250,
             "endExp": 2500,
-            "free_reward": {"name": "KIWI_Bag_upgrade","quantity": 1,"attachments": []},
-            "premium_reward": {"name": "TerjeFirstAidKitAdvance_Black","quantity": 999,"attachments": []}
+            "free_reward": {
+                "name": "KIWI_Bag_upgrade",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "TerjeFirstAidKitAdvance_Black",
+                "quantity": 999,
+                "attachments": []
+            }
         },
         {
             "startExp": 2500,
             "endExp": 2750,
-            "free_reward": {"name": "TerjeSurgicalKit","quantity": 100,"attachments": []},
-            "premium_reward": {"name": "TerjeBookAthletic4","quantity": 1,"attachments": []}
+            "free_reward": {
+                "name": "TerjeSurgicalKit",
+                "quantity": 100,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "TerjeBookAthletic4",
+                "quantity": 1,
+                "attachments": []
+            }
         },
         {
             "startExp": 2750,
             "endExp": 3000,
-            "free_reward": {"name": "SewingKit","quantity": 100,"attachments": []},
-            "premium_reward": {"name": "WeaponCleaningKit","quantity": 100,"attachments": []}
+            "free_reward": {
+                "name": "SewingKit",
+                "quantity": 100,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "WeaponCleaningKit",
+                "quantity": 100,
+                "attachments": []
+            }
         },
         {
             "startExp": 3000,
             "endExp": 3300,
-            "free_reward": {"name": "TD_GRN2014_money100","quantity": 10,"attachments": []},
-            "premium_reward": {"name": "KIWI_Can_MeatCow","quantity": 1,"attachments": []}
+            "free_reward": {
+                "name": "TD_GRN2014_money100",
+                "quantity": 10,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "KIWI_Can_MeatCow",
+                "quantity": 1,
+                "attachments": []
+            }
         },
         {
             "startExp": 3300,
             "endExp": 3600,
-            "free_reward": {"name": "KIWI_Bag_upgrade","quantity": 1,"attachments": []},
-            "premium_reward": {"name": "NailBox","quantity": 1,"attachments": []}
+            "free_reward": {
+                "name": "KIWI_Bag_upgrade",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "NailBox",
+                "quantity": 1,
+                "attachments": []
+            }
         },
         {
             "startExp": 3600,
             "endExp": 3900,
-            "free_reward": {"name": "TerjeDrink6Energy","quantity": 999,"attachments": []},
-            "premium_reward": {"name": "PD_fridge_24","quantity": 1,"attachments": []}
+            "free_reward": {
+                "name": "TerjeDrink6Energy",
+                "quantity": 999,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "PD_fridge_24",
+                "quantity": 1,
+                "attachments": []
+            }
         },
         {
             "startExp": 3900,
             "endExp": 4200,
-            "free_reward": {"name": "WeaponCleaningKit","quantity": 100,"attachments": []},
-            "premium_reward": {"name": "TerjeBookStealth3","quantity": 1,"attachments": []}
+            "free_reward": {
+                "name": "WeaponCleaningKit",
+                "quantity": 100,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "TerjeBookStealth3",
+                "quantity": 1,
+                "attachments": []
+            }
         },
         {
             "startExp": 4200,
             "endExp": 4500,
-            "free_reward": {"name": "Flag_KIWI","quantity": 1,"attachments": []},
-            "premium_reward": {"name": "HuntingKnife","quantity": 1,"attachments": []}
+            "free_reward": {
+                "name": "Flag_KIWI",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "HuntingKnife",
+                "quantity": 1,
+                "attachments": []
+            }
         },
         {
             "startExp": 4500,
             "endExp": 5000,
-            "free_reward": {"name": "KIWI_Bag_upgrade","quantity": 1,"attachments": []},
-            "premium_reward": {"name": "VM_Headtorch_Red","quantity": 1,"attachments": ["Battery9V"]}
+            "free_reward": {
+                "name": "KIWI_Bag_upgrade",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "VM_Headtorch_Red",
+                "quantity": 1,
+                "attachments": [
+                    "Battery9V"
+                ]
+            }
         },
         {
             "startExp": 5000,
             "endExp": 5500,
-            "free_reward": {"name": "TerjeBookSurvival4","quantity": 1,"attachments": []},
-            "premium_reward": {"name": "Pliers","quantity": 1,"attachments": []}
+            "free_reward": {
+                "name": "TerjeBookSurvival4",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "Pliers",
+                "quantity": 1,
+                "attachments": []
+            }
         },
         {
             "startExp": 5000,
             "endExp": 5500,
-            "free_reward": {"name": "ElectronicRepairKit","quantity": 100,"attachments": []},
-            "premium_reward": {"name": "Mag_STANAG_60Rnd","quantity": 1,"attachments": []}
+            "free_reward": {
+                "name": "ElectronicRepairKit",
+                "quantity": 100,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "Mag_STANAG_60Rnd",
+                "quantity": 1,
+                "attachments": []
+            }
         },
         {
             "startExp": 5500,
             "endExp": 6000,
-            "free_reward": {"name": "Screwdriver","quantity": 1,"attachments": []},
-            "premium_reward": {"name": "IMP_Optic_NCStar","quantity": 1,"attachments": []}
+            "free_reward": {
+                "name": "Screwdriver",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "IMP_Optic_NCStar",
+                "quantity": 1,
+                "attachments": []
+            }
         },
         {
             "startExp": 6000,
             "endExp": 6500,
-            "free_reward": {"name": "KIWI_Bag_upgrade","quantity": 1,"attachments": []},
-            "premium_reward": {"name": "TerjeBookMedicine4","quantity": 1,"attachments": []}
+            "free_reward": {
+                "name": "KIWI_Bag_upgrade",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "TerjeBookMedicine4",
+                "quantity": 1,
+                "attachments": []
+            }
         },
         {
             "startExp": 6500,
             "endExp": 7250,
-            "free_reward": {"name": "TerjeInjectorAmoxiclav","quantity": 1,"attachments": []},
-            "premium_reward": {"name": "TerjeInjectorZivirol","quantity": 1,"attachments": []}
+            "free_reward": {
+                "name": "TerjeInjectorAmoxiclav",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "TerjeInjectorZivirol",
+                "quantity": 1,
+                "attachments": []
+            }
         },
         {
             "startExp": 7250,
             "endExp": 8000,
-            "free_reward": {"name": "TerjeBookFishing5","quantity": 1,"attachments": []},
-            "premium_reward": {"name": "IMP_Supp_556_Black","quantity": 1,"attachments": []}
+            "free_reward": {
+                "name": "TerjeBookFishing5",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "IMP_Supp_556_Black",
+                "quantity": 1,
+                "attachments": []
+            }
         },
         {
             "startExp": 8000,
             "endExp": 8750,
-            "free_reward": {"name": "Custom_ProtectorCase_25","quantity": 1,"attachments": []},
-            "premium_reward": {"name": "Custom_ProtectorCase_25","quantity": 1,"attachments": []}
+            "free_reward": {
+                "name": "Custom_ProtectorCase_25",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "Custom_ProtectorCase_25",
+                "quantity": 1,
+                "attachments": []
+            }
         },
         {
             "startExp": 8750,
             "endExp": 9500,
-            "free_reward": {"name": "KIWI_Bag_upgrade","quantity": 1,"attachments": []},
-            "premium_reward": {"name": "RIP_WD40S","quantity": 40,"attachments": []}
+            "free_reward": {
+                "name": "KIWI_Bag_upgrade",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "RIP_WD40S",
+                "quantity": 40,
+                "attachments": []
+            }
         },
         {
             "startExp": 9500,
             "endExp": 10250,
-            "free_reward": {"name": "RIP_OilPlastic","quantity": 20,"attachments": []},
-            "premium_reward": {"name": "RIP_WeaponCleaningSpray_2","quantity": 50,"attachments": []}
+            "free_reward": {
+                "name": "RIP_OilPlastic",
+                "quantity": 20,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "RIP_WeaponCleaningSpray_2",
+                "quantity": 50,
+                "attachments": []
+            }
         },
         {
             "startExp": 10250,
             "endExp": 11250,
-            "free_reward": {"name": "","quantity": 1,"attachments": []},
-            "premium_reward": {"name": "","quantity": 1,"attachments": []}
+            "free_reward": {
+                "name": "TerjeBookStealth2",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "TerjeBookStealth2",
+                "quantity": 1,
+                "attachments": []
+            }
         },
         {
             "startExp": 11250,
             "endExp": 12250,
-            "free_reward": {"name": "","quantity": 1,"attachments": []},
-            "premium_reward": {"name": "","quantity": 1,"attachments": []}
+            "free_reward": {
+                "name": "TerjeDrinkMadBull",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "TraderPlus_Money_Euro100",
+                "quantity": 1,
+                "attachments": []
+            }
         },
         {
             "startExp": 12250,
             "endExp": 13250,
-            "free_reward": {"name": "KIWI_Bag_upgrade","quantity": 1,"attachments": []},
-            "premium_reward": {"name": "","quantity": 1,"attachments": []}
+            "free_reward": {
+                "name": "KIWI_Bag_upgrade",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "KIWI_Battery9V",
+                "quantity": 9999,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 13250,
+            "endExp": 14500,
+            "free_reward": {
+                "name": "CP_CannabisSeedsPackBlue",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "CP_CannabisBagBlue",
+                "quantity": 16,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 14500,
+            "endExp": 15750,
+            "free_reward": {
+                "name": "Ammo_556x45",
+                "quantity": 60,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "RZ_KeycardDD_lvl1",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 15750,
+            "endExp": 17000,
+            "free_reward": {
+                "name": "TerjeInjectorPropital",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "IMP_Grip_Egg",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 17000,
+            "endExp": 18250,
+            "free_reward": {
+                "name": "TD_GRN2014_money500",
+                "quantity": 10,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "TD_GRN2014_money500",
+                "quantity": 10,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 18250,
+            "endExp": 19500,
+            "free_reward": {
+                "name": "TerjeFirstAidKitIndividual_Green",
+                "quantity": 999,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "VM_InjectorHP",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 19500,
+            "endExp": 21000,
+            "free_reward": {
+                "name": "TraderPlus_Money_Euro100",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "TraderPlus_Money_Euro100",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 21000,
+            "endExp": 22500,
+            "free_reward": {
+                "name": "FirstAidKit",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "FirstAidKit",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 22500,
+            "endExp": 24000,
+            "free_reward": {
+                "name": "TerjeBookAthletic4",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "TerjeBookAthletic4",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 24000,
+            "endExp": 25500,
+            "free_reward": {
+                "name": "TerjeInjectorPropital",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "TerjeInjectorPropital",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 25500,
+            "endExp": 27000,
+            "free_reward": {
+                "name": "OH_ussr_old_refrigerator_white",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "TraderPlus_Money_Euro100",
+                "quantity": 2,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 27000,
+            "endExp": 28500,
+            "free_reward": {
+                "name": "TerjeFirstAidKitIndividual_Green",
+                "quantity": 999,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "VM_InjectorHP",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 28500,
+            "endExp": 30000,
+            "free_reward": {
+                "name": "VM_InjectorHP",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "IMP_RPD",
+                "quantity": 1,
+                "attachments": [
+                    "IMP_Mag_RPD_200Rnd"
+                ]
+            }
+        },
+        {
+            "startExp": 30000,
+            "endExp": 32000,
+            "free_reward": {
+                "name": "TraderPlus_Money_Euro100",
+                "quantity": 2,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "IMP_Mag_RPD_200Rnd",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 32000,
+            "endExp": 34000,
+            "free_reward": {
+                "name": "Ammo_762x54",
+                "quantity": 60,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "Ammo_762x54",
+                "quantity": 60,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 34000,
+            "endExp": 36000,
+            "free_reward": {
+                "name": "KIWI_SewingKit_XL",
+                "quantity": 1000,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "KIWI_WeaponCleaningKit",
+                "quantity": 1000,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 36000,
+            "endExp": 38000,
+            "free_reward": {
+                "name": "TerjeBookStealth5",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "IMP_Mag_PKP_200Rnd",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 38000,
+            "endExp": 40000,
+            "free_reward": {
+                "name": "VM_TacticKnife_Standart",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "IMP_PKPZ_Black",
+                "quantity": 1,
+                "attachments": [
+                    "IMP_Mag_PKP_200Rnd"
+                ]
+            }
         }
     ],
     "playerPremiumList": [
