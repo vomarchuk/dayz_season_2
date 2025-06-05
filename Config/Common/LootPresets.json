@@ -651,6 +651,60 @@
                 "TerjeSurgicalKit"
             ],
             "root": 0
+        },
+        {
+            "presetName": "Preset_YAR_CHEST_LOW",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [
+                "Preset_AMMO_RANDOM",
+                "Preset_AMMO_RANDOM",
+                "Preset_AMMO_RANDOM",
+                "Preset_AMMO_RANDOM",
+                "Preset_AMMO_RANDOM",
+                "Preset_AMMO_RANDOM",
+                "Preset_SEEDS",
+                "TerjeDrinkPrayboy",
+                "Preset_EMPTY_BAG"
+            ],
+            "root": 0
+        },
+        {
+            "presetName": "Preset_AMMO_RANDOM",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [
+                "AmmoBox_556x45_20Rnd",
+                "AmmoBox_308Win_20Rnd",
+                "AmmoBox_762x39_20Rnd",
+                "AmmoBox_762x54_20Rnd"
+            ],
+            "root": 0
+        },
+        {
+            "presetName": "Preset_SEEDS",
+            "individualChance": 1,
+            "chance": 0.5,
+            "items": [
+                "CP_CannabisSeedsPackBlackFrost",
+                "CP_CannabisSeedsPackBlue",
+                "CP_CannabisSeedsPackFuture",
+                "CP_CannabisSeedsPackKush",
+                "CP_CannabisSeedsPackNomad",
+                "CP_CannabisSeedsPackS1",
+                "CP_CannabisSeedsPackSkunk",
+                "CP_CannabisSeedsPackStardawg"
+            ],
+            "root": 0
+        },
+        {
+            "presetName": "Preset_EMPTY_BAG",
+            "individualChance": 1,
+            "chance": 0.5,
+            "items": [
+                "CP_EmptyBag"
+            ],
+            "root": 0
         }
     ],
     "items": [
@@ -1553,6 +1607,138 @@
             "addToHotbar": 0,
             "quantmin": 1.0,
             "quantmax": 10.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "AmmoBox_556x45_20Rnd",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "AmmoBox_556x45_20Rnd",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "AmmoBox_308Win_20Rnd",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "AmmoBox_308Win_20Rnd",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "AmmoBox_762x39_20Rnd",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "AmmoBox_762x39_20Rnd",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "AmmoBox_762x54_20Rnd",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "AmmoBox_762x54_20Rnd",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "CP_CannabisSeedsPackBlackFrost",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "CP_CannabisSeedsPackBlackFrost",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "CP_CannabisSeedsPackBlue",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "CP_CannabisSeedsPackBlue",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "CP_CannabisSeedsPackFuture",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "CP_CannabisSeedsPackFuture",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "CP_CannabisSeedsPackKush",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "CP_CannabisSeedsPackKush",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "CP_CannabisSeedsPackNomad",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "CP_CannabisSeedsPackNomad",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "CP_CannabisSeedsPackS1",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "CP_CannabisSeedsPackS1",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "CP_CannabisSeedsPackSkunk",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "CP_CannabisSeedsPackSkunk",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "CP_CannabisSeedsPackStardawg",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "CP_CannabisSeedsPackStardawg",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
             "spawnIn": "any"
         }
     ]
