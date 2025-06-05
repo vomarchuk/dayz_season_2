@@ -74,8 +74,8 @@
         },
         {
             "ClassName": "AmmoBox_12gaSlug_10Rnd",
-            "MaxPriceThreshold": 150,
-            "MinPriceThreshold": 150,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": 25,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -85,8 +85,8 @@
         },
         {
             "ClassName": "AmmoBox_00buck_10rnd",
-            "MaxPriceThreshold": 150,
-            "MinPriceThreshold": 150,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": 25,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -245,8 +245,8 @@
         },
         {
             "ClassName": "Ammo_12gaPellets",
-            "MaxPriceThreshold": 15,
-            "MinPriceThreshold": 15,
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
             "SellPricePercent": 25,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -256,8 +256,8 @@
         },
         {
             "ClassName": "Ammo_12gaSlug",
-            "MaxPriceThreshold": 15,
-            "MinPriceThreshold": 15,
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
             "SellPricePercent": 25,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
