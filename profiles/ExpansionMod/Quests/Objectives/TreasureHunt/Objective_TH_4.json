@@ -17,11 +17,20 @@
             13554.650391
         ]
     ],
-    "LootItemsAmount": 5,
+    "LootItemsAmount": 6,
     "MaxDistance": 50.0,
     "Loot": [
         {
-            "Name": "B95",
+            "Name": "CZ550",
+            "Chance": 1.0,
+            "Attachments": [],
+            "QuantityPercent": -2,
+            "Max": 1,
+            "Min": 1,
+            "Variants": []
+        },
+        {
+            "Name": "Mag_CZ550_10rnd",
             "Chance": 1.0,
             "Attachments": [],
             "QuantityPercent": -2,

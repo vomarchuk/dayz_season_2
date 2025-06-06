@@ -1,0 +1,80 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1016,
+    "Type": 1,
+    "Title": "Частина друга! Отруєна земля!",
+    "Descriptions": [
+        "Першим ділом тобі треба попасти на військову базу Павлово, на цій базі знайдеш офісну споруду, ця будівля має пару поверхів, повз неї не пройдеш, шукай там документацію, мародери в ці зони не часто потрапляють, вони досить ледачі шукати костюми. Будь обережний, якщо зомбі чи ще щось пошкодить тобі одну з речей, ти дуже швидко почнеш заражуватися цією хімією, і якщо її не вивести з організму, то досить бистро вона тебе вб’є! Можеш підготуватися краще, знайти ліки, запасні фільтри, протигази! Знайдеш документи, принось до мене!",
+        "Першим ділом тобі треба попасти на військову базу Павлово, на цій базі знайдеш офісну споруду, ця будівля має пару поверхів, повз неї не пройдеш, шукай там документацію, мародери в ці зони не часто потрапляють, вони досить ледачі шукати костюми. Будь обережний, якщо зомбі чи ще щось пошкодить тобі одну з речей, ти дуже швидко почнеш заражуватися цією хімією, і якщо її не вивести з організму, то досить бистро вона тебе вб’є! Можеш підготуватися краще, знайти ліки, запасні фільтри, протигази! Знайдеш документи, принось до мене!",
+        "Радий тебе бачити, живим!"
+    ],
+    "ObjectiveText": "Павлово",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "GasMask_Filter",
+            "Amount": 2,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "GP5GasMask",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        9
+    ],
+    "QuestTurnInIDs": [
+        9
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1009,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 1006,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": -930200403,
+    "ReputationReward": 10,
+    "ReputationRequirement": 650,
+    "PreQuestIDs": [
+        1011
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}
