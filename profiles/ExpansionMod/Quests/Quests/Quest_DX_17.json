@@ -1,0 +1,76 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1017,
+    "Type": 1,
+    "Title": "Частина друга! Отруєна земля!",
+    "Descriptions": [
+        "Круто, але це тільки перша сторінка, щоб дізнатися всю інформацію, треба шукати далі, відправляйся на корабель, він знаходиться недалеко від порту в місті Березіно, там в коютах знайдеш наступну сторінку документа, чекаю тебе тут!",
+        "Круто, але це тільки перша сторінка, щоб дізнатися всю інформацію, треба шукати далі, відправляйся на корабель, він знаходиться недалеко від порту в місті Березіно, там в коютах знайдеш наступну сторінку документа, чекаю тебе тут!",
+        "Радий тебе бачити, живим!"
+    ],
+    "ObjectiveText": "Ріфи",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "GasMask_Filter",
+            "Amount": 2,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        9
+    ],
+    "QuestTurnInIDs": [
+        9
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1008,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 1005,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 1005,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": -930200403,
+    "ReputationReward": 10,
+    "ReputationRequirement": 650,
+    "PreQuestIDs": [
+        1016
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

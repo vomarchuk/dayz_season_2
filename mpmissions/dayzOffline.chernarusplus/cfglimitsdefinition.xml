@@ -10,6 +10,7 @@
         <category name="books"/>
         <category name="explosives"/>
         <category name="MedicalTools"/>
+        <category name="quest"/>
     </categories>
     <tags>
         <tag name="floor"/>

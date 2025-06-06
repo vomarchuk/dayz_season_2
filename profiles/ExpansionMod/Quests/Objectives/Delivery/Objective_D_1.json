@@ -2,19 +2,19 @@
     "ConfigVersion": 28,
     "ID": 1,
     "ObjectiveType": 5,
-    "ObjectiveText": "Заміни ведмедика у Михайла",
+    "ObjectiveText": "Віднеси документи Павлу",
     "TimeLimit": -1,
     "Active": 1,
     "Collections": [
         {
             "Amount": 1,
-            "ClassName": "Bear_Pink",
+            "ClassName": "RIP_DocTube",
             "QuantityPercent": -1,
             "MinQuantityPercent": -1
         }
     ],
-    "ShowDistance": 1,
+    "ShowDistance": 0,
     "AddItemsToNearbyMarketZone": 0,
     "MaxDistance": 5.0,
-    "MarkerName": "Поговори з Михайлом"
+    "MarkerName": ""
 }
