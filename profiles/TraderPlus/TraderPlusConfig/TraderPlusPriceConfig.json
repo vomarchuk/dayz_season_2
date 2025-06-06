@@ -1753,10 +1753,10 @@
     {
       "CategoryName": "Частини тіл",
       "Products": [
-        "FC_Skin_Brain,1,-1,0,-1,50",
-        "FC_Skin_Eye,1,-1,0,-1,50",
-        "FC_Skin_Heart,1,-1,0,-1,50",
-        "FC_Skin_Liver,1,-1,0,-1,50",
+        "FC_Skin_Brain,1,-1,0,-1,250",
+        "FC_Skin_Eye,1,-1,0,-1,100",
+        "FC_Skin_Heart,1,-1,0,-1,200",
+        "FC_Skin_Liver,1,-1,0,-1,150",
         "FC_Skin_Worm,1,-1,0,-1,50",
         "FC_Skin_Toxic_Balon_Red,1,-1,0,-1,50",
         "FC_Skin_Toxic_Balon_Grey,1,-1,0,-1,50",
