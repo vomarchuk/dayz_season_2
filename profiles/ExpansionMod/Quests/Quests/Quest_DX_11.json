@@ -9,7 +9,7 @@
         "О ти зібрав захист! Чудово! Я полагоджу спорядження для тебе"
     ],
     "ObjectiveText": "Хімічні зони",
-    "FollowUpQuest": -1,
+    "FollowUpQuest": 1016,
     "Repeatable": 0,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
