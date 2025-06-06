@@ -58,13 +58,8 @@
         },
         {
             "ConfigVersion": 28,
-            "ID": 1010,
+            "ID": 1006,
             "ObjectiveType": 4
-        },
-        {
-            "ConfigVersion": 28,
-            "ID": 1,
-            "ObjectiveType": 5
         }
     ],
     "QuestColor": -930200403,
