@@ -58,6 +58,11 @@
         },
         {
             "ConfigVersion": 28,
+            "ID": 6,
+            "ObjectiveType": 6
+        },
+        {
+            "ConfigVersion": 28,
             "ID": 1006,
             "ObjectiveType": 4
         }
