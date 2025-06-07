@@ -55,7 +55,7 @@
     ],
     "QuestColor": 0,
     "ReputationReward": -15,
-    "ReputationRequirement": 1000,
+    "ReputationRequirement": 750,
     "PreQuestIDs": [],
     "RequiredFaction": "",
     "FactionReward": "",
