@@ -470,6 +470,14 @@
     {
       "CategoryName": "Furniture",
       "Products": [
+        "OH_water_tap,1,-1,0,-1,399",
+        "OH_plastic_canister_blue,1,-1,0,-1,399",
+        "OH_plastic_canister_red,1,-1,0,-1,399",
+        "OH_plastic_canister_green,1,-1,0,-1,399",
+        "OH_plastic_canister_yellow,1,-1,0,-1,399",
+        "OH_water_bottle_blue,1,-1,0,-1,399",
+        "OH_home_lamp_torsher,1,-1,1,-1,399",
+        "OH_home_lamp_table,1,-1,1,-1,399",
         "OHcupboardKit,1,-1,1,-1,399",
         "OH_gunlockerKit,1,-1,1,-1,399",
         "OH_GunrackKit,1,-1,1,-1,399",
