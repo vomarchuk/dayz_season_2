@@ -1,0 +1,93 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Запчастини для Dodge Challenger",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "Dodge_Challenger_Driver",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Dodge_Challenger_Driver_DarkBlue",
+                "Dodge_Challenger_Driver_Black",
+                "Dodge_Challenger_Driver_Blue",
+                "Dodge_Challenger_Driver_Red",
+                "Dodge_Challenger_Driver_Green",
+                "Dodge_Challenger_Driver_Orange"
+            ]
+        },
+        {
+            "ClassName": "Dodge_Challenger_CoDriver",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Dodge_Challenger_CoDriver_DarkBlue",
+                "Dodge_Challenger_CoDriver_Black",
+                "Dodge_Challenger_CoDriver_Blue",
+                "Dodge_Challenger_CoDriver_Red",
+                "Dodge_Challenger_CoDriver_Green",
+                "Dodge_Challenger_CoDriver_Orange"
+            ]
+        },
+        {
+            "ClassName": "Dodge_Challenger_Trunk",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Dodge_Challenger_Trunk_DarkBlue",
+                "Dodge_Challenger_Trunk_Black",
+                "Dodge_Challenger_Trunk_Blue",
+                "Dodge_Challenger_Trunk_Red",
+                "Dodge_Challenger_Trunk_Green",
+                "Dodge_Challenger_Trunk_Orange"
+            ]
+        },
+        {
+            "ClassName": "Dodge_Challenger_Hood",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Dodge_Challenger_Hood_DarkBlue",
+                "Dodge_Challenger_Hood_Black",
+                "Dodge_Challenger_Hood_Blue",
+                "Dodge_Challenger_Hood_Red",
+                "Dodge_Challenger_Hood_Green",
+                "Dodge_Challenger_Hood_Orange"
+            ]
+        },
+        {
+            "ClassName": "Dodge_Challenger_Wheel",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

@@ -1,0 +1,2868 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+    <!-- ПРИВАТНАЯ ФУРНИТУРА от SPOON -->
+    <!-- НЕБОЛЬШОЙ ШКАФ -->
+    <type name="OHcupboardKit">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+    </type>
+    <type name="OHcupboard">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- МАЛЕНЬКИЙ ХОЛОДИЛЬНИК -->
+    <type name="OH_fridge_white">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="TrainCrash"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Farm"/>
+    </type>
+    <!-- СРЕДНИЕ ХОЛОДИЛЬНИКИ -->
+    <type name="OH_zil_old_refrigerator_white">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Farm"/>
+    </type>
+    <type name="OH_ussr_old_refrigerator_white">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Farm"/>
+    </type>
+    <type name="OH_refrigerator_medium_white">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Farm"/>
+        <value name="Tier4"/>
+    </type>
+    <!-- ОРУЖЕЙНЫЙ ШКАФ -->
+    <type name="OH_gunlockerKit">
+        <nominal>1</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OH_gunlocker">
+        <lifetime>3888000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- ОРУЖЕЙНАЯ СТОЙКА -->
+    <type name="OH_GunrackKit">
+        <nominal>1</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OH_Gunrack">
+        <lifetime>3888000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- ОРУЖЕЙНЫЙ СТЕНД -->
+    <type name="OH_gunshelfKit">
+        <nominal>1</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OH_gunshelf">
+        <lifetime>3888000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_gunshelf_cover_Kit">
+        <nominal>1</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OH_gunshelf_cover">
+        <lifetime>3888000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- БОЛЬШОЙ ШКАФ -->
+    <type name="OH_lockercabin_Kit">
+        <nominal>1</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OH_lockercabin">
+        <lifetime>3888000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- МАЛЕНЬКИЙ АРМЕЙСКИЙ ЯЩИК-->
+    <type name="OH_military_box_grey">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="TrainCrash"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+    </type>
+    <type name="OH_military_box_Brown">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_military_box_Green">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_military_box_Olive">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_military_box_Tan">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <!-- БОЛЬШОЙ АРМЕЙСКИЙ ЯЩИК -->
+    <type name="OHmilitary_big_box_grey">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OHmilitary_big_box_Brown">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OHmilitary_big_box_Green">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OHmilitary_big_box_Olive">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OHmilitary_big_box_Tan">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <!-- БОЛЬШОЙ ЯЩИК ДЛЯ АМУНИЦИИ -->
+    <type name="OH_militaryAmunitionBigKit">
+        <nominal>1</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <usage name="TrainCrash"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OH_militaryAmunitionBig">
+        <lifetime>3888000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- МАЛЕНЬКИЙ СТЕЛЛАЖ ДЛЯ 3 ДЕРЕВЯННЫХ ЯЩИКОВ -->
+    <type name="OH_shelf_stand_Kit">
+        <nominal>1</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_shelf_stand">
+        <lifetime>3888000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- ВЕРСТАК -->
+    <type name="OH_workbenchKit">
+        <nominal>1</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_workbench">
+        <lifetime>3888000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- ЖЕЛЕЗНЫЕ ШКАФЫ -->
+    <type name="OH_old_locker_blue_Kit">
+        <nominal>1</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_old_locker_blue">
+        <lifetime>3888000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_old_locker_green_Kit">
+        <nominal>0</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_old_locker_green">
+        <lifetime>3888000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_old_locker_green_Kit">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <!-- ШКАФ ДЛЯ ХРАНЕНИЯ ЭКИПИРОВКИ старый -->
+    <type name="OHlocker_blueKit">
+        <nominal>1</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OHlocker_blue">
+        <lifetime>3888000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OHlocker_greyKit">
+        <nominal>1</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OHlocker_gray">
+        <lifetime>3888000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- ШКАФ ДЛЯ ХРАНЕНИЯ ЭКИПИРОВКИ новый -->
+    <type name="OHlocker_Damage_BLUE_DARKKit">
+        <nominal>1</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OHlocker_GymLockerDamage_BLUE_DARK">
+        <lifetime>3888000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OHlocker_Damage_BLUE_LIGHTKit">
+        <nominal>1</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OHlocker_GymLockerDamage_BLUE_LIGHT">
+        <lifetime>3888000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OHlocker_Damage_BLUE_SEAKit">
+        <nominal>1</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OHlocker_GymLockerDamage_BLUE_SEA">
+        <lifetime>3888000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OHlocker_Damage_GREEN_DARKKit">
+        <nominal>1</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OHlocker_GymLockerDamage_GREEN_DARK">
+        <lifetime>3888000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OHlocker_Damage_GREEN_LIGHTKit">
+        <nominal>1</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OHlocker_GymLockerDamage_GREEN_LIGHT">
+        <lifetime>3888000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OHlocker_Damage_ORANGEKit">
+        <nominal>1</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OHlocker_GymLockerDamage_ORANGE">
+        <lifetime>3888000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OHlocker_Damage_PALE_GREENKit">
+        <nominal>1</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OHlocker_GymLockerDamage_PALE_GREEN">
+        <lifetime>3888000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OHlocker_Damage_REDKit">
+        <nominal>1</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OHlocker_GymLockerDamage_RED">
+        <lifetime>3888000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OHlocker_Damage_WHITEKit">
+        <nominal>1</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OHlocker_GymLockerDamage_WHITE">
+        <lifetime>3888000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OHlocker_Damage_YELLOWKit">
+        <nominal>1</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OHlocker_GymLockerDamage_YELLOW">
+        <lifetime>3888000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_shelf_materials_Kit">
+        <nominal>1</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_shelf_materials">
+        <lifetime>3888000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_gun_cabinet_Kit">
+        <nominal>1</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="TrainCrash"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Farm"/>
+    </type>
+    <type name="OH_gun_cabinet">
+        <lifetime>3888000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- ТЕПЛИЦА КИТ -->
+    <type name="OH_kabak_house_Kit">
+        <nominal>0</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Village"/>
+        <usage name="Farm"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <!-- ТЕПЛИЦА -->
+    <type name="OH_kabak_house">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- ТЕПЛИЧНЫЕ ЗЕМЕЛЬНЫЕ ЛУНКИ -->
+    <type name="OH_kabackhouse_Plot">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_kabackPlotGreenhouse">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_kabackPlotPolytunnel">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_kabackPlot">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- МУСОРКА -->
+    <type name="OH_trash_box_Kit">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_trash_box">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- МУСОРКА для маппинга -->
+    <type name="OH_large_trash_box">
+        <lifetime>3888000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- ПЕЧКА -->
+    <type name="OH_pechka">
+        <nominal>0</nominal>
+        <lifetime>604800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Village"/>
+        <usage name="Farm"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <!-- ПЕЧКА для маппинга -->
+    <type name="OH_pechka_statick">
+        <lifetime>3888000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- ДИВАН -->
+    <type name="OH_sofa_gun_rack_Kit">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_sofa_gun_rack">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- ДИВАН без функции сесть/лечь -->
+    <type name="OH_sofa_gun_rack_nosleep_kit">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_sofa_gun_rack_nosleep">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- ШИФОНЕР -->
+    <type name="OH_shifoner_light_wood_Kit">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_shifoner_light_wood">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_shifoner_dark_wood_Kit">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_shifoner_dark_wood">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_shifoner_red_wood_Kit">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_shifoner_red_wood">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- ДИВАН -->
+    <type name="OH_soviet_tumbochka_old_Kit">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_soviet_tumbochka_old">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- ЖАЛЮЗИ -->
+    <type name="OH_blind_window_Kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_blind_window">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_home_blind_windows_blue_kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_home_blind_windows_blue">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_home_blind_windows_blue_dirt_kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_home_blind_windows_blue_dirt">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_home_blind_windows_red_kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_home_blind_windows_red">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_home_blind_windows_red_dirt_kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_home_blind_windows_red_dirt">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_home_blind_windows_yellow_kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_home_blind_windows_yellow">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_home_blind_windows_yellow_dirt_kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_home_blind_windows_yellow_dirt">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_home_blind_windows_black_kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_home_blind_windows_black">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_home_blind_windows_olive_kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_home_blind_windows_olive">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- ОСВЕЩЕНИЕ -->
+    <type name="OH_lamp_wall_Kit">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_lamp_wall">
+        <lifetime>28800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- ДОМАШНИЕ ЛАМПЫ -->
+    <type name="OH_home_lamp_torsher">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_home_lamp_table">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <!-- НАСТОЛЬНАЯ ЛАМПА -->
+    <type name="OH_Lamp_old">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <!-- АРМЕЙСКИЙ ДЕРЕВНЯННЫЙ ЯЩИК -->
+    <type name="OH_mil_ru_box_green">
+        <nominal>0</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Military"/>
+    </type>
+    <type name="OH_mil_ru_box_long_green">
+        <nominal>0</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Military"/>
+    </type>
+    <type name="OH_military_metal_crate">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+    </type>
+    <!-- КРАСНЫЙ ДИВАН -->
+    <type name="OH_soviet_sofa_gun_rack_red_Kit">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_soviet_sofa_gun_rack_red">
+        <lifetime>3888000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- КРАСНЫЙ ДИВАН без функции сесть/лечь -->
+    <type name="OH_soviet_sofa_gun_rack_red_nosleep_Kit">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_soviet_sofa_gun_rack_red_nosleep">
+        <lifetime>28800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- ТУМБОЧКА -->
+    <type name="OH_soviet_tumbochka_small_old_Kit">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_soviet_tumbochka_small_old">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- БЕСЕДКА -->
+    <type name="OH_wood_gazebo_Kit">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_wood_gazebo">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- ЯЩИК ДЛЯ ИНСТРУМЕНТОВ -->
+    <type name="OH_tool_box_1_blue">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_crate_for_tools_red">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_crate_for_tools_blue">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_crate_for_tools_green">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <!-- СДВОЕНАЯ ОРУЖЕЙНАЯ СТОЙКА -->
+    <type name="OH_Gunrack_doubleKit">
+        <nominal>1</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OH_Gunrack_double">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- НАСТЕННЫЕ КРЕПЛЕНИЯ ДЛЯ ОРУЖИЯ -->
+    <type name="OH_wall_mount_weapon_Kit">
+        <nominal>1</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+    </type>
+    <type name="OH_wall_mount_weapon">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- СТЕЛЛАЖ ИЗ СТАРОГО ГАРАЖА -->
+    <type name="OH_garage_shelf_Kit">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+    </type>
+    <type name="OH_garage_shelf">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- КОМОД -->
+    <type name="OH_dresser_Kit">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_dresser">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_dresser_locker_Kit">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Farm"/>
+        <usage name="TrainCrash"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+    <type name="OH_dresser_locker">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- КОВРЫ -->
+    <type name="OH_carpet_wall_model_1_Kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_carpet_wall_model_1">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_carpet_wall_model_2_Kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_carpet_wall_model_2">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- ОГРОМНЫЙ ШКАФ -->
+    <type name="OH_big_locker_grey_Kit">
+        <nominal>0</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OH_big_locker_grey">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_big_locker_olive_Kit">
+        <nominal>0</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OH_big_locker_olive">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_big_locker_camo_Kit">
+        <nominal>0</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OH_big_locker_camo">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- МЕТАЛЛИЧЕСКИЙ ШКАФ С РОЛЬСТАВНЯМИ -->
+    <type name="OH_box_metal_Kit">
+        <nominal>1</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OH_box_metal">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- ДЕРЕВЯННЫЙ НАСТЕННЫЙ ШКАФ -->
+    <type name="OH_box_wood_Kit">
+        <nominal>1</nominal>
+        <lifetime>43200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <usage name="TrainCrash"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OH_box_wood">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- АРМЕЙСКИЕ ЯЩИКИ МОДЕЛЬ2 -->
+    <type name="OH_military_box_big_model_two_Brown">
+        <nominal>0</nominal>
+        <lifetime>604800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <usage name="TrainCrash"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OH_military_box_big_model_two_Green">
+        <nominal>0</nominal>
+        <lifetime>604800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <usage name="TrainCrash"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OH_military_box_big_model_two_Olive">
+        <nominal>0</nominal>
+        <lifetime>604800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <usage name="TrainCrash"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OH_military_box_big_model_two_Tan">
+        <nominal>0</nominal>
+        <lifetime>604800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <usage name="TrainCrash"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OH_military_box_big_model_two_black">
+        <nominal>0</nominal>
+        <lifetime>604800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <usage name="TrainCrash"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OH_military_box_big_model_two_red">
+        <nominal>0</nominal>
+        <lifetime>604800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <usage name="TrainCrash"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OH_military_box_big_model_two_orange">
+        <nominal>0</nominal>
+        <lifetime>604800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <usage name="TrainCrash"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OH_military_box_big_model_two_events">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- АРМЕЙСКИЕ ЯЩИКИ СРЕДНИЕ -->
+    <type name="OH_military_box_medium_olive">
+        <nominal>0</nominal>
+        <lifetime>604800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="TrainCrash"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OH_military_box_medium_black">
+        <nominal>0</nominal>
+        <lifetime>604800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <usage name="TrainCrash"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OH_military_box_medium_brown">
+        <nominal>0</nominal>
+        <lifetime>604800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <usage name="TrainCrash"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OH_military_box_medium_green">
+        <nominal>0</nominal>
+        <lifetime>604800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <usage name="TrainCrash"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <!-- АРМЕЙСКИЕ ЯЩИКИ SLIM -->
+    <type name="OH_military_box_slim_olive">
+        <nominal>0</nominal>
+        <lifetime>604800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <usage name="TrainCrash"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OH_military_box_slim_black">
+        <nominal>0</nominal>
+        <lifetime>604800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <usage name="TrainCrash"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OH_military_box_slim_brown">
+        <nominal>0</nominal>
+        <lifetime>604800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <usage name="TrainCrash"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OH_military_box_slim_green">
+        <nominal>0</nominal>
+        <lifetime>604800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <usage name="TrainCrash"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <!-- АРМЕЙСКИЕ ЯЩИКИ HAARBIG -->
+    <type name="OH_military_haarbig_box_Brown">
+        <nominal>0</nominal>
+        <lifetime>604800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OH_military_haarbig_box_Green">
+        <nominal>0</nominal>
+        <lifetime>604800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OH_military_haarbig_box_Olive">
+        <nominal>0</nominal>
+        <lifetime>604800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OH_military_haarbig_box_Tan">
+        <nominal>0</nominal>
+        <lifetime>604800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OH_military_haarbig_box_black">
+        <nominal>0</nominal>
+        <lifetime>604800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OH_military_haarbig_box_red">
+        <nominal>0</nominal>
+        <lifetime>604800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="OH_military_haarbig_box_events">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- АРМЕЙСКИЙ СТОЛ -->
+    <type name="OH_military_table_olive">
+        <nominal>1</nominal>
+        <lifetime>604800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Military"/>
+        <usage name="TrainCrash"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <!-- СТЕЛЛАЖ ДЛЯ ХРАНЕНИЯ БОЧЕК -->
+    <type name="OH_metal_shelving_barrel_Kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_metal_shelving_barrel">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_metal_shelving_barrel_big_Kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_metal_shelving_barrel_big">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- СПАЛЬНЫЙ МЕШОК -->
+    <type name="OH_sleeping_bag_1_blue_Kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_sleeping_bag_1_blue">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_sleeping_bag_1_green_Kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_sleeping_bag_1_green">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- СПАЛЬНЫЙ МЕШОК без функции сесть/лечь -->
+    <type name="OH_sleeping_bag_1_no_sleep_blue_Kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_sleeping_bag_1_no_sleep_blue">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_sleeping_bag_1_no_sleep_green_Kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_sleeping_bag_1_no_sleep_green">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- ПАЛАС -->
+    <type name="OH_carpet_floor_model_2_Kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_carpet_floor_model_2">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- СТАРАЯ МЕТАЛЛИЧЕСКАЯ КРОВАТЬ -->
+    <type name="OH_metal_bed_Kit">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_metal_bed">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- СТАРАЯ МЕТАЛЛИЧЕСКАЯ КРОВАТЬ без функции сесть/лечь -->
+    <type name="OH_metal_bed_nosleep_Kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_metal_bed_nosleep">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- ДЕРЕВЯННЫЙ СТОЛ -->
+    <type name="OH_old_wood_table_Kit">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_old_wood_table">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- БРОНИРОВАННЫЕ РОЛЬСТАВНИ НА ОКНА -->
+    <type name="OH_roll_gate_black_Kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_roll_gate_black">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- КОДОВЫЙ ЗАМОК -->
+    <type name="OH_CombinationLockCustom">
+        <lifetime>28800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_CombinationLockCustom4">
+        <lifetime>28800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- БАЛЛОН ПРОПАНА -->
+    <type name="OH_propane_baloon">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Village"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <!-- ГАЗОВЫЕ ПЛИТЫ -->
+    <type name="OH_Portable_Gas_Stove_1">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_gas_coocking_stove_1">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_gas_coocking_stove_2">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <!-- УМЫВАЛЬНИК -->
+    <type name="OH_hand_washer_Kit">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Village"/>
+        <usage name="Farm"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_hand_washer">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- СТАТИЧНЫЕ УМЫВАЛЬНИКИ для маппинга -->
+    <type name="OH_old_sink">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_sink">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_sink_2">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- ОГРОМНАЯ ПЛАСТИКОВАЯ БУТЫЛКА ДЛЯ ВОДЫ -->
+    <type name="OH_water_bottle_blue">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>70</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <!-- ПЛАСТИКОВЫЕ КАНИСТРЫ -->
+    <type name="OH_plastic_canister_blue">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>70</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="OH_plastic_canister_red">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>70</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="OH_plastic_canister_green">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>70</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="OH_plastic_canister_yellow">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>70</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <!-- ПОМПА ДЛЯ БОЧКИ С ВОДОЙ -->
+    <type name="OH_water_tap">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Farm"/>
+        <usage name="Industrial"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <!-- ПЛАСТИКОВЫЕ КАНИСТРЫ -->
+    <type name="OH_55gallons_water_Barrel_blue">
+        <nominal>1</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <!-- манекен краш теста -->
+    <type name="OH_crash_dummy_orange_Kit">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_crash_dummy_orange">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_crash_dummy_blue_Kit">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_crash_dummy_blue">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_crash_dummy_camo_Kit">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_crash_dummy_camo">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_crash_dummy_green_Kit">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_crash_dummy_green">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_crash_dummy_grey_Kit">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_crash_dummy_grey">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_crash_dummy_olive_Kit">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_crash_dummy_olive">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_crash_dummy_red_Kit">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_crash_dummy_red">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- манекен из магазина -->
+    <type name="OH_shop_dummy_Kit">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="floor"/>
+        <usage name="Town"/>
+        <usage name="TrainCrash"/>
+    </type>
+    <type name="OH_shop_dummy">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- ГИРЛЯНДА -->
+    <type name="OH_gerlyanda_Kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_gerlyanda">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- ГИРЛЯНДА для маппинга -->
+    <type name="OH_gerlyanda_static">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- СТАТИЧНОЕ ОСВЕЩЕНИЕ для маппинга -->
+    <type name="OH_chemlight">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_chemlight_red">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_chemlight_blue">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_chemlight_yellow">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_chemlight2">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_GasLamp">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_OldLamp">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_BunkerLamp">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_BunkerLampGreen">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_lamp_wall_statick">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- СТАТИЧНОЕ ОСВЕЩЕНИЕ для маппинга ГОРИТ ВСЕГДА -->
+    <type name="OH_OldLamp_all_light">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_lamp_wall_statick_all_light">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_BunkerLamp_all_light">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_chemlight_all_light">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_chemlight2_all_light">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_chemlight_red_all_light">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_chemlight_blue_all_light">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_chemlight_yellow_all_light">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- БОЛЬШОЙ ПЛАСТИКОВЫЙ КОНТЕЙНЕР ВОДЫ для маппинга -->
+    <type name="OH_Plastic_Water_Tank">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- КУНГ (РАЗБИРАЕТСЯ ГАЗОВОЙ ГОРЕЛКОЙ! ПРИ РАЗБОРЕ КУНГА ВЫ ПОЛУЧИТЕ ЛИСТЫ МЕТАЛЛА, КУНГ БУДЕТ УНИЧТОЖЕН !)-->
+    <type name="OH_Kung_Kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_kung">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_KungArcade_Kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_kung_arcade">
+        <lifetime>3880000</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <!-- МАТРАС -->
+    <type name="OH_sleeping_matrass_Kit">
+        <lifetime>14400</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="OH_sleeping_matrass">
+        <lifetime>604800</lifetime>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+</types>

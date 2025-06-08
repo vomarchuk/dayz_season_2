@@ -1,0 +1,1071 @@
+{
+    "title": "SEASON PASS",
+    "seasonMessage": "СТАРТ НОВОГО СЕЗОНА 01/06/2025",
+    "getPremiumButton": "GET PREMIUM",
+    "getPremiumButtonDiscordLink": "https://discord.com/invite/BfGSxZGGF5",
+    "currentLevel": "ПОТОЧНИЙ РIВЕНЬ",
+    "level": "РIВЕНЬ",
+    "rewardsButton": "НАГОРОДИ",
+    "tasksButton": "ЗАВДАННЯ",
+    "claimRewardButton": "ОТРИМАТИ НАГОРОДУ",
+    "premium": "PREMIUM",
+    "free": "БЕЗПЛАТНО",
+    "tasks": [
+        {
+            "taskName": "Знищити ЗОМБI",
+            "taskDescription": "Знайти і знищити ЗОМБI в містах, селах та будівлях.",
+            "targetClassname": [
+                "ZmbM_CitizenASkinny_Blue",
+                "ZmbM_CitizenASkinny_Grey",
+                "ZmbM_CitizenASkinny_Red",
+                "ZmbM_CitizenBFat_Blue",
+                "ZmbM_CitizenBFat_Green",
+                "ZmbM_CitizenBFat_Red",
+                "ZmbM_ClerkFat_Grey",
+                "ZmbM_ClerkFat_Khaki",
+                "ZmbM_ClerkFat_White",
+                "ZmbM_CommercialPilotOld_Blue",
+                "ZmbM_CommercialPilotOld_Brown",
+                "ZmbM_CommercialPilotOld_Olive",
+                "ZmbM_Gamedev_Black",
+                "ZmbM_Gamedev_Blue",
+                "ZmbM_Gamedev_Gray",
+                "ZmbM_JournalistSkinny",
+                "ZmbM_MotobikerFat_Beige",
+                "ZmbM_SkaterYoung_Brown",
+                "ZmbM_SkaterYoung_Green",
+                "ZmbM_SkaterYoung_Grey",
+                "ZmbM_CitizenASkinny_Brown",
+                "ZmbM_ClerkFat_Brown",
+                "ZmbM_CommercialPilotOld_Grey",
+                "ZmbM_MotobikerFat_Black",
+                "ZmbM_SkaterYoung_Blue",
+                "ZmbM_FirefighterNormal",
+                "ZmbM_ConstrWorkerNormal_Beige",
+                "ZmbM_ConstrWorkerNormal_Black",
+                "ZmbM_ConstrWorkerNormal_Green",
+                "ZmbM_ConstrWorkerNormal_Grey",
+                "ZmbM_HandymanNormal_Beige",
+                "ZmbM_HandymanNormal_Blue",
+                "ZmbM_HandymanNormal_Green",
+                "ZmbM_HandymanNormal_Grey",
+                "ZmbM_HandymanNormal_White",
+                "ZmbM_HeavyIndustryWorker",
+                "ZmbM_MechanicSkinny_Blue",
+                "ZmbM_MechanicSkinny_Green",
+                "ZmbM_MechanicSkinny_Grey",
+                "ZmbM_MechanicSkinny_Red",
+                "ZmbM_OffshoreWorker_Green",
+                "ZmbM_OffshoreWorker_Orange",
+                "ZmbM_OffshoreWorker_Red",
+                "ZmbM_OffshoreWorker_Yellow",
+                "ZmbM_PrisonerSkinny",
+                "ZmbM_priestPopSkinny",
+                "ZmbM_FishermanOld_Blue",
+                "ZmbM_FishermanOld_Green",
+                "ZmbM_FishermanOld_Grey",
+                "ZmbM_FishermanOld_Red",
+                "ZmbM_HermitSkinny_Beige",
+                "ZmbM_HermitSkinny_Black",
+                "ZmbM_HermitSkinny_Green",
+                "ZmbM_HermitSkinny_Red",
+                "ZmbM_HikerSkinny_Blue",
+                "ZmbM_HikerSkinny_Green",
+                "ZmbM_HikerSkinny_Yellow",
+                "ZmbM_HunterOld_Autumn",
+                "ZmbM_HunterOld_Spring",
+                "ZmbM_HunterOld_Summer",
+                "ZmbM_HunterOld_Winter",
+                "ZmbM_FarmerFat_Blue",
+                "ZmbM_FarmerFat_Brown",
+                "ZmbM_FarmerFat_Green",
+                "ZmbM_Jacket_beige",
+                "ZmbM_Jacket_black",
+                "ZmbM_Jacket_blue",
+                "ZmbM_Jacket_brown",
+                "ZmbM_Jacket_greenchecks",
+                "ZmbM_Jacket_grey",
+                "ZmbM_Jacket_khaki",
+                "ZmbM_Jacket_stripes",
+                "ZmbM_JoggerSkinny_Blue",
+                "ZmbM_JoggerSkinny_Green",
+                "ZmbM_VillagerOld_Blue",
+                "ZmbM_VillagerOld_White",
+                "ZmbM_FarmerFat_Beige",
+                "ZmbM_Jacket_bluechecks",
+                "ZmbM_Jacket_magenta",
+                "ZmbM_JoggerSkinny_Red",
+                "ZmbM_VillagerOld_Green"
+            ],
+            "taskXP": 3
+        },
+        {
+            "taskName": "Знищити поліцейських зомбі",
+            "taskDescription": "Часто зустрічаються поблизу поліцейських станцій в містах та селах.",
+            "targetClassname": [
+                "ZmbM_PolicemanFat",
+                "ZmbM_PolicemanSpecForce",
+                "ZmbM_PolicemanSpecForce_Heavy"
+            ],
+            "taskXP": 7
+        },
+        {
+            "taskName": "Знищити медичних зомбі",
+            "taskDescription": "Часто зустрічаються поблизу лікарень, клінік, польових лікарень та медичних тентів.",
+            "targetClassname": [
+                "ZmbM_DoctorFat",
+                "ZmbM_ParamedicNormal_Black",
+                "ZmbM_ParamedicNormal_Blue",
+                "ZmbM_ParamedicNormal_Green",
+                "ZmbM_ParamedicNormal_Red",
+                "ZmbM_PatientSkinny"
+            ],
+            "taskXP": 5
+        },
+        {
+            "taskName": "Знищити військові зомбі",
+            "taskDescription": "Знайти і знищити військові зомбі в військових базах, контрольних точках та аеродромах.",
+            "targetClassname": [
+                "ZmbM_PatrolNormal_Autumn",
+                "ZmbM_PatrolNormal_Flat",
+                "ZmbM_PatrolNormal_PautRev",
+                "ZmbM_PatrolNormal_Summer",
+                "ZmbM_SoldierNormal",
+                "ZmbM_usSoldier_normal_Desert",
+                "ZmbM_usSoldier_normal_Woodland",
+                "ZmbM_usSoldier_Heavy_Woodland",
+                "ZmbM_usSoldier_Officer_Desert",
+                "ZmbM_NBC_Grey",
+                "ZmbM_NBC_Yellow"
+            ],
+            "taskXP": 9
+        },
+        {
+            "taskName": "Знищити NBC зомбі",
+            "taskDescription": "Часто зустрічаються поблизу забруднених зон, карантинних районів та наукових об'єктів.",
+            "targetClassname": [
+                "FC_Zmb_Toxic_Blue",
+                "FC_Zmb_Toxic_Orange",
+                "FC_Zmb_Toxic_White",
+                "FC_Zmb_Toxic_Yellow"
+            ],
+            "taskXP": 10
+        },
+        {
+            "taskName": "Знищити мутантів",
+            "taskDescription": "Часто зустрічаються в містах, селах, будинках та бункерах.",
+            "targetClassname": [
+                "FC_Zmb_Worker_1",
+                "FC_Zmb_Worker_2",
+                "FC_Zmb_Worker_3",
+                "FC_Zmb_Worker_Police",
+                "FC_Zmb_Worker_Soldier",
+                "FC_Zmb_Worker_Builder"
+            ],
+            "taskXP": 12
+        },
+        {
+            "taskName": "Знищити закровлених мутантів",
+            "taskDescription": "Часто зустрічаються в містах, селах, будинках та бункерах.",
+            "targetClassname": [
+                "FC_Zmb_Worker_1_Blood",
+                "FC_Zmb_Worker_2_Blood",
+                "FC_Zmb_Worker_3_Blood",
+                "FC_Zmb_Worker_Police_Blood",
+                "FC_Zmb_Worker_Soldier_Blood",
+                "FC_Zmb_Worker_Builder_Blood"
+            ],
+            "taskXP": 15
+        },
+        {
+            "taskName": "Знищити AI в поліційних відділеннях",
+            "taskDescription": "Знайти і знищити AI в поліційних відділеннях.",
+            "targetClassname": [
+                "eAI_SurvivorF_Eva",
+                "eAI_SurvivorF_Frida",
+                "eAI_SurvivorF_Gabi",
+                "eAI_SurvivorF_Helga",
+                "eAI_SurvivorM_Boris",
+                "eAI_SurvivorM_Cyril",
+                "eAI_SurvivorM_Denis",
+                "eAI_SurvivorM_Francis",
+                "eAI_SurvivorM_Mirek",
+                "eAI_SurvivorM_Oliver",
+                "eAI_SurvivorM_Peter"
+            ],
+            "taskXP": 10
+        },
+        {
+            "taskName": "Знищити AI на військових базах, аеродромах та хелікрашах",
+            "taskDescription": "Знайти і знищити AI на військових базах, аеродромах та хелікрашах.",
+            "targetClassname": [
+                "eAI_SurvivorF_Irena",
+                "eAI_SurvivorF_Judy",
+                "eAI_SurvivorF_Keiko",
+                "eAI_SurvivorM_Guo",
+                "eAI_SurvivorM_Indar",
+                "eAI_SurvivorM_Jose",
+                "eAI_SurvivorM_Kaito",
+                "eAI_SurvivorM_Lewis",
+                "eAI_SurvivorM_Manua"
+            ],
+            "taskXP": 12
+        },
+        {
+            "taskName": "Знищити AI в данжах",
+            "taskDescription": "Знайти і знищити AI в данжах.",
+            "targetClassname": [
+                "eAI_SurvivorM_Rolf",
+                "eAI_SurvivorM_Niki",
+                "eAI_SurvivorM_Elias",
+                "eAI_SurvivorM_Hassan",
+                "eAI_SurvivorF_Linda",
+                "eAI_SurvivorF_Maria",
+                "eAI_SurvivorF_Naomi",
+                "eAI_SurvivorF_Baty",
+                "eAI_SurvivorM_Quinn",
+                "eAI_SurvivorM_Seth",
+                "eAI_SurvivorM_Taiki"
+            ],
+            "taskXP": 15
+        },
+        {
+            "taskName": "Знищити лисиць",
+            "taskDescription": "Знайти і знищити лисиць в лісах.",
+            "targetClassname": [
+                "Animal_VulpesVulpes"
+            ],
+            "taskXP": 5
+        },
+        {
+            "taskName": "Знищити зайців",
+            "taskDescription": "Знайти і знищити зайців в лісах.",
+            "targetClassname": [
+                "Animal_LepusEuropaeus"
+            ],
+            "taskXP": 5
+        },
+        {
+            "taskName": "Знищити кур",
+            "taskDescription": "Знайти і знищити кур в селах, фермах та поблизу будинків в сільських містах.",
+            "targetClassname": [
+                "Animal_GallusGallusDomesticus",
+                "Animal_GallusGallusDomesticusF_Brown",
+                "Animal_GallusGallusDomesticusF_Spotted",
+                "Animal_GallusGallusDomesticusF_White"
+            ],
+            "taskXP": 5
+        },
+        {
+            "taskName": "Знищити ведмедів",
+            "taskDescription": "Знайти і знищити ведмедів в лісах.",
+            "targetClassname": [
+                "Animal_UrsusArctos"
+            ],
+            "taskXP": 50
+        },
+        {
+            "taskName": "Знищити корови",
+            "taskDescription": "Grazing near barns, open pastures, and village outskirts.",
+            "targetClassname": [
+                "Animal_BosTaurusF_Brown",
+                "Animal_BosTaurusF_Spotted",
+                "Animal_BosTaurusF_White",
+                "Animal_BosTaurus_Brown",
+                "Animal_BosTaurus_Spotted",
+                "Animal_BosTaurus_White"
+            ],
+            "taskXP": 20
+        },
+        {
+            "taskName": "Знищити оленів",
+            "taskDescription": "Знайти і знищити оленів в лісах.",
+            "targetClassname": [
+                "Animal_CervusElaphus",
+                "Animal_CervusElaphusF"
+            ],
+            "taskXP": 15
+        },
+        {
+            "taskName": "Знищити кози",
+            "taskDescription": "Часто зустрічаються поблизу сільських будинків, ферм та маленьких сільських населених пунктів.",
+            "targetClassname": [
+                "Animal_CapraHircusF",
+                "Animal_CapraHircus_Black",
+                "Animal_CapraHircus_Brown",
+                "Animal_CapraHircus_White"
+            ],
+            "taskXP": 10
+        },
+        {
+            "taskName": "Знищити свиней",
+            "taskDescription": "Часто зустрічаються в фермах, лісових краях та поблизу сільськогосподарських будівель.",
+            "targetClassname": [
+                "Animal_SusDomesticus"
+            ],
+            "taskXP": 10
+        },
+        {
+            "taskName": "Знищити теляток",
+            "taskDescription": "Часто зустрічаються в лісових районах та на схилах.",
+            "targetClassname": [
+                "Animal_CapreolusCapreolus",
+                "Animal_CapreolusCapreolusF"
+            ],
+            "taskXP": 10
+        },
+        {
+            "taskName": "Знищити овець",
+            "taskDescription": "Часто зустрічаються поблизу ферм та огорож.",
+            "targetClassname": [
+                "Animal_OvisAries",
+                "Animal_OvisAriesF"
+            ],
+            "taskXP": 10
+        },
+        {
+            "taskName": "Знищити диких свиней",
+            "taskDescription": "Часто зустрічаються в лісах, лісових прогалинах та гірських районах.",
+            "targetClassname": [
+                "Animal_SusScrofa"
+            ],
+            "taskXP": 10
+        },
+        {
+            "taskName": "Знищити вовки",
+            "taskDescription": "Часто зустрічаються в глибоких лісах, особливо в віддалених та північних районах карти.",
+            "targetClassname": [
+                "Animal_CanisLupus_Grey",
+                "Animal_CanisLupus_White"
+            ],
+            "taskXP": 15
+        }
+    ],
+    "levels": [
+        {
+            "startExp": 0,
+            "endExp": 100,
+            "free_reward": {
+                "name": "SteakKnife",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "SodaCan_Cola",
+                "quantity": 999,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 100,
+            "endExp": 200,
+            "free_reward": {
+                "name": "TerjeInjectorZivirol",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "Flag_DayZ",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 200,
+            "endExp": 300,
+            "free_reward": {
+                "name": "Glock19",
+                "quantity": 1,
+                "attachments": [
+                    "IMP_Mag_Glock_21Rnd"
+                ]
+            },
+            "premium_reward": {
+                "name": "RIP_FilterSilencer",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 300,
+            "endExp": 450,
+            "free_reward": {
+                "name": "Headtorch_Grey",
+                "quantity": 1,
+                "attachments": [
+                    "Battery9V"
+                ]
+            },
+            "premium_reward": {
+                "name": "Ammo_9x19",
+                "quantity": 50,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 450,
+            "endExp": 600,
+            "free_reward": {
+                "name": "VM_Leather_bag_35",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "TerjeInjectorZivirol",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 600,
+            "endExp": 800,
+            "free_reward": {
+                "name": "DuctTape",
+                "quantity": 100,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "CodeLock",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 800,
+            "endExp": 1000,
+            "free_reward": {
+                "name": "TerjeInjectorAmoxiclav",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "KIWI_Bag_upgrade",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 1000,
+            "endExp": 1250,
+            "free_reward": {
+                "name": "IMP_KelTecSUB2000",
+                "quantity": 1,
+                "attachments": [
+                    "IMP_KelTecSUB2000_Mag_15Rnd"
+                ]
+            },
+            "premium_reward": {
+                "name": "IMP_KelTecSUB2000_Mag_50Rnd",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 1250,
+            "endExp": 1550,
+            "free_reward": {
+                "name": "KIWI_Bag_upgrade",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "NailBox",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 1550,
+            "endExp": 1750,
+            "free_reward": {
+                "name": "Ammo_9x19",
+                "quantity": 50,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "KIWI_Can_MeatCow",
+                "quantity": 100,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 1750,
+            "endExp": 2000,
+            "free_reward": {
+                "name": "TerjeInjectorZivirol",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "TerjeInjectorAmoxiclav",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 2000,
+            "endExp": 2250,
+            "free_reward": {
+                "name": "IMP_AN94",
+                "quantity": 1,
+                "attachments": [
+                    "Mag_AK74_30Rnd_Black"
+                ]
+            },
+            "premium_reward": {
+                "name": "IMP_Supp_PBS4_AK",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 2250,
+            "endExp": 2500,
+            "free_reward": {
+                "name": "KIWI_Bag_upgrade",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "TerjeFirstAidKitAdvance_Black",
+                "quantity": 999,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 2500,
+            "endExp": 2750,
+            "free_reward": {
+                "name": "TerjeSurgicalKit",
+                "quantity": 100,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "TerjeBookAthletic4",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 2750,
+            "endExp": 3000,
+            "free_reward": {
+                "name": "SewingKit",
+                "quantity": 100,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "WeaponCleaningKit",
+                "quantity": 100,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 3000,
+            "endExp": 3300,
+            "free_reward": {
+                "name": "TD_GRN2014_money100",
+                "quantity": 10,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "KIWI_Can_MeatCow",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 3300,
+            "endExp": 3600,
+            "free_reward": {
+                "name": "KIWI_Bag_upgrade",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "NailBox",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 3600,
+            "endExp": 3900,
+            "free_reward": {
+                "name": "TerjeDrink6Energy",
+                "quantity": 999,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "PD_fridge_24",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 3900,
+            "endExp": 4200,
+            "free_reward": {
+                "name": "WeaponCleaningKit",
+                "quantity": 100,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "TerjeBookStealth3",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 4200,
+            "endExp": 4500,
+            "free_reward": {
+                "name": "Flag_KIWI",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "HuntingKnife",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 4500,
+            "endExp": 5000,
+            "free_reward": {
+                "name": "KIWI_Bag_upgrade",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "VM_Headtorch_Red",
+                "quantity": 1,
+                "attachments": [
+                    "Battery9V"
+                ]
+            }
+        },
+        {
+            "startExp": 5000,
+            "endExp": 5500,
+            "free_reward": {
+                "name": "TerjeBookSurvival4",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "Pliers",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 5000,
+            "endExp": 5500,
+            "free_reward": {
+                "name": "ElectronicRepairKit",
+                "quantity": 100,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "Mag_STANAG_60Rnd",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 5500,
+            "endExp": 6000,
+            "free_reward": {
+                "name": "Screwdriver",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "IMP_Optic_NCStar",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 6000,
+            "endExp": 6500,
+            "free_reward": {
+                "name": "KIWI_Bag_upgrade",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "TerjeBookMedicine4",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 6500,
+            "endExp": 7250,
+            "free_reward": {
+                "name": "TerjeInjectorAmoxiclav",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "TerjeInjectorZivirol",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 7250,
+            "endExp": 8000,
+            "free_reward": {
+                "name": "TerjeBookFishing5",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "IMP_Supp_556_Black",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 8000,
+            "endExp": 8750,
+            "free_reward": {
+                "name": "Custom_ProtectorCase_25",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "Custom_ProtectorCase_25",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 8750,
+            "endExp": 9500,
+            "free_reward": {
+                "name": "KIWI_Bag_upgrade",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "RIP_WD40S",
+                "quantity": 40,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 9500,
+            "endExp": 10250,
+            "free_reward": {
+                "name": "RIP_OilPlastic",
+                "quantity": 20,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "RIP_WeaponCleaningSpray_2",
+                "quantity": 50,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 10250,
+            "endExp": 11250,
+            "free_reward": {
+                "name": "TerjeBookStealth2",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "TerjeBookStealth2",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 11250,
+            "endExp": 12250,
+            "free_reward": {
+                "name": "TerjeDrinkMadBull",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "TraderPlus_Money_Euro100",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 12250,
+            "endExp": 13250,
+            "free_reward": {
+                "name": "KIWI_Bag_upgrade",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "KIWI_Battery9V",
+                "quantity": 9999,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 13250,
+            "endExp": 14500,
+            "free_reward": {
+                "name": "CP_CannabisSeedsPackBlue",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "CP_CannabisBagBlue",
+                "quantity": 16,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 14500,
+            "endExp": 15750,
+            "free_reward": {
+                "name": "Ammo_556x45",
+                "quantity": 60,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "RZ_KeycardDD_lvl1",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 15750,
+            "endExp": 17000,
+            "free_reward": {
+                "name": "TerjeInjectorPropital",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "IMP_Grip_Egg",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 17000,
+            "endExp": 18250,
+            "free_reward": {
+                "name": "TD_GRN2014_money500",
+                "quantity": 10,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "TD_GRN2014_money500",
+                "quantity": 10,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 18250,
+            "endExp": 19500,
+            "free_reward": {
+                "name": "TerjeFirstAidKitIndividual_Green",
+                "quantity": 999,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "VM_InjectorHP",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 19500,
+            "endExp": 21000,
+            "free_reward": {
+                "name": "TraderPlus_Money_Euro100",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "TraderPlus_Money_Euro100",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 21000,
+            "endExp": 22500,
+            "free_reward": {
+                "name": "FirstAidKit",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "FirstAidKit",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 22500,
+            "endExp": 24000,
+            "free_reward": {
+                "name": "TerjeBookAthletic4",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "TerjeBookAthletic4",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 24000,
+            "endExp": 25500,
+            "free_reward": {
+                "name": "TerjeInjectorPropital",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "TerjeInjectorPropital",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 25500,
+            "endExp": 27000,
+            "free_reward": {
+                "name": "OH_ussr_old_refrigerator_white",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "TraderPlus_Money_Euro100",
+                "quantity": 2,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 27000,
+            "endExp": 28500,
+            "free_reward": {
+                "name": "TerjeFirstAidKitIndividual_Green",
+                "quantity": 999,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "VM_InjectorHP",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 28500,
+            "endExp": 30000,
+            "free_reward": {
+                "name": "VM_InjectorHP",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "IMP_RPD",
+                "quantity": 1,
+                "attachments": [
+                    "IMP_Mag_RPD_200Rnd"
+                ]
+            }
+        },
+        {
+            "startExp": 30000,
+            "endExp": 32000,
+            "free_reward": {
+                "name": "TraderPlus_Money_Euro100",
+                "quantity": 2,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "IMP_Mag_RPD_200Rnd",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 32000,
+            "endExp": 34000,
+            "free_reward": {
+                "name": "Ammo_762x54",
+                "quantity": 60,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "Ammo_762x54",
+                "quantity": 60,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 34000,
+            "endExp": 36000,
+            "free_reward": {
+                "name": "KIWI_SewingKit_XL",
+                "quantity": 1000,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "KIWI_WeaponCleaningKit",
+                "quantity": 1000,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 36000,
+            "endExp": 38000,
+            "free_reward": {
+                "name": "TerjeBookStealth5",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "IMP_Mag_PKP_200Rnd",
+                "quantity": 1,
+                "attachments": []
+            }
+        },
+        {
+            "startExp": 38000,
+            "endExp": 40000,
+            "free_reward": {
+                "name": "VM_TacticKnife_Standart",
+                "quantity": 1,
+                "attachments": []
+            },
+            "premium_reward": {
+                "name": "IMP_PKPZ_Black",
+                "quantity": 1,
+                "attachments": [
+                    "IMP_Mag_PKP_200Rnd"
+                ]
+            }
+        }
+    ],
+    "playerPremiumList": [
+        "76561198104182080",
+        "76561198161108074",
+        "76561199485344583",
+        "76561198160896450",
+        "76561198093965225",
+        "76561198068897748",
+        "76561198216607920",
+        "76561198087498083",
+        "76561199091882922"
+    ]
+}

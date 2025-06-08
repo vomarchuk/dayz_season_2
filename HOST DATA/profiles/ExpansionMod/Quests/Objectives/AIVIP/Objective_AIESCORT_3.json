@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 28,
+    "ID": 3,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Відвези Альошу до дачі",
+    "TimeLimit": 2000,
+    "Active": 1,
+    "Position": [
+        15149.432617,
+        13.165367,
+        13862.067383
+    ],
+    "MaxDistance": 5.0,
+    "MarkerName": "Дача",
+    "ShowDistance": 1,
+    "CanLootAI": 0,
+    "NPCLoadoutFile": "SurvivorLoadout",
+    "NPCClassName": "eAI_SurvivorM_Boris",
+    "NPCName": "Альоша"
+}

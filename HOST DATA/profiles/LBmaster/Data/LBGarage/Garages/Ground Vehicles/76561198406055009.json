@@ -1,0 +1,119 @@
+{
+    "version": 0,
+    "steamid": "76561198406055009",
+    "level": 0,
+    "additionalVehicleCount": 0,
+    "vehicles": [
+        {
+            "uniqueID": 77651,
+            "infinite": 0,
+            "hasKey": 0,
+            "wasHacked": 0,
+            "isBrandNewVehicle": 0,
+            "hasInsurance": 0,
+            "insuranceValue": 0,
+            "vehicleKeyHash1": -1,
+            "vehicleKeyHash2": -1,
+            "vehicleKeyHash3": -1,
+            "vehicleKeyHash4": -1,
+            "itemname": "BRDK_german_motorcycle_dubok",
+            "fuelAmmount": 38.68794631958008,
+            "coolantAmmount": 6.0,
+            "oilAmmount": 4.0,
+            "brakeAmmount": 1.0,
+            "engineHealth": 1.0,
+            "fuelTankHealth": 1.0,
+            "vehicleHealth": 1.0,
+            "parkedInBySteamid": "76561198406055009",
+            "parkedInTimestamp": 1749287972,
+            "attachments": [
+                {
+                    "itemname": "SparkPlug",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -626843635
+                },
+                {
+                    "itemname": "MMG_assault_pack_tan",
+                    "health": 0.3850308358669281,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 5100557
+                },
+                {
+                    "itemname": "BRDK_german_motorcycle_doors_trunk_dubok",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 636757421
+                },
+                {
+                    "itemname": "HeadlightH7",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 673890682
+                },
+                {
+                    "itemname": "HeadlightH7",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 673892051
+                },
+                {
+                    "itemname": "CarBattery",
+                    "health": 1.0,
+                    "quantity": 44.0,
+                    "remainingEnergy": 0.8800206184387207,
+                    "liquidType": 0,
+                    "attSlot": 1000100489
+                },
+                {
+                    "itemname": "BRDK_german_motorcycle_wheel",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 1587586948
+                },
+                {
+                    "itemname": "BRDK_german_motorcycle_wheel",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 1587586949
+                },
+                {
+                    "itemname": "BRDK_german_motorcycle_wheel",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 1587588317
+                },
+                {
+                    "itemname": "BRDK_german_motorcycle_wheel",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 1587588318
+                }
+            ],
+            "spawnCargoItems": [],
+            "storageFilename": "$profile:LBmaster/Data/LBGarage/Items/PUTUDqzyGB6eejQB30zd.bin",
+            "wasImpounded": 0,
+            "impoundWaitTime": 0,
+            "impoundRebuyCost": 0
+        }
+    ],
+    "stolenVehicles": []
+}

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "vehicleIds": [
+        {
+            "uid": 7150,
+            "classname": "Hatchback_02",
+            "persistenceId": "1879044578,-45906710,-915521356,866781703",
+            "steamid": "76561198119544941",
+            "groupname": "Gas parking",
+            "filename": "KREST",
+            "timestamp": 1749372308
+        }
+    ]
+}

@@ -1,0 +1,609 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-5-23_17-42-38
+====================================================================================
+17:42:38 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+17:42:38 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+17:42:38 | [PermissionManager] Perm (FreeCamera) has been registered!
+17:42:38 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+17:42:38 | [PermissionManager] Perm (MenuItemManager) has been registered!
+17:42:38 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+17:42:38 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+17:42:38 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+17:42:38 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+17:42:38 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+17:42:38 | [PermissionManager] Perm (MenuServerManager) has been registered!
+17:42:38 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+17:42:38 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+17:42:38 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+17:42:38 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+17:42:38 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+17:42:38 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+17:42:38 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+17:42:38 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+17:42:38 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+17:42:38 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+17:42:38 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+17:42:38 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+17:42:38 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+17:42:38 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+17:42:38 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+17:42:38 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+17:42:38 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+17:42:38 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+17:42:38 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+17:42:38 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+17:42:38 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+17:42:38 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+17:42:38 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+17:42:38 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+17:42:38 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+17:42:38 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+17:42:38 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+17:42:38 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+17:42:38 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+17:42:38 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+17:42:38 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+17:42:38 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+17:42:38 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+17:42:38 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+17:42:38 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+17:42:38 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+17:42:38 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+17:42:38 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+17:42:38 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+17:42:38 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+17:42:38 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+17:42:38 | [PermissionManager] Perm (MenuBansManager) has been registered!
+17:42:38 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+17:42:38 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+17:42:38 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+17:42:38 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+17:42:38 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+17:42:38 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+17:42:38 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+17:42:38 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+17:42:38 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+17:42:38 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+17:42:38 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+17:42:38 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+17:42:38 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+17:42:38 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+17:42:38 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+17:42:38 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+17:42:38 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+17:42:38 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+17:42:38 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+17:42:38 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+17:42:38 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+17:42:38 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+17:42:38 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+17:42:38 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+17:42:38 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+17:42:38 | [PermissionManager] Adding Super Admin (76561198104182080)
+17:42:38 | [PermissionManager] Loaded UserGroups.json
+17:42:38 | [PermissionManager] Perm (RZ_AdminCarForm_VPP) has been registered!
+17:42:38 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+17:42:38 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+17:42:38 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+17:42:38 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+17:42:38 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+17:42:38 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+17:42:38 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+17:42:38 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+17:42:38 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+17:42:38 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+17:42:38 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+17:42:38 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+17:42:38 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+17:42:38 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+17:42:38 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+17:42:38 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+17:42:38 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+17:42:38 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+17:42:38 | Building Sets Loaded: 0
+17:42:38 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+17:43:53 | Player "PieceDuck" (steamId=76561198161108074) connected to server!
+17:45:34 | Player "Moon" (steamId=76561199485344583) connected to server!
+17:46:4 | "PieceDuck" (steamid=76561198161108074) toggled godmode
+17:46:36 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<8159.319824, 475.701080, 9162.669922>)
+17:46:36 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=8159.32,0,9162.67)
+17:47:9 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<8176.858398, 474.039978, 9095.049805>)
+17:47:9 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<8181.627441, 474.039978, 9090.369141>)
+17:47:10 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<8186.244141, 474.040009, 9086.058594>)
+17:47:10 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<8189.225586, 474.040100, 9083.411133>)
+17:47:11 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<8194.890625, 474.040039, 9078.550781>)
+17:47:12 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<8201.813477, 472.928802, 9072.741211>)
+17:47:12 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<8208.578125, 471.056946, 9066.223633>)
+17:47:12 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<8212.277344, 470.478363, 9062.425781>)
+17:47:12 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<8216.604492, 469.976227, 9057.651367>)
+17:47:13 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<8220.365234, 469.654846, 9052.091797>)
+17:47:13 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<8221.693359, 469.534821, 9049.967773>)
+17:47:56 | "Moon" (steamid=76561199485344583) gave godmode to (steamid=76561199485344583)
+17:48:46 | "76561199485344583" (steamid=76561199485344583) teleported to (pos=<1939.469971, 5.908347, 2227.300049>)
+17:48:46 | "Moon": (steamid=76561199485344583) teleported to (pos=1939.47,0,2227.3)
+17:48:57 | "PieceDuck" (steamid=76561198161108074) toggled freecam
+17:49:5 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<8216.439453, 469.630219, 9040.924805>)
+17:49:6 | "PieceDuck" (steamid=76561198161108074) toggled freecam
+17:49:18 | "76561199485344583" (steamid=76561199485344583) teleported to (pos=<1930.920044, 6.050879, 2243.360107>)
+17:49:18 | "Moon": (steamid=76561199485344583) teleported to (pos=1930.92,0,2243.36)
+17:49:48 | Player "VoMa" (steamId=76561198104182080) connected to server!
+17:50:26 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<8224.216797, 469.514099, 9058.443359>)
+17:51:30 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<4479.979980, 480.889923, 15110.000000>)
+17:51:30 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=4479.98,0,15110)
+17:51:32 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<4468.499512, 478.785126, 15095.846680>)
+17:51:33 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<4464.853516, 479.606995, 15093.604492>)
+17:51:34 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<4459.581055, 478.491333, 15089.599609>)
+17:51:34 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<4453.736816, 478.338959, 15086.307617>)
+17:51:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<4450.878906, 478.240021, 15084.203125>)
+17:51:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<4448.662598, 478.117432, 15082.833984>)
+17:51:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<4444.379883, 477.689972, 15079.601563>)
+17:51:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<4440.038086, 477.292725, 15076.139648>)
+17:51:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<4434.555664, 476.440613, 15071.357422>)
+17:51:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<4428.824219, 476.299133, 15070.603516>)
+17:51:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<4423.637207, 476.077332, 15070.416016>)
+17:51:38 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<4416.403809, 473.302887, 15065.723633>)
+17:51:39 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<4409.118652, 469.482178, 15059.504883>)
+17:51:43 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7203.053223, 329.356018, 8275.259766>)
+17:51:44 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<7207.621582, 329.128937, 8268.458984>)
+17:52:9 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (RZ_KeycardDD_lvl1)
+17:52:13 | "76561199485344583" (steamid=76561199485344583) teleported to (pos=<1270.050049, 295.263275, 11417.500000>)
+17:52:13 | "Moon": (steamid=76561199485344583) teleported to (pos=1270.05,0,11417.5)
+17:52:53 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<635.075989, 409.677185, 11045.900391>)
+17:52:53 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=635.076,0,11045.9)
+17:53:6 | "PieceDuck" (steamid=76561198161108074) toggled freecam
+17:53:11 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<501.433411, 430.755432, 11097.001953>)
+17:53:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1294.946533, 294.030151, 11504.106445>)
+17:53:41 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<3623.711670, 191.957672, 12937.801758>)
+17:53:45 | "76561199485344583" (steamid=76561199485344583) teleported to (pos=<5051.270020, 339.000000, 9810.769531>)
+17:53:45 | "Moon": (steamid=76561199485344583) teleported to (pos=5051.27,0,9810.77)
+17:53:47 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<4737.634277, 170.304016, 12933.306641>)
+17:53:51 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<4936.829590, 184.396790, 12939.541016>)
+17:54:0 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<5042.546387, 180.473969, 13064.500000>)
+17:54:7 | "PieceDuck" (steamid=76561198161108074) toggled freecam
+17:54:21 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<5047.663574, 339.253845, 9811.846680>)
+17:54:40 | "76561199485344583" (steamid=76561199485344583) teleported to (pos=<4212.620117, 338.410004, 11083.000000>)
+17:54:40 | "Moon": (steamid=76561199485344583) teleported to (pos=4212.62,0,11083)
+17:55:3 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<13521.799805, 7.399961, 11148.200195>)
+17:55:3 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=13521.8,0,11148.2)
+17:55:4 | "76561199485344583" (steamid=76561199485344583) teleported to (pos=<2707.919922, 363.714569, 6758.700195>)
+17:55:4 | "Moon": (steamid=76561199485344583) teleported to (pos=2707.92,0,6758.7)
+17:55:7 | "PieceDuck" (steamid=76561198161108074) toggled freecam
+17:55:15 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<13773.538086, 28.530502, 11136.984375>)
+17:55:18 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2755.656982, 366.104340, 6751.059570>)
+17:55:18 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2767.099365, 366.877899, 6747.252930>)
+17:55:18 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2767.191895, 366.884979, 6747.224609>)
+17:55:18 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2767.283936, 366.892059, 6747.196777>)
+17:55:18 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2767.371094, 366.898743, 6747.169922>)
+17:55:18 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2767.463623, 366.905792, 6747.141602>)
+17:55:18 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2767.554199, 366.913025, 6747.113770>)
+17:55:18 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2768.693848, 367.007782, 6746.733398>)
+17:55:18 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2769.731689, 367.094360, 6746.379883>)
+17:55:18 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2770.849121, 367.187561, 6745.999512>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2771.992432, 367.280334, 6745.611816>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2773.166504, 367.359314, 6745.217285>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2774.196045, 367.428619, 6744.871582>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2775.555908, 367.504120, 6744.420898>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2776.757568, 367.550751, 6744.025879>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2778.625977, 367.623505, 6743.408203>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2779.974854, 367.675995, 6742.962402>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2780.931396, 367.713226, 6742.646973>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2781.659912, 367.735443, 6742.408691>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2785.956543, 367.582825, 6741.041016>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2788.876221, 367.450592, 6740.117188>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2791.576904, 367.451691, 6739.242676>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2792.671875, 367.487854, 6738.882324>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2795.623047, 367.587952, 6737.908691>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2796.968750, 367.634766, 6737.464844>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2799.143799, 367.705841, 6736.741699>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2800.032471, 367.734344, 6736.446777>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2800.382813, 367.745575, 6736.331055>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2800.533936, 367.750458, 6736.281738>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2804.067383, 367.864136, 6735.122559>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2805.079590, 367.894989, 6734.790527>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2810.467285, 368.070862, 6733.009766>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2811.646729, 368.109253, 6732.619629>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2811.847900, 368.115814, 6732.553223>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2811.845947, 368.115662, 6732.552246>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2817.749268, 368.174683, 6730.625488>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2818.039795, 368.177368, 6730.523438>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2817.852051, 368.175171, 6730.579590>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2817.676270, 368.173126, 6730.632813>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2817.589844, 368.172150, 6730.659668>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2817.575684, 368.171997, 6730.664063>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2834.521973, 367.805817, 6725.194336>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2834.209717, 367.814514, 6725.289551>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2834.224365, 367.814117, 6725.285156>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2834.358398, 367.810394, 6725.244141>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2834.500732, 367.806458, 6725.201172>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2834.653076, 367.802155, 6725.154297>)
+17:55:19 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2834.943604, 367.794006, 6725.064453>)
+17:55:20 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2853.430176, 367.437225, 6719.117188>)
+17:55:20 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2866.998779, 367.623566, 6714.664063>)
+17:55:20 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2867.086670, 367.626770, 6714.637207>)
+17:55:20 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2867.174561, 367.630005, 6714.609863>)
+17:55:20 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2867.257324, 367.632996, 6714.584473>)
+17:55:20 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2867.345459, 367.636230, 6714.558105>)
+17:55:20 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2867.433350, 367.639465, 6714.531250>)
+17:55:20 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2867.516113, 367.642487, 6714.505859>)
+17:55:20 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2867.609619, 367.645844, 6714.477051>)
+17:55:20 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2877.430420, 368.078766, 6711.167480>)
+17:55:20 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2877.430420, 368.078766, 6711.167480>)
+17:55:20 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2877.627197, 368.089722, 6711.107422>)
+17:55:20 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2877.631592, 368.089966, 6711.105957>)
+17:55:20 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2877.643311, 368.090607, 6711.102539>)
+17:55:20 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2877.673340, 368.092285, 6711.093262>)
+17:55:20 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2879.813965, 368.210052, 6710.369629>)
+17:55:20 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2881.475098, 368.328857, 6709.803223>)
+17:55:20 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2882.881104, 368.432343, 6709.324219>)
+17:55:20 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2884.057129, 368.511230, 6708.925781>)
+17:55:20 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2885.008057, 368.571228, 6708.604980>)
+17:55:20 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2885.747314, 368.617889, 6708.356934>)
+17:55:20 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2886.291748, 368.652222, 6708.175293>)
+17:55:20 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2886.656738, 368.675232, 6708.053711>)
+17:55:20 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2888.618408, 368.793030, 6707.391113>)
+17:55:20 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2889.819580, 368.862427, 6706.985840>)
+17:55:20 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2890.506836, 368.902100, 6706.754883>)
+17:55:20 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2890.931885, 368.926666, 6706.613281>)
+17:55:20 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2893.080078, 369.050720, 6705.886230>)
+17:55:20 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2894.097168, 369.109436, 6705.541504>)
+17:55:20 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2895.467041, 369.166504, 6705.085449>)
+17:55:20 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2896.210449, 369.165863, 6704.843262>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2898.769043, 369.160767, 6704.007324>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2899.672119, 369.158966, 6703.712402>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2902.455078, 369.153442, 6702.803711>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2903.222900, 369.147186, 6702.554199>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2903.472168, 369.145050, 6702.474609>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2903.666504, 369.143463, 6702.414063>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2907.592041, 369.110931, 6701.127441>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2908.263672, 369.105682, 6700.907227>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2910.369629, 369.088226, 6700.215332>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2910.604492, 369.085785, 6700.138672>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2914.135254, 369.049133, 6698.989746>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2914.325928, 369.047150, 6698.927734>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2914.972656, 369.040497, 6698.719238>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2915.463867, 369.035278, 6698.556641>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2915.977295, 369.029877, 6698.386719>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2916.482178, 369.024536, 6698.219727>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2917.937012, 369.008881, 6697.747070>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2919.254639, 368.991089, 6697.319336>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2922.051270, 368.946228, 6696.410645>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2924.344238, 368.909485, 6695.665527>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2926.098633, 368.879913, 6695.096191>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2927.444336, 368.856598, 6694.659668>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2929.743652, 368.818085, 6693.909180>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2931.263672, 368.792908, 6693.412598>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2934.056885, 368.742798, 6692.504883>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2935.742676, 368.710510, 6691.957031>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2936.715332, 368.691956, 6691.642090>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2937.291016, 368.681000, 6691.456055>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2940.544922, 368.617188, 6690.400391>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2942.152588, 368.577484, 6689.880371>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2947.362061, 368.428070, 6688.193848>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2949.637451, 368.348755, 6687.459961>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2952.998535, 368.235352, 6686.377441>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2954.115967, 368.197968, 6686.017578>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2954.504639, 368.185028, 6685.893066>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2954.708740, 368.178375, 6685.829102>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2964.700684, 367.684814, 6682.632324>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2970.071533, 367.164948, 6680.960449>)
+17:55:21 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2975.050293, 367.177582, 6679.325195>)
+17:55:22 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2981.232910, 367.195068, 6677.284668>)
+17:55:22 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2981.987793, 367.198578, 6677.047852>)
+17:55:22 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2982.071045, 367.198975, 6677.022461>)
+17:55:22 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2989.584961, 367.226563, 6674.588379>)
+17:55:22 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2990.085938, 367.228241, 6674.428711>)
+17:55:22 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2990.277832, 367.229034, 6674.369629>)
+17:55:22 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2990.366211, 367.229462, 6674.343262>)
+17:55:22 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<2991.215576, 367.231903, 6674.066895>)
+17:55:24 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3017.396973, 366.582092, 6669.965332>)
+17:55:24 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3033.484131, 366.333527, 6665.921387>)
+17:55:24 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3033.592773, 366.332458, 6665.897949>)
+17:55:24 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3033.695801, 366.331329, 6665.875000>)
+17:55:24 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3033.805908, 366.330048, 6665.850586>)
+17:55:24 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3033.908447, 366.328918, 6665.827148>)
+17:55:24 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3034.017578, 366.327667, 6665.802246>)
+17:55:24 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3034.127441, 366.326324, 6665.777344>)
+17:55:24 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3034.229248, 366.325287, 6665.753906>)
+17:55:24 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3034.339111, 366.323883, 6665.728516>)
+17:55:24 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3034.448242, 366.322571, 6665.703125>)
+17:55:24 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3048.522217, 366.132965, 6662.041016>)
+17:55:24 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3048.522217, 366.132965, 6662.041016>)
+17:55:24 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3048.735352, 366.130920, 6661.991211>)
+17:55:24 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3048.740234, 366.131104, 6661.992188>)
+17:55:24 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3048.756348, 366.131226, 6661.991211>)
+17:55:24 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3048.785156, 366.131104, 6661.985840>)
+17:55:24 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3048.824463, 366.130890, 6661.977539>)
+17:55:24 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3048.881348, 366.130463, 6661.965332>)
+17:55:24 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3063.236084, 365.951996, 6658.230469>)
+17:55:24 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3063.236084, 365.951996, 6658.230469>)
+17:55:24 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3063.435303, 365.949738, 6658.183105>)
+17:55:24 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3063.408936, 365.950104, 6658.189941>)
+17:55:24 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3063.387939, 365.950531, 6658.198242>)
+17:55:24 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3063.368652, 365.950806, 6658.203125>)
+17:55:24 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3077.961426, 365.739899, 6654.415039>)
+17:55:24 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3077.961426, 365.739899, 6654.415039>)
+17:55:24 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3078.008301, 365.739258, 6654.404297>)
+17:55:24 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3078.129883, 365.737488, 6654.375000>)
+17:55:25 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3078.382568, 365.733826, 6654.314453>)
+17:55:25 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3078.349854, 365.734283, 6654.322266>)
+17:55:25 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3078.324463, 365.734680, 6654.328613>)
+17:55:25 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3078.321533, 365.734711, 6654.329590>)
+17:55:25 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3093.484131, 365.443878, 6650.408691>)
+17:55:25 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3093.484131, 365.443878, 6650.408691>)
+17:55:25 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3093.684814, 365.439850, 6650.360840>)
+17:55:25 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3093.652832, 365.440491, 6650.368652>)
+17:55:25 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3093.627441, 365.440979, 6650.375000>)
+17:55:25 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3093.623535, 365.441101, 6650.375977>)
+17:55:25 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3109.866943, 365.000397, 6646.197266>)
+17:55:25 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3109.866943, 365.000397, 6646.197266>)
+17:55:25 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3109.951904, 364.997711, 6646.177246>)
+17:55:25 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3110.054199, 364.994476, 6646.152832>)
+17:55:25 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3110.156738, 364.991241, 6646.128418>)
+17:55:25 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3110.287842, 364.987091, 6646.097168>)
+17:55:25 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3110.565430, 364.978333, 6646.031250>)
+17:55:25 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3110.530029, 364.979462, 6646.040039>)
+17:55:25 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3113.026855, 366.368500, 6645.136230>)
+17:55:25 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3113.026855, 366.368500, 6645.136230>)
+17:55:25 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3113.028809, 366.375397, 6645.138184>)
+17:55:25 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3113.031738, 366.386108, 6645.140625>)
+17:55:25 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3113.035400, 366.410645, 6645.140137>)
+17:55:25 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3113.035156, 366.407623, 6645.140625>)
+17:55:25 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3113.034912, 366.408234, 6645.140137>)
+17:55:25 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3113.034912, 366.408844, 6645.140137>)
+17:55:25 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3113.058350, 366.778748, 6645.066406>)
+17:55:25 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3113.080322, 367.104004, 6645.001465>)
+17:55:25 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3113.139404, 367.373810, 6644.937012>)
+17:55:28 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3134.720459, 364.315857, 6650.059570>)
+17:55:29 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3143.630615, 363.602966, 6649.357422>)
+17:55:29 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3144.225098, 363.544556, 6649.310547>)
+17:55:29 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3144.705566, 363.497528, 6649.273438>)
+17:55:29 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3145.078369, 363.461151, 6649.246582>)
+17:55:29 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3145.377197, 363.432068, 6649.226074>)
+17:55:29 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3149.072998, 363.079895, 6648.914063>)
+17:55:29 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3151.364502, 362.840942, 6648.723633>)
+17:55:29 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3152.738770, 362.688934, 6648.611816>)
+17:55:29 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3153.503662, 362.604584, 6648.552734>)
+17:55:29 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3154.665039, 362.474579, 6648.460449>)
+17:55:29 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3155.204102, 362.413818, 6648.418457>)
+17:55:29 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3155.474609, 362.383392, 6648.397949>)
+17:55:29 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3155.664551, 362.362244, 6648.386230>)
+17:55:29 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3160.278076, 361.821960, 6648.011230>)
+17:55:29 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3161.882324, 361.630005, 6647.881836>)
+17:55:29 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3164.967529, 361.250916, 6647.639648>)
+17:55:29 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3165.834229, 361.145233, 6647.571289>)
+17:55:29 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3166.105469, 361.112335, 6647.551758>)
+17:55:29 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3166.258057, 361.093811, 6647.541992>)
+17:55:29 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3167.027344, 361.000153, 6647.482422>)
+17:55:29 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3167.155029, 360.984589, 6647.472168>)
+17:55:29 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3175.590332, 359.960175, 6646.796875>)
+17:55:29 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3176.457275, 359.859436, 6646.727051>)
+17:55:29 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3177.563721, 359.731171, 6646.640137>)
+17:55:29 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3177.622070, 359.724396, 6646.635254>)
+17:55:29 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3177.908203, 359.691528, 6646.618164>)
+17:55:44 | "PieceDuck" (steamid=76561198161108074) toggled freecam
+17:55:50 | "VoMa" (steamid=76561198104182080) toggled freecam
+17:55:56 | "PieceDuck" (steamid=76561198161108074) toggled freecam
+17:56:9 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<3319.736084, 350.455170, 6566.861816>)
+17:56:10 | "PieceDuck" (steamid=76561198161108074) toggled freecam
+17:56:34 | "VoMa" (steamid=76561198104182080) toggled freecam
+17:57:45 | "Moon" (steamid=76561199485344583) toggled freecam
+17:57:50 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3327.292480, 351.616150, 6560.280273>)
+17:57:52 | "Moon" (steamid=76561199485344583) toggled freecam
+17:58:53 | "PieceDuck" (steamid=76561198161108074) deleted object "ZmbF_VillagerOld_Red" (pos=<3329.901611, 348.028137, 6560.640625>)
+17:58:54 | "PieceDuck" (steamid=76561198161108074) deleted object "ZmbF_MechanicNormal_Grey" (pos=<3330.148193, 347.972107, 6560.165527>)
+17:58:54 | "PieceDuck" (steamid=76561198161108074) deleted object "ZmbM_CitizenBFat_Blue" (pos=<3329.668213, 347.978058, 6560.710938>)
+17:58:55 | "PieceDuck" (steamid=76561198161108074) deleted object "BRDK_JetPilot_Ch" (pos=<3329.018311, 347.985901, 6561.424805>)
+17:58:56 | "PieceDuck" (steamid=76561198161108074) deleted object "ZmbM_PolicemanSpecForce" (pos=<3329.773926, 347.959503, 6560.758301>)
+17:58:57 | "PieceDuck" (steamid=76561198161108074) deleted object "ZmbM_VillagerOld_White" (pos=<3328.476563, 347.987701, 6561.369141>)
+17:58:58 | "PieceDuck" (steamid=76561198161108074) deleted object "ZmbM_HandymanNormal_Green" (pos=<3329.903809, 347.974396, 6560.342285>)
+17:58:59 | "PieceDuck" (steamid=76561198161108074) deleted object "ZmbF_MechanicNormal_Beige" (pos=<3329.367188, 347.978699, 6560.630371>)
+17:59:12 | "PieceDuck" (steamid=76561198161108074) deleted objects using ESP
+17:59:16 | "PieceDuck" (steamid=76561198161108074) deleted object "ZmbM_CitizenASkinny_Brown" (pos=<3330.494629, 347.990753, 6559.955566>)
+17:59:22 | "PieceDuck" (steamid=76561198161108074) deleted object "ZmbM_HeavyIndustryWorker" (pos=<3331.149658, 347.986603, 6559.751953>)
+18:1:25 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3567.871826, 345.729584, 6382.662109>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3598.572266, 347.504181, 6356.001465>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3598.593506, 347.505768, 6355.984863>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3598.611816, 347.507080, 6355.971191>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3598.632568, 347.508667, 6355.954590>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3598.650391, 347.510010, 6355.941406>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3598.671631, 347.511841, 6355.918945>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3598.605957, 347.514099, 6355.811523>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3598.542236, 347.516235, 6355.707520>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3598.333008, 347.518463, 6355.475586>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3598.138428, 347.520569, 6355.256348>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3613.145996, 349.254517, 6342.435059>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3613.129395, 349.261597, 6342.335449>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3613.130859, 349.261353, 6342.339844>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3613.159424, 349.261719, 6342.361328>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3613.153564, 349.263947, 6342.329590>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3613.043213, 349.265900, 6342.206055>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3612.942139, 349.267578, 6342.095703>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3612.833008, 349.269409, 6341.974121>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3612.732422, 349.271515, 6341.858398>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3623.019531, 351.033081, 6332.607910>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3622.794189, 351.033081, 6332.423828>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3622.703125, 351.046265, 6332.221680>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3622.331543, 351.045410, 6331.918457>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3622.076904, 351.047333, 6331.681641>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3621.712402, 351.067688, 6331.172363>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3621.352295, 351.091949, 6330.594238>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3621.169678, 351.140839, 6329.922852>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3621.024170, 351.188141, 6329.369629>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3620.488281, 351.248932, 6328.354980>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3623.341309, 351.883911, 6325.041504>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3625.157227, 352.385437, 6321.993164>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3626.304443, 352.774994, 6319.489258>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3626.841309, 353.028961, 6317.699219>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3627.063965, 353.225952, 6316.169434>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3626.834473, 353.312073, 6315.253418>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3626.754639, 353.404877, 6314.393066>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3626.461914, 353.458496, 6313.708008>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3626.316406, 353.485718, 6313.363281>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3626.372559, 353.501556, 6313.269043>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3630.149414, 354.739136, 6305.461426>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3631.445313, 355.248535, 6301.856445>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3631.921143, 355.438049, 6300.512207>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3632.062988, 355.508820, 6299.989746>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3632.035889, 355.553467, 6299.619141>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3631.910889, 355.684204, 6298.509277>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3631.168213, 355.988220, 6295.688965>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3634.701172, 357.713867, 6284.499512>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3635.075928, 357.952332, 6283.059570>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3635.200195, 358.081726, 6282.242676>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3635.170654, 358.094696, 6282.141602>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3635.139648, 358.100433, 6282.088867>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3635.095459, 358.108521, 6282.012695>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3635.039063, 358.117249, 6281.928711>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3634.977539, 358.125153, 6281.846191>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3634.910156, 358.133575, 6281.759277>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3634.762451, 358.189911, 6281.310547>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3634.560791, 358.232452, 6280.930664>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3637.134033, 360.514069, 6267.523438>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3637.027832, 360.516235, 6267.459961>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3636.933105, 360.521576, 6267.383301>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3636.859131, 360.531464, 6267.289551>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3636.789063, 360.560822, 6267.080078>)
+18:1:26 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3636.656006, 360.563843, 6266.999023>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3636.682129, 360.574951, 6266.944336>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3636.517578, 360.590179, 6266.775391>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3638.100586, 362.892151, 6253.883789>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3638.073975, 362.892456, 6253.874512>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3637.994141, 362.916077, 6253.734863>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3637.849609, 362.919189, 6253.676758>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3637.740479, 362.922058, 6253.629883>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3637.710938, 362.925720, 6253.603027>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3637.783447, 362.929871, 6253.604004>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3637.609863, 362.936676, 6253.519531>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3637.944336, 363.519501, 6250.742188>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3638.104004, 363.995361, 6248.441406>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3638.200684, 364.364655, 6246.908691>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3638.151367, 364.627777, 6245.946289>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3638.212402, 364.868011, 6244.050293>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3638.260010, 365.013245, 6243.250488>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3638.517822, 365.577850, 6240.215820>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3638.524902, 365.898346, 6238.899414>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3638.541992, 366.083710, 6238.215332>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3638.560303, 366.185089, 6237.846680>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3638.593018, 366.668549, 6236.054688>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3638.562744, 366.896698, 6235.179688>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3638.645996, 367.365051, 6234.139648>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3638.630371, 367.538696, 6234.146484>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3638.573486, 367.900879, 6234.017578>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3638.543457, 368.031891, 6233.964844>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3638.534424, 368.074585, 6233.976563>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3638.534180, 368.095856, 6233.975586>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3638.403809, 368.616455, 6233.851563>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3638.377441, 368.744202, 6233.716309>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3638.371582, 368.773468, 6233.686523>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3638.373535, 368.822205, 6233.671875>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3639.349365, 370.227844, 6213.213867>)
+18:1:27 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3639.360596, 370.259369, 6213.197266>)
+18:1:33 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3654.782227, 375.574310, 6176.928711>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3656.757568, 378.438873, 6164.017090>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3656.718262, 378.449341, 6163.933105>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3656.677979, 378.461456, 6163.832031>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3656.637939, 378.473541, 6163.730469>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3656.599121, 378.485107, 6163.633301>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3656.556396, 378.496216, 6163.525879>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3656.485352, 378.494141, 6163.354492>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3656.420166, 378.492737, 6163.197754>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3656.392090, 378.502472, 6163.126465>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3656.517334, 380.196716, 6162.863281>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3656.516602, 380.196869, 6162.861816>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3656.506348, 380.165253, 6162.847656>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3656.491211, 380.166687, 6162.810547>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3656.449951, 380.163269, 6162.711914>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3656.408936, 380.160492, 6162.613281>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3656.370361, 380.158051, 6162.520996>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3659.497070, 382.483185, 6138.413086>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3659.395508, 382.815735, 6138.429199>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3659.303955, 383.032684, 6138.453125>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3659.208740, 383.175659, 6138.486816>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3659.047119, 383.181061, 6138.471680>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3658.880859, 383.065308, 6138.428223>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3658.527344, 382.719208, 6138.095215>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3659.174072, 384.277802, 6138.384766>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3659.180420, 384.284363, 6138.380859>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3659.186768, 384.269501, 6138.378906>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3659.191650, 384.223206, 6138.381836>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3659.158691, 384.233704, 6138.397461>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3659.112549, 384.287445, 6138.406738>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3659.084229, 384.511871, 6138.380371>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3659.057373, 384.732391, 6138.354980>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3659.031006, 384.939331, 6138.330566>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3659.008057, 385.104279, 6138.310547>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3658.978760, 385.210419, 6138.292969>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3658.956787, 385.296021, 6138.279297>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3658.904297, 385.445099, 6138.251465>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3658.866211, 385.552917, 6138.230957>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3658.839600, 385.626190, 6138.216797>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3658.821777, 385.637665, 6138.209961>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3658.781738, 385.916260, 6138.090820>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3658.757568, 386.081299, 6138.019043>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3659.801270, 385.784882, 6117.804199>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3659.805664, 385.995636, 6116.490234>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3659.813232, 386.190094, 6115.281250>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3659.802002, 386.280243, 6114.708496>)
+18:1:34 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3659.796875, 386.319824, 6114.456543>)
+18:1:46 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3681.821045, 392.831268, 6086.984863>)
+18:1:46 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3690.352051, 395.556824, 6069.651855>)
+18:1:46 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3690.404297, 395.584473, 6069.434570>)
+18:1:46 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3690.464355, 395.609436, 6069.240723>)
+18:1:46 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3690.505127, 395.631744, 6069.064941>)
+18:1:46 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3690.560791, 395.653290, 6068.899902>)
+18:1:46 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3690.610840, 395.674194, 6068.737793>)
+18:1:46 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3690.665039, 395.694153, 6068.586426>)
+18:1:46 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3690.722168, 395.714142, 6068.434082>)
+18:1:46 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3698.029053, 397.554504, 6052.882324>)
+18:1:46 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3701.043945, 398.243103, 6046.287109>)
+18:1:46 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3702.506104, 398.547729, 6043.027832>)
+18:1:46 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3702.954590, 398.639740, 6041.956543>)
+18:1:46 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3703.133545, 398.673767, 6041.568359>)
+18:1:46 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3703.255859, 398.696625, 6041.309082>)
+18:1:46 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3703.352295, 398.715057, 6041.097168>)
+18:1:46 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3703.433838, 398.730469, 6040.922852>)
+18:1:46 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3709.162598, 400.665070, 6028.408691>)
+18:1:46 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3709.162109, 400.800018, 6028.366211>)
+18:1:46 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3708.995850, 400.880859, 6028.046875>)
+18:1:46 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3708.929443, 400.868042, 6027.933105>)
+18:1:46 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3708.889160, 400.851898, 6027.866699>)
+18:1:46 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3708.857178, 400.836151, 6027.815430>)
+18:1:47 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3708.824707, 400.793152, 6027.770508>)
+18:1:47 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3708.787354, 400.742401, 6027.720703>)
+18:1:47 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3709.061279, 401.973907, 6027.827148>)
+18:1:47 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3709.060059, 401.974091, 6027.824707>)
+18:1:47 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3709.006348, 401.984802, 6027.726074>)
+18:1:47 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3708.976807, 401.992096, 6027.671875>)
+18:1:47 | "Moon" (steamid=76561199485344583) teleported to crosshair (pos=<3708.947510, 402.000366, 6027.617188>)
+18:1:56 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<3697.151611, 402.000000, 5963.283691>)
+18:2:39 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<8234.110352, 469.179993, 9035.820313>)
+18:2:39 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=8234.11,0,9035.82)
+18:4:40 | "PieceDuck" (steamid=76561198161108074) toggled freecam
+18:4:43 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<8216.584961, 469.251068, 9038.610352>)
+18:4:43 | "PieceDuck" (steamid=76561198161108074) toggled freecam
+18:6:8 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<2730.879883, 23.572390, 1295.189941>)
+18:6:8 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=2730.88,0,1295.19)
+18:6:8 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<2730.879883, 23.572390, 1295.189941>)
+18:6:8 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=2730.88,0,1295.19)
+18:6:13 | "PieceDuck" (steamid=76561198161108074) toggled freecam
+18:6:18 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<2772.736084, 33.605511, 1299.567017>)
+18:6:19 | "PieceDuck" (steamid=76561198161108074) toggled freecam
+18:8:4 | "PieceDuck" (steamid=76561198161108074) deleted object "eAI_SurvivorF_Baty" (pos=<2773.396973, 33.645000, 1307.031250>)
+18:9:11 | Player "VoMa" (steamId=76561198104182080) initiated disconnect process...
+18:9:13 | Player "VoMa" (steamId=76561198104182080) disconnected early from server (EXIT NOW).
+18:9:16 | Player "VoMa" (steamId=76561198104182080) disconnected from server.
+18:9:35 | "76561199485344583" (steamid=76561199485344583) teleported to (pos=<8230.669922, 469.179993, 9027.429688>)
+18:9:35 | "Moon": (steamid=76561199485344583) teleported to (pos=8230.67,0,9027.43)
+18:10:39 | "PieceDuck" (steamid=76561198161108074) deleted objects using ESP
+18:11:49 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Headtorch_Grey)
+18:11:49 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Headtorch_Black)
+18:11:57 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (ElectronicRepairKit)
+18:11:57 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (ElectronicRepairKit)
+18:11:59 | "Moon" (steamid=76561199485344583) Spawned Item: (TacticalBaconCan_Opened)
+18:12:24 | "PieceDuck" (steamid=76561198161108074) deleted object "VM_Headtorch" (pos=<2757.642334, 33.631912, 1301.131470>)
+18:12:26 | "PieceDuck" (steamid=76561198161108074) deleted object "VM_Headtorch_Red" (pos=<2757.464844, 33.632050, 1300.977783>)
+18:12:49 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<8221.040039, 469.179993, 9034.209961>)
+18:12:49 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=8221.04,0,9034.21)
+18:14:31 | "PieceDuck" (steamid=76561198161108074) healed player (steamid=76561198161108074)
+18:18:47 | "PieceDuck" (steamid=76561198161108074) toggled freecam
+18:18:57 | "PieceDuck" (steamid=76561198161108074) toggled freecam

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<economycore>
+	<classes>
+		<!--
+		These are rootclasses to be used by economy.
+		Do not forget to add attribute act="character", if root class represents character (player,infected, animal)
+		Do not forget to add attribute act="car", if root class represents moveable vehicles
+		-->
+		<rootclass name="DefaultWeapon" />
+		<!-- weapons -->
+		<rootclass name="DefaultMagazine" />
+		<!-- magazines -->
+		<rootclass name="Inventory_Base" />
+		<!-- inventory items -->
+		<rootclass name="HouseNoDestruct" reportMemoryLOD="no" />
+		<!-- houses, wrecks -->
+		<rootclass name="SurvivorBase" act="character" reportMemoryLOD="no" />
+		<!-- player characters -->
+		<rootclass name="DZ_LightAI" act="character" reportMemoryLOD="no" />
+		<!-- infected, animals -->
+		<rootclass name="CarScript" act="car" reportMemoryLOD="no" />
+		<!-- cars (sedan, hatchback,
+		transitBus, V3S, ...) -->
+		<rootclass name="BoatScript" act="car" reportMemoryLOD="no" />
+		<!-- boats -->
+	</classes>
+	<defaults>
+		<default name="dyn_radius" value="30" />
+		<default name="dyn_smin" value="0" />
+		<default name="dyn_smax" value="0" />
+		<default name="dyn_dmin" value="1" />
+		<default name="dyn_dmax" value="5" />
+		<default name="log_ce_loop" value="false" />
+		<default name="log_ce_dynamicevent" value="true" />
+		<default name="log_ce_vehicle" value="false" />
+		<default name="log_ce_lootspawn" value="false" />
+		<default name="log_ce_lootcleanup" value="false" />
+		<default name="log_ce_lootrespawn" value="false" />
+		<default name="log_ce_statistics" value="false" />
+		<default name="log_ce_zombie" value="false" />
+		<default name="log_storageinfo" value="false" />
+		<default name="log_hivewarning" value="true" />
+		<default name="log_missionfilewarning" value="true" />
+		<default name="save_events_startup" value="true" />
+		<default name="save_types_startup" value="true" />
+	</defaults>
+	<!-- KIWI ITEMS -->
+	<ce folder="types/KIWI_Items_ce">
+		<file name="kiwi_items.xml" type="types" />
+		<file name="sets.xml" type="types" />
+	</ce>
+	<!-- MMG -->
+	<ce folder="types/MMG_ce">
+		<file name="mmg_types_ADMINGEAR.xml" type="types" />
+		<file name="mmg_types_alpine.xml" type="types" />
+		<file name="mmg_types_atacs.xml" type="types" />
+		<file name="mmg_types_black.xml" type="types" />
+		<file name="mmg_types_carbines.xml" type="types" />
+		<file name="mmg_types_dark_woodland.xml" type="types" />
+		<file name="mmg_types_erdl.xml" type="types" />
+		<file name="mmg_types_green.xml" type="types" />
+		<file name="mmg_types_multicam.xml" type="types" />
+		<file name="mmg_types_multicamblack.xml" type="types" />
+		<file name="mmg_types_multicam_tropic.xml" type="types" />
+		<file name="mmg_types_NBC+NVG.xml" type="types" />
+		<file name="mmg_types_patches.xml" type="types" />
+		<file name="mmg_types_police.xml" type="types" />
+		<file name="mmg_types_tan.xml" type="types" />
+		<file name="mmg_types_ucp.xml" type="types" />
+	</ce>
+
+
+	<!-- Azrael  -->
+	<ce folder="types/Azrael_ce">
+		<file name="Azrael_mobs.xml" type="types" />
+		<file name="AP_equipme_types_1.5.xml" type="types" />
+		<file name="AP_equipme_Helmets.5.xml" type="types" />
+	</ce>
+	<!-- DBN  -->
+	<ce folder="types/DBN_ce">
+		<file name="Novator.xml" type="types" />
+	</ce>
+	<!-- BRDK  -->
+	<ce folder="types/BRDK_ce">
+		<file name="BRDK_Transport_types.xml" type="types" />
+	</ce>
+
+	<!-- LB  -->
+	<ce folder="types/LB_Master_ce">
+		<file name="lb_types.xml" type="types" />
+	</ce>
+	<!-- CP -->
+	<!-- FC Cars -->
+	<ce folder="types/FC_Cars_ce">
+		<file name="FcVeh_types.xml" type="types" />
+	</ce>
+	<!-- CP -->
+	<ce folder="types/CP_ce">
+		<file name="CP.xml" type="types" />
+	</ce>
+	<!-- Trader Plus -->
+	<ce folder="types/TraderPlus_ce">
+		<file name="TraderPlus_types.xml" type="types" />
+	</ce>
+	<!-- Zombie -->
+	<ce folder="types/Zombie_mod_ce">
+		<file name="Zombie_mod.xml" type="types"/>
+	</ce>
+	<!-- HP -->
+	<ce folder="types/HP_ce">
+		<file name="HP.xml" type="types"/>
+	</ce>
+	<!-- Mod cars -->
+	<ce folder="types/CARS_ce">
+		<file name="Cars.xml" type="types"/>
+	</ce>
+
+	<!-- RZ key doors -->
+	<ce folder="types/RZ_KeyCardDoors_ce">
+		<file name="rz_keyCardDoors.xml" type="types"/>
+	</ce>
+	<!-- Nomad_Backpack -->
+	<ce folder="types/Nomad_Backpack_ce">
+		<file name="Nomad_Backpack.xml" type="types"/>
+	</ce>
+
+	<!-- Items -->
+	<ce folder="types/Items_ce">
+		<file name="random_items_types.xml" type="types" />
+		<file name="other_items.xml" type="types" />
+	</ce>
+	<!-- TerjeMedicine -->
+	<ce folder="types/TerjeMedicine_ce">
+		<file name="Types_Optional_items.xml" type="types" />
+		<file name="Types_Required_items.xml" type="types" />
+	</ce>
+	<!-- TerjeSkills -->
+	<ce folder="types/TerjeSkills_ce">
+		<file name="Types_Skills.xml" type="types" />
+	</ce>
+	<!-- IMP -->
+	<ce folder="types/IMP_ce">
+		<file name="imp_weapon.xml" type="types" />
+	</ce>
+	<!-- RaG -->
+	<ce folder="types/RaG_ce">
+		<file name="rag_basebuilding.xml" type="types" />
+	</ce>
+	<!-- Car Radio -->
+	<ce folder="types/Car_Radio_ce">
+		<file name="cassette.xml" type="types" />
+	</ce>
+	<!-- Spoon Clothing -->
+	<ce folder="types/SPOON_ce">
+		<file name="Spoon_Clothing.xml" type="types" />
+		<file name="Spoon_furniture.xml" type="types" />
+	</ce>
+
+</economycore>

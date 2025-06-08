@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1004,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Дістатися до табору",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        8365.636719,
+        292.000000,
+        5973.320313
+    ],
+    "MaxDistance": 10.0,
+    "MarkerName": "",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

@@ -1,0 +1,701 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-6-4_21-27-5
+====================================================================================
+21:27:5 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+21:27:5 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+21:27:5 | [PermissionManager] Perm (FreeCamera) has been registered!
+21:27:5 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+21:27:5 | [PermissionManager] Perm (MenuItemManager) has been registered!
+21:27:5 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+21:27:5 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+21:27:5 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+21:27:5 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+21:27:5 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+21:27:5 | [PermissionManager] Perm (MenuServerManager) has been registered!
+21:27:5 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+21:27:5 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+21:27:5 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+21:27:5 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+21:27:5 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+21:27:5 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+21:27:5 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+21:27:5 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+21:27:5 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+21:27:5 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+21:27:5 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+21:27:5 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+21:27:5 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+21:27:5 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+21:27:5 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+21:27:5 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+21:27:5 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+21:27:5 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+21:27:5 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+21:27:5 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+21:27:5 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+21:27:5 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+21:27:5 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+21:27:5 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+21:27:5 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+21:27:5 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+21:27:5 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+21:27:5 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+21:27:5 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+21:27:5 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+21:27:5 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+21:27:5 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+21:27:5 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+21:27:5 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+21:27:5 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+21:27:5 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+21:27:5 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+21:27:5 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+21:27:5 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+21:27:5 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+21:27:5 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+21:27:5 | [PermissionManager] Perm (MenuBansManager) has been registered!
+21:27:5 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+21:27:5 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+21:27:5 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+21:27:5 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+21:27:5 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+21:27:5 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+21:27:5 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+21:27:5 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+21:27:5 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+21:27:5 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+21:27:5 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+21:27:5 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+21:27:5 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+21:27:5 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+21:27:5 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+21:27:5 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+21:27:5 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+21:27:5 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+21:27:5 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+21:27:5 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+21:27:5 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+21:27:5 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+21:27:5 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+21:27:5 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+21:27:6 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+21:27:6 | [PermissionManager] Adding Super Admin (76561198104182080)
+21:27:6 | [PermissionManager] Loaded UserGroups.json
+21:27:6 | [PermissionManager] Perm (RZ_AdminCarForm_VPP) has been registered!
+21:27:6 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+21:27:6 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+21:27:6 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+21:27:6 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+21:27:6 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+21:27:6 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+21:27:6 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+21:27:6 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+21:27:6 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+21:27:6 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+21:27:6 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+21:27:6 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+21:27:6 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+21:27:6 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+21:27:6 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+21:27:6 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+21:27:6 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+21:27:6 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+21:27:6 | Building Sets Loaded: 8
+21:27:6 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+21:28:11 | Player "Satana" (steamId=76561199848325170) connected to server!
+21:28:12 | Player "Serdj" (steamId=76561198322633256) connected to server!
+21:28:14 | Player "PieceDuck" (steamId=76561198161108074) connected to server!
+21:28:14 | Player "Bamber" (steamId=76561197970705402) connected to server!
+21:28:26 | Player "MrVleD" (steamId=76561199281830897) connected to server!
+21:28:33 | Player "flasch" (steamId=76561198013855789) connected to server!
+21:28:36 | Player "Foster" (steamId=76561198093965225) connected to server!
+21:29:26 | Player "Amper" (steamId=76561198343165685) connected to server!
+21:29:40 | Player "OXOTHIK" (steamId=76561198865195468) connected to server!
+21:29:52 | Player "Bioking" (steamId=76561198884179595) connected to server!
+21:30:1 | Player "HUNTER2091" (steamId=76561198859579000) connected to server!
+21:30:37 | Player "Mk_Jackson" (steamId=76561199076505655) connected to server!
+21:31:0 | Player "Muxaylo" (steamId=76561198038284050) connected to server!
+21:31:13 | Player "kulitipapuliti" (steamId=76561198160896450) connected to server!
+21:31:33 | "PieceDuck" (steamid=76561198161108074) toggled godmode
+21:31:39 | Player "Anastasiy" (steamId=76561199572511166) connected to server!
+21:33:45 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: kaskader has no parrent!
+21:33:45 | "PieceDuck" (steamid=76561198161108074) spawned preset: (kaskader)
+21:33:56 | Player "MonteCarlo" (steamId=76561198167839792) connected to server!
+21:34:16 | Player "Bioking" (steamId=76561198884179595) initiated disconnect process...
+21:34:21 | Player "Bioking" (steamId=76561198884179595) disconnected from server.
+21:34:31 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<8226.379883, 469.179993, 9034.620117>)
+21:34:31 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=8226.38,0,9034.62)
+21:36:32 | Player "Satana" (steamId=76561199848325170) initiated disconnect process...
+21:36:33 | Player "Satana" (steamId=76561199848325170) disconnected early from server (EXIT NOW).
+21:36:37 | Player "Satana" (steamId=76561199848325170) disconnected from server.
+21:36:43 | Player "Kot" (steamId=76561198810047434) connected to server!
+21:37:1 | Player "| Deckard |" (steamId=76561198963391439) connected to server!
+21:37:31 | "PieceDuck" (steamid=76561198161108074) toggled godmode
+21:37:33 | Player "Bamber" (steamId=76561197970705402) initiated disconnect process...
+21:37:38 | Player "Bamber" (steamId=76561197970705402) disconnected from server.
+21:37:52 | Player "VoMa" (steamId=76561198104182080) connected to server!
+21:38:15 | Player "Serdj" (steamId=76561198322633256) initiated disconnect process...
+21:38:20 | Player "Serdj" (steamId=76561198322633256) disconnected from server.
+21:38:47 | Player "Serdj" (steamId=76561198322633256) connected to server!
+21:41:36 | Player "Fox" (steamId=76561199832617181) connected to server!
+21:42:42 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<1774.199951, 442.305023, 15070.900391>)
+21:42:42 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=1774.2,0,15070.9)
+21:42:42 | "VoMa" (steamid=76561198104182080) Spawned Item: (TraderPlus_Money_Euro1)
+21:42:48 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1793.142944, 442.510193, 15073.383789>)
+21:42:48 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1798.651489, 442.693939, 15075.507813>)
+21:42:49 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1803.990967, 442.991211, 15078.897461>)
+21:42:49 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1806.922119, 443.140320, 15080.860352>)
+21:42:49 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1811.968628, 443.416534, 15084.292969>)
+21:42:49 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1817.515137, 443.685455, 15088.107422>)
+21:42:49 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1817.604614, 443.690491, 15088.174805>)
+21:42:49 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1817.688477, 443.694946, 15088.238281>)
+21:42:49 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1817.755737, 443.698669, 15088.289063>)
+21:42:49 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1817.822998, 443.702393, 15088.339844>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1817.896606, 443.706482, 15088.395508>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1817.963989, 443.710205, 15088.446289>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1818.589478, 443.741791, 15088.877930>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1819.202881, 443.772003, 15089.290039>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1819.921509, 443.807434, 15089.773438>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1820.596558, 443.844574, 15090.199219>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1821.199219, 443.886200, 15090.605469>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1821.691772, 443.920380, 15090.937500>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1822.099365, 443.948822, 15091.215820>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1822.411377, 443.970978, 15091.430664>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1823.152954, 444.023285, 15091.923828>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1824.235352, 444.097809, 15092.621094>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1824.818848, 444.138275, 15093.000977>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1825.158081, 444.162659, 15093.227539>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1825.933350, 444.217987, 15093.747070>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1826.712158, 444.277924, 15094.272461>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1826.995728, 444.300201, 15094.462891>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1828.419800, 444.406860, 15095.374023>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1828.848999, 444.437866, 15095.636719>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1829.688477, 444.499969, 15096.164063>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1829.856445, 444.509827, 15096.247070>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1831.723389, 444.594391, 15097.238281>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1832.283447, 444.601257, 15097.345703>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1832.846069, 444.603790, 15097.414063>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1833.261475, 444.597107, 15097.388672>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1833.924561, 444.613922, 15097.586914>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1834.641846, 444.658936, 15098.012695>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1835.466919, 444.707153, 15098.473633>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1836.468262, 444.772278, 15099.046875>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1837.417603, 444.817902, 15099.396484>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1838.183960, 444.849762, 15099.731445>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1839.157471, 444.870392, 15100.018555>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1840.138672, 444.899872, 15100.374023>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1840.782471, 444.913300, 15100.562500>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1841.170288, 444.924133, 15100.697266>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1842.380493, 444.987610, 15101.331055>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1844.002075, 445.054169, 15102.032227>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1844.728027, 445.081696, 15102.328125>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1845.057861, 445.095856, 15102.473633>)
+21:42:50 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1847.183105, 445.161102, 15103.133789>)
+21:42:51 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1847.775879, 445.171478, 15103.290039>)
+21:42:51 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1850.190063, 445.266815, 15104.359375>)
+21:42:51 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1850.562622, 445.275299, 15104.475586>)
+21:42:51 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1850.646729, 445.273224, 15104.468750>)
+21:42:51 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1851.337769, 445.274841, 15104.571289>)
+21:42:51 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1853.673096, 445.335876, 15105.186523>)
+21:42:51 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1853.850586, 445.318268, 15105.058594>)
+21:42:51 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1854.341675, 445.319733, 15105.070313>)
+21:42:51 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1854.695068, 445.339386, 15105.211914>)
+21:42:51 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1855.193359, 445.353485, 15105.312500>)
+21:42:51 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1855.643677, 445.375732, 15105.473633>)
+21:42:51 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1856.828125, 445.427277, 15105.844727>)
+21:42:51 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1857.917358, 445.458801, 15106.073242>)
+21:42:51 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1858.780273, 445.476563, 15106.201172>)
+21:42:51 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1859.708618, 445.509064, 15106.363281>)
+21:42:51 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1860.695557, 445.541229, 15106.550781>)
+21:42:51 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1861.333862, 445.556519, 15106.641602>)
+21:42:51 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1861.718140, 445.569183, 15106.719727>)
+21:42:51 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1861.974243, 445.574280, 15106.750000>)
+21:42:51 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1864.474487, 445.658478, 15107.273438>)
+21:42:51 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1865.516235, 445.694611, 15107.465820>)
+21:42:51 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1866.982178, 445.747406, 15107.675781>)
+21:42:51 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1868.010742, 445.770935, 15107.774414>)
+21:42:51 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1868.552612, 445.785858, 15107.864258>)
+21:42:51 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1872.005859, 445.890350, 15108.544922>)
+21:42:51 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1873.599731, 445.895874, 15108.730469>)
+21:42:52 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1882.853638, 446.105591, 15110.089844>)
+21:42:53 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1890.541016, 446.146515, 15111.193359>)
+21:42:53 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1893.516357, 446.260834, 15112.410156>)
+21:42:53 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1898.670044, 446.537201, 15113.950195>)
+21:42:53 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1904.102661, 447.015350, 15115.818359>)
+21:42:56 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: satana has no parrent!
+21:42:56 | "VoMa" (steamid=76561198104182080) spawned preset: (satana)
+21:43:16 | "VoMa" (steamid=76561198104182080) Spawned Item: (TraderPlus_Money_Euro1)
+21:43:20 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1927.122803, 447.214386, 15113.769531>)
+21:43:20 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1920.405640, 447.063263, 15111.682617>)
+21:43:20 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1914.080566, 446.958191, 15110.742188>)
+21:43:21 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1907.104736, 446.862976, 15110.740234>)
+21:43:21 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1898.875000, 446.325714, 15111.190430>)
+21:43:22 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1891.894653, 446.195404, 15111.750977>)
+21:43:22 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1889.058472, 446.181946, 15112.018555>)
+21:43:22 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1882.058960, 446.240997, 15112.497070>)
+21:43:22 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1881.906982, 446.243591, 15112.472656>)
+21:43:22 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1881.733276, 446.246735, 15112.448242>)
+21:43:22 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1881.633789, 446.249237, 15112.447266>)
+21:43:22 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1881.526978, 446.251007, 15112.429688>)
+21:43:22 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1881.419312, 446.252960, 15112.415039>)
+21:43:22 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1880.538208, 446.276886, 15112.445313>)
+21:43:22 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1879.803223, 446.296967, 15112.474609>)
+21:43:22 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1879.021362, 446.320892, 15112.530273>)
+21:43:22 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1878.128052, 446.346680, 15112.565430>)
+21:43:22 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1877.281372, 446.367310, 15112.555664>)
+21:43:22 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1876.452515, 446.386536, 15112.536133>)
+21:43:22 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1875.788208, 446.402069, 15112.521484>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1874.468140, 446.432220, 15112.580078>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1873.370239, 446.445648, 15112.561523>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1872.594116, 446.454681, 15112.541016>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1871.112305, 446.473633, 15112.527344>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1870.294067, 446.479462, 15112.476563>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1869.727783, 446.482330, 15112.444336>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1868.444824, 446.493530, 15112.403320>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1867.852173, 446.495056, 15112.360352>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1865.773438, 446.476959, 15112.373047>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1863.167847, 446.435089, 15112.329102>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1862.141357, 446.414764, 15112.287109>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1860.216797, 446.366302, 15112.133789>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1858.001343, 446.329895, 15112.016602>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1853.453857, 446.281586, 15111.977539>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1853.225952, 446.279083, 15111.974609>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1852.114990, 446.264404, 15111.904297>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1851.903076, 446.258087, 15111.872070>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1851.821289, 446.256897, 15111.868164>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1851.501099, 446.251709, 15111.847656>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1850.335571, 446.235657, 15111.801758>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1848.978027, 446.220093, 15111.765625>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1847.298218, 446.197754, 15111.700195>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1845.761353, 446.178497, 15111.633789>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1844.540894, 446.182343, 15111.582031>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1843.485229, 446.171143, 15111.534180>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1842.097046, 446.156769, 15111.472656>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1841.066650, 446.145203, 15111.419922>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1839.126343, 446.126892, 15111.350586>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1837.908936, 446.131378, 15111.299805>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1835.658081, 446.131165, 15111.201172>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1834.338135, 446.128571, 15111.154297>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1832.239868, 446.125366, 15111.089844>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1831.522827, 446.123352, 15111.059570>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1828.995117, 446.112305, 15110.954102>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1828.166748, 446.107758, 15110.916992>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1825.090210, 446.090790, 15110.782227>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1824.480591, 446.087646, 15110.757813>)
+21:43:23 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1821.193726, 446.051605, 15110.641602>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1820.743896, 446.044128, 15110.625000>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1820.605347, 446.041473, 15110.617188>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1820.076538, 446.031921, 15110.591797>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1819.024902, 446.013062, 15110.542969>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1817.942627, 445.993988, 15110.495117>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1816.857788, 445.975647, 15110.447266>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1814.628784, 445.940887, 15110.354492>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1812.602417, 445.884521, 15110.270508>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1810.944824, 445.837921, 15110.200195>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1809.177856, 445.796997, 15110.125000>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1808.050049, 445.779785, 15110.079102>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1807.283569, 445.764801, 15110.046875>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1803.474243, 445.649811, 15109.881836>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1801.461182, 445.590485, 15109.794922>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1800.373901, 445.559174, 15109.746094>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1797.608521, 445.479095, 15109.623047>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1796.433472, 445.445282, 15109.570313>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1794.629150, 445.392303, 15109.493164>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1789.493164, 445.235718, 15109.302734>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1788.356567, 445.202606, 15109.286133>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1788.070923, 445.193268, 15109.271484>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1784.612427, 445.082977, 15109.117188>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1784.207153, 445.069153, 15109.100586>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1784.110718, 445.069305, 15109.135742>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1783.746826, 445.058228, 15109.139648>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1783.692749, 445.056702, 15109.141602>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1782.245972, 445.007202, 15109.079102>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1780.762451, 444.957886, 15109.027344>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1779.401978, 444.913757, 15108.973633>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1777.163574, 444.841034, 15108.892578>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1775.163086, 444.777679, 15108.867188>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1773.994019, 444.740021, 15108.843750>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1771.762573, 444.675293, 15108.795898>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1770.292236, 444.635742, 15108.790039>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1769.365601, 444.611145, 15108.757813>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1768.893188, 444.599426, 15108.745117>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1766.996094, 444.550873, 15108.672852>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1765.972656, 444.527313, 15108.646484>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1763.637573, 444.481110, 15108.609375>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1760.371826, 444.416809, 15108.563477>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1759.270386, 444.395569, 15108.553711>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1759.054199, 444.391479, 15108.553711>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1758.102173, 444.373077, 15108.528320>)
+21:43:24 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1757.851440, 444.368469, 15108.524414>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1755.380249, 444.320038, 15108.444336>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1750.013672, 444.211761, 15108.355469>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1749.388672, 444.200104, 15108.344727>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1749.287720, 444.198212, 15108.340820>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1748.842896, 444.189606, 15108.328125>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1748.577759, 444.184814, 15108.325195>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1748.389893, 444.181732, 15108.327148>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1748.282715, 444.180176, 15108.333008>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1746.000122, 444.125244, 15108.283203>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1743.986450, 444.072052, 15108.240234>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1742.281494, 444.031006, 15108.203125>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1740.401489, 443.986359, 15108.172852>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1739.168579, 443.972534, 15108.153320>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1738.405518, 443.968903, 15108.141602>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1736.010254, 443.958862, 15108.098633>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1734.776367, 443.955902, 15108.077148>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1733.509399, 443.953156, 15108.060547>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1732.981323, 443.952637, 15108.064453>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1732.685059, 443.953827, 15108.087891>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1730.801270, 443.997803, 15108.071289>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1730.194580, 444.013611, 15108.065430>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1729.958984, 444.019562, 15108.060547>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1727.785645, 444.079193, 15108.051758>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1727.411255, 444.090912, 15108.072266>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1727.271240, 444.094635, 15108.068359>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1722.728638, 444.245880, 15108.066406>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1722.330200, 444.261353, 15108.067383>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1722.242188, 444.264648, 15108.064453>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1722.182861, 444.266815, 15108.062500>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1722.196777, 444.266235, 15108.061523>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1721.800049, 444.281921, 15108.058594>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1721.478394, 444.295807, 15108.061523>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1720.249023, 444.348297, 15108.063477>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1719.108521, 444.397369, 15108.069336>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1718.107300, 444.440460, 15108.076172>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1717.049194, 444.480865, 15108.077148>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1716.202393, 444.508362, 15108.084961>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1715.621338, 444.528351, 15108.108398>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1715.139038, 444.543976, 15108.112305>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1714.138550, 444.577606, 15108.110352>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1713.622314, 444.597870, 15108.117188>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1712.263062, 444.650879, 15108.125000>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1711.584839, 444.677551, 15108.134766>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1710.165894, 444.732910, 15108.143555>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1709.469238, 444.750916, 15108.148438>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1709.195313, 444.756836, 15108.151367>)
+21:43:25 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1708.422974, 444.774170, 15108.167969>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1708.140381, 444.780487, 15108.173828>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1706.919434, 444.806946, 15108.181641>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1704.984009, 444.858582, 15108.194336>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1704.520264, 444.871063, 15108.197266>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1702.661865, 444.921265, 15108.211914>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1701.430786, 444.932190, 15108.232422>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1701.268066, 444.933258, 15108.235352>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1701.258789, 444.932404, 15108.216797>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1700.700928, 444.934784, 15108.201172>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1700.232910, 444.937408, 15108.205078>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1699.716553, 444.940308, 15108.209961>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1699.199585, 444.944092, 15108.214844>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1698.044922, 444.961670, 15108.231445>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1697.021606, 444.977081, 15108.242188>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1696.137207, 444.990356, 15108.250000>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1695.484131, 444.999664, 15108.244141>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1695.020386, 445.005981, 15108.230469>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1693.803833, 444.998322, 15108.230469>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1692.003906, 444.986664, 15108.240234>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1691.034546, 444.988098, 15108.245117>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1690.434814, 444.990479, 15108.247070>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1690.113159, 444.991608, 15108.240234>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1689.973267, 444.991699, 15108.221680>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1687.954834, 444.999603, 15108.214844>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1687.130371, 444.994873, 15108.208984>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1686.847900, 444.990021, 15108.208984>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1684.689941, 444.952789, 15108.216797>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1683.344849, 444.943176, 15108.210938>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1683.148560, 444.942749, 15108.215820>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1683.097412, 444.942566, 15108.215820>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1681.144409, 444.937164, 15108.195313>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1676.899048, 444.863831, 15108.201172>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1676.645630, 444.860535, 15108.199219>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1676.544556, 444.859894, 15108.194336>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1676.441406, 444.859222, 15108.190430>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1676.336304, 444.858490, 15108.188477>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1676.114136, 444.857025, 15108.191406>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1675.822876, 444.855103, 15108.189453>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1674.639648, 444.847198, 15108.191406>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1673.562256, 444.840027, 15108.192383>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1672.636108, 444.833771, 15108.207031>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1671.765991, 444.817139, 15108.222656>)
+21:43:26 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1671.119995, 444.803345, 15108.226563>)
+21:43:27 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1664.733398, 444.723450, 15108.257813>)
+21:43:27 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1658.317261, 444.617981, 15108.280273>)
+21:43:27 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1658.215942, 444.616821, 15108.279297>)
+21:43:27 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1658.093384, 444.615448, 15108.276367>)
+21:43:27 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1657.985718, 444.614227, 15108.273438>)
+21:43:27 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1657.883179, 444.613068, 15108.269531>)
+21:43:27 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1657.793823, 444.612091, 15108.265625>)
+21:43:27 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1657.706543, 444.611145, 15108.261719>)
+21:43:27 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1654.021362, 444.534271, 15108.303711>)
+21:43:27 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1652.597412, 444.511017, 15108.316406>)
+21:43:27 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1652.158081, 444.503845, 15108.320313>)
+21:43:27 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1652.008911, 444.501526, 15108.320313>)
+21:43:27 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1651.911621, 444.499969, 15108.318359>)
+21:43:27 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1651.668335, 444.496399, 15108.308594>)
+21:43:27 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1651.621094, 444.495728, 15108.306641>)
+21:43:27 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1651.594849, 444.495300, 15108.304688>)
+21:43:27 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1650.932861, 444.484772, 15108.305664>)
+21:43:27 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1650.345581, 444.475006, 15108.314453>)
+21:43:27 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1649.588257, 444.459320, 15108.324219>)
+21:43:27 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1648.842041, 444.441101, 15108.333008>)
+21:43:27 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1648.092407, 444.422882, 15108.339844>)
+21:43:27 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1647.447998, 444.407196, 15108.346680>)
+21:43:27 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1646.943604, 444.394928, 15108.352539>)
+21:43:27 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1646.498779, 444.384338, 15108.353516>)
+21:43:28 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1645.160034, 444.353485, 15108.367188>)
+21:43:28 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1644.264404, 444.332886, 15108.376953>)
+21:43:28 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1643.050659, 444.305023, 15108.388672>)
+21:43:28 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1642.343872, 444.287659, 15108.395508>)
+21:43:28 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1641.913452, 444.274963, 15108.396484>)
+21:43:28 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1641.658081, 444.267578, 15108.396484>)
+21:43:28 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1641.540405, 444.264160, 15108.395508>)
+21:43:28 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1639.595825, 444.206207, 15108.419922>)
+21:43:28 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1638.780029, 444.182800, 15108.429688>)
+21:43:28 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1637.040894, 444.135986, 15108.440430>)
+21:43:28 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1636.536743, 444.122375, 15108.444336>)
+21:43:28 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1635.861572, 444.104248, 15108.446289>)
+21:43:28 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1635.719360, 444.100433, 15108.447266>)
+21:43:28 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1629.106567, 443.892761, 15108.447266>)
+21:43:29 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1622.297607, 443.649872, 15108.436523>)
+21:43:29 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1614.547485, 443.348297, 15108.383789>)
+21:43:30 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1607.900513, 443.051483, 15108.319336>)
+21:43:33 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1611.551514, 443.274445, 15106.910156>)
+21:43:34 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1617.235107, 443.362244, 15110.874023>)
+21:43:34 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1622.364746, 443.442230, 15114.000000>)
+21:43:34 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1628.073120, 443.545898, 15116.850586>)
+21:43:34 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1628.140991, 443.546722, 15116.889648>)
+21:43:34 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1628.212769, 443.548462, 15116.903320>)
+21:43:34 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1628.292603, 443.550354, 15116.918945>)
+21:43:34 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1628.397461, 443.551575, 15116.978516>)
+21:43:34 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1628.466187, 443.552795, 15117.002930>)
+21:43:34 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1629.147583, 443.562836, 15117.318359>)
+21:43:34 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1629.722900, 443.571991, 15117.567383>)
+21:43:34 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1630.349731, 443.582153, 15117.856445>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1630.964966, 443.591858, 15118.155273>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1631.584961, 443.602325, 15118.439453>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1632.137939, 443.612579, 15118.666016>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1632.601440, 443.620361, 15118.879883>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1633.192871, 443.630585, 15119.144531>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1633.631348, 443.639832, 15119.291992>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1634.390869, 443.653595, 15119.615234>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1635.364746, 443.670013, 15120.039063>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1635.968140, 443.681396, 15120.283203>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1636.322266, 443.690277, 15120.351563>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1637.609375, 443.717804, 15120.756836>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1638.158081, 443.732208, 15120.840820>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1639.467041, 443.759216, 15121.287109>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1639.947388, 443.774445, 15121.270508>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1640.198486, 443.781738, 15121.286133>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1641.016602, 443.801758, 15121.459961>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1641.214355, 443.812653, 15121.297852>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1642.615479, 443.858551, 15121.542969>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1642.904297, 443.868622, 15121.490234>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1644.650024, 443.914246, 15121.839844>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1644.825928, 443.920532, 15121.798828>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1645.884399, 443.950226, 15121.921875>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1645.978394, 443.954498, 15121.857422>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1646.224609, 443.963348, 15121.800781>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1646.366455, 443.969025, 15121.746094>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1646.537231, 443.973633, 15121.770508>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1647.399780, 443.997620, 15121.879883>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1648.190552, 444.022491, 15121.883789>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1648.886230, 444.049561, 15121.941406>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1649.510864, 444.074493, 15121.947266>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1649.969238, 444.093842, 15121.873047>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1650.355713, 444.106110, 15121.859375>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1650.784058, 444.119537, 15121.836914>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1651.890015, 444.153320, 15121.847656>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1652.544556, 444.173615, 15121.832031>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1652.928223, 444.185272, 15121.837891>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1653.875122, 444.213989, 15121.862305>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1654.846313, 444.244720, 15121.791992>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1655.189697, 444.255646, 15121.759766>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1656.385376, 444.299286, 15121.743164>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1656.743042, 444.314087, 15121.732422>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1656.900269, 444.320587, 15121.734375>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1659.162842, 444.401001, 15121.670898>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1659.578125, 444.414856, 15121.654297>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1659.691040, 444.418610, 15121.655273>)
+21:43:35 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1661.115967, 444.466248, 15121.604492>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1661.208130, 444.469330, 15121.600586>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1661.280029, 444.471741, 15121.603516>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1661.816528, 444.489594, 15121.599609>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1662.213623, 444.502899, 15121.588867>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1662.639771, 444.517120, 15121.579102>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1663.362671, 444.541260, 15121.558594>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1664.002563, 444.568390, 15121.535156>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1664.574707, 444.593414, 15121.516602>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1665.075073, 444.614563, 15121.501953>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1665.463745, 444.627991, 15121.488281>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1666.096802, 444.649719, 15121.467773>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1666.526611, 444.664459, 15121.443359>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1667.359863, 444.693085, 15121.411133>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1667.873901, 444.710724, 15121.390625>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1668.184326, 444.721466, 15121.386719>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1668.961914, 444.748077, 15121.341797>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1669.858521, 444.778717, 15121.289063>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1670.248047, 444.792084, 15121.271484>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1671.113647, 444.821289, 15121.171875>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1672.337769, 444.868927, 15120.990234>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1672.661865, 444.878021, 15120.788086>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1672.818726, 444.877258, 15120.416016>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1674.609009, 444.932373, 15120.131836>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1674.901855, 444.939819, 15119.987305>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1676.960205, 445.001862, 15119.607422>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1677.020386, 445.001617, 15119.479492>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1676.971069, 444.995941, 15119.245117>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1676.827393, 444.987946, 15119.060547>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1676.820068, 444.986145, 15118.971680>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1676.775024, 444.981934, 15118.814453>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1676.792603, 444.979797, 15118.660156>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1676.916626, 444.982239, 15118.559570>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1677.017578, 444.983337, 15118.427734>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1678.551147, 445.023956, 15117.818359>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1679.535522, 445.047760, 15117.302734>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1680.231201, 445.061890, 15116.991211>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1680.513184, 445.061829, 15116.707031>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1680.642090, 445.058594, 15116.391602>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1680.679077, 445.055756, 15116.190430>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1680.737305, 445.055084, 15116.092773>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1681.818604, 445.064789, 15115.573242>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1682.197266, 445.067352, 15115.342773>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1683.553589, 445.079193, 15114.666016>)
+21:43:36 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1683.948975, 445.082245, 15114.450195>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1684.378418, 445.080566, 15113.923828>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1684.509888, 445.080414, 15113.782227>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1684.583008, 445.077087, 15113.518555>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1684.595703, 445.076752, 15113.484375>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1684.860962, 445.078918, 15113.346680>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1685.312622, 445.082947, 15113.125977>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1685.778564, 445.087097, 15112.900391>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1686.235962, 445.091064, 15112.670898>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1686.667603, 445.094269, 15112.449219>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1687.175049, 445.094025, 15112.088867>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1687.615967, 445.089172, 15111.696289>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1687.953613, 445.080109, 15111.392578>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1688.517212, 445.068207, 15111.011719>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1689.321655, 445.053192, 15110.547852>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1689.799805, 445.045715, 15110.289063>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1690.095337, 445.042053, 15110.131836>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1690.758301, 445.032227, 15109.737305>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1691.128784, 445.026825, 15109.518555>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1691.770020, 445.012848, 15109.011719>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1692.931641, 444.994049, 15108.274414>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1693.353638, 444.988190, 15108.032227>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1693.553223, 444.987732, 15107.983398>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1694.928467, 444.971619, 15107.282227>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1695.345581, 444.960876, 15107.109375>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1695.519775, 444.957886, 15107.098633>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1697.775024, 444.875916, 15105.740234>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1698.019043, 444.867249, 15105.596680>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1698.118896, 444.865204, 15105.583984>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1698.502808, 444.854248, 15105.433594>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1698.771484, 444.846405, 15105.326172>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1699.098389, 444.838837, 15105.249023>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1699.399292, 444.830658, 15105.144531>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1700.322876, 444.792877, 15104.624023>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1701.109131, 444.763672, 15104.275391>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1702.014038, 444.728851, 15103.851563>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1702.708252, 444.700897, 15103.586914>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1703.263306, 444.667969, 15103.331055>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1703.666382, 444.645966, 15103.183594>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1703.949341, 444.633240, 15103.132813>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1705.260010, 444.565948, 15102.658203>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1705.955200, 444.535828, 15102.465820>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1706.315674, 444.520233, 15102.365234>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1708.077881, 444.431000, 15101.662109>)
+21:43:37 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1708.834717, 444.396820, 15101.427734>)
+21:43:38 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1709.202637, 444.380524, 15101.321289>)
+21:43:38 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1710.599609, 444.307556, 15100.897461>)
+21:43:38 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1711.022461, 444.282776, 15100.795898>)
+21:43:38 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1712.124390, 444.217804, 15100.521484>)
+21:43:38 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1714.731079, 444.048309, 15099.607422>)
+21:43:38 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1715.067505, 444.027161, 15099.502930>)
+21:43:38 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1715.168823, 444.020874, 15099.472656>)
+21:43:38 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1715.505493, 444.000854, 15099.384766>)
+21:43:38 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1715.706299, 443.989868, 15099.345703>)
+21:43:38 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1715.990112, 443.971954, 15099.238281>)
+21:43:38 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1716.281860, 443.955383, 15099.157227>)
+21:43:38 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1716.560669, 443.939178, 15099.073242>)
+21:43:38 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1717.820923, 443.862122, 15098.674805>)
+21:43:38 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1719.188721, 443.773438, 15098.265625>)
+21:43:38 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1720.205200, 443.708344, 15097.975586>)
+21:43:38 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1720.945801, 443.660858, 15097.760742>)
+21:43:38 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1721.671143, 443.613586, 15097.541992>)
+21:43:38 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1722.113037, 443.586243, 15097.436523>)
+21:43:38 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1722.393433, 443.568176, 15097.362305>)
+21:43:38 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1722.589355, 443.555389, 15097.307617>)
+21:43:38 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1722.747559, 443.545197, 15097.265625>)
+21:43:38 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1725.122681, 443.388550, 15096.546875>)
+21:43:38 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<1726.016602, 443.348785, 15096.276367>)
+21:46:18 | "VoMa" (steamid=76561198104182080) Spawned Item: (TerjeSleepingBag_Blue)
+21:47:31 | Player "BaLaBoL" (steamId=76561198838672315) connected to server!
+21:54:0 | Player "MonteCarlo" (steamId=76561198167839792) initiated disconnect process...
+21:54:33 | "VoMa" (steamid=76561198104182080) toggled godmode
+21:55:17 | Player "MonteCarlo" (steamId=76561198167839792) connected to server!
+21:58:9 | "VoMa" (steamid=76561198104182080) Spawned Item: (LBS_SleepingBag_Old_Green)
+21:59:9 | "VoMa" (steamid=76561198104182080) deleted object "LBS_SleepingPacked_Old_Green" (pos=<1417.670044, 329.379211, 603.799744>)
+21:59:18 | "VoMa" (steamid=76561198104182080) Spawned Item: (LBS_SleepingPacked_New_Blue)
+22:2:4 | "VoMa" (steamid=76561198104182080) deleted object "LBS_SleepingPacked_New_Blue" (pos=<1418.885132, 329.370331, 608.478394>)
+22:3:22 | Player "OXOTHIK" (steamId=76561198865195468) initiated disconnect process...
+22:3:27 | Player "OXOTHIK" (steamId=76561198865195468) disconnected from server.
+22:5:35 | Player "OXOTHIK" (steamId=76561198865195468) connected to server!
+22:5:52 | Player "MrVleD" (steamId=76561199281830897) initiated disconnect process...
+22:6:30 | Player "MrVleD" (steamId=76561199281830897) connected to server!
+22:7:39 | "VoMa" (steamid=76561198104182080) deleted object "TerjeSleepingBag_Blue" (pos=<1419.491333, 329.351654, 605.290100>)
+22:9:29 | Player "flasch" (steamId=76561198013855789) initiated disconnect process...
+22:9:34 | Player "flasch" (steamId=76561198013855789) disconnected from server.
+22:14:32 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<10298.804688, 192.919067, 9115.528320>)
+22:14:32 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<10285.513672, 194.004639, 9117.327148>)
+22:14:32 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<10270.756836, 194.841721, 9120.299805>)
+22:14:33 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<10258.955078, 195.660324, 9123.015625>)
+22:14:33 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<10247.111328, 195.963531, 9125.938477>)
+22:14:34 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<10234.860352, 196.091675, 9128.997070>)
+22:14:34 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<10223.537109, 196.462112, 9131.845703>)
+22:14:34 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<10212.814453, 197.402451, 9132.546875>)
+22:14:35 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<10203.257813, 198.865509, 9129.819336>)
+22:14:35 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<10196.163086, 200.614716, 9123.452148>)
+22:14:36 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<10193.831055, 202.433304, 9113.489258>)
+22:14:36 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<10196.004883, 204.157959, 9103.104492>)
+22:14:37 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<10201.957031, 205.518692, 9093.061523>)
+22:14:38 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<10210.619141, 206.576050, 9082.956055>)
+22:14:41 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<10229.634766, 207.963516, 9065.931641>)
+22:14:41 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<10238.159180, 208.710571, 9058.986328>)
+22:14:42 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<10249.275391, 209.890854, 9049.641602>)
+22:14:43 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<10264.341797, 211.800247, 9038.231445>)
+22:14:43 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<10282.077148, 214.699234, 9024.455078>)
+22:14:44 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<10295.101563, 216.506287, 9017.262695>)
+22:14:45 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<10306.225586, 217.573227, 9011.734375>)
+22:14:45 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<10318.747070, 218.057556, 9008.004883>)
+22:14:46 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<10331.793945, 218.073608, 9005.669922>)
+22:14:46 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<10343.938477, 217.827499, 9003.003906>)
+22:14:47 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<10354.444336, 217.613480, 8999.333984>)
+22:14:49 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<10346.824219, 217.739258, 8998.259766>)
+22:14:49 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<10339.875977, 217.912094, 9000.971680>)
+22:14:50 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<10333.154297, 218.048798, 9002.490234>)
+22:14:50 | "VoMa" (steamid=76561198104182080) teleported to crosshair (pos=<10324.715820, 218.110260, 9003.834961>)
+22:15:12 | "VoMa" (steamid=76561198104182080) Spawned Item: (SLC_Tachi)
+22:15:12 | "VoMa" (steamid=76561198104182080) Spawned Item: (SLC_Tachi)
+22:15:13 | "VoMa" (steamid=76561198104182080) Spawned Item: (SLC_Tachi)
+22:15:14 | "VoMa" (steamid=76561198104182080) Spawned Item: (SLCTachiSheath)
+22:15:14 | "VoMa" (steamid=76561198104182080) Spawned Item: (SLCTachiSheath)
+22:15:14 | "VoMa" (steamid=76561198104182080) Spawned Item: (SLCTachiSheath)
+22:17:0 | Player "kulitipapuliti" (steamId=76561198160896450) initiated disconnect process...
+22:17:2 | Player "kulitipapuliti" (steamId=76561198160896450) disconnected early from server (EXIT NOW).
+22:17:5 | Player "kulitipapuliti" (steamId=76561198160896450) disconnected from server.
+22:18:34 | "PieceDuck" (steamid=76561198161108074) deleted objects using ESP
+22:18:44 | "VoMa" (steamid=76561198104182080) deleted objects using ESP
+22:19:58 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (KIWI_Quest_Bear_5)
+22:21:45 | "VoMa" (steamid=76561198104182080) toggled godmode
+22:25:51 | Player "MrVleD" (steamId=76561199281830897) initiated disconnect process...
+22:26:32 | Player "MrVleD" (steamId=76561199281830897) connected to server!
+22:27:40 | Player "Kot" (steamId=76561198810047434) initiated disconnect process...
+22:27:42 | Player "Kot" (steamId=76561198810047434) disconnected early from server (EXIT NOW).
+22:27:45 | Player "Kot" (steamId=76561198810047434) disconnected from server.
+22:27:47 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (Custom_ProtectorCase_150)
+22:27:52 | Player "Fox" (steamId=76561199832617181) initiated disconnect process...
+22:27:55 | Player "Fox" (steamId=76561199832617181) disconnected early from server (EXIT NOW).
+22:27:57 | Player "Fox" (steamId=76561199832617181) disconnected from server.
+22:28:8 | "PieceDuck" (steamid=76561198161108074) Spawned Item: (VM_TacticKnife_Standart)
+22:29:13 | Player "Anastasiy" (steamId=76561199572511166) initiated disconnect process...
+22:29:17 | Player "Anastasiy" (steamId=76561199572511166) disconnected early from server (EXIT NOW).
+22:29:18 | Player "Anastasiy" (steamId=76561199572511166) disconnected from server.

@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 5,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Чудово! Тепер ти можеш більш захищеніше облутувати гнилих і смітники! Облутай декілька смтіників. В них може бути їжа",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionSearchGarbage"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 3
+}

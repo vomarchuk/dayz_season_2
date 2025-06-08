@@ -1,0 +1,34 @@
+{
+    "ConfigVersion": 6,
+    "ID": 6,
+    "ClassName": "ExpansionQuestNPCAIEva",
+    "Position": [
+        8360.620117,
+        292.162231,
+        5999.555664
+    ],
+    "Orientation": [
+        -138.930923,
+        0.000000,
+        0.000000
+    ],
+    "NPCName": "Єва",
+    "DefaultNPCText": "Привіт!",
+    "Waypoints": [
+        [
+            8360.620117,
+            292.162231,
+            5999.555664
+        ]
+    ],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "PlayerSurvivorLoadout",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 2,
+    "Active": 1
+}

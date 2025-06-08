@@ -1,0 +1,167 @@
+{
+    "version": 0,
+    "steamid": "SASAY",
+    "level": 0,
+    "additionalVehicleCount": 0,
+    "vehicles": [
+        {
+            "uniqueID": 94283,
+            "infinite": 0,
+            "hasKey": 1,
+            "wasHacked": 0,
+            "isBrandNewVehicle": 0,
+            "hasInsurance": 0,
+            "insuranceValue": 0,
+            "vehicleKeyHash1": 76505655,
+            "vehicleKeyHash2": 20362036,
+            "vehicleKeyHash3": -1,
+            "vehicleKeyHash4": -1,
+            "itemname": "GMC_BOSS_Police",
+            "fuelAmmount": 34.80464172363281,
+            "coolantAmmount": 6.0,
+            "oilAmmount": 4.0,
+            "brakeAmmount": 1.0,
+            "engineHealth": 0.9940553903579712,
+            "fuelTankHealth": 1.0,
+            "vehicleHealth": 0.9933948516845703,
+            "parkedInBySteamid": "76561198843347971",
+            "parkedInTimestamp": 1749329759,
+            "attachments": [
+                {
+                    "itemname": "GMC_Trunk_1_Police",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -2076914546
+                },
+                {
+                    "itemname": "GMC_Trunk_2_Police",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -2076914545
+                },
+                {
+                    "itemname": "GMC_Wheel",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1294212529
+                },
+                {
+                    "itemname": "GMC_Wheel",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1294212528
+                },
+                {
+                    "itemname": "GMC_Wheel",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1294211160
+                },
+                {
+                    "itemname": "GMC_Wheel",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1294211159
+                },
+                {
+                    "itemname": "SparkPlug",
+                    "health": 0.9786752462387085,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -626843635
+                },
+                {
+                    "itemname": "GMC_Cargo1_Police",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -106200301
+                },
+                {
+                    "itemname": "GMC_Cargo2_Police",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -106200300
+                },
+                {
+                    "itemname": "CarRadiator",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 5271856
+                },
+                {
+                    "itemname": "GMC_driverdoor_Police",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 33285106
+                },
+                {
+                    "itemname": "HeadlightH7",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 673890682
+                },
+                {
+                    "itemname": "HeadlightH7",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 673892051
+                },
+                {
+                    "itemname": "CarBattery",
+                    "health": 0.946688175201416,
+                    "quantity": 44.0,
+                    "remainingEnergy": 0.8746519088745117,
+                    "liquidType": 0,
+                    "attSlot": 1000100489
+                },
+                {
+                    "itemname": "GMC_Codrvier_Police",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 1251342812
+                },
+                {
+                    "itemname": "GMC_Hood_Police",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 1587669868
+                }
+            ],
+            "spawnCargoItems": [],
+            "storageFilename": "$profile:LBmaster/Data/LBGarage/Items/VQG9H26Y-XpScLMf90YW.bin",
+            "wasImpounded": 0,
+            "impoundWaitTime": 0,
+            "impoundRebuyCost": 0
+        }
+    ],
+    "stolenVehicles": []
+}

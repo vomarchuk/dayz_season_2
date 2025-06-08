@@ -1,0 +1,99 @@
+{
+    "name": "222222",
+    "shortname": "11111",
+    "level": 0,
+    "lastActivity": 1749373025,
+    "creationDate": 1749368591,
+    "showTagInChat": 1,
+    "hasCustomChatColor": 0,
+    "customChatColorAppliedByPlayer": 0,
+    "chatColorR": 0,
+    "chatColorG": 0,
+    "chatColorB": 0,
+    "hasATMAccount": 0,
+    "ATMBalance": 0,
+    "members": [
+        {
+            "type": 4,
+            "uid": 561333117,
+            "name": "SuyBBro",
+            "icon": "",
+            "position": [
+                13443.4794921875,
+                6.72426700592041,
+                6339.4990234375
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 255,
+            "colorB": 255,
+            "creatorSteamID": "",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0,
+            "steamid": "76561198123822380",
+            "permissionGroup": 9,
+            "online": 0,
+            "health": 100.0,
+            "tempMember": 0
+        }
+    ],
+    "markers": [
+        {
+            "type": 3,
+            "uid": 1626784284,
+            "name": "#lb_ag_marker_death_pos: SuyBBro",
+            "icon": "LBmaster_Groups\\gui\\icons\\skull.paa",
+            "position": [
+                6194.26513671875,
+                26.255090713500978,
+                2909.772705078125
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 0,
+            "colorB": 0,
+            "creatorSteamID": "76561198123822380_D",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0
+        },
+        {
+            "type": 3,
+            "uid": 1707985858,
+            "name": "#lb_ag_marker_death_pos: SuyBBro",
+            "icon": "LBmaster_Groups\\gui\\icons\\skull.paa",
+            "position": [
+                6388.21337890625,
+                17.83108901977539,
+                2905.33447265625
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 0,
+            "colorB": 0,
+            "creatorSteamID": "76561198123822380_D",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0
+        }
+    ]
+}

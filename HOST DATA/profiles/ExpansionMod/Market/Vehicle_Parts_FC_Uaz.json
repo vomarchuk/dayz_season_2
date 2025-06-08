@@ -1,0 +1,111 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Запчастини для Uaz",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "FC_Uaz_Pickup_Door_Driver_Black",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FC_Uaz_Pickup_Door_Driver_Green",
+                "FC_Uaz_Pickup_Door_Driver_Pink",
+                "FC_Uaz_Pickup_Door_Driver_Red"
+            ]
+        },
+        {
+            "ClassName": "FC_Uaz_Pickup_Door_CoDriver_Black",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FC_Uaz_Pickup_Door_CoDriver_Green",
+                "FC_Uaz_Pickup_Door_CoDriver_Pink",
+                "FC_Uaz_Pickup_Door_CoDriver_Red"
+            ]
+        },
+        {
+            "ClassName": "FC_Uaz_Pickup_Door_Cargo1_Black",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FC_Uaz_Pickup_Door_Cargo1_Green",
+                "FC_Uaz_Pickup_Door_Cargo1_Pink",
+                "FC_Uaz_Pickup_Door_Cargo1_Red"
+            ]
+        },
+        {
+            "ClassName": "FC_Uaz_Pickup_Door_Cargo2_Black",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FC_Uaz_Pickup_Door_Cargo2_Green",
+                "FC_Uaz_Pickup_Door_Cargo2_Pink",
+                "FC_Uaz_Pickup_Door_Cargo2_Red"
+            ]
+        },
+        {
+            "ClassName": "FC_Uaz_Pickup_Door_Hood_Black",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FC_Uaz_Pickup_Door_Hood_Green",
+                "FC_Uaz_Pickup_Door_Hood_Pink",
+                "FC_Uaz_Pickup_Door_Hood_Red"
+            ]
+        },
+        {
+            "ClassName": "FC_Uaz_Pickup_Door_Trunk_Black",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FC_Uaz_Pickup_Door_Trunk_Green",
+                "FC_Uaz_Pickup_Door_Trunk_Pink",
+                "FC_Uaz_Pickup_Door_Trunk_Red"
+            ]
+        },
+        {
+            "ClassName": "FC_Uaz_Pickup_Wheel",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "m_Version": 6,
+    "m_DisplayName": "Pavlovo trade zone",
+    "Position": [
+        2168.4697265625,
+        91.61359405517578,
+        3348.20361328125
+    ],
+    "Radius": 5.0,
+    "BuyPricePercent": 100.0,
+    "SellPricePercent": -1.0,
+    "Stock": {
+        "scwsgm6lynx_magazine": 0,
+        "pd_fridge_24": 0,
+        "scws_m82a1_magazine": 0,
+        "vm_injectorhp_max": 0,
+        "td_wallet": 0,
+        "scws_ammobox_408chey": 0,
+        "vm_nano_pouch": 0,
+        "vm_iron_revenant_pouch_01_v1": 0,
+        "scws_dt408_magazine": 0,
+        "scws_ak47g_magazine": 0,
+        "pd_magnum": 0,
+        "scws_m200_magazine": 0,
+        "vm_injectorhp": 0,
+        "kiwi_battery9v": 0,
+        "scws_ammobox_50cal": 0,
+        "nailbox": 0,
+        "scws_ammobox_338": 0
+    }
+}

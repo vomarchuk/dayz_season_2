@@ -1,0 +1,143 @@
+{
+    "version": 0,
+    "steamid": "NG",
+    "level": 0,
+    "additionalVehicleCount": 0,
+    "vehicles": [
+        {
+            "uniqueID": 81460,
+            "infinite": 0,
+            "hasKey": 1,
+            "wasHacked": 0,
+            "isBrandNewVehicle": 0,
+            "hasInsurance": 0,
+            "insuranceValue": 0,
+            "vehicleKeyHash1": 485344583,
+            "vehicleKeyHash2": 1062025,
+            "vehicleKeyHash3": -1,
+            "vehicleKeyHash4": -1,
+            "itemname": "BRDK_german_motorcycle",
+            "fuelAmmount": 38.108055114746097,
+            "coolantAmmount": 6.0,
+            "oilAmmount": 4.0,
+            "brakeAmmount": 1.0,
+            "engineHealth": 1.0,
+            "fuelTankHealth": 1.0,
+            "vehicleHealth": 1.0,
+            "parkedInBySteamid": "76561199483109476",
+            "parkedInTimestamp": 1749050511,
+            "attachments": [
+                {
+                    "itemname": "SparkPlug",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -626843635
+                },
+                {
+                    "itemname": "MMG_assault_pack_ucp",
+                    "health": 0.505378782749176,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 5100557
+                },
+                {
+                    "itemname": "BRDK_german_motorcycle_wheel",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 277705794
+                },
+                {
+                    "itemname": "BRDK_german_motorcycle_doors_trunk",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 636757421
+                },
+                {
+                    "itemname": "HeadlightH7",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 673890682
+                },
+                {
+                    "itemname": "HeadlightH7",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 673892051
+                },
+                {
+                    "itemname": "BRDK_german_motorcycle_Bag",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 834963559
+                },
+                {
+                    "itemname": "BRDK_german_motorcycle_Bag",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 834963560
+                },
+                {
+                    "itemname": "CarBattery",
+                    "health": 1.0,
+                    "quantity": 35.0,
+                    "remainingEnergy": 0.7000606060028076,
+                    "liquidType": 0,
+                    "attSlot": 1000100489
+                },
+                {
+                    "itemname": "BRDK_german_motorcycle_wheel",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 1587586948
+                },
+                {
+                    "itemname": "BRDK_german_motorcycle_wheel",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 1587586949
+                },
+                {
+                    "itemname": "BRDK_german_motorcycle_wheel",
+                    "health": 0.9733458757400513,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 1587588317
+                },
+                {
+                    "itemname": "BRDK_german_motorcycle_wheel",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 1587588318
+                }
+            ],
+            "spawnCargoItems": [],
+            "storageFilename": "$profile:LBmaster/Data/LBGarage/Items/mJ85QfolaLXBw6ZpRCW5.bin",
+            "wasImpounded": 0,
+            "impoundWaitTime": 0,
+            "impoundRebuyCost": 0
+        }
+    ],
+    "stolenVehicles": []
+}

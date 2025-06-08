@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1010,
+    "ObjectiveType": 3,
+    "ObjectiveText": "документи",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        2218.027832,
+        93.419983,
+        3271.453857
+    ],
+    "MaxDistance": 5.0,
+    "MarkerName": "",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

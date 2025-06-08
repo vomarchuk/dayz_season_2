@@ -1,0 +1,99 @@
+{
+    "name": "OooooO",
+    "shortname": "OoO",
+    "level": 0,
+    "lastActivity": 1748045379,
+    "creationDate": 1748029271,
+    "showTagInChat": 1,
+    "hasCustomChatColor": 0,
+    "customChatColorAppliedByPlayer": 0,
+    "chatColorR": 0,
+    "chatColorG": 0,
+    "chatColorB": 0,
+    "hasATMAccount": 0,
+    "ATMBalance": 0,
+    "members": [
+        {
+            "type": 4,
+            "uid": 444413336,
+            "name": "MrVleD",
+            "icon": "",
+            "position": [
+                3395.536376953125,
+                190.60061645507813,
+                3937.652587890625
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 255,
+            "colorB": 255,
+            "creatorSteamID": "",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0,
+            "steamid": "76561199281830897",
+            "permissionGroup": 9,
+            "online": 1,
+            "health": 89.43831634521485,
+            "tempMember": 0
+        }
+    ],
+    "markers": [
+        {
+            "type": 3,
+            "uid": 666193907,
+            "name": "",
+            "icon": "LBmaster_Groups\\gui\\icons\\cross.paa",
+            "position": [
+                1701.650146484375,
+                172.598876953125,
+                5062.93115234375
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 0,
+            "colorB": 255,
+            "creatorSteamID": "76561198061545120",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0
+        },
+        {
+            "type": 3,
+            "uid": 1631830710,
+            "name": "",
+            "icon": "LBmaster_Groups\\gui\\icons\\marker.paa",
+            "position": [
+                3791.583251953125,
+                171.54025268554688,
+                3623.924560546875
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 255,
+            "colorB": 255,
+            "creatorSteamID": "76561199281830897",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0
+        }
+    ]
+}

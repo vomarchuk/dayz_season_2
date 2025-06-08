@@ -1,0 +1,147 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Запчастини для Mitsubishi EVO",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "Mitsubishi_LancerEvolutionIX_Driver_white",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Mitsubishi_LancerEvolutionIX_Driver_yellow",
+                "Mitsubishi_LancerEvolutionIX_Driver_red",
+                "Mitsubishi_LancerEvolutionIX_Driver_pink",
+                "Mitsubishi_LancerEvolutionIX_Driver_lightblue",
+                "Mitsubishi_LancerEvolutionIX_Driver_green",
+                "Mitsubishi_LancerEvolutionIX_Driver_darkblue",
+                "Mitsubishi_LancerEvolutionIX_Driver_blue",
+                "Mitsubishi_LancerEvolutionIX_Driver_black",
+                "Mitsubishi_LancerEvolutionIX_Driver_bee"
+            ]
+        },
+        {
+            "ClassName": "Mitsubishi_LancerEvolutionIX_Codriver_white",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Mitsubishi_LancerEvolutionIX_Codriver_yellow",
+                "Mitsubishi_LancerEvolutionIX_Codriver_red",
+                "Mitsubishi_LancerEvolutionIX_Codriver_pink",
+                "Mitsubishi_LancerEvolutionIX_Codriver_lightblue",
+                "Mitsubishi_LancerEvolutionIX_Codriver_green",
+                "Mitsubishi_LancerEvolutionIX_Codriver_darkblue",
+                "Mitsubishi_LancerEvolutionIX_Codriver_blue",
+                "Mitsubishi_LancerEvolutionIX_Codriver_black",
+                "Mitsubishi_LancerEvolutionIX_Codriver_bee"
+            ]
+        },
+        {
+            "ClassName": "Mitsubishi_LancerEvolutionIX_Cargo1_white",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Mitsubishi_LancerEvolutionIX_Cargo1_yellow",
+                "Mitsubishi_LancerEvolutionIX_Cargo1_red",
+                "Mitsubishi_LancerEvolutionIX_Cargo1_pink",
+                "Mitsubishi_LancerEvolutionIX_Cargo1_lightblue",
+                "Mitsubishi_LancerEvolutionIX_Cargo1_green",
+                "Mitsubishi_LancerEvolutionIX_Cargo1_darkblue",
+                "Mitsubishi_LancerEvolutionIX_Cargo1_blue",
+                "Mitsubishi_LancerEvolutionIX_Cargo1_black",
+                "Mitsubishi_LancerEvolutionIX_Cargo1_bee"
+            ]
+        },
+        {
+            "ClassName": "Mitsubishi_LancerEvolutionIX_Cargo2_white",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Mitsubishi_LancerEvolutionIX_Cargo2_yellow",
+                "Mitsubishi_LancerEvolutionIX_Cargo2_red",
+                "Mitsubishi_LancerEvolutionIX_Cargo2_pink",
+                "Mitsubishi_LancerEvolutionIX_Cargo2_lightblue",
+                "Mitsubishi_LancerEvolutionIX_Cargo2_green",
+                "Mitsubishi_LancerEvolutionIX_Cargo2_darkblue",
+                "Mitsubishi_LancerEvolutionIX_Cargo2_blue",
+                "Mitsubishi_LancerEvolutionIX_Cargo2_black",
+                "Mitsubishi_LancerEvolutionIX_Cargo2_bee"
+            ]
+        },
+        {
+            "ClassName": "Mitsubishi_LancerEvolutionIX_Hood_white",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 480,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Mitsubishi_LancerEvolutionIX_Hood_yellow",
+                "Mitsubishi_LancerEvolutionIX_Hood_red",
+                "Mitsubishi_LancerEvolutionIX_Hood_pink",
+                "Mitsubishi_LancerEvolutionIX_Hood_lightblue",
+                "Mitsubishi_LancerEvolutionIX_Hood_green",
+                "Mitsubishi_LancerEvolutionIX_Hood_darkblue",
+                "Mitsubishi_LancerEvolutionIX_Hood_blue",
+                "Mitsubishi_LancerEvolutionIX_Hood_black",
+                "Mitsubishi_LancerEvolutionIX_Hood_bee"
+            ]
+        },
+        {
+            "ClassName": "Mitsubishi_LancerEvolutionIX_Trunk_white",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 480,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Mitsubishi_LancerEvolutionIX_Trunk_yellow",
+                "Mitsubishi_LancerEvolutionIX_Trunk_red",
+                "Mitsubishi_LancerEvolutionIX_Trunk_pink",
+                "Mitsubishi_LancerEvolutionIX_Trunk_lightblue",
+                "Mitsubishi_LancerEvolutionIX_Trunk_green",
+                "Mitsubishi_LancerEvolutionIX_Trunk_darkblue",
+                "Mitsubishi_LancerEvolutionIX_Trunk_blue",
+                "Mitsubishi_LancerEvolutionIX_Trunk_black",
+                "Mitsubishi_LancerEvolutionIX_Trunk_bee"
+            ]
+        },
+        {
+            "ClassName": "Mitsubishi_LancerEvolutionIX_Wheel",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

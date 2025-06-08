@@ -1,0 +1,22 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Мандрівник",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Fishing",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Voting:0"
+    ],
+    "Items": {
+        "carp": 1,
+        "mackerel": 1,
+        "sardines": 1
+    }
+}

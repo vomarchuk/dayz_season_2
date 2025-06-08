@@ -1,0 +1,44 @@
+{
+    "Name": "Скрафтити пусту банку",
+    "Enabled": 1,
+    "IsInstaRecipe": 0,
+    "AnimationLength": 1.0,
+    "FirstIngredient": {
+        "Items": [
+            "SodaCan_Empty"
+        ],
+        "DeleteRequired": 1,
+        "MinQuantity": -1.0,
+        "MaxQuantity": -1.0,
+        "MinDamage": -1.0,
+        "MaxDamage": 3.0,
+        "AddHealth": 0.0,
+        "SetHealth": -1.0,
+        "AddQuantity": 0.0
+    },
+    "SecondIngredient": {
+        "Items": [
+            "SodaCan_Empty"
+        ],
+        "DeleteRequired": 1,
+        "MinQuantity": -1.0,
+        "MaxQuantity": -1.0,
+        "MinDamage": -1.0,
+        "MaxDamage": 3.0,
+        "AddHealth": 0.0,
+        "SetHealth": -1.0,
+        "AddQuantity": 0.0
+    },
+    "CraftingResults": [
+        {
+            "Item": "KIWI_Can_Empty",
+            "SetFullQuantity": 1,
+            "SetQuantity": -1.0,
+            "SetHealth": -1.0,
+            "InheritsHealth": -1,
+            "InheritsColor": -1,
+            "ToInventory": -2,
+            "ReplacesIngredient": -1
+        }
+    ]
+}

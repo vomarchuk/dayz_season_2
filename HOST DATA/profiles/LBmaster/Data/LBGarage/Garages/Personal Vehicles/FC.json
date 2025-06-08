@@ -1,0 +1,199 @@
+{
+    "version": 0,
+    "steamid": "FC",
+    "level": 0,
+    "additionalVehicleCount": 0,
+    "vehicles": [
+        {
+            "uniqueID": 92083,
+            "infinite": 0,
+            "hasKey": 1,
+            "wasHacked": 0,
+            "isBrandNewVehicle": 0,
+            "hasInsurance": 0,
+            "insuranceValue": 0,
+            "vehicleKeyHash1": 93965225,
+            "vehicleKeyHash2": 22420322,
+            "vehicleKeyHash3": -1,
+            "vehicleKeyHash4": -1,
+            "itemname": "CrSk_Pitbull_VX",
+            "fuelAmmount": 140.2478485107422,
+            "coolantAmmount": 6.0,
+            "oilAmmount": 4.0,
+            "brakeAmmount": 0.0,
+            "engineHealth": 0.9968106150627136,
+            "fuelTankHealth": 1.0,
+            "vehicleHealth": 0.9968106150627136,
+            "parkedInBySteamid": "76561198160896450",
+            "parkedInTimestamp": 1749334750,
+            "attachments": [
+                {
+                    "itemname": "PitbullVX_bagazhnik",
+                    "health": 0.6552746295928955,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1989266404
+                },
+                {
+                    "itemname": "PitbullVX_koleso",
+                    "health": 0.8775930404663086,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1214267078
+                },
+                {
+                    "itemname": "PitbullVX_koleso_zad",
+                    "health": 0.5952168107032776,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1214267077
+                },
+                {
+                    "itemname": "PitbullVX_koleso",
+                    "health": 0.7381367087364197,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1214265709
+                },
+                {
+                    "itemname": "PitbullVX_koleso_zad",
+                    "health": 0.8873483538627625,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1214265708
+                },
+                {
+                    "itemname": "PitbullVX_dver_1_1",
+                    "health": 0.9575859308242798,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -766840902
+                },
+                {
+                    "itemname": "PitbullVX_dver_1_2",
+                    "health": 0.5269777774810791,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -766840901
+                },
+                {
+                    "itemname": "PitbullVX_dver_2_1",
+                    "health": 0.3764192759990692,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -766839533
+                },
+                {
+                    "itemname": "PitbullVX_dver_2_2",
+                    "health": 0.38151511549949648,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -766839532
+                },
+                {
+                    "itemname": "SparkPlug",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -626843635
+                },
+                {
+                    "itemname": "CanisterGasoline",
+                    "health": 0.40395209193229678,
+                    "quantity": 20000.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 8192,
+                    "attSlot": -162093521
+                },
+                {
+                    "itemname": "CarRadiator",
+                    "health": 0.6071611642837524,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 5271856
+                },
+                {
+                    "itemname": "Barrel_Yellow",
+                    "health": 0.6978360414505005,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 57707246
+                },
+                {
+                    "itemname": "Barrel_Red",
+                    "health": 0.32909172773361208,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 57707247
+                },
+                {
+                    "itemname": "KIWI_Barrel_01",
+                    "health": 0.8979865312576294,
+                    "quantity": 194918.609375,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 512,
+                    "attSlot": 57707248
+                },
+                {
+                    "itemname": "KIWI_Barrel_01",
+                    "health": 0.9732223153114319,
+                    "quantity": 157556.140625,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 512,
+                    "attSlot": 57707249
+                },
+                {
+                    "itemname": "PitbullVX_kapot",
+                    "health": 0.927562415599823,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 237093112
+                },
+                {
+                    "itemname": "HeadlightH7",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 673890682
+                },
+                {
+                    "itemname": "HeadlightH7",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 673892051
+                },
+                {
+                    "itemname": "CarBattery",
+                    "health": 1.0,
+                    "quantity": 50.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 1000100489
+                }
+            ],
+            "spawnCargoItems": [],
+            "storageFilename": "$profile:LBmaster/Data/LBGarage/Items/0ZhYbgSzuwV+49-wh8gA.bin",
+            "wasImpounded": 0,
+            "impoundWaitTime": 0,
+            "impoundRebuyCost": 0
+        }
+    ],
+    "stolenVehicles": []
+}

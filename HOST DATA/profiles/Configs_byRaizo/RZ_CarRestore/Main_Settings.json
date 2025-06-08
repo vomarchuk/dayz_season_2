@@ -1,0 +1,18 @@
+{
+    "List": [
+        {
+            "Option": "AfterEngineOffDelay",
+            "Value": "10",
+            "Type": "int",
+            "Description": "Сколько секунд ждать до сохранения машины после того как ее двигатель был выключен,прежде чем сохранить.",
+            "Array": []
+        },
+        {
+            "Option": "AutoDeleteInterval",
+            "Value": "7",
+            "Type": "int",
+            "Description": "Сколько суток (дней) хранить данные про машины",
+            "Array": []
+        }
+    ]
+}

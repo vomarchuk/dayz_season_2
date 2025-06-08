@@ -1,0 +1,199 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-6-6_17-2-6
+====================================================================================
+17:2:6 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+17:2:6 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+17:2:6 | [PermissionManager] Perm (FreeCamera) has been registered!
+17:2:6 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+17:2:6 | [PermissionManager] Perm (MenuItemManager) has been registered!
+17:2:6 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+17:2:6 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+17:2:6 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+17:2:6 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+17:2:6 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+17:2:6 | [PermissionManager] Perm (MenuServerManager) has been registered!
+17:2:6 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+17:2:6 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+17:2:6 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+17:2:6 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+17:2:6 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+17:2:6 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+17:2:6 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+17:2:6 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+17:2:6 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+17:2:6 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+17:2:6 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+17:2:6 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+17:2:6 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+17:2:6 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+17:2:6 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+17:2:6 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+17:2:6 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+17:2:6 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+17:2:6 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+17:2:6 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+17:2:6 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+17:2:6 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+17:2:6 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+17:2:6 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+17:2:6 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+17:2:6 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+17:2:6 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+17:2:6 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+17:2:6 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+17:2:6 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+17:2:6 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+17:2:6 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+17:2:6 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+17:2:6 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+17:2:6 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+17:2:6 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+17:2:6 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+17:2:6 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+17:2:6 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+17:2:6 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+17:2:6 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+17:2:6 | [PermissionManager] Perm (MenuBansManager) has been registered!
+17:2:6 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+17:2:6 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+17:2:6 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+17:2:6 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+17:2:6 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+17:2:6 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+17:2:6 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+17:2:6 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+17:2:6 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+17:2:6 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+17:2:6 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+17:2:6 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+17:2:6 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+17:2:6 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+17:2:6 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+17:2:6 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+17:2:6 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+17:2:6 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+17:2:6 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+17:2:6 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+17:2:6 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+17:2:6 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+17:2:6 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+17:2:6 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+17:2:6 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+17:2:6 | [PermissionManager] Adding Super Admin (76561198104182080)
+17:2:6 | [PermissionManager] Loaded UserGroups.json
+17:2:6 | [PermissionManager] Perm (RZ_AdminCarForm_VPP) has been registered!
+17:2:6 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+17:2:6 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+17:2:6 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+17:2:6 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+17:2:6 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+17:2:6 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+17:2:6 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+17:2:6 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+17:2:6 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+17:2:6 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+17:2:6 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+17:2:6 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+17:2:6 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+17:2:6 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+17:2:6 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+17:2:6 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+17:2:6 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+17:2:6 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+17:2:6 | Building Sets Loaded: 8
+17:2:6 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+17:3:14 | Player "Maron Gasov" (steamId=76561198843347971) connected to server!
+17:3:16 | Player "Mk_Jackson" (steamId=76561199076505655) connected to server!
+17:3:16 | Player "AntZVZ" (steamId=76561198847518258) connected to server!
+17:3:19 | Player "Serdj" (steamId=76561198322633256) connected to server!
+17:3:31 | Player "Kartuz" (steamId=76561199639333047) connected to server!
+17:3:32 | Player "Satana" (steamId=76561199848325170) connected to server!
+17:3:39 | Player "Zabey" (steamId=76561199000093819) connected to server!
+17:3:39 | Player "Art_Man" (steamId=76561198119544941) connected to server!
+17:3:40 | Player "DrunKKilleR" (steamId=76561198803104495) connected to server!
+17:3:50 | Player "KUZIJ" (steamId=76561198068897748) connected to server!
+17:4:5 | Player "kulitipapuliti" (steamId=76561198160896450) connected to server!
+17:6:3 | Player "Fox" (steamId=76561199832617181) connected to server!
+17:6:14 | Player "Kot" (steamId=76561198810047434) connected to server!
+17:6:28 | Player "Jeger" (steamId=76561198320671266) connected to server!
+17:6:29 | Player "Amper" (steamId=76561198343165685) connected to server!
+17:6:35 | Player "Yurkoff" (steamId=76561198190432498) connected to server!
+17:6:58 | Player "Anastasia" (steamId=76561199572511166) connected to server!
+17:7:0 | Player "Muxaylo" (steamId=76561198038284050) connected to server!
+17:7:18 | Player "Muxaylo" (steamId=76561198038284050) initiated disconnect process...
+17:7:23 | Player "Muxaylo" (steamId=76561198038284050) disconnected from server.
+17:7:41 | Player "120kg" (steamId=76561199091882922) connected to server!
+17:7:45 | Player "Butch" (steamId=76561199023755511) connected to server!
+17:8:0 | Player "Muxaylo" (steamId=76561198038284050) connected to server!
+17:13:24 | Player "Satana" (steamId=76561199848325170) initiated disconnect process...
+17:13:29 | Player "Satana" (steamId=76561199848325170) disconnected from server.
+17:16:34 | Player "Bioking" (steamId=76561198884179595) connected to server!
+17:18:43 | Player "Moon" (steamId=76561199485344583) connected to server!
+17:19:15 | Player "Serdj" (steamId=76561198322633256) initiated disconnect process...
+17:19:20 | Player "Serdj" (steamId=76561198322633256) disconnected from server.
+17:19:47 | "Moon" (steamid=76561199485344583) toggled godmode
+17:19:54 | Player "Serdj" (steamId=76561198322633256) connected to server!
+17:20:10 | "76561199485344583" (steamid=76561199485344583) teleported to (pos=<4554.770020, 339.000000, 9570.650391>)
+17:20:10 | "Moon": (steamid=76561199485344583) teleported to (pos=4554.77,0,9570.65)
+17:20:25 | Player "GRiM" (steamId=76561198986040362) connected to server!
+17:21:15 | Player "Serdj" (steamId=76561198322633256) initiated disconnect process...
+17:21:21 | Player "Serdj" (steamId=76561198322633256) disconnected from server.
+17:21:37 | Player "Satana" (steamId=76561199848325170) connected to server!
+17:21:51 | Player "Serdj" (steamId=76561198322633256) connected to server!
+17:21:56 | "76561199485344583" (steamid=76561199485344583) teleported to (pos=<1923.420044, 315.950775, 8114.439941>)
+17:21:56 | "Moon": (steamid=76561199485344583) teleported to (pos=1923.42,0,8114.44)
+17:21:59 | "Moon" (steamid=76561199485344583) toggled godmode
+17:22:12 | Player "2_son" (steamId=76561198216607920) connected to server!
+17:22:21 | Player "Sanik" (steamId=76561199483109476) connected to server!
+17:27:58 | Player "kulitipapuliti" (steamId=76561198160896450) initiated disconnect process...
+17:27:59 | Player "kulitipapuliti" (steamId=76561198160896450) disconnected early from server (EXIT NOW).
+17:28:3 | Player "kulitipapuliti" (steamId=76561198160896450) disconnected from server.
+17:31:55 | Player "Volk" (steamId=76561198372110603) connected to server!
+17:34:7 | Player "Ho1ovin" (steamId=76561199235201986) connected to server!
+17:38:19 | Player "dezdumon" (steamId=76561198149450838) connected to server!
+17:43:34 | Player "Art_Man" (steamId=76561198119544941) initiated disconnect process...
+17:43:39 | Player "Art_Man" (steamId=76561198119544941) disconnected from server.
+17:44:5 | Player "Maron Gasov" (steamId=76561198843347971) initiated disconnect process...
+17:44:9 | Player "Art_Man" (steamId=76561198119544941) connected to server!
+17:44:11 | Player "Maron Gasov" (steamId=76561198843347971) disconnected from server.
+17:44:53 | Player "Yurkoff" (steamId=76561198190432498) initiated disconnect process...
+17:44:54 | Player "Yurkoff" (steamId=76561198190432498) disconnected early from server (EXIT NOW).
+17:44:58 | Player "Yurkoff" (steamId=76561198190432498) disconnected from server.
+17:45:29 | "Moon" (steamid=76561199485344583) Spawned Item: (EpoxyPutty)
+17:45:34 | "Moon" (steamid=76561199485344583) Spawned Item: (DuctTape)
+17:46:52 | Player "PieceDuck" (steamId=76561198161108074) connected to server!
+17:47:21 | "PieceDuck" (steamid=76561198161108074) toggled godmode
+17:48:20 | Player "KUZIJ" (steamId=76561198068897748) initiated disconnect process...
+17:48:22 | Player "KUZIJ" (steamId=76561198068897748) disconnected early from server (EXIT NOW).
+17:48:25 | Player "KUZIJ" (steamId=76561198068897748) disconnected from server.
+17:48:41 | Player "KUZIJ" (steamId=76561198068897748) connected to server!
+17:49:28 | Player "Serdj" (steamId=76561198322633256) initiated disconnect process...
+17:49:33 | Player "Serdj" (steamId=76561198322633256) disconnected from server.
+17:50:7 | Player "Serdj" (steamId=76561198322633256) connected to server!
+17:52:18 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<190.296005, 102.516975, 2368.620117>)
+17:52:18 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=190.296,0,2368.62)
+17:52:57 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<8354.790039, 291.989990, 5991.379883>)
+17:52:57 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=8354.79,0,5991.38)
+17:53:39 | Player "Oddball" (steamId=76561198058763169) connected to server!
+17:54:11 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<3702.979980, 402.000000, 5981.109863>)
+17:54:11 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=3702.98,0,5981.11)
+18:0:52 | Player "KUZIJ" (steamId=76561198068897748) initiated disconnect process...
+18:1:55 | Player "KUZIJ" (steamId=76561198068897748) connected to server!
+18:4:8 | Player "PieceDuck" (steamId=76561198161108074) initiated disconnect process...
+18:4:13 | Player "PieceDuck" (steamId=76561198161108074) disconnected from server.
+18:4:34 | Player "Kartuz" (steamId=76561199639333047) initiated disconnect process...
+18:4:39 | Player "Kartuz" (steamId=76561199639333047) disconnected from server.
+18:5:23 | Player "KUZIJ" (steamId=76561198068897748) initiated disconnect process...
+18:5:25 | Player "KUZIJ" (steamId=76561198068897748) disconnected early from server (EXIT NOW).
+18:5:29 | Player "KUZIJ" (steamId=76561198068897748) disconnected from server.
+18:5:42 | Player "Mk_Jackson" (steamId=76561199076505655) initiated disconnect process...
+18:5:46 | Player "Mk_Jackson" (steamId=76561199076505655) aborted logout process [canceledLogout]
+18:5:52 | Player "Mk_Jackson" (steamId=76561199076505655) initiated disconnect process...
+18:5:54 | Player "Mk_Jackson" (steamId=76561199076505655) disconnected early from server (EXIT NOW).
+18:5:57 | Player "Mk_Jackson" (steamId=76561199076505655) disconnected from server.
+18:8:11 | Player "Butch" (steamId=76561199023755511) initiated disconnect process...
+18:8:16 | Player "Butch" (steamId=76561199023755511) disconnected from server.
+18:10:58 | Player "kulitipapuliti" (steamId=76561198160896450) connected to server!
+18:11:50 | Player "Art_Man" (steamId=76561198119544941) initiated disconnect process...
+18:11:50 | Player "Art_Man" (steamId=76561198119544941) disconnected early from server (EXIT NOW).
+18:11:55 | Player "Art_Man" (steamId=76561198119544941) disconnected from server.

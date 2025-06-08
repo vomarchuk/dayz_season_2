@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+    <type name="HideOutObject">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlusVehicleCargo">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlus_Wallet">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="CarLockpick">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="Receipt">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlusCreditCard">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlusWrench">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="CarLock">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlus_Money_DIM_Gold">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlus_Bitcoin">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlus_Money_Ruble1_Coin">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlus_Money_Ruble2_Coin">
+        <lifetime>10800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlus_Money_Ruble5_Coin">
+        <lifetime>10800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlus_Money_Euro1">
+        <lifetime>10800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlus_Money_Euro2">
+        <lifetime>10800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlus_Money_Dollar1">
+        <lifetime>10800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlus_Money_Dollar2">
+        <lifetime>10800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlus_Money_Dollar5">
+        <lifetime>10800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlus_Money_Dollar10">
+        <lifetime>10800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlus_Money_Dollar20">
+        <lifetime>10800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlus_Money_Dollar50">
+        <lifetime>10800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlus_Money_Dollar100">
+        <lifetime>10800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlus_Money_Euro5">
+        <lifetime>10800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlus_Money_Euro10">
+        <lifetime>10800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlus_Money_Euro20">
+        <lifetime>10800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlus_Money_Euro50">
+        <lifetime>10800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlus_Money_Euro100">
+        <lifetime>10800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlus_Money_Euro200">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlus_Money_Euro500">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlus_Money_Ruble5">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlus_Money_Ruble10">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlus_Money_Ruble50">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlus_Money_Ruble100">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlus_Money_Ruble200">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlus_Money_Ruble500">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlus_Money_Ruble1000">
+        <lifetime>10800</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlus_Money_Ruble2000">
+        <lifetime>10800</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+    <type name="TraderPlus_Money_Ruble5000">
+        <lifetime>10800</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
+    </type>
+</types>

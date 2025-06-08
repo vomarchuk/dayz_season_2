@@ -1,0 +1,125 @@
+{
+    "version": 0,
+    "keys": [
+        {
+            "classname": "LB_LC_Key1_Black",
+            "displayname": "Police key",
+            "description": "Цим ключем можна відкрити ящик в поліцейському відділку",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key1_Blue",
+            "displayname": "The Blue one",
+            "description": "This key can be used to open all blue crates",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key1_Green",
+            "displayname": "Medical key",
+            "description": "Ходить міф, що в покинутих медичних закладах ще залишилися сейфи, в яких можна знайти рідкісну медицину. Цей ключ, схоже, відкриває один із таких ящиків...",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key1_Grey",
+            "displayname": "Edit Me",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key1_Indigo",
+            "displayname": "Edit Me",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key1_Orange",
+            "displayname": "Edit Me",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key1_Red",
+            "displayname": "Old Firefighter Key",
+            "description": "The key can be used to open a Firefighter chest found in firestations",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key1_Violet",
+            "displayname": "Ключ від касового апарату",
+            "description": "Ключ від сейфа, що використовувався в одній із торгових точок. Міцний і трохи поіржавілий — можливо, всередині досі залишилося щось цінне.",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key1_White",
+            "displayname": "Edit Me",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key1_Yellow",
+            "displayname": "Edit Me",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key2_Black",
+            "displayname": "Edit Me",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key2_Blue",
+            "displayname": "Edit Me",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key2_Green",
+            "displayname": "Edit Me",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key2_Grey",
+            "displayname": "Edit Me",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key2_Indigo",
+            "displayname": "Edit Me",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key2_Orange",
+            "displayname": "Edit Me",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key2_Red",
+            "displayname": "Edit Me",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key2_Violet",
+            "displayname": "Edit Me",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key2_White",
+            "displayname": "Edit Me",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key2_Yellow",
+            "displayname": "Edit Me",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        }
+    ]
+}

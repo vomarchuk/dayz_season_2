@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 28,
+    "ID": 4,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Виведи агента з острова",
+    "TimeLimit": 1200,
+    "Active": 1,
+    "Position": [
+        2608.824951,
+        6.000000,
+        1997.359375
+    ],
+    "MaxDistance": 100.0,
+    "MarkerName": "вихід",
+    "ShowDistance": 1,
+    "CanLootAI": 0,
+    "NPCLoadoutFile": "SurvivorLoadout",
+    "NPCClassName": "eAI_SurvivorF_Helga",
+    "NPCName": "Агент"
+}

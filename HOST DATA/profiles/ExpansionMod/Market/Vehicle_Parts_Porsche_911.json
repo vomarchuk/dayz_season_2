@@ -1,0 +1,93 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Запчастини для Porsche 911",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "Porsche_911RWB_Driver_Door",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Porsche_911RWB_Driver_Door_Pink",
+                "Porsche_911RWB_Driver_Door_Orange",
+                "Porsche_911RWB_Driver_Door_Black",
+                "Porsche_911RWB_Driver_Door_Red",
+                "Porsche_911RWB_Driver_Door_Blue",
+                "Porsche_911RWB_Driver_Door_Green"
+            ]
+        },
+        {
+            "ClassName": "Porsche_911RWB_CoDriver_Door",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Porsche_911RWB_CoDriver_Door_Pink",
+                "Porsche_911RWB_CoDriver_Door_Orange",
+                "Porsche_911RWB_CoDriver_Door_Black",
+                "Porsche_911RWB_CoDriver_Door_Red",
+                "Porsche_911RWB_CoDriver_Door_Blue",
+                "Porsche_911RWB_CoDriver_Door_Green"
+            ]
+        },
+        {
+            "ClassName": "Porsche_911RWB_Trunk",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Porsche_911RWB_Trunk_Pink",
+                "Porsche_911RWB_Trunk_Orange",
+                "Porsche_911RWB_Trunk_Black",
+                "Porsche_911RWB_Trunk_Red",
+                "Porsche_911RWB_Trunk_Blue",
+                "Porsche_911RWB_Trunk_Green"
+            ]
+        },
+        {
+            "ClassName": "Porsche_911RWB_Hood",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Porsche_911RWB_Hood_Pink",
+                "Porsche_911RWB_Hood_Orange",
+                "Porsche_911RWB_Hood_Black",
+                "Porsche_911RWB_Hood_Red",
+                "Porsche_911RWB_Hood_Blue",
+                "Porsche_911RWB_Hood_Green"
+            ]
+        },
+        {
+            "ClassName": "Porsche_911RWB_Front_Wheel",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

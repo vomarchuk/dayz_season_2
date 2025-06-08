@@ -1,0 +1,12 @@
+{
+    "ConfigVersion": 28,
+    "ID": 2,
+    "ObjectiveType": 11,
+    "ObjectiveText": "Cкрафти вогнище",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ItemNames": [
+        "Fireplace"
+    ],
+    "ExecutionAmount": 1
+}

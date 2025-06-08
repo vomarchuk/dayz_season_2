@@ -1,0 +1,16 @@
+{
+    "ConfigVersion": 28,
+    "ID": 8,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Зігрівся? Тепер вполюй собі здобич і розріж її",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "PrepareAnimal",
+        "ActionSkinning",
+        "ActionSkinningCB"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

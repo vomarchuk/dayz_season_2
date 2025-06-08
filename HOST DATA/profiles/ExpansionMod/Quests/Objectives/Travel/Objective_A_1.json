@@ -1,0 +1,16 @@
+{
+    "ConfigVersion": 28,
+    "ID": 201,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Високо сиджу",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        8129.791992, 576.512207, 9093.979492
+    ],
+    "MaxDistance": 2.0,
+    "MarkerName": "",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

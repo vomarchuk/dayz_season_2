@@ -1,0 +1,34 @@
+{
+    "ConfigVersion": 6,
+    "ID": 8,
+    "ClassName": "ExpansionQuestNPCAIQuinn",
+    "Position": [
+        8349.680664,
+        292.019501,
+        5981.577148
+    ],
+    "Orientation": [
+        65.376282,
+        0.000000,
+        0.000000
+    ],
+    "NPCName": "Остап",
+    "DefaultNPCText": "Здоровенкі були!",
+    "Waypoints": [
+        [
+            8349.680664,
+            292.019501,
+            5981.577148
+        ]
+    ],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "HunterLoadout",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 2,
+    "Active": 1
+}

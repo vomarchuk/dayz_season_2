@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1007,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Піти у Пустошку",
+    "TimeLimit": 3600,
+    "Active": 1,
+    "Position": [
+        3061.590576,
+        305.472809,
+        7931.602539
+    ],
+    "MaxDistance": 250.0,
+    "MarkerName": "",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}
