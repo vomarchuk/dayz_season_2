@@ -1216,7 +1216,7 @@
         <usage name="TrainCrash"/>
     </type>
     <type name="OH_lamp_wall">
-        <lifetime>28800</lifetime>
+        <lifetime>3880000</lifetime>
         <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0"/>
         <min>0</min>
         <restock>0</restock>
