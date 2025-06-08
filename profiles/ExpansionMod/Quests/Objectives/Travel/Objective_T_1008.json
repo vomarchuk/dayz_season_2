@@ -1,16 +1,16 @@
 {
     "ConfigVersion": 28,
-    "ID": 1003,
+    "ID": 1008,
     "ObjectiveType": 3,
-    "ObjectiveText": "Дістатися до вівтаря та поговорити зі Стафом",
+    "ObjectiveText": "Дійти до корабля",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        8218.469727,
-        470.850006,
-        9042.040039
+        13776.373047,
+        2.001514,
+        11162.886719
     ],
-    "MaxDistance": 5.0,
+    "MaxDistance": 100.0,
     "MarkerName": "",
     "ShowDistance": 0,
     "TriggerOnEnter": 1,

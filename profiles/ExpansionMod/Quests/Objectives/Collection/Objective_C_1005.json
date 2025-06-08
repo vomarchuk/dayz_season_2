@@ -1,20 +1,19 @@
 {
     "ConfigVersion": 28,
-    "ID": 1,
-    "ObjectiveType": 5,
-    "ObjectiveText": "Віднеси документи Павлу",
+    "ID": 1005,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Знайти ліки",
     "TimeLimit": -1,
     "Active": 1,
     "Collections": [
         {
             "Amount": 1,
-            "ClassName": "RIP_DocTube",
+            "ClassName": "TerjeInjectorZivirol",
             "QuantityPercent": -1,
-            "MinQuantityPercent": -1
+            "MinQuantityPercent": 0
         }
     ],
     "ShowDistance": 0,
     "AddItemsToNearbyMarketZone": 0,
-    "MaxDistance": 5.0,
-    "MarkerName": ""
+    "NeedAnyCollection": 0
 }

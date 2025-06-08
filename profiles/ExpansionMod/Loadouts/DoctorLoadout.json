@@ -25,7 +25,7 @@
                     "SlotName": "Body",
                     "Items": [
                         {
-                            "ClassName": "NBCJacketGray",
+                            "ClassName": "SSM_Seva_Jacket",
                             "Include": "",
                             "Chance": 1.0,
                             "Quantity": {
@@ -50,7 +50,7 @@
                     "SlotName": "Legs",
                     "Items": [
                         {
-                            "ClassName": "NBCPantsGray",
+                            "ClassName": "SSM_Seva_Pants",
                             "Include": "",
                             "Chance": 1.0,
                             "Quantity": {
@@ -75,7 +75,7 @@
                     "SlotName": "Feet",
                     "Items": [
                         {
-                            "ClassName": "NBCBootsGray",
+                            "ClassName": "SSM_Seva_Boots",
                             "Include": "",
                             "Chance": 1.0,
                             "Quantity": {
@@ -97,10 +97,10 @@
                     ]
                 },
                 {
-                    "SlotName": "Headgear",
+                    "SlotName": "Mask",
                     "Items": [
                         {
-                            "ClassName": "NBCHoodGray",
+                            "ClassName": "SSM_Seva_GasBack",
                             "Include": "",
                             "Chance": 1.0,
                             "Quantity": {
@@ -125,7 +125,32 @@
                     "SlotName": "Gloves",
                     "Items": [
                         {
-                            "ClassName": "NBCGlovesGray",
+                            "ClassName": "SSM_Seva_Gloves",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.699999988079071,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ]
+                },
+                {
+                    "SlotName": "Vest",
+                    "Items": [
+                        {
+                            "ClassName": "SSM_Seva_Vest",
                             "Include": "",
                             "Chance": 1.0,
                             "Quantity": {

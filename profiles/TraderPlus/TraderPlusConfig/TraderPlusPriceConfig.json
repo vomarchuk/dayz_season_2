@@ -470,6 +470,14 @@
     {
       "CategoryName": "Furniture",
       "Products": [
+        "OH_water_tap,1,-1,0,-1,399",
+        "OH_plastic_canister_blue,1,-1,0,-1,399",
+        "OH_plastic_canister_red,1,-1,0,-1,399",
+        "OH_plastic_canister_green,1,-1,0,-1,399",
+        "OH_plastic_canister_yellow,1,-1,0,-1,399",
+        "OH_water_bottle_blue,1,-1,0,-1,399",
+        "OH_home_lamp_torsher,1,-1,1,-1,399",
+        "OH_home_lamp_table,1,-1,1,-1,399",
         "OHcupboardKit,1,-1,1,-1,399",
         "OH_gunlockerKit,1,-1,1,-1,399",
         "OH_GunrackKit,1,-1,1,-1,399",
@@ -1753,10 +1761,10 @@
     {
       "CategoryName": "Частини тіл",
       "Products": [
-        "FC_Skin_Brain,1,-1,0,-1,50",
-        "FC_Skin_Eye,1,-1,0,-1,50",
-        "FC_Skin_Heart,1,-1,0,-1,50",
-        "FC_Skin_Liver,1,-1,0,-1,50",
+        "FC_Skin_Brain,1,-1,0,-1,250",
+        "FC_Skin_Eye,1,-1,0,-1,100",
+        "FC_Skin_Heart,1,-1,0,-1,200",
+        "FC_Skin_Liver,1,-1,0,-1,150",
         "FC_Skin_Worm,1,-1,0,-1,50",
         "FC_Skin_Toxic_Balon_Red,1,-1,0,-1,50",
         "FC_Skin_Toxic_Balon_Grey,1,-1,0,-1,50",

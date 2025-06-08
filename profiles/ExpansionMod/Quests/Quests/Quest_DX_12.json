@@ -9,7 +9,7 @@
         "Артем казав що ти зайдеш"
     ],
     "ObjectiveText": "Бандити",
-    "FollowUpQuest": 1013,
+    "FollowUpQuest": -1,
     "Repeatable": 0,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
@@ -62,5 +62,5 @@
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
     "SuppressQuestLogOnCompetion": 0,
-    "Active": 0
+    "Active": 1
 }

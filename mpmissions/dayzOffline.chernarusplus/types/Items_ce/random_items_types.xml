@@ -815,6 +815,9 @@
         <min>0</min>
         <restock>0</restock>
         <nominal>0</nominal>
+        <category name="quest"/>
+        <usage name="Office"/>
+        <usage name="Military"/>
     </type>
     <type name="RIP_FlashUSB1">
         <lifetime>28800</lifetime>
