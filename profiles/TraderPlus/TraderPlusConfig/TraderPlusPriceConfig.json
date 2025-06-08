@@ -761,6 +761,8 @@
         "PP19,1,-1,1,-1,350",
         "IMP_TommyGun,1,-1,1,-1,350",
         "AKS74U,1,-1,1,-1,500",
+        "Vikhr,1,-1,1,-1,500",
+        "IMP_PP19Vityaz,1,-1,1,-1,500",
         "IMP_KelTecSUB2000_Supp,1,-1,1,-1,500"
       ]
     },
@@ -1640,6 +1642,7 @@
         "AssaultBag_Ttsko,1,-1,0,-1,190",
         "HuntingBag,1,-1,0,-1,210",
         "TortillaBag,1,-1,0,-1,230",
+        "TortillaBag_Winter,1,-1,0,-1,230",
         "CoyoteBag_Brown,1,-1,0,-1,230",
         "CoyoteBag_Green,1,-1,0,-1,230",
         "CoyoteBag_Winter,1,-1,0,-1,330",
@@ -1953,7 +1956,7 @@
         "MMG_double_magpouch_dark_woodland,1,-1,1,-1,150",
         "MMG_double_magpouch_ucp,1,-1,1,-1,150",
         "MMG_double_magpouch_multicam_tropic,1,-1,1,-1,150",
-        "MMG_triple_magpouch_multicam_tropic,1,-1,1,-1,150",
+        "MMG_triple_magpouch_atacs,1,-1,1,-1,150",
         "MMG_triple_magpouch_dark_woodland,1,-1,1,-1,150",
         "MMG_triple_magpouch_alpine,1,-1,1,-1,150",
         "MMG_triple_magpouch_green,1,-1,1,-1,150",

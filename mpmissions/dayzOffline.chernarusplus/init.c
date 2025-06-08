@@ -1,8 +1,6 @@
 
 void main()
 {
-	Weather weather = g_Game.GetWeather();
-    weather.MissionWeather(false);
 	// INIT ECONOMY--------------------------------------
 	Hive ce = CreateHive();
 	if (ce)
@@ -31,40 +29,4 @@ void main()
 			}
 		}
 	}
-}
-
-class CustomMission : MissionServer
-{
-	void SetRandomHealth(EntityAI itemEnt)
-	{
-		if (itemEnt)
-		{
-			float rndHlt = Math.RandomFloat(0.45, 0.65);
-			itemEnt.SetHealth01("", "", rndHlt);
-		}
-	}
-
-	override PlayerBase CreateCharacter(PlayerIdentity identity, vector pos, ParamsReadContext ctx, string characterName)
-	{
-		Entity playerEnt;
-		playerEnt = GetGame().CreatePlayer(identity, characterName, pos, 0, "NONE");
-		Class.CastTo(m_player, playerEnt);
-
-		GetGame().SelectPlayer(identity, m_player);
-
-		return m_player;
-	}
-
-	override void StartingEquipSetup(PlayerBase player, bool clothesChosen)
-	{
-		player.GetStatEnergy().Set(1000);
-		player.GetStatWater().Set(1000);
-
-		player.RemoveAllItems();
-	}
-};
-
-Mission CreateCustomMission(string path)
-{
-	return new CustomMission();
 }
