@@ -1,0 +1,70 @@
+{
+    "row": 0,
+    "col": 0,
+    "width": 10,
+    "height": 10,
+    "slotId": 0,
+    "health": 1.0,
+    "type": "SimpleStorageDefault",
+    "quantity": 0.0,
+    "isAmmo": 0,
+    "ammo": 0,
+    "flip": 0,
+    "isFood": 0,
+    "foodStage": 0,
+    "attachments": [],
+    "cargo": [
+        {
+            "row": 0,
+            "col": 1,
+            "width": 7,
+            "height": 2,
+            "slotId": 0,
+            "health": 0.33180344104766848,
+            "type": "M4A1_Green",
+            "quantity": 0.0,
+            "isAmmo": 0,
+            "ammo": 0,
+            "flip": 0,
+            "isFood": 0,
+            "foodStage": 0,
+            "attachments": [
+                {
+                    "row": 0,
+                    "col": 0,
+                    "width": 0,
+                    "height": 0,
+                    "slotId": -1892349759,
+                    "health": 1.0,
+                    "type": "M4_RISHndgrd_Green",
+                    "quantity": 0.0,
+                    "isAmmo": 0,
+                    "ammo": 0,
+                    "flip": 0,
+                    "isFood": 0,
+                    "foodStage": 0,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "row": 0,
+                    "col": 0,
+                    "width": 0,
+                    "height": 0,
+                    "slotId": -54823130,
+                    "health": 0.9984090924263,
+                    "type": "M4_MPBttstck",
+                    "quantity": 0.0,
+                    "isAmmo": 0,
+                    "ammo": 0,
+                    "flip": 0,
+                    "isFood": 0,
+                    "foodStage": 0,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ],
+            "cargo": []
+        }
+    ]
+}

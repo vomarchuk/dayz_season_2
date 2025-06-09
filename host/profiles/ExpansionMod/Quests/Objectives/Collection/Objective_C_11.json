@@ -1,0 +1,31 @@
+{
+    "ConfigVersion": 28,
+    "ID": 11,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Скумбрія для Тедді",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 5,
+            "ClassName": "Mackerel",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 5,
+            "ClassName": "Carp",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 3,
+            "ClassName": "Bitterlings",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

@@ -1,0 +1,52 @@
+{
+    "row": 0,
+    "col": 0,
+    "width": 10,
+    "height": 10,
+    "slotId": 0,
+    "health": 1.0,
+    "type": "SimpleStorageDefault",
+    "quantity": 0.0,
+    "isAmmo": 0,
+    "ammo": 0,
+    "flip": 0,
+    "isFood": 0,
+    "foodStage": 0,
+    "attachments": [],
+    "cargo": [
+        {
+            "row": 0,
+            "col": 0,
+            "width": 3,
+            "height": 3,
+            "slotId": 0,
+            "health": 0.9181177020072937,
+            "type": "CombinationLock4",
+            "quantity": 0.0,
+            "isAmmo": 0,
+            "ammo": 0,
+            "flip": 0,
+            "isFood": 0,
+            "foodStage": 0,
+            "attachments": [],
+            "cargo": []
+        },
+        {
+            "row": 0,
+            "col": 3,
+            "width": 5,
+            "height": 2,
+            "slotId": 0,
+            "health": 0.5689663887023926,
+            "type": "HandSaw",
+            "quantity": 0.0,
+            "isAmmo": 0,
+            "ammo": 0,
+            "flip": 0,
+            "isFood": 0,
+            "foodStage": 0,
+            "attachments": [],
+            "cargo": []
+        }
+    ]
+}

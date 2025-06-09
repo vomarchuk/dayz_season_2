@@ -1,0 +1,56 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1010,
+    "Type": 1,
+    "Title": "Частина перша: Ознайомлення!",
+    "Descriptions": [
+        "Дякую, це хоть трохи його вгамує! Слухай, на цій сторінці була розповідь про якогось Павла, Андрій каже що цей Павло в нормальному житті був якимось науковцем, досліджував якісь хімічні зони чи щось в цьому плані, не знаю, може то Андрій почав раніше сходити з розуму, чи то дійсно все так, але ми маємо перевірити цю інформацію, можливо вона відкриє для нас те чого ми ще не знаємо, Павло, хлопчина цей, із записів Андрія, проживає десь в тупику під «Волчий пик», сходи перевір, чи дійсно цей Павло існує!",
+        "Дякую, це хоть трохи його вгамує! Слухай, на цій сторінці була розповідь про якогось Павла, Андрій каже що цей Павло в нормальному житті був якимось науковцем, досліджував якісь хімічні зони чи щось в цьому плані, не знаю, може то Андрій почав раніше сходити з розуму, чи то дійсно все так, але ми маємо перевірити цю інформацію, можливо вона відкриє для нас те чого ми ще не знаємо, Павло, хлопчина цей, із записів Андрія, проживає десь в тупику під «Волчий пик», сходи перевір, чи дійсно цей Павло існує!",
+        "Привіт! Ми знайомі?"
+    ],
+    "ObjectiveText": "Пошуки",
+    "FollowUpQuest": 1011,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        2
+    ],
+    "QuestTurnInIDs": [
+        9
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1005,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": -930200403,
+    "ReputationReward": 5,
+    "ReputationRequirement": 400,
+    "PreQuestIDs": [
+        1009
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

@@ -1,0 +1,99 @@
+{
+    "name": "Hirurg",
+    "shortname": "DOC",
+    "level": 0,
+    "lastActivity": 1749334685,
+    "creationDate": 1748787653,
+    "showTagInChat": 1,
+    "hasCustomChatColor": 0,
+    "customChatColorAppliedByPlayer": 0,
+    "chatColorR": 0,
+    "chatColorG": 0,
+    "chatColorB": 0,
+    "hasATMAccount": 0,
+    "ATMBalance": 0,
+    "members": [
+        {
+            "type": 4,
+            "uid": 916352430,
+            "name": "Hirurg",
+            "icon": "",
+            "position": [
+                4749.85595703125,
+                271.1473388671875,
+                6802.443359375
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 255,
+            "colorB": 255,
+            "creatorSteamID": "",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0,
+            "steamid": "76561198830145741",
+            "permissionGroup": 9,
+            "online": 0,
+            "health": 0.0,
+            "tempMember": 0
+        }
+    ],
+    "markers": [
+        {
+            "type": 3,
+            "uid": 1019050467,
+            "name": "#lb_ag_marker_death_pos: Hirurg",
+            "icon": "LBmaster_Groups\\gui\\icons\\skull.paa",
+            "position": [
+                4749.85595703125,
+                271.1473388671875,
+                6802.443359375
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 0,
+            "colorB": 0,
+            "creatorSteamID": "76561198830145741_D",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0
+        },
+        {
+            "type": 3,
+            "uid": 1508946971,
+            "name": "#lb_ag_marker_death_pos: Hirurg",
+            "icon": "LBmaster_Groups\\gui\\icons\\skull.paa",
+            "position": [
+                4749.85595703125,
+                271.1473388671875,
+                6802.443359375
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 0,
+            "colorB": 0,
+            "creatorSteamID": "76561198830145741_D",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0
+        }
+    ]
+}

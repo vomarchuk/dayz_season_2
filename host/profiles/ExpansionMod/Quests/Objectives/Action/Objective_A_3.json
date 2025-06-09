@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 3,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Скрафти повязку на руки",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionCraftImprovisedHandsCover"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

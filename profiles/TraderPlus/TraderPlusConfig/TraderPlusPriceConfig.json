@@ -470,6 +470,14 @@
     {
       "CategoryName": "Furniture",
       "Products": [
+        "OH_water_tap,1,-1,0,-1,399",
+        "OH_plastic_canister_blue,1,-1,0,-1,399",
+        "OH_plastic_canister_red,1,-1,0,-1,399",
+        "OH_plastic_canister_green,1,-1,0,-1,399",
+        "OH_plastic_canister_yellow,1,-1,0,-1,399",
+        "OH_water_bottle_blue,1,-1,0,-1,399",
+        "OH_home_lamp_torsher,1,-1,1,-1,399",
+        "OH_home_lamp_table,1,-1,1,-1,399",
         "OHcupboardKit,1,-1,1,-1,399",
         "OH_gunlockerKit,1,-1,1,-1,399",
         "OH_GunrackKit,1,-1,1,-1,399",
@@ -753,6 +761,8 @@
         "PP19,1,-1,1,-1,350",
         "IMP_TommyGun,1,-1,1,-1,350",
         "AKS74U,1,-1,1,-1,500",
+        "Vikhr,1,-1,1,-1,500",
+        "IMP_PP19Vityaz,1,-1,1,-1,500",
         "IMP_KelTecSUB2000_Supp,1,-1,1,-1,500"
       ]
     },
@@ -1632,6 +1642,7 @@
         "AssaultBag_Ttsko,1,-1,0,-1,190",
         "HuntingBag,1,-1,0,-1,210",
         "TortillaBag,1,-1,0,-1,230",
+        "TortillaBag_Winter,1,-1,0,-1,230",
         "CoyoteBag_Brown,1,-1,0,-1,230",
         "CoyoteBag_Green,1,-1,0,-1,230",
         "CoyoteBag_Winter,1,-1,0,-1,330",
@@ -1834,9 +1845,9 @@
     {
       "CategoryName": "MMG goggles",
       "Products": [
-        "mmg_tac_goggles_red_green,1,-1,1,-1,1000",
-        "mmg_tac_goggles_red_black,1,-1,1,-1,1000",
-        "mmg_tac_goggles_red_tan,1,-1,1,-1,1000"
+        "mmg_tac_goggles_red_green,1,-1,1,-1,150",
+        "mmg_tac_goggles_red_black,1,-1,1,-1,150",
+        "mmg_tac_goggles_red_tan,1,-1,1,-1,150"
       ]
     },
     {
@@ -1945,7 +1956,7 @@
         "MMG_double_magpouch_dark_woodland,1,-1,1,-1,150",
         "MMG_double_magpouch_ucp,1,-1,1,-1,150",
         "MMG_double_magpouch_multicam_tropic,1,-1,1,-1,150",
-        "MMG_triple_magpouch_multicam_tropic,1,-1,1,-1,150",
+        "MMG_triple_magpouch_atacs,1,-1,1,-1,150",
         "MMG_triple_magpouch_dark_woodland,1,-1,1,-1,150",
         "MMG_triple_magpouch_alpine,1,-1,1,-1,150",
         "MMG_triple_magpouch_green,1,-1,1,-1,150",

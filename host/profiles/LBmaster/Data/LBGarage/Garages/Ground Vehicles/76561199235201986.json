@@ -1,0 +1,215 @@
+{
+    "version": 0,
+    "steamid": "76561199235201986",
+    "level": 0,
+    "additionalVehicleCount": 0,
+    "vehicles": [
+        {
+            "uniqueID": 73290,
+            "infinite": 0,
+            "hasKey": 1,
+            "wasHacked": 0,
+            "isBrandNewVehicle": 0,
+            "hasInsurance": 1,
+            "insuranceValue": 0,
+            "vehicleKeyHash1": 235201986,
+            "vehicleKeyHash2": 13311331,
+            "vehicleKeyHash3": -1,
+            "vehicleKeyHash4": -1,
+            "itemname": "UA_Novator_7_Kacci",
+            "fuelAmmount": 134.58042907714845,
+            "coolantAmmount": 5.749996662139893,
+            "oilAmmount": 0.0,
+            "brakeAmmount": 0.0,
+            "engineHealth": 1.0,
+            "fuelTankHealth": 1.0,
+            "vehicleHealth": 0.899067223072052,
+            "parkedInBySteamid": "76561199235201986",
+            "parkedInTimestamp": 1749253039,
+            "attachments": [
+                {
+                    "itemname": "UA_Novator7_Kacci_doors_cargo1",
+                    "health": 0.8427771329879761,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1636741236
+                },
+                {
+                    "itemname": "UA_Novator7_Kacci_doors_cargo2",
+                    "health": 0.9018157124519348,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1636741235
+                },
+                {
+                    "itemname": "UA_Novator7_Kacci_doors_driver",
+                    "health": 0.7623662352561951,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1535972189
+                },
+                {
+                    "itemname": "KIWI_WoodenCrate_01",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -648782520
+                },
+                {
+                    "itemname": "SparkPlug",
+                    "health": 0.3922632932662964,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -626843635
+                },
+                {
+                    "itemname": "UA_Novator_R_wheel",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -492792616
+                },
+                {
+                    "itemname": "MMG_camelback_alpine",
+                    "health": 0.18000000715255738,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 5100557
+                },
+                {
+                    "itemname": "CarRadiator",
+                    "health": 0.4000000059604645,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 5271856
+                },
+                {
+                    "itemname": "UA_Novator_F_wheel",
+                    "health": 0.564460813999176,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 34572574
+                },
+                {
+                    "itemname": "UA_Novator_R_wheel",
+                    "health": 0.3658420443534851,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 34572575
+                },
+                {
+                    "itemname": "UA_Novator_F_wheel",
+                    "health": 0.7368507981300354,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 34573943
+                },
+                {
+                    "itemname": "UA_Novator_R_wheel",
+                    "health": 0.5733486413955689,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 34573944
+                },
+                {
+                    "itemname": "KIWI_Barrel_01",
+                    "health": 0.9622789621353149,
+                    "quantity": 180215.109375,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 512,
+                    "attSlot": 57707246
+                },
+                {
+                    "itemname": "KIWI_Barrel_01",
+                    "health": 0.9744428396224976,
+                    "quantity": 199056.046875,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 512,
+                    "attSlot": 57707247
+                },
+                {
+                    "itemname": "Barrel_Yellow",
+                    "health": 0.43260854482650759,
+                    "quantity": 63.38374328613281,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 512,
+                    "attSlot": 57707248
+                },
+                {
+                    "itemname": "KIWI_Barrel_01",
+                    "health": 0.9846736788749695,
+                    "quantity": 156924.25,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 512,
+                    "attSlot": 57707249
+                },
+                {
+                    "itemname": "UA_Novator7_Kacci_doors_trunk",
+                    "health": 0.7610206007957459,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 568890935
+                },
+                {
+                    "itemname": "HeadlightH7",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 673890682
+                },
+                {
+                    "itemname": "HeadlightH7",
+                    "health": 0.5,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 673892051
+                },
+                {
+                    "itemname": "KIWI_CarBattery",
+                    "health": 0.8480658531188965,
+                    "quantity": 461.0,
+                    "remainingEnergy": 0.9240329265594482,
+                    "liquidType": 0,
+                    "attSlot": 1000100489
+                },
+                {
+                    "itemname": "UA_Novator7_Kacci_doors_codriver",
+                    "health": 0.45221269130706789,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 1884202553
+                },
+                {
+                    "itemname": "UA_Novator7_Kacci_doors_hood",
+                    "health": 0.8462944626808167,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 1988126605
+                }
+            ],
+            "spawnCargoItems": [],
+            "storageFilename": "$profile:LBmaster/Data/LBGarage/Items/D1zbQoA7SrbL7XzAeBMh.bin",
+            "wasImpounded": 0,
+            "impoundWaitTime": 0,
+            "impoundRebuyCost": 0
+        }
+    ],
+    "stolenVehicles": []
+}

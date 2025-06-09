@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 4,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Тепер cкрафти повязку на обличчя",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionCraftImprovisedFaceCover"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

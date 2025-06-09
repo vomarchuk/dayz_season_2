@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1011,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Знайти бандитів біля військового лагеря Мишкіно",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        1157.461914,
+        185.364990,
+        7243.230957
+    ],
+    "MaxDistance": 200.0,
+    "MarkerName": "",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

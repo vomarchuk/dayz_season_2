@@ -1,0 +1,379 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-5-28_13-1-53
+====================================================================================
+13:1:53 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+13:1:53 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+13:1:53 | [PermissionManager] Perm (FreeCamera) has been registered!
+13:1:53 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+13:1:53 | [PermissionManager] Perm (MenuItemManager) has been registered!
+13:1:53 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+13:1:53 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+13:1:53 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+13:1:53 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+13:1:53 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+13:1:53 | [PermissionManager] Perm (MenuServerManager) has been registered!
+13:1:53 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+13:1:53 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+13:1:53 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+13:1:53 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+13:1:53 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+13:1:53 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+13:1:53 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+13:1:53 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+13:1:53 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+13:1:53 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+13:1:53 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+13:1:53 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+13:1:53 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+13:1:53 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+13:1:53 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+13:1:53 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+13:1:53 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+13:1:53 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+13:1:53 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+13:1:53 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+13:1:53 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+13:1:53 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+13:1:53 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+13:1:53 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+13:1:53 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+13:1:53 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+13:1:53 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+13:1:53 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+13:1:53 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+13:1:53 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+13:1:53 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+13:1:53 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+13:1:53 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+13:1:53 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+13:1:53 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+13:1:53 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+13:1:53 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+13:1:53 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+13:1:53 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+13:1:53 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+13:1:53 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+13:1:53 | [PermissionManager] Perm (MenuBansManager) has been registered!
+13:1:53 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+13:1:53 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+13:1:53 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+13:1:53 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+13:1:53 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+13:1:53 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+13:1:53 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+13:1:53 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+13:1:53 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+13:1:53 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+13:1:53 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+13:1:53 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+13:1:53 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+13:1:53 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+13:1:53 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+13:1:53 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+13:1:53 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+13:1:53 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+13:1:53 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+13:1:53 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+13:1:53 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+13:1:53 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+13:1:53 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+13:1:53 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+13:1:53 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+13:1:53 | [PermissionManager] Adding Super Admin (76561198104182080)
+13:1:53 | [PermissionManager] Loaded UserGroups.json
+13:1:53 | [PermissionManager] Perm (RZ_AdminCarForm_VPP) has been registered!
+13:1:53 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+13:1:53 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+13:1:53 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+13:1:53 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+13:1:53 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+13:1:53 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+13:1:53 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+13:1:53 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+13:1:53 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+13:1:53 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+13:1:53 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+13:1:53 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+13:1:53 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+13:1:53 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+13:1:53 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+13:1:53 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+13:1:53 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+13:1:53 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+13:1:53 | Building Sets Loaded: 6
+13:1:53 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+13:2:52 | Player "Mk_Jackson" (steamId=76561199076505655) connected to server!
+13:3:1 | Player "Art_Man" (steamId=76561198119544941) connected to server!
+13:3:30 | Player "Bioking" (steamId=76561198884179595) connected to server!
+13:3:50 | Player "BaLaBoL" (steamId=76561198838672315) connected to server!
+13:4:22 | Player "Sanik" (steamId=76561199483109476) connected to server!
+13:4:34 | Player "KUZIJ" (steamId=76561198068897748) connected to server!
+13:4:38 | Player "2_son" (steamId=76561198216607920) connected to server!
+13:4:48 | Player "kulitipapuliti" (steamId=76561198160896450) connected to server!
+13:5:2 | Player "120kg" (steamId=76561199091882922) connected to server!
+13:5:13 | Player "Jeger" (steamId=76561198320671266) connected to server!
+13:5:52 | Player "Butch" (steamId=76561199023755511) connected to server!
+13:6:38 | Player "Satana" (steamId=76561199848325170) connected to server!
+13:7:15 | Player "deluxe47" (steamId=76561198163048902) connected to server!
+13:10:8 | Player "Survivor" (steamId=76561198865195468) connected to server!
+13:28:20 | Player "BaLaBoL" (steamId=76561198838672315) initiated disconnect process...
+13:28:22 | Player "BaLaBoL" (steamId=76561198838672315) disconnected early from server (EXIT NOW).
+13:28:25 | Player "BaLaBoL" (steamId=76561198838672315) disconnected from server.
+13:29:0 | Player "not_today" (steamId=76561199319603335) connected to server!
+13:30:27 | Player "Sanik" (steamId=76561199483109476) initiated disconnect process...
+13:31:1 | Player "Sanik" (steamId=76561199483109476) connected to server!
+13:39:11 | Player "BaLaBoL" (steamId=76561198838672315) connected to server!
+13:49:52 | Player "Survivor" (steamId=76561198865195468) initiated disconnect process...
+13:49:53 | Player "Survivor" (steamId=76561198865195468) disconnected early from server (EXIT NOW).
+13:49:57 | Player "Survivor" (steamId=76561198865195468) disconnected from server.
+13:52:3 | Player "PieceDuck" (steamId=76561198161108074) connected to server!
+13:52:37 | "PieceDuck" (steamid=76561198161108074) Created a new item preset: (repairKit)
+13:53:49 | "PieceDuck" (steamid=76561198161108074) toggled godmode
+13:54:6 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<8977.364258, 116.690720, 4939.496094>)
+13:54:7 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<8952.101563, 117.725296, 4941.748535>)
+13:54:7 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<8927.922852, 118.555519, 4939.963379>)
+13:54:8 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<8907.501953, 118.910362, 4936.284668>)
+13:54:8 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<8887.856445, 118.877388, 4930.134766>)
+13:54:8 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<8867.829102, 118.703651, 4922.611328>)
+13:54:8 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<8847.464844, 118.464905, 4913.142090>)
+13:54:9 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<8838.286133, 119.284569, 4908.112793>)
+13:54:10 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<8817.699219, 119.199120, 4899.031738>)
+13:54:10 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<8802.243164, 119.779449, 4891.004883>)
+13:54:10 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<8787.875977, 120.437927, 4883.808594>)
+13:54:10 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<8772.517578, 121.045273, 4876.861816>)
+13:54:11 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<8757.842773, 121.662025, 4870.991699>)
+13:54:18 | "PieceDuck" (steamid=76561198161108074) teleported to crosshair (pos=<8738.991211, 122.709663, 4866.361328>)
+13:54:32 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: repairKit has no parrent!
+13:54:32 | "PieceDuck" (steamid=76561198161108074) spawned preset: (repairKit)
+13:54:32 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: repairKit has no parrent!
+13:54:32 | "PieceDuck" (steamid=76561198161108074) spawned preset: (repairKit)
+13:54:33 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: repairKit has no parrent!
+13:54:33 | "PieceDuck" (steamid=76561198161108074) spawned preset: (repairKit)
+13:54:34 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: repairKit has no parrent!
+13:54:34 | "PieceDuck" (steamid=76561198161108074) spawned preset: (repairKit)
+13:54:34 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: repairKit has no parrent!
+13:54:34 | "PieceDuck" (steamid=76561198161108074) spawned preset: (repairKit)
+13:54:35 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: repairKit has no parrent!
+13:54:35 | "PieceDuck" (steamid=76561198161108074) spawned preset: (repairKit)
+13:54:36 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: repairKit has no parrent!
+13:54:36 | "PieceDuck" (steamid=76561198161108074) spawned preset: (repairKit)
+13:54:43 | "PieceDuck" (steamid=76561198161108074) edited preset: (repairKit)
+13:54:46 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: repairKit has no parrent!
+13:54:46 | "PieceDuck" (steamid=76561198161108074) spawned preset: (repairKit)
+13:54:46 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: repairKit has no parrent!
+13:54:47 | "PieceDuck" (steamid=76561198161108074) spawned preset: (repairKit)
+13:54:47 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: repairKit has no parrent!
+13:54:47 | "PieceDuck" (steamid=76561198161108074) spawned preset: (repairKit)
+13:54:48 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: repairKit has no parrent!
+13:54:48 | "PieceDuck" (steamid=76561198161108074) spawned preset: (repairKit)
+13:54:49 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: repairKit has no parrent!
+13:54:49 | "PieceDuck" (steamid=76561198161108074) spawned preset: (repairKit)
+13:54:49 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: repairKit has no parrent!
+13:54:49 | "PieceDuck" (steamid=76561198161108074) spawned preset: (repairKit)
+13:54:50 | [VPPItemManager]:: SpawnItemPreset(): WARNING! preset: repairKit has no parrent!
+13:54:50 | "PieceDuck" (steamid=76561198161108074) spawned preset: (repairKit)
+13:55:40 | "76561198161108074" (steamid=76561198161108074) teleported to (pos=<3698.850098, 402.000000, 5989.879883>)
+13:55:40 | "PieceDuck": (steamid=76561198161108074) teleported to (pos=3698.85,0,5989.88)
+13:56:26 | Player "Sanik" (steamId=76561199483109476) initiated disconnect process...
+13:56:31 | Player "Sanik" (steamId=76561199483109476) disconnected from server.
+13:57:24 | Player "PieceDuck" (steamId=76561198161108074) initiated disconnect process...
+13:57:28 | Player "PieceDuck" (steamId=76561198161108074) disconnected early from server (EXIT NOW).
+13:57:29 | Player "PieceDuck" (steamId=76561198161108074) disconnected from server.
+14:1:21 | Player "PieceDuck" (steamId=76561198161108074) connected to server!
+14:3:42 | Player "PieceDuck" (steamId=76561198161108074) initiated disconnect process...
+14:3:42 | Player "PieceDuck" (steamId=76561198161108074) disconnected early from server (EXIT NOW).
+14:3:47 | Player "PieceDuck" (steamId=76561198161108074) disconnected from server.
+14:5:41 | Player "Satana" (steamId=76561199848325170) initiated disconnect process...
+14:5:42 | Player "Satana" (steamId=76561199848325170) disconnected early from server (EXIT NOW).
+14:5:46 | Player "Satana" (steamId=76561199848325170) disconnected from server.
+14:10:30 | Player "Bioking" (steamId=76561198884179595) initiated disconnect process...
+14:10:33 | Player "Butch" (steamId=76561199023755511) initiated disconnect process...
+14:10:35 | Player "Bioking" (steamId=76561198884179595) disconnected from server.
+14:10:38 | Player "Butch" (steamId=76561199023755511) disconnected from server.
+14:11:49 | Player "120kg" (steamId=76561199091882922) initiated disconnect process...
+14:12:1 | Player "Art_Man" (steamId=76561198119544941) initiated disconnect process...
+14:12:2 | Player "Art_Man" (steamId=76561198119544941) disconnected early from server (EXIT NOW).
+14:12:6 | Player "Art_Man" (steamId=76561198119544941) disconnected from server.
+14:12:31 | Player "DarthMaul" (steamId=76561198075305522) connected to server!
+14:13:14 | Player "flasch" (steamId=76561198013855789) connected to server!
+14:14:33 | Player "120kg" (steamId=76561199091882922) connected to server!
+14:21:18 | Player "dPh" (steamId=76561198385191941) connected to server!
+14:23:1 | Player "deluxe47" (steamId=76561198163048902) initiated disconnect process...
+14:23:6 | Player "deluxe47" (steamId=76561198163048902) disconnected from server.
+14:25:52 | Player "DarthMaul" (steamId=76561198075305522) initiated disconnect process...
+14:25:57 | Player "DarthMaul" (steamId=76561198075305522) disconnected from server.
+14:27:10 | Player "Survivor" (steamId=76561198290496854) connected to server!
+14:28:33 | Player "MoonLight" (steamId=76561199768403272) connected to server!
+14:32:58 | Player "not_today" (steamId=76561199319603335) initiated disconnect process...
+14:33:1 | Player "not_today" (steamId=76561199319603335) aborted logout process [canceledLogout]
+14:33:4 | Player "not_today" (steamId=76561199319603335) initiated disconnect process...
+14:33:9 | Player "not_today" (steamId=76561199319603335) disconnected from server.
+14:33:41 | Player "Survivor" (steamId=76561198290496854) initiated disconnect process...
+14:33:43 | Player "Survivor" (steamId=76561198290496854) disconnected early from server (EXIT NOW).
+14:33:46 | Player "Survivor" (steamId=76561198290496854) disconnected from server.
+14:34:15 | Player "not_today" (steamId=76561199319603335) connected to server!
+14:34:42 | Player "Mk_Jackson" (steamId=76561199076505655) initiated disconnect process...
+14:34:44 | Player "Mk_Jackson" (steamId=76561199076505655) disconnected early from server (EXIT NOW).
+14:34:47 | Player "Mk_Jackson" (steamId=76561199076505655) disconnected from server.
+14:35:53 | Player "MoonLight" (steamId=76561199768403272) initiated disconnect process...
+14:35:58 | Player "MoonLight" (steamId=76561199768403272) disconnected from server.
+14:36:9 | Player "KUZIJ" (steamId=76561198068897748) initiated disconnect process...
+14:36:10 | Player "KUZIJ" (steamId=76561198068897748) disconnected early from server (EXIT NOW).
+14:36:14 | Player "KUZIJ" (steamId=76561198068897748) disconnected from server.
+14:36:33 | Player "MoonLight" (steamId=76561199768403272) connected to server!
+14:36:58 | Player "dPh" (steamId=76561198385191941) initiated disconnect process...
+14:37:3 | Player "dPh" (steamId=76561198385191941) disconnected from server.
+14:37:44 | Player "dPh" (steamId=76561198385191941) connected to server!
+14:39:38 | Player "flasch" (steamId=76561198013855789) initiated disconnect process...
+14:39:43 | Player "flasch" (steamId=76561198013855789) disconnected from server.
+14:46:48 | Player "DarthMaul" (steamId=76561198075305522) connected to server!
+14:54:50 | Player "Butch" (steamId=76561199023755511) connected to server!
+15:0:26 | Player "Sanik" (steamId=76561199483109476) connected to server!
+15:6:25 | Player "not_today" (steamId=76561199319603335) initiated disconnect process...
+15:6:30 | Player "not_today" (steamId=76561199319603335) disconnected from server.
+15:8:8 | Player "not_today" (steamId=76561199319603335) connected to server!
+15:9:17 | Player "BaLaBoL" (steamId=76561198838672315) initiated disconnect process...
+15:9:18 | Player "BaLaBoL" (steamId=76561198838672315) disconnected early from server (EXIT NOW).
+15:9:22 | Player "BaLaBoL" (steamId=76561198838672315) disconnected from server.
+15:26:46 | Player "flasch" (steamId=76561198013855789) connected to server!
+15:27:46 | Player "Ho1ovin" (steamId=76561199235201986) connected to server!
+15:28:49 | Player "Satana" (steamId=76561199848325170) connected to server!
+15:30:12 | Player "beautifuldistress" (steamId=76561197991463508) connected to server!
+15:30:27 | Player "beautifuldistress" (steamId=76561197991463508) initiated disconnect process...
+15:30:32 | Player "beautifuldistress" (steamId=76561197991463508) disconnected from server.
+15:51:43 | Player "flasch" (steamId=76561198013855789) initiated disconnect process...
+15:51:57 | Player "Muxaylo" (steamId=76561198038284050) connected to server!
+15:52:11 | Player "flasch" (steamId=76561198013855789) connected to server!
+15:55:44 | Player "Moon" (steamId=76561199485344583) connected to server!
+15:57:37 | Player "not_today" (steamId=76561199319603335) initiated disconnect process...
+15:57:42 | Player "not_today" (steamId=76561199319603335) disconnected from server.
+15:57:46 | Player "Ho1ovin" (steamId=76561199235201986) initiated disconnect process...
+15:57:47 | Player "Ho1ovin" (steamId=76561199235201986) disconnected early from server (EXIT NOW).
+15:57:51 | Player "Ho1ovin" (steamId=76561199235201986) disconnected from server.
+15:59:23 | Player "Interstells" (steamId=76561198065544426) connected to server!
+15:59:34 | Player "flasch" (steamId=76561198013855789) initiated disconnect process...
+15:59:39 | Player "flasch" (steamId=76561198013855789) disconnected from server.
+16:0:46 | Player "not_today" (steamId=76561199319603335) connected to server!
+16:1:15 | Player "flasch" (steamId=76561198013855789) connected to server!
+16:1:49 | Player "Ho1ovin" (steamId=76561199235201986) connected to server!
+16:1:51 | Player "Lemon" (steamId=76561198010598527) connected to server!
+16:4:40 | Player "120kg" (steamId=76561199091882922) initiated disconnect process...
+16:4:40 | Player "120kg" (steamId=76561199091882922) disconnected early from server (EXIT NOW).
+16:4:45 | Player "120kg" (steamId=76561199091882922) disconnected from server.
+16:5:27 | Player "dPh" (steamId=76561198385191941) initiated disconnect process...
+16:5:32 | Player "dPh" (steamId=76561198385191941) disconnected from server.
+16:10:37 | "Moon" (steamid=76561199485344583) gave godmode to (steamid=76561199485344583)
+16:11:55 | "76561199485344583" (steamid=76561199485344583) teleported to (pos=<12451.299805, 46.382198, 10222.200195>)
+16:11:55 | "Moon": (steamid=76561199485344583) teleported to (pos=12451.3,0,10222.2)
+16:12:30 | "Moon" (steamid=76561199485344583) Spawned Item: (CrSk_Pitbull_VX)
+16:13:58 | "Moon" (steamid=76561199485344583) deleted object "CrSk_Pitbull_VX" (pos=<12434.465820, 48.503651, 10231.767578>)
+16:14:12 | "Moon" (steamid=76561199485344583) Spawned Item: (CrSk_Pitbull_VX_Khaki)
+16:14:17 | "Moon" (steamid=76561199485344583) Spawned Item: (CrSk_Pitbull_VX_Tan)
+16:14:21 | "Moon" (steamid=76561199485344583) Spawned Item: (CrSk_Pitbull_VX_Grey)
+16:15:5 | "Moon" (steamid=76561199485344583) deleted object "CrSk_Pitbull_VX_Tan" (pos=<12440.826172, 48.792114, 10240.980469>)
+16:15:8 | "Moon" (steamid=76561199485344583) deleted object "CrSk_Pitbull_VX_Grey" (pos=<12426.704102, 49.868065, 10244.004883>)
+16:15:28 | "Moon" (steamid=76561199485344583) Spawned Item: (UA_Novator_6_Instructor)
+16:17:58 | "Moon" (steamid=76561199485344583) deleted object "UA_Novator_6_Instructor" (pos=<12446.403320, 48.096355, 10237.373047>)
+16:18:16 | "Moon" (steamid=76561199485344583) Spawned Item: (UA_Novator_7_Kacci)
+16:18:55 | "Moon" (steamid=76561199485344583) deleted object "PitbullVX_dver_2_1_Khaki" (pos=<12447.894531, 50.351078, 10246.353516>)
+16:18:57 | "Moon" (steamid=76561199485344583) deleted object "CrSk_Pitbull_VX_Khaki" (pos=<12446.388672, 48.752464, 10246.225586>)
+16:20:21 | "Moon" (steamid=76561199485344583) Spawned Item: (CarLock)
+16:21:26 | Player "Art_Man" (steamId=76561198119544941) connected to server!
+16:23:41 | Player "ILLaigy" (steamId=76561198354433172) connected to server!
+16:26:57 | Player "DarthMaul" (steamId=76561198075305522) initiated disconnect process...
+16:27:2 | Player "DarthMaul" (steamId=76561198075305522) disconnected from server.
+16:27:6 | Player "flasch" (steamId=76561198013855789) initiated disconnect process...
+16:27:11 | Player "flasch" (steamId=76561198013855789) disconnected from server.
+16:27:22 | "Moon" (steamid=76561199485344583) Spawned Item: (KIWI_CarBattery)
+16:27:55 | "76561199485344583" (steamid=76561199485344583) teleported to (pos=<8224.690430, 469.179993, 9032.070313>)
+16:27:55 | "Moon": (steamid=76561199485344583) teleported to (pos=8224.69,0,9032.07)
+16:29:20 | "76561199485344583" (steamid=76561199485344583) teleported to (pos=<7342.109863, 383.071716, 9299.620117>)
+16:29:20 | "Moon": (steamid=76561199485344583) teleported to (pos=7342.11,0,9299.62)
+16:29:26 | Player "Interstells" (steamId=76561198065544426) initiated disconnect process...
+16:29:31 | Player "Interstells" (steamId=76561198065544426) disconnected from server.
+16:30:10 | "76561199485344583" (steamid=76561199485344583) teleported to (pos=<8228.019531, 469.179993, 9032.259766>)
+16:30:10 | "Moon": (steamid=76561199485344583) teleported to (pos=8228.02,0,9032.26)
+16:30:20 | Player "Bioking" (steamId=76561198884179595) connected to server!
+16:32:35 | Player "Danjiro-Jojo" (steamId=76561198284805070) connected to server!
+16:33:11 | Player "KUZIJ" (steamId=76561198068897748) connected to server!
+16:38:7 | Player "DarthMaul" (steamId=76561198075305522) connected to server!
+16:38:56 | Player "Lemon" (steamId=76561198010598527) initiated disconnect process...
+16:39:1 | Player "Lemon" (steamId=76561198010598527) disconnected from server.
+16:41:45 | Player "Moon" (steamId=76561199485344583) initiated disconnect process...
+16:42:35 | Player "MrVleD" (steamId=76561199281830897) connected to server!
+16:43:0 | Player "Moon" (steamId=76561199485344583) connected to server!
+16:43:28 | Player "120kg" (steamId=76561199091882922) connected to server!
+16:44:44 | Player "Interstells" (steamId=76561198065544426) connected to server!
+16:44:52 | "Moon" (steamid=76561199485344583) gave godmode to (steamid=76561199485344583)
+16:45:33 | "76561199485344583" (steamid=76561199485344583) teleported to (pos=<3726.949951, 401.649872, 6010.379883>)
+16:45:33 | "Moon": (steamid=76561199485344583) teleported to (pos=3726.95,0,6010.38)
+16:47:11 | "76561199485344583" (steamid=76561199485344583) teleported to (pos=<8227.679688, 469.179993, 9032.259766>)
+16:47:11 | "Moon": (steamid=76561199485344583) teleported to (pos=8227.68,0,9032.26)
+16:50:31 | "Moon" (steamid=76561199485344583) Spawned Item: (CrSk_Pitbull_VX_Tan)
+16:51:22 | "Moon" (steamid=76561199485344583) Spawned Item: (CarLock)
+16:52:1 | Player "Art_Man" (steamId=76561198119544941) initiated disconnect process...
+16:52:12 | "Moon" (steamid=76561199485344583) gave unlimited ammo to (steamid=76561199485344583)
+16:53:22 | "Moon" (steamid=76561199485344583) Spawned Item: (CrSk_Pitbull_VX_Grey)
+16:53:30 | "Moon" (steamid=76561199485344583) deleted object "CrSk_Pitbull_VX_Grey" (pos=<9543.540039, 302.321228, 8813.602539>)
+16:53:43 | "Moon" (steamid=76561199485344583) Spawned Item: (CrSk_Pitbull_VX_Tan)
+16:53:51 | "Moon" (steamid=76561199485344583) Spawned Item: (CrSk_Pitbull_VX_Grey)
+16:54:2 | "Moon" (steamid=76561199485344583) deleted object "CrSk_Pitbull_VX_Tan" (pos=<9564.246094, 299.073090, 8807.047852>)
+16:54:15 | "Moon" (steamid=76561199485344583) Spawned Item: (CarLock)
+16:55:37 | "76561199485344583" (steamid=76561199485344583) teleported to (pos=<8224.049805, 469.179993, 9028.209961>)
+16:55:37 | "Moon": (steamid=76561199485344583) teleported to (pos=8224.05,0,9028.21)
+16:56:8 | Player "Danjiro-Jojo" (steamId=76561198284805070) initiated disconnect process...
+16:56:13 | Player "Danjiro-Jojo" (steamId=76561198284805070) disconnected from server.
+16:58:12 | "Moon" (steamid=76561199485344583) kicked player: "2_son"
+16:58:12 | "Moon" (steamid=76561199485344583) kicked player: "Ho1ovin"
+16:58:12 | "Moon" (steamid=76561199485344583) kicked player: "MoonLight"
+16:58:12 | "Moon" (steamid=76561199485344583) kicked player: "ILLaigy"
+16:58:12 | "Moon" (steamid=76561199485344583) kicked player: "120kg"
+16:58:12 | "Moon" (steamid=76561199485344583) kicked player: "kulitipapuliti"
+16:58:12 | "Moon" (steamid=76561199485344583) kicked player: "Sanik"
+16:58:12 | "Moon" (steamid=76561199485344583) kicked player: "Bioking"
+16:58:12 | "Moon" (steamid=76561199485344583) kicked player: "Moon"
+16:58:12 | "Moon" (steamid=76561199485344583) kicked player: "Satana"
+16:58:12 | "Moon" (steamid=76561199485344583) kicked player: "Butch"
+16:58:12 | "Moon" (steamid=76561199485344583) kicked player: "not_today"
+16:58:12 | "Moon" (steamid=76561199485344583) kicked player: "Jeger"
+16:58:12 | "Moon" (steamid=76561199485344583) kicked player: "Interstells"
+16:58:12 | "Moon" (steamid=76561199485344583) kicked player: "MrVleD"
+16:58:12 | "Moon" (steamid=76561199485344583) kicked player: "Muxaylo"
+16:58:12 | "Moon" (steamid=76561199485344583) kicked player: "KUZIJ"
+16:58:12 | "Moon" (steamid=76561199485344583) kicked player: "DarthMaul"
+16:58:12 | Player "KUZIJ" (steamId=76561198068897748) initiated disconnect process...
+16:58:12 | Player "Moon" (steamId=76561199485344583) initiated disconnect process...
+16:58:12 | Player "Ho1ovin" (steamId=76561199235201986) initiated disconnect process...
+16:58:12 | Player "MoonLight" (steamId=76561199768403272) initiated disconnect process...
+16:58:12 | Player "Interstells" (steamId=76561198065544426) initiated disconnect process...
+16:58:12 | Player "Sanik" (steamId=76561199483109476) initiated disconnect process...
+16:58:12 | Player "not_today" (steamId=76561199319603335) initiated disconnect process...
+16:58:12 | Player "Bioking" (steamId=76561198884179595) initiated disconnect process...
+16:58:13 | Player "DarthMaul" (steamId=76561198075305522) initiated disconnect process...
+16:58:13 | Player "ILLaigy" (steamId=76561198354433172) initiated disconnect process...
+16:58:13 | Player "2_son" (steamId=76561198216607920) initiated disconnect process...
+16:58:13 | Player "120kg" (steamId=76561199091882922) initiated disconnect process...
+16:58:13 | Player "Satana" (steamId=76561199848325170) initiated disconnect process...
+16:58:13 | Player "MrVleD" (steamId=76561199281830897) initiated disconnect process...
+16:58:13 | Player "Butch" (steamId=76561199023755511) initiated disconnect process...
+16:58:13 | Player "Muxaylo" (steamId=76561198038284050) initiated disconnect process...
+16:58:13 | Player "Jeger" (steamId=76561198320671266) initiated disconnect process...
+16:58:13 | Player "kulitipapuliti" (steamId=76561198160896450) initiated disconnect process...
+16:58:17 | Player "KUZIJ" (steamId=76561198068897748) disconnected from server.
+16:58:17 | Player "Moon" (steamId=76561199485344583) disconnected from server.
+16:58:17 | Player "Ho1ovin" (steamId=76561199235201986) disconnected from server.
+16:58:17 | Player "MoonLight" (steamId=76561199768403272) disconnected from server.
+16:58:17 | Player "Sanik" (steamId=76561199483109476) disconnected from server.
+16:58:17 | Player "Interstells" (steamId=76561198065544426) disconnected from server.
+16:58:18 | Player "not_today" (steamId=76561199319603335) disconnected from server.
+16:58:18 | Player "2_son" (steamId=76561198216607920) disconnected from server.
+16:58:18 | Player "120kg" (steamId=76561199091882922) disconnected from server.
+16:58:18 | Player "ILLaigy" (steamId=76561198354433172) disconnected from server.
+16:58:18 | Player "DarthMaul" (steamId=76561198075305522) disconnected from server.
+16:58:18 | Player "Bioking" (steamId=76561198884179595) disconnected from server.
+16:58:18 | Player "Satana" (steamId=76561199848325170) disconnected from server.
+16:58:18 | Player "MrVleD" (steamId=76561199281830897) disconnected from server.
+16:58:18 | Player "Jeger" (steamId=76561198320671266) disconnected from server.
+16:58:18 | Player "Butch" (steamId=76561199023755511) disconnected from server.
+16:58:18 | Player "Muxaylo" (steamId=76561198038284050) disconnected from server.
+16:58:18 | Player "kulitipapuliti" (steamId=76561198160896450) disconnected from server.

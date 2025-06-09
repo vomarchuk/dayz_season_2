@@ -1,0 +1,36 @@
+{
+    "ConfigVersion": "1",
+    "TITLE": "[Azrael Thermal Area Mod]",
+    "AUTHOR": "Al-Azrael",
+    "DISCORD": "Discord: https://discord.gg/nTdfMS6bJF",
+    "SECTION1": "====== 1. Hot Area Settings ======",
+    "cfgh_EnableDebugMode": 0,
+    "cfgh_AreaTemperatureCap": 100,
+    "cfgh_AreaPlayerDamageMultipler": 5.0,
+    "cfgh_AreaClothingDamageMultipler": 2.0,
+    "cfgh_AreaDamageTickTime": 2.0,
+    "cfgh_AreaNotifications": 1,
+    "cfgh_ClothingStateNotifications": 1,
+    "cfgh_EnablePlayerHeatBufferToFull": 0,
+    "cfgh_EnablePlayerTemperatureReset": 1,
+    "SECTION2": "====== 2. Protection Settings ======",
+    "cfgh_EnableEquipHotAreaProtection": 1,
+    "cfgh_EnableClothingDamageIfYouHaveProtect": 1,
+    "cfgh_HotAreaProtectEquipList": [
+        {
+            "cfgh_equip_Name": "FirefightersHelmet_ColorBase",
+            "cfgh_equip_Protection": 0.20000000298023225,
+            "cfgh_equip_DmgModif": 0.05000000074505806
+        },
+        {
+            "cfgh_equip_Name": "FirefighterJacket_ColorBase",
+            "cfgh_equip_Protection": 0.4000000059604645,
+            "cfgh_equip_DmgModif": 0.05000000074505806
+        },
+        {
+            "cfgh_equip_Name": "FirefightersPants_ColorBase",
+            "cfgh_equip_Protection": 0.4000000059604645,
+            "cfgh_equip_DmgModif": 0.05000000074505806
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1018,
+    "Type": 1,
+    "Title": "Частина друга! Отруєна земля!",
+    "Descriptions": [
+        "Дякую що виконав це…Мені стало трошки легше, ми поховали його на гарному місці, можливо там краще чим в цьому бездушному світі! Стільки смертів…Думаю нам треба відпочити від всього цього, як ти відносишся до рибалки? Сходи, посиди на самоті, відпочинь!",
+        "Дякую що виконав це…Мені стало трошки легше, ми поховали його на гарному місці, можливо там краще чим в цьому бездушному світі! Стільки смертів…Думаю нам треба відпочити від всього цього, як ти відносишся до рибалки? Сходи, посиди на самоті, відпочинь!",
+        "Надіюся ти трошки відпочив!"
+    ],
+    "ObjectiveText": "Відпочинок",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "Jig",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "TerjeBookFishing5",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        2
+    ],
+    "QuestTurnInIDs": [
+        2
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 11,
+            "ObjectiveType": 10
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 1007,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": -930200403,
+    "ReputationReward": 10,
+    "ReputationRequirement": 650,
+    "PreQuestIDs": [
+        1015
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

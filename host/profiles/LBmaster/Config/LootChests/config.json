@@ -1,0 +1,254 @@
+{
+    "version": 5,
+    "enabled": 1,
+    "minPlayerDistanceForRespawn": 300.0,
+    "chestConfigs": [
+        {
+            "name": "police",
+            "chestDisplayName": "Ящик для зброї",
+            "chestDescription": "",
+            "comment": "",
+            "enabled": 1,
+            "maxSpawns": 7,
+            "positionPool": "police",
+            "chests": [
+                "LB_LC_Military1_Black"
+            ],
+            "displayRequiredKeys": 0,
+            "keys": [
+                {
+                    "itemname": "LB_LC_Key1_Black",
+                    "time": 3.0,
+                    "damage": 1.0,
+                    "successRate": 1.0
+                },
+                {
+                    "itemname": "Crowbar",
+                    "time": 15.0,
+                    "damage": 1.0,
+                    "successRate": 0.5
+                }
+            ],
+            "openable": 1,
+            "openTimeDelay": 0,
+            "playedSoundSets": [],
+            "playedSoundSetsTimer": [],
+            "lootPreset": "Preset_Police_Chest",
+            "lootHealthMin": 1.0,
+            "lootHealthMax": 1.0,
+            "lootRespawnTimeMin": 1600,
+            "lootRespawnTimeMax": 1800,
+            "saveOpenedChestsOverRestart": 1,
+            "saveClosedChestsOverRestart": 1
+        },
+        {
+            "name": "Medical",
+            "chestDisplayName": "Сейф з медикаментами",
+            "chestDescription": "",
+            "comment": "",
+            "enabled": 1,
+            "maxSpawns": 10,
+            "positionPool": "Medical",
+            "chests": [
+                "LB_LC_Military1_Green"
+            ],
+            "displayRequiredKeys": 0,
+            "keys": [
+                {
+                    "itemname": "LB_LC_Key1_Green",
+                    "time": 3.0,
+                    "damage": 1.0,
+                    "successRate": 1.0
+                },
+                {
+                    "itemname": "Crowbar",
+                    "time": 15.0,
+                    "damage": 1.0,
+                    "successRate": 0.5
+                }
+            ],
+            "openable": 1,
+            "openTimeDelay": 0,
+            "playedSoundSets": [],
+            "playedSoundSetsTimer": [],
+            "lootPreset": "Preset_Medical_Chest",
+            "lootHealthMin": 1.0,
+            "lootHealthMax": 1.0,
+            "lootRespawnTimeMin": 1600,
+            "lootRespawnTimeMax": 1800,
+            "saveOpenedChestsOverRestart": 1,
+            "saveClosedChestsOverRestart": 1
+        },
+        {
+            "name": "Craft_Weapon",
+            "chestDisplayName": "Ящик зі зброєю для крафта",
+            "chestDescription": "",
+            "comment": "",
+            "enabled": 1,
+            "maxSpawns": 3,
+            "positionPool": "Craft_weapon_01",
+            "chests": [
+                "LB_LC_Wood1"
+            ],
+            "displayRequiredKeys": 0,
+            "keys": [
+                {
+                    "itemname": "Lockpick",
+                    "time": 20.0,
+                    "damage": 1.0,
+                    "successRate": 0.800000011920929
+                },
+                {
+                    "itemname": "Crowbar",
+                    "time": 30.0,
+                    "damage": 1.0,
+                    "successRate": 0.30000001192092898
+                }
+            ],
+            "openable": 1,
+            "openTimeDelay": 0,
+            "playedSoundSets": [],
+            "playedSoundSetsTimer": [],
+            "lootPreset": "Preset_Craft_weapon_t1",
+            "lootHealthMin": 1.0,
+            "lootHealthMax": 1.0,
+            "lootRespawnTimeMin": 14400,
+            "lootRespawnTimeMax": 16200,
+            "saveOpenedChestsOverRestart": 1,
+            "saveClosedChestsOverRestart": 1
+        },
+        {
+            "name": "Money_small_safe_01",
+            "chestDisplayName": "",
+            "chestDescription": "",
+            "comment": "",
+            "enabled": 1,
+            "maxSpawns": 50,
+            "positionPool": "Money_01",
+            "chests": [
+                "LB_LC_Safe_1"
+            ],
+            "displayRequiredKeys": 0,
+            "keys": [
+                {
+                    "itemname": "Crowbar",
+                    "time": 20.0,
+                    "damage": 1.0,
+                    "successRate": 0.6000000238418579
+                },
+                {
+                    "itemname": "Lockpick",
+                    "time": 15.0,
+                    "damage": 1.0,
+                    "successRate": 0.800000011920929
+                },
+                {
+                    "itemname": "LB_LC_Key1_Violet",
+                    "time": 3.0,
+                    "damage": 1.0,
+                    "successRate": 1.0
+                }
+            ],
+            "openable": 1,
+            "openTimeDelay": 0,
+            "playedSoundSets": [],
+            "playedSoundSetsTimer": [],
+            "lootPreset": "Preset_Money_low",
+            "lootHealthMin": 1.0,
+            "lootHealthMax": 1.0,
+            "lootRespawnTimeMin": 1600,
+            "lootRespawnTimeMax": 2000,
+            "saveOpenedChestsOverRestart": 1,
+            "saveClosedChestsOverRestart": 0
+        },
+        {
+            "name": "Toxic_zone_chest_01",
+            "chestDisplayName": "",
+            "chestDescription": "",
+            "comment": "",
+            "enabled": 1,
+            "maxSpawns": 5,
+            "positionPool": "TOXIC_zone_chest",
+            "chests": [
+                "LB_LC_StashPlastic",
+                "LB_LC_StashBarrelYellow",
+                "LB_LC_StashBarrelRed",
+                "LB_LC_StashBarrelGreen",
+                "LB_LC_StashBarrelBlue"
+            ],
+            "displayRequiredKeys": 0,
+            "keys": [
+                {
+                    "itemname": "Crowbar",
+                    "time": 10.0,
+                    "damage": 1.0,
+                    "successRate": 0.5
+                },
+                {
+                    "itemname": "Lockpick",
+                    "time": 3.0,
+                    "damage": 1.0,
+                    "successRate": 1.0
+                }
+            ],
+            "openable": 1,
+            "openTimeDelay": 0,
+            "playedSoundSets": [],
+            "playedSoundSetsTimer": [],
+            "lootPreset": "Preset_Medical_Chest",
+            "lootHealthMin": 1.0,
+            "lootHealthMax": 1.0,
+            "lootRespawnTimeMin": 3200,
+            "lootRespawnTimeMax": 4000,
+            "saveOpenedChestsOverRestart": 1,
+            "saveClosedChestsOverRestart": 0
+        },
+        {
+            "name": "Military_Loot_chest_01",
+            "chestDisplayName": "",
+            "chestDescription": "",
+            "comment": "",
+            "enabled": 1,
+            "maxSpawns": 7,
+            "positionPool": "Military Chests_01",
+            "chests": [
+                "LB_LC_Military5_Black",
+                "LB_LC_Military5_Green"
+            ],
+            "displayRequiredKeys": 1,
+            "keys": [
+                {
+                    "itemname": "Crowbar",
+                    "time": 10.0,
+                    "damage": 1.0,
+                    "successRate": 0.800000011920929
+                },
+                {
+                    "itemname": "Lockpick",
+                    "time": 10.0,
+                    "damage": 1.0,
+                    "successRate": 1.0
+                }
+            ],
+            "openable": 1,
+            "openTimeDelay": 0,
+            "playedSoundSets": [
+                "RZ_KeyCardDoor_MEME_Alarm_Loop_SoundSet"
+            ],
+            "playedSoundSetsTimer": [],
+            "lootPreset": "Preset_Military_Chest_01",
+            "lootHealthMin": 1.0,
+            "lootHealthMax": 1.0,
+            "lootRespawnTimeMin": 1600,
+            "lootRespawnTimeMax": 2000,
+            "saveOpenedChestsOverRestart": 1,
+            "saveClosedChestsOverRestart": 0
+        }
+    ],
+    "globalSpawnBlockingItems": [
+        {
+            "itemname": "TerritoryFlag",
+            "radius": 400.0
+        }
+    ]
+}

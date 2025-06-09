@@ -1,0 +1,342 @@
+{
+    "TeleportEntries": [
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Teleport in Altar trade",
+            "ObjectType": "vbldr_doorinterier_closed_prx",
+            "ObjectCoordinates": [
+                8218.469727,
+                470.85,
+                9042.040039
+            ],
+            "ObjectOrientation": [
+                62.998062,
+                0.000000,
+                -0.000000
+            ],
+            "TeleportPosition": [
+                1400.533325,
+                334.60,
+                626.325806
+            ],
+            "CheckRadius": 2.5,
+            "RequiredItem": "",
+            "RequiredItemDamagePercent": 0,
+            "TeleportActiveTimeSeconds": 0,
+            "TeleportCooldownSeconds": 0,
+            "MissingItemMessage": ""
+        },
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Teleport out Altar trade",
+            "ObjectType": "vbldr_doorinterier_closed_prx",
+            "ObjectCoordinates": [
+                1402.359985,
+                335.75,
+                626.989990
+            ],
+            "ObjectOrientation": [
+                62.998062,
+                0.000000,
+                -0.000000
+            ],
+            "TeleportPosition": [
+                8217.685547,
+                469.5,
+                9039.040039
+            ],
+            "CheckRadius": 2.5,
+            "RequiredItem": "",
+            "RequiredItemDamagePercent": 0,
+            "TeleportActiveTimeSeconds": 0,
+            "TeleportCooldownSeconds": 0,
+            "MissingItemMessage": ""
+        },
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Teleport in Oilrig",
+            "ObjectType": "StaticObj_Furniture_radar_panel_flat",
+            "ObjectCoordinates": [
+                12063.400391,
+                1.606950,
+                3416.219971
+            ],
+            "ObjectOrientation": [
+                161.819473,
+                0.000000,
+                -0.000000
+            ],
+            "TeleportPosition": [
+                12561.294922,
+                0.9,
+                1919.892700
+            ],
+            "CheckRadius": 5,
+            "RequiredItem": "RZ_KeycardDD_lvl2",
+            "RequiredItemDamagePercent": 100,
+            "TeleportActiveTimeSeconds": 0,
+            "TeleportCooldownSeconds": 1,
+            "MissingItemMessage": "Тримай в руках карту доступу 2 рівня"
+        },
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Teleport out Oilrig",
+            "ObjectType": "StaticObj_Furniture_radar_panel_flat",
+            "ObjectCoordinates": [
+                12564.799805,
+                0.716943,
+                1924.920044
+            ],
+            "ObjectOrientation": [
+                43.741528,
+                0.000000,
+                -0.000000
+            ],
+            "TeleportPosition": [
+                12060.366211,
+                1.7,
+                3421.862061
+            ],
+            "CheckRadius": 5,
+            "RequiredItem": "",
+            "RequiredItemDamagePercent": 0,
+            "TeleportActiveTimeSeconds": 0,
+            "TeleportCooldownSeconds": 1,
+            "MissingItemMessage": "Човен в дорозі, зачекай"
+        },
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Teleport in Island",
+            "ObjectType": "StaticObj_Furniture_radar_panel_flat",
+            "ObjectCoordinates": [
+                13220.700195,
+                1.269830,
+                9952.299805
+            ],
+            "ObjectOrientation": [
+                -170.099579,
+                0.000000,
+                -0.000000
+            ],
+            "TeleportPosition": [
+                14093.233398,
+                1.1,
+                9670.615234
+            ],
+            "CheckRadius": 5,
+            "RequiredItem": "RZ_KeycardDD_lvl4",
+            "RequiredItemDamagePercent": 100,
+            "TeleportActiveTimeSeconds": 0,
+            "TeleportCooldownSeconds": 0,
+            "MissingItemMessage": "Тримай в руках карту доступу 4 рівня"
+        },
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Teleport out Island",
+            "ObjectType": "StaticObj_Furniture_radar_panel_flat",
+            "ObjectCoordinates": [
+                14089.700195,
+                0.954984,
+                9665.839844
+            ],
+            "ObjectOrientation": [
+                -136.442123,
+                0.000000,
+                -0.000000
+            ],
+            "TeleportPosition": [
+                13220.632813,
+                1.4,
+                9958.426758
+            ],
+            "CheckRadius": 5,
+            "RequiredItem": "",
+            "RequiredItemDamagePercent": 0,
+            "TeleportActiveTimeSeconds": 0,
+            "TeleportCooldownSeconds": 0,
+            "MissingItemMessage": "Човен в дорозі, зачекай"
+        },
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Teleport out Yar",
+            "ObjectType": "bldr_TB_Doors_B",
+            "ObjectCoordinates": [
+                4395.899902,
+                469.795013,
+                15045.500000
+            ],
+            "ObjectOrientation": [
+                -143.319580,
+                0.000000,
+                -0.000000
+            ],
+            "TeleportPosition": [
+                4395.540039,
+                469.674280,
+                15054.024414
+            ],
+            "CheckRadius": 3,
+            "RequiredItem": "",
+            "RequiredItemDamagePercent": 0,
+            "TeleportActiveTimeSeconds": 0,
+            "TeleportCooldownSeconds": 0,
+            "MissingItemMessage": ""
+        },
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Teleport in Yar",
+            "ObjectType": "bldr_TB_Doors_A",
+            "ObjectCoordinates": [
+                4393.713867,
+                469.513794,
+                15051.090820
+            ],
+            "ObjectOrientation": [
+                -143.358810,
+                0.000000,
+                -0.000000
+            ],
+            "TeleportPosition": [
+                4393.677246,
+                469.537048,
+                15044.338867
+            ],
+            "CheckRadius": 3,
+            "RequiredItem": "RZ_KeycardDD_lvl1",
+            "RequiredItemDamagePercent": 100,
+            "TeleportActiveTimeSeconds": 0,
+            "TeleportCooldownSeconds": 1,
+            "MissingItemMessage": "Тримай в руках карту доступу 1 рівня"
+        },
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Teleport out Alka",
+            "ObjectType": "bldr_Prison_MainCastle_barsdoors",
+            "ObjectCoordinates": [
+                2746.715820,
+                27.096189,
+                1284.092651
+            ],
+            "ObjectOrientation": [
+                2.522192,
+                0.000000,
+                -0.000000
+            ],
+            "TeleportPosition": [
+                2739.717041,
+                24.958403,
+                1284.579346
+            ],
+            "CheckRadius": 5,
+            "RequiredItem": "",
+            "RequiredItemDamagePercent": 0,
+            "TeleportActiveTimeSeconds": 0,
+            "TeleportCooldownSeconds": 0,
+            "MissingItemMessage": ""
+        },
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Teleport in Alka",
+            "ObjectType": "bldr_Prison_MainCastle_barsdoors",
+            "ObjectCoordinates": [
+                2741.024658,
+                26.303089,
+                1284.070923
+            ],
+            "ObjectOrientation": [
+                -2.455685,
+                0.000000,
+                0.000000
+            ],
+            "TeleportPosition": [
+                2748.074707,
+                25.964479,
+                1283.511719
+            ],
+            "CheckRadius": 5,
+            "RequiredItem": "RZ_KeycardDD_lvl3",
+            "RequiredItemDamagePercent": 100,
+            "TeleportActiveTimeSeconds": 0,
+            "TeleportCooldownSeconds": 1,
+            "MissingItemMessage": "Тримай в руках карту доступу 3 рівня"
+        },
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Teleport out Tisy2",
+            "ObjectType": "bldr_static_mi8_civilian",
+            "ObjectCoordinates": [
+                892.125244,
+                475.284210,
+                14771.754883
+            ],
+            "ObjectOrientation": [
+                171.000076,
+                0.000000,
+                -0.000000
+            ],
+            "TeleportPosition": [
+                1315.176025,
+                454.756927,
+                14491.929688
+            ],
+            "CheckRadius": 5,
+            "RequiredItem": "",
+            "RequiredItemDamagePercent": 0,
+            "TeleportActiveTimeSeconds": 0,
+            "TeleportCooldownSeconds": 0,
+            "MissingItemMessage": "Підійди ближче"
+        },
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Teleport out Tisy",
+            "ObjectType": "bldr_TB_Doors_A",
+            "ObjectCoordinates": [
+                1304.952148,
+                454.425049,
+                14496.774414
+            ],
+            "ObjectOrientation": [
+                -69.041199,
+                0.000000,
+                0.000000
+            ],
+            "TeleportPosition": [
+                1315.176025,
+                454.756927,
+                14491.929688
+            ],
+            "CheckRadius": 3,
+            "RequiredItem": "",
+            "RequiredItemDamagePercent": 0,
+            "TeleportActiveTimeSeconds": 0,
+            "TeleportCooldownSeconds": 0,
+            "MissingItemMessage": "Підійди ближче"
+        },
+        {
+            "EnableTeleport": 1,
+            "TeleportName": "Teleport in Tisy",
+            "ObjectType": "bldr_TB_Doors_A",
+            "ObjectCoordinates": [
+                1313.046387,
+                454.806976,
+                14492.558594
+            ],
+            "ObjectOrientation": [
+                -63.393570,
+                0.000000,
+                0.000000
+            ],
+            "TeleportPosition": [
+                1303.346069,
+                454.403900,
+                14497.942383
+            ],
+            "CheckRadius": 3,
+            "RequiredItem": "RZ_KeycardDD_lvl5",
+            "RequiredItemDamagePercent": 100,
+            "TeleportActiveTimeSeconds": 0,
+            "TeleportCooldownSeconds": 1,
+            "MissingItemMessage": "Тримай в руках карту доступу 5 рівня"
+        }
+    ]
+}

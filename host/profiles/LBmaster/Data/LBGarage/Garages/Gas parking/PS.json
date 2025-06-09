@@ -1,0 +1,453 @@
+{
+    "version": 0,
+    "steamid": "PS",
+    "level": 0,
+    "additionalVehicleCount": 0,
+    "vehicles": [
+        {
+            "uniqueID": 6277,
+            "infinite": 0,
+            "hasKey": 1,
+            "wasHacked": 0,
+            "isBrandNewVehicle": 0,
+            "hasInsurance": 0,
+            "insuranceValue": 0,
+            "vehicleKeyHash1": 343165685,
+            "vehicleKeyHash2": 72727272,
+            "vehicleKeyHash3": -1,
+            "vehicleKeyHash4": -1,
+            "itemname": "DodgeRam_BOSS_camored",
+            "fuelAmmount": 51.84390640258789,
+            "coolantAmmount": 5.749996662139893,
+            "oilAmmount": 4.0,
+            "brakeAmmount": 0.0,
+            "engineHealth": 0.9574252963066101,
+            "fuelTankHealth": 1.0,
+            "vehicleHealth": 0.9526947736740112,
+            "parkedInBySteamid": "76561198343165685",
+            "parkedInTimestamp": 1749398988,
+            "attachments": [
+                {
+                    "itemname": "DodgeRam_Wheel",
+                    "health": 0.9992793202400208,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1371622799
+                },
+                {
+                    "itemname": "DodgeRam_Wheel",
+                    "health": 0.9951390624046326,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1371622798
+                },
+                {
+                    "itemname": "DodgeRam_Cargo1_CamoRed",
+                    "health": 0.9343292117118836,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1156752021
+                },
+                {
+                    "itemname": "DodgeRam_Cargo2_CamoRed",
+                    "health": 0.8018945455551148,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1156752020
+                },
+                {
+                    "itemname": "OmdRadioCassette_Disco80Us",
+                    "health": 0.30746927857398989,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -798792922
+                },
+                {
+                    "itemname": "WoodenCrate",
+                    "health": 0.9740287065505981,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -648782520
+                },
+                {
+                    "itemname": "WoodenCrate",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -648782519
+                },
+                {
+                    "itemname": "WoodenCrate",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -648782518
+                },
+                {
+                    "itemname": "WoodenCrate",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -648782517
+                },
+                {
+                    "itemname": "SparkPlug",
+                    "health": 0.13357388973236085,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -626843635
+                },
+                {
+                    "itemname": "DodgeRam_Wheel",
+                    "health": 0.778065025806427,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -245688249
+                },
+                {
+                    "itemname": "DodgeRam_Wheel",
+                    "health": 0.8232519626617432,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -245688248
+                },
+                {
+                    "itemname": "DodgeRam_Wheel",
+                    "health": 0.8837569355964661,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -245686880
+                },
+                {
+                    "itemname": "DodgeRam_Wheel",
+                    "health": 0.8685802817344666,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -245686879
+                },
+                {
+                    "itemname": "CanisterGasoline",
+                    "health": 0.8389570116996765,
+                    "quantity": 20000.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 8192,
+                    "attSlot": -162093521
+                },
+                {
+                    "itemname": "DodgeRam_CoDriver_Door_CamoRed",
+                    "health": 0.885769784450531,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -16638825
+                },
+                {
+                    "itemname": "MMG_camelback_green",
+                    "health": 0.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 5100557
+                },
+                {
+                    "itemname": "CarRadiator",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 5271856
+                },
+                {
+                    "itemname": "Barrel_Yellow",
+                    "health": 0.699999988079071,
+                    "quantity": 0.002227783203125,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 512,
+                    "attSlot": 57707246
+                },
+                {
+                    "itemname": "Barrel_Blue",
+                    "health": 0.699999988079071,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 57707247
+                },
+                {
+                    "itemname": "DodgeRam_Hood",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 156292484
+                },
+                {
+                    "itemname": "HeadlightH7",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 673892051
+                },
+                {
+                    "itemname": "KIWI_CarBattery",
+                    "health": 0.7989742159843445,
+                    "quantity": 450.0,
+                    "remainingEnergy": 0.8994871377944946,
+                    "liquidType": 0,
+                    "attSlot": 1000100489
+                },
+                {
+                    "itemname": "DodgeRam_Trunk_CamoRed",
+                    "health": 0.6396237015724182,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 1510505194
+                },
+                {
+                    "itemname": "DodgeRam_Driver_Door_CamoRed",
+                    "health": 0.7006397247314453,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 2132283393
+                }
+            ],
+            "spawnCargoItems": [],
+            "storageFilename": "$profile:LBmaster/Data/LBGarage/Items/zJ2wfHVOQfXMH55GHs7K.bin",
+            "wasImpounded": 0,
+            "impoundWaitTime": 0,
+            "impoundRebuyCost": 0
+        },
+        {
+            "uniqueID": 57313,
+            "infinite": 0,
+            "hasKey": 1,
+            "wasHacked": 0,
+            "isBrandNewVehicle": 0,
+            "hasInsurance": 0,
+            "insuranceValue": 0,
+            "vehicleKeyHash1": 810047434,
+            "vehicleKeyHash2": 0,
+            "vehicleKeyHash3": -1,
+            "vehicleKeyHash4": -1,
+            "itemname": "CrSk_Pitbull_VX_Khaki",
+            "fuelAmmount": 135.81138610839845,
+            "coolantAmmount": 5.749996662139893,
+            "oilAmmount": 4.0,
+            "brakeAmmount": 0.0,
+            "engineHealth": 0.9326066970825195,
+            "fuelTankHealth": 1.0,
+            "vehicleHealth": 0.9326066970825195,
+            "parkedInBySteamid": "76561198810047434",
+            "parkedInTimestamp": 1749399131,
+            "attachments": [
+                {
+                    "itemname": "PitbullVX_bagazhnik_Khaki",
+                    "health": 0.9658490419387817,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1989266404
+                },
+                {
+                    "itemname": "PitbullVX_koleso",
+                    "health": 0.8684118390083313,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1214267078
+                },
+                {
+                    "itemname": "PitbullVX_koleso_zad",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1214267077
+                },
+                {
+                    "itemname": "PitbullVX_koleso",
+                    "health": 0.9749134182929993,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1214265709
+                },
+                {
+                    "itemname": "PitbullVX_koleso_zad",
+                    "health": 0.5984892249107361,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1214265708
+                },
+                {
+                    "itemname": "PitbullVX_dver_1_1_Khaki",
+                    "health": 0.7898122668266296,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -766840902
+                },
+                {
+                    "itemname": "PitbullVX_dver_1_2_Khaki",
+                    "health": 0.8170678615570068,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -766840901
+                },
+                {
+                    "itemname": "PitbullVX_dver_2_1",
+                    "health": 0.9892801642417908,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -766839533
+                },
+                {
+                    "itemname": "PitbullVX_dver_2_2_Khaki",
+                    "health": 0.6153702735900879,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -766839532
+                },
+                {
+                    "itemname": "WoodenCrate",
+                    "health": 0.4963182508945465,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -648782520
+                },
+                {
+                    "itemname": "WoodenCrate",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -648782519
+                },
+                {
+                    "itemname": "SparkPlug",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -626843635
+                },
+                {
+                    "itemname": "CanisterGasoline",
+                    "health": 0.9496994018554688,
+                    "quantity": 20000.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 8192,
+                    "attSlot": -162093521
+                },
+                {
+                    "itemname": "CarRadiator",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 5271856
+                },
+                {
+                    "itemname": "Barrel_Red",
+                    "health": 0.8163151741027832,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 57707246
+                },
+                {
+                    "itemname": "KIWI_Barrel_03",
+                    "health": 0.9791408181190491,
+                    "quantity": 200000.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 512,
+                    "attSlot": 57707247
+                },
+                {
+                    "itemname": "Barrel_Red",
+                    "health": 0.628595232963562,
+                    "quantity": 2709.005126953125,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 512,
+                    "attSlot": 57707248
+                },
+                {
+                    "itemname": "Barrel_Yellow",
+                    "health": 0.6377077698707581,
+                    "quantity": 2709.005126953125,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 512,
+                    "attSlot": 57707249
+                },
+                {
+                    "itemname": "PitbullVX_kapot_Khaki",
+                    "health": 0.9789592623710632,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 237093112
+                },
+                {
+                    "itemname": "HeadlightH7",
+                    "health": 0.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 673890682
+                },
+                {
+                    "itemname": "HeadlightH7",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 673892051
+                },
+                {
+                    "itemname": "CarBattery",
+                    "health": 1.0,
+                    "quantity": 47.0,
+                    "remainingEnergy": 0.9400409460067749,
+                    "liquidType": 0,
+                    "attSlot": 1000100489
+                },
+                {
+                    "itemname": "SeaChest",
+                    "health": 0.4064924716949463,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 1761584787
+                }
+            ],
+            "spawnCargoItems": [],
+            "storageFilename": "$profile:LBmaster/Data/LBGarage/Items/dN8xYa0Mr0vyQGG3qC7M.bin",
+            "wasImpounded": 0,
+            "impoundWaitTime": 0,
+            "impoundRebuyCost": 0
+        }
+    ],
+    "stolenVehicles": []
+}

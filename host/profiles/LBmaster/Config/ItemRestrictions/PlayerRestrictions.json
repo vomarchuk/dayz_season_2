@@ -1,0 +1,78 @@
+{
+    "version": 0,
+    "enabled": 1,
+    "restrictions": [
+        {
+            "displayName": "Sleeping Bags",
+            "kitItemNames": [
+                "LBS_SleepingPacked_Base",
+                "LBS_SleepingBag_New_Blue",
+                "LBS_SleepingPacked_New_Blue"
+            ],
+            "countItemNames": [],
+            "limits": [
+                1
+            ],
+            "isAttachment": 0,
+            "showOnMap": 1,
+            "show3D": 1
+        },
+        {
+            "displayName": "Kung",
+            "kitItemNames": [
+                "OH_Kung_Kit"
+            ],
+            "countItemNames": [
+                "OH_kung"
+            ],
+            "limits": [
+                1
+            ],
+            "isAttachment": 0,
+            "showOnMap": 1,
+            "show3D": 1
+        },
+        {
+            "displayName": "TerjeBag",
+            "kitItemNames": [
+                "TerjeSleepingBag_Blue"
+            ],
+            "countItemNames": [
+                "TerjeSleepingBag_Blue"
+            ],
+            "limits": [
+                1
+            ],
+            "isAttachment": 0,
+            "showOnMap": 1,
+            "show3D": 1
+        },
+        {
+            "displayName": "Fishing",
+            "kitItemNames": [
+                "FishNetTrap",
+                "SmallFishTrap"
+            ],
+            "countItemNames": [],
+            "limits": [
+                5
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        },
+        {
+            "displayName": "Hydravlick",
+            "kitItemNames": [
+                "HydraulicJack"
+            ],
+            "countItemNames": [],
+            "limits": [
+                1
+            ],
+            "isAttachment": 0,
+            "showOnMap": 0,
+            "show3D": 0
+        }
+    ]
+}

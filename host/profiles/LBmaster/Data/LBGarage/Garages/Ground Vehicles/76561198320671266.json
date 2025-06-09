@@ -1,0 +1,191 @@
+{
+    "version": 0,
+    "steamid": "76561198320671266",
+    "level": 0,
+    "additionalVehicleCount": 0,
+    "vehicles": [
+        {
+            "uniqueID": 84878,
+            "infinite": 0,
+            "hasKey": 1,
+            "wasHacked": 0,
+            "isBrandNewVehicle": 0,
+            "hasInsurance": 0,
+            "insuranceValue": 0,
+            "vehicleKeyHash1": 320671266,
+            "vehicleKeyHash2": 21321994,
+            "vehicleKeyHash3": -1,
+            "vehicleKeyHash4": -1,
+            "itemname": "DodgeRam_BOSS_camoblue",
+            "fuelAmmount": 41.76432418823242,
+            "coolantAmmount": 6.0,
+            "oilAmmount": 4.0,
+            "brakeAmmount": 0.0,
+            "engineHealth": 0.8752742409706116,
+            "fuelTankHealth": 0.9957621097564697,
+            "vehicleHealth": 0.8614158034324646,
+            "parkedInBySteamid": "76561198320671266",
+            "parkedInTimestamp": 1749329232,
+            "attachments": [
+                {
+                    "itemname": "DodgeRam_Wheel",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1371622799
+                },
+                {
+                    "itemname": "DodgeRam_Wheel",
+                    "health": 0.9970113039016724,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1371622798
+                },
+                {
+                    "itemname": "DodgeRam_Cargo1_CamoBlue",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1156752021
+                },
+                {
+                    "itemname": "DodgeRam_Cargo2_CamoBlue",
+                    "health": 0.8684878349304199,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1156752020
+                },
+                {
+                    "itemname": "SparkPlug",
+                    "health": 0.06484753638505936,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -626843635
+                },
+                {
+                    "itemname": "DodgeRam_Wheel",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -245688249
+                },
+                {
+                    "itemname": "DodgeRam_Wheel",
+                    "health": 0.8894352316856384,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -245688248
+                },
+                {
+                    "itemname": "DodgeRam_Wheel",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -245686880
+                },
+                {
+                    "itemname": "DodgeRam_Wheel",
+                    "health": 0.8956604599952698,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -245686879
+                },
+                {
+                    "itemname": "CanisterGasoline",
+                    "health": 0.3316776156425476,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -162093521
+                },
+                {
+                    "itemname": "DodgeRam_CoDriver_Door_CamoBlue",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -16638825
+                },
+                {
+                    "itemname": "VM_Leather_bag_100",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 5100557
+                },
+                {
+                    "itemname": "CarRadiator",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 5271856
+                },
+                {
+                    "itemname": "DodgeRam_Hood_CamoBlue",
+                    "health": 0.800000011920929,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 156292484
+                },
+                {
+                    "itemname": "HeadlightH7",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 673890682
+                },
+                {
+                    "itemname": "HeadlightH7",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 673892051
+                },
+                {
+                    "itemname": "CarBattery",
+                    "health": 0.5791338086128235,
+                    "quantity": 39.0,
+                    "remainingEnergy": 0.7895668745040894,
+                    "liquidType": 0,
+                    "attSlot": 1000100489
+                },
+                {
+                    "itemname": "DodgeRam_Trunk_CamoBlue",
+                    "health": 0.2895437479019165,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 1510505194
+                },
+                {
+                    "itemname": "DodgeRam_Driver_Door_CamoBlue",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 2132283393
+                }
+            ],
+            "spawnCargoItems": [],
+            "storageFilename": "$profile:LBmaster/Data/LBGarage/Items/NQ5q2n0bD2uwCN7Dj6KU.bin",
+            "wasImpounded": 0,
+            "impoundWaitTime": 0,
+            "impoundRebuyCost": 0
+        }
+    ],
+    "stolenVehicles": []
+}

@@ -1,0 +1,347 @@
+{
+    "BackpackLoot": [
+        {
+            "BackpackType": "DryBag_Red",
+            "MinCount": 2,
+            "MaxCount": 4,
+            "Items": [
+                {
+                    "ItemType": "AmmoBox_22_50Rnd",
+                    "Chance": 0.1625
+                },
+                {
+                    "ItemType": "AmmoBox_380_35Rnd",
+                    "Chance": 0.1625
+                },
+                {
+                    "ItemType": "AmmoBox_9x19_25Rnd",
+                    "Chance": 0.1625
+                },
+                {
+                    "ItemType": "AmmoBox_45ACP_25Rnd",
+                    "Chance": 0.1625
+                },
+                {
+                    "ItemType": "AmmoBox_545x39_20Rnd",
+                    "Chance": 0.1
+                },
+                {
+                    "ItemType": "AmmoBox_556x45_20Rnd",
+                    "Chance": 0.075
+                },
+                {
+                    "ItemType": "AmmoBox_762x39_20Rnd",
+                    "Chance": 0.075
+                },
+                {
+                    "ItemType": "AmmoBox_762x54_20Rnd",
+                    "Chance": 0.05
+                },
+                {
+                    "ItemType": "AmmoBox_308Win_20Rnd",
+                    "Chance": 0.05
+                }
+            ]
+        },
+        {
+            "BackpackType": "DryBag_Black",
+            "MinCount": 2,
+            "MaxCount": 3,
+            "Items": [
+                {
+                    "ItemType": "Crowbar",
+                    "Chance": 0.09375
+                },
+                {
+                    "ItemType": "SewingKit",
+                    "Chance": 0.09375
+                },
+                {
+                    "ItemType": "DuctTape",
+                    "Chance": 0.09375
+                },
+                {
+                    "ItemType": "EpoxyPutty",
+                    "Chance": 0.09375
+                },
+                {
+                    "ItemType": "LeatherSewingKit",
+                    "Chance": 0.09375
+                },
+                {
+                    "ItemType": "Wrench",
+                    "Chance": 0.09375
+                },
+                {
+                    "ItemType": "Screwdriver",
+                    "Chance": 0.09375
+                },
+                {
+                    "ItemType": "HandSaw",
+                    "Chance": 0.09375
+                },
+                {
+                    "ItemType": "RIP_MetalRods",
+                    "Chance": 0.075
+                },
+                {
+                    "ItemType": "RIP_OilFilter",
+                    "Chance": 0.075
+                },
+                {
+                    "ItemType": "RIP_Collet",
+                    "Chance": 0.075
+                },
+                {
+                    "ItemType": "NailBox",
+                    "Chance": 0.025
+                }
+            ]
+        },
+        {
+            "BackpackType": "DryBag_Green",
+            "MinCount": 3,
+            "MaxCount": 3,
+            "Items": [
+                {
+                    "ItemType": "TerjeSurgicalTool_White",
+                    "Chance": 0.05
+                },
+                {
+                    "ItemType": "TerjeSalveFinalgon",
+                    "Chance": 0.05
+                },
+                {
+                    "ItemType": "TerjePillsMagnesiumSulfate",
+                    "Chance": 0.05
+                },
+                {
+                    "ItemType": "TerjeSyringeNew",
+                    "Chance": 0.05
+                },
+                {
+                    "ItemType": "TerjeBandageHemostatic",
+                    "Chance": 0.05
+                },
+                {
+                    "ItemType": "TerjeSurgicalKit",
+                    "Chance": 0.05
+                },
+                {
+                    "ItemType": "TerjeExpressTestVirusZPack",
+                    "Chance": 0.05
+                },
+                {
+                    "ItemType": "TerjeExpressTestSepsisPack",
+                    "Chance": 0.05
+                },
+                {
+                    "ItemType": "TerjePillsAmibaktam",
+                    "Chance": 0.05
+                },
+                {
+                    "ItemType": "TerjePillsParacetamol",
+                    "Chance": 0.05
+                },
+                {
+                    "ItemType": "TerjePillsMesalazin",
+                    "Chance": 0.05
+                },
+                {
+                    "ItemType": "TerjePillsPolisorb",
+                    "Chance": 0.05
+                },
+                {
+                    "ItemType": "TerjePillsAgteminol",
+                    "Chance": 0.05
+                },
+                {
+                    "ItemType": "TerjePillsPiperacylin",
+                    "Chance": 0.05
+                },
+                {
+                    "ItemType": "TerjePillsNurofen",
+                    "Chance": 0.05
+                },
+                {
+                    "ItemType": "TerjePillsIrovit",
+                    "Chance": 0.05
+                },
+                {
+                    "ItemType": "TerjePillsNoopept",
+                    "Chance": 0.05
+                },
+                {
+                    "ItemType": "TerjeDrinkMadBull",
+                    "Chance": 0.05
+                },
+                {
+                    "ItemType": "TerjeDrinkYaguar",
+                    "Chance": 0.05
+                },
+                {
+                    "ItemType": "TerjePlaster",
+                    "Chance": 0.03
+                },
+                {
+                    "ItemType": "TerjeInjectorAmoxiclav",
+                    "Chance": 0.025
+                },
+                {
+                    "ItemType": "TerjeInjectorZivirol",
+                    "Chance": 0.025
+                }
+            ]
+        },
+        {
+            "BackpackType": "DryBag_Yellow",
+            "MinCount": 2,
+            "MaxCount": 4,
+            "Items": [
+                {
+                    "ItemType": "KIWI_Can_MeatRabbit",
+                    "Chance": 0.01
+                },
+                {
+                    "ItemType": "KIWI_Can_MeatChicken",
+                    "Chance": 0.01
+                },
+                {
+                    "ItemType": "SodaCan_Cola",
+                    "Chance": 0.03
+                },
+                {
+                    "ItemType": "SodaCan_Pipsi",
+                    "Chance": 0.03
+                },
+                {
+                    "ItemType": "SodaCan_Spite",
+                    "Chance": 0.03
+                },
+                {
+                    "ItemType": "SodaCan_Kvass",
+                    "Chance": 0.03
+                },
+                {
+                    "ItemType": "SodaCan_Fronta",
+                    "Chance": 0.03
+                },
+                {
+                    "ItemType": "WaterBottle",
+                    "Chance": 0.04
+                },
+                {
+                    "ItemType": "SardinesCan",
+                    "Chance": 0.05
+                },
+                {
+                    "ItemType": "PeachesCan",
+                    "Chance": 0.05
+                },
+                {
+                    "ItemType": "SpaghettiCan",
+                    "Chance": 0.05
+                },
+                {
+                    "ItemType": "BakedBeansCan",
+                    "Chance": 0.04
+                },
+                {
+                    "ItemType": "TunaCan",
+                    "Chance": 0.075
+                },
+                {
+                    "ItemType": "PowderedMilk",
+                    "Chance": 0.075
+                },
+                {
+                    "ItemType": "BrisketSpread",
+                    "Chance": 0.075
+                },
+                {
+                    "ItemType": "SaltySticks",
+                    "Chance": 0.075
+                },
+                {
+                    "ItemType": "Crackers",
+                    "Chance": 0.075
+                },
+                {
+                    "ItemType": "Pajka",
+                    "Chance": 0.075
+                },
+                {
+                    "ItemType": "Pate",
+                    "Chance": 0.075
+                },
+                {
+                    "ItemType": "Apple",
+                    "Chance": 0.075
+                }
+            ]
+        },
+        {
+            "BackpackType": "DryBag_Blue",
+            "MinCount": 1,
+            "MaxCount": 3,
+            "Items": [
+                {
+                    "ItemType": "TerjeBookAthletic1",
+                    "Chance": 0.09
+                },
+                {
+                    "ItemType": "TerjeBookAthletic2",
+                    "Chance": 0.06
+                },
+                {
+                    "ItemType": "TerjeBookFishing1",
+                    "Chance": 0.09
+                },
+                {
+                    "ItemType": "TerjeBookFishing2",
+                    "Chance": 0.06
+                },
+                {
+                    "ItemType": "TerjeBookHunting1",
+                    "Chance": 0.09
+                },
+                {
+                    "ItemType": "TerjeBookHunting2",
+                    "Chance": 0.06
+                },
+                {
+                    "ItemType": "TerjeBookStealth1",
+                    "Chance": 0.09
+                },
+                {
+                    "ItemType": "TerjeBookStealth2",
+                    "Chance": 0.06
+                },
+                {
+                    "ItemType": "TerjeBookStrength1",
+                    "Chance": 0.09
+                },
+                {
+                    "ItemType": "TerjeBookStrength2",
+                    "Chance": 0.06
+                },
+                {
+                    "ItemType": "TerjeBookSurvival1",
+                    "Chance": 0.09
+                },
+                {
+                    "ItemType": "TerjeBookSurvival2",
+                    "Chance": 0.06
+                },
+                {
+                    "ItemType": "TerjeBookMedicine1",
+                    "Chance": 0.09
+                },
+                {
+                    "ItemType": "TerjeBookMedicine2",
+                    "Chance": 0.06
+                }
+            ]
+        }
+    ]
+}

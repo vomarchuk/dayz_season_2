@@ -1,0 +1,21 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Магазини",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "IMP_Mag_VEPR12_20Rnd",
+      "MaxPriceThreshold": 2,
+      "MinPriceThreshold": 2,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SellPricePercent": 0,
+      "QuantityPercent": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

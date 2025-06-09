@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 14,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Знайти Агента",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        2749.507080,
+        33.670528,
+        1278.286621
+    ],
+    "MaxDistance": 1.0,
+    "MarkerName": "",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

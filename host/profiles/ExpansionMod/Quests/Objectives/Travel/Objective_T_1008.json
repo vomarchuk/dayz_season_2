@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1008,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Дійти до корабля",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        13776.373047,
+        2.001514,
+        11162.886719
+    ],
+    "MaxDistance": 100.0,
+    "MarkerName": "",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}
