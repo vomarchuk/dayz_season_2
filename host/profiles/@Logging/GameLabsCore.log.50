@@ -1,9 +1,0 @@
-************************** 2025-05-27T04:45:28+00:00 **************************
-2025-05-27T04:45:28+00:00 | [INFO	] GameLabs v1.955 start for server dd5ac1d0-8bdb-4b75-9055-15bead67e01f
-2025-05-27T04:45:40+00:00 | [INFO	] Server up (GameLabs v1.955; terrain=chernarusplus;)
-2025-05-27T04:45:40+00:00 | [INFO	] RPC interface initiated and handler registered
-2025-05-27T04:46:20+00:00 | [WARN	] RegisterAsync re-authorized
-2025-05-27T04:46:42+00:00 | [ERROR	] PlayerConnect errorCode(5)
-2025-05-27T05:00:01+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<7847dff0>> fired for already disconnected player [steam64=76561198119544941]
-2025-05-27T05:00:02+00:00 | [INFO	] (Reporter) Disabled
-2025-05-27T05:00:02+00:00 | [INFO	] (Core) Attempting graceful exit
