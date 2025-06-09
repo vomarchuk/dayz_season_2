@@ -9,8 +9,6 @@
   "enableLogsToFile": 1,
   "enableLogsToCsv": 1,
   "actionsBlackList": [
-    "ActionTakeItem",
-    "ActionDropItem",
     "ActionDropItemSimple",
     "ActionTakeItemToHands",
     "ActionOpenCarDoorsOutside",
