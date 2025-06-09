@@ -117,7 +117,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "Varta_Box"
+            ]
         },
         {
             "ClassName": "Varta_Box",
@@ -131,7 +133,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BRDK_german_motorcycle_Bag",
+            "ClassName": "BRDK_german_motorcycle_Bag_black",
             "MaxPriceThreshold": 2000,
             "MinPriceThreshold": 2000,
             "SellPricePercent": 10.0,
@@ -140,7 +142,7 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "BRDK_german_motorcycle_Bag_black"
+                "BRDK_german_motorcycle_Bag"
             ]
         },
         {
