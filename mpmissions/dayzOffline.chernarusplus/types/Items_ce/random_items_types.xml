@@ -769,10 +769,10 @@
         <value name="Tier4"/>
     </type>
     <type name="RIP_OilFilter">
-        <nominal>20</nominal>
+        <nominal>25</nominal>
         <lifetime>28800</lifetime>
         <restock>1919</restock>
-        <min>10</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -784,6 +784,7 @@
         <value name="Tier1"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="RIP_FilterSilencer">
         <lifetime>28800</lifetime>
@@ -793,10 +794,10 @@
         <nominal>0</nominal>
     </type>
     <type name="RIP_Collet">
-        <nominal>20</nominal>
+        <nominal>25</nominal>
         <lifetime>28800</lifetime>
         <restock>1919</restock>
-        <min>10</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -808,6 +809,7 @@
         <value name="Tier1"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="RIP_DocTube">
         <lifetime>28800</lifetime>
