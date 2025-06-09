@@ -1,0 +1,24 @@
+{
+    "m_Version": 2,
+    "m_ClassName": "OHlocker_Damage_BLUE_DARKKit",
+    "m_SkinName": "",
+    "m_HealthLevel": 1,
+    "m_Quantity": 0.0,
+    "m_QuantityType": 0,
+    "m_LiquidType": -1,
+    "m_IsBloodContainer": 0,
+    "m_FoodStageType": -1,
+    "m_Rarity": 1,
+    "m_ContainerItems": [],
+    "m_GlobalID": [
+        -2147483648,
+        -2147483648,
+        -2147483648,
+        -2147483452
+    ],
+    "m_OwnerUID": "7hkhDHHrTzJZsWvQcIRBqT9zabG0797zxiKVhhadr4o=",
+    "m_Price": 1666,
+    "m_ListingTime": 1749203320,
+    "m_ListingState": 1,
+    "m_OwnerName": "Kartuz"
+}

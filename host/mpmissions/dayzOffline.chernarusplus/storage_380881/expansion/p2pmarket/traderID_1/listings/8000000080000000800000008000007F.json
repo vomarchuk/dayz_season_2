@@ -1,0 +1,24 @@
+{
+    "m_Version": 2,
+    "m_ClassName": "CanisterGasoline",
+    "m_SkinName": "",
+    "m_HealthLevel": 2,
+    "m_Quantity": 20.0,
+    "m_QuantityType": 8,
+    "m_LiquidType": 8192,
+    "m_IsBloodContainer": 0,
+    "m_FoodStageType": -1,
+    "m_Rarity": 1,
+    "m_ContainerItems": [],
+    "m_GlobalID": [
+        -2147483648,
+        -2147483648,
+        -2147483648,
+        -2147483521
+    ],
+    "m_OwnerUID": "hsryIIwhxd2R_Z2ooEKg6VHrat12gA48R7hEKReO4Bw=",
+    "m_Price": 1000,
+    "m_ListingTime": 1748756989,
+    "m_ListingState": 1,
+    "m_OwnerName": "Sanik"
+}

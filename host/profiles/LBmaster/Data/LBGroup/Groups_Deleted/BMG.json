@@ -1,0 +1,99 @@
+{
+    "name": "persbase",
+    "shortname": "BMG",
+    "level": 0,
+    "lastActivity": 1748081733,
+    "creationDate": 1748074515,
+    "showTagInChat": 1,
+    "hasCustomChatColor": 0,
+    "customChatColorAppliedByPlayer": 0,
+    "chatColorR": 0,
+    "chatColorG": 0,
+    "chatColorB": 0,
+    "hasATMAccount": 0,
+    "ATMBalance": 0,
+    "members": [
+        {
+            "type": 4,
+            "uid": 36767014,
+            "name": "Butch",
+            "icon": "",
+            "position": [
+                10146.9716796875,
+                6.240192413330078,
+                1866.8660888671876
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 255,
+            "colorB": 255,
+            "creatorSteamID": "",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0,
+            "steamid": "76561199023755511",
+            "permissionGroup": 9,
+            "online": 1,
+            "health": 86.5626220703125,
+            "tempMember": 0
+        }
+    ],
+    "markers": [
+        {
+            "type": 3,
+            "uid": 863135579,
+            "name": "",
+            "icon": "LBmaster_Groups\\gui\\icons\\marker.paa",
+            "position": [
+                8825.2822265625,
+                318.21881103515627,
+                8651.103515625
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 255,
+            "colorB": 255,
+            "creatorSteamID": "76561199023755511",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0
+        },
+        {
+            "type": 3,
+            "uid": 1008957616,
+            "name": "#lb_ag_marker_death_pos: Butch",
+            "icon": "LBmaster_Groups\\gui\\icons\\skull.paa",
+            "position": [
+                10357.2060546875,
+                5.887819290161133,
+                1828.8714599609376
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 0,
+            "colorB": 0,
+            "creatorSteamID": "76561199023755511_D",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0
+        }
+    ]
+}

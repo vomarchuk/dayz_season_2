@@ -1,0 +1,14 @@
+************************** 2025-05-30T21:02:29+00:00 **************************
+2025-05-30T21:02:29+00:00 | [INFO	] GameLabs v1.955 start for server dd5ac1d0-8bdb-4b75-9055-15bead67e01f
+2025-05-30T21:02:41+00:00 | [INFO	] Server up (GameLabs v1.955; terrain=chernarusplus;)
+2025-05-30T21:02:41+00:00 | [INFO	] RPC interface initiated and handler registered
+2025-05-30T21:03:20+00:00 | [WARN	] RegisterAsync re-authorized
+2025-05-30T22:03:11+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2025-05-30T22:03:11+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2025-05-30T22:03:12+00:00 | [WARN	] RegisterAsync re-authorized
+2025-05-30T23:03:16+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2025-05-30T23:03:16+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2025-05-30T23:03:16+00:00 | [WARN	] RegisterAsync re-authorized
+2025-05-31T00:03:21+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2025-05-31T00:03:21+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2025-05-31T00:03:21+00:00 | [WARN	] RegisterAsync re-authorized

@@ -1,0 +1,32 @@
+{
+    "ConfigVersion": 28,
+    "ID": 2,
+    "ObjectiveType": 5,
+    "ObjectiveText": "Речі для Михайла",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "ParamedicJacket_Blue",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 1,
+            "ClassName": "ParamedicJacket_Green",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 1,
+            "ClassName": "ParamedicJacket_Crimson",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "MaxDistance": 5.0,
+    "MarkerName": "Поговори з Михайлом"
+}

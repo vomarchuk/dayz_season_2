@@ -1,0 +1,22 @@
+************************** 2025-05-31T11:35:02+00:00 **************************
+2025-05-31T11:35:02+00:00 | [INFO	] GameLabs v1.955 start for server dd5ac1d0-8bdb-4b75-9055-15bead67e01f
+2025-05-31T11:35:13+00:00 | [INFO	] Server up (GameLabs v1.955; terrain=chernarusplus;)
+2025-05-31T11:35:13+00:00 | [INFO	] RPC interface initiated and handler registered
+2025-05-31T11:35:49+00:00 | [WARN	] RegisterAsync re-authorized
+2025-05-31T11:36:08+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-31T11:36:08+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-31T11:36:11+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-31T11:36:14+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-31T11:36:19+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-31T11:52:11+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<24cb010>> fired for already disconnected player [steam64=76561198163048902]
+2025-05-31T11:52:40+00:00 | [WARN	] [Spawn] Spawning MPG_AdminBook_01 (x1) for SurvivorBase<9e79ee30>
+2025-05-31T11:59:05+00:00 | [WARN	] [Spawn] Spawning SLC_Tachi (x1) for SurvivorBase<f397c010>
+2025-05-31T12:35:41+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2025-05-31T12:35:41+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2025-05-31T12:35:41+00:00 | [WARN	] RegisterAsync re-authorized
+2025-05-31T12:44:26+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<ff1de020>> fired for already disconnected player [steam64=76561199483109476]
+2025-05-31T12:58:44+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<2b183190>> fired for already disconnected player [steam64=76561199281830897]
+2025-05-31T13:00:01+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<f397c010>> fired for already disconnected player [steam64=76561199848325170]
+2025-05-31T13:00:01+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<2b560ac0>> fired for already disconnected player [steam64=76561198884179595]
+2025-05-31T13:00:03+00:00 | [INFO	] (Reporter) Disabled
+2025-05-31T13:00:03+00:00 | [INFO	] (Core) Attempting graceful exit

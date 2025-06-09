@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 9,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Йдіть до краю села",
+    "TimeLimit": 2700,
+    "Active": 1,
+    "Position": [
+        9129.410156, 
+        257.139954, 
+        4107.449707
+    ],
+    "MaxDistance": 120.0,
+    "MarkerName": "Йдіть до краю села",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

@@ -1,0 +1,175 @@
+{
+    "version": 0,
+    "steamid": "ADM",
+    "level": 0,
+    "additionalVehicleCount": 0,
+    "vehicles": [
+        {
+            "uniqueID": 58177,
+            "infinite": 0,
+            "hasKey": 1,
+            "wasHacked": 0,
+            "isBrandNewVehicle": 0,
+            "hasInsurance": 0,
+            "insuranceValue": 0,
+            "vehicleKeyHash1": 322633256,
+            "vehicleKeyHash2": 11111111,
+            "vehicleKeyHash3": -1,
+            "vehicleKeyHash4": -1,
+            "itemname": "FC_Uaz_Pickup_Red",
+            "fuelAmmount": 58.83836364746094,
+            "coolantAmmount": 6.0,
+            "oilAmmount": 4.0,
+            "brakeAmmount": 1.0,
+            "engineHealth": 0.9884053468704224,
+            "fuelTankHealth": 0.9999769330024719,
+            "vehicleHealth": 0.9962561130523682,
+            "parkedInBySteamid": "76561198322633256",
+            "parkedInTimestamp": 1749454399,
+            "attachments": [
+                {
+                    "itemname": "KIWI_Barrel_03",
+                    "health": 0.9874616265296936,
+                    "quantity": 200000.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 512,
+                    "attSlot": -2090430087
+                },
+                {
+                    "itemname": "FC_Uaz_Pickup_Wheel",
+                    "health": 0.9792277216911316,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1888487745
+                },
+                {
+                    "itemname": "FC_Uaz_Pickup_Wheel",
+                    "health": 0.9120749235153198,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1888487744
+                },
+                {
+                    "itemname": "FC_Uaz_Pickup_Wheel",
+                    "health": 0.9792277216911316,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1888486376
+                },
+                {
+                    "itemname": "FC_Uaz_Pickup_Wheel",
+                    "health": 0.9156038165092468,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1888486375
+                },
+                {
+                    "itemname": "FC_Uaz_Pickup_Door_Trunk_Red",
+                    "health": 0.8898850679397583,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1792635507
+                },
+                {
+                    "itemname": "FC_Uaz_Pickup_Door_CoDriver_Red",
+                    "health": 0.9541889429092407,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1675470473
+                },
+                {
+                    "itemname": "SparkPlug",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -626843635
+                },
+                {
+                    "itemname": "CanisterGasoline",
+                    "health": 1.0,
+                    "quantity": 20000.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 8192,
+                    "attSlot": -162093521
+                },
+                {
+                    "itemname": "MMG_camelback_erdl",
+                    "health": 0.46637675166130068,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 5100557
+                },
+                {
+                    "itemname": "CarRadiator",
+                    "health": 0.7974258065223694,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 5271856
+                },
+                {
+                    "itemname": "FC_Uaz_Pickup_Door_Hood_Red",
+                    "health": 0.868198037147522,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 67018411
+                },
+                {
+                    "itemname": "FC_Uaz_Pickup_Wheel",
+                    "health": 0.9954800009727478,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 355215045
+                },
+                {
+                    "itemname": "CarBattery",
+                    "health": 1.0,
+                    "quantity": 20.0,
+                    "remainingEnergy": 0.40098264813423159,
+                    "liquidType": 0,
+                    "attSlot": 1000100489
+                },
+                {
+                    "itemname": "FC_Uaz_Pickup_Door_Cargo1_Red",
+                    "health": 0.9963854551315308,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 1181093626
+                },
+                {
+                    "itemname": "FC_Uaz_Pickup_Door_Cargo2_Red",
+                    "health": 0.9953616261482239,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 1181093627
+                },
+                {
+                    "itemname": "FC_Uaz_Pickup_Door_Driver_Red",
+                    "health": 0.9512460827827454,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 1281862673
+                }
+            ],
+            "spawnCargoItems": [],
+            "storageFilename": "$profile:LBmaster/Data/LBGarage/Items/Ppw4KYuyvBJNSlFsuHXH.bin",
+            "wasImpounded": 0,
+            "impoundWaitTime": 0,
+            "impoundRebuyCost": 0
+        }
+    ],
+    "stolenVehicles": []
+}

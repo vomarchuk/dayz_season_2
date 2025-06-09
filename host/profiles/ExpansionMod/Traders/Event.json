@@ -1,0 +1,29 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Мандрівник",
+    "MinRequiredReputation": 2500,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Questionmark",
+    "Currencies": [
+        "TraderPlus_Money_Euro1",
+        "TraderPlus_Money_Euro2",
+        "TraderPlus_Money_Euro5",
+        "TraderPlus_Money_Euro10",
+        "TraderPlus_Money_Euro20",
+        "TraderPlus_Money_Euro50",
+        "TraderPlus_Money_Euro100",
+        "TraderPlus_Money_Euro200",
+        "TraderPlus_Money_Euro500"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Event_ammo:0",
+        "Event_Mod_Mag:0",
+        "Event_Others:0",
+        "Event_Weapons:0"
+    ],
+    "Items": {}
+}

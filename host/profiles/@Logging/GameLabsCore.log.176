@@ -1,0 +1,32 @@
+************************** 2025-06-08T13:01:49+00:00 **************************
+2025-06-08T13:01:49+00:00 | [INFO	] GameLabs v1.955 start for server dd5ac1d0-8bdb-4b75-9055-15bead67e01f
+2025-06-08T13:02:01+00:00 | [INFO	] Server up (GameLabs v1.955; terrain=chernarusplus;)
+2025-06-08T13:02:01+00:00 | [INFO	] RPC interface initiated and handler registered
+2025-06-08T13:02:45+00:00 | [WARN	] RegisterAsync re-authorized
+2025-06-08T13:03:07+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-06-08T13:03:10+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-06-08T13:03:12+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-06-08T13:03:21+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-06-08T13:11:27+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<657aa010>> fired for already disconnected player [steam64=76561198123822380]
+2025-06-08T13:40:12+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<15498b0>> fired for already disconnected player [steam64=76561199019039915]
+2025-06-08T13:41:00+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<8ac6cff0>> fired for already disconnected player [steam64=76561198176403533]
+2025-06-08T14:02:37+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2025-06-08T14:02:37+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2025-06-08T14:02:37+00:00 | [WARN	] RegisterAsync re-authorized
+2025-06-08T15:02:42+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2025-06-08T15:02:42+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2025-06-08T15:02:42+00:00 | [WARN	] RegisterAsync re-authorized
+2025-06-08T15:04:35+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<65594ff0>> fired for already disconnected player [steam64=76561197961420594]
+2025-06-08T16:02:47+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2025-06-08T16:02:47+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2025-06-08T16:02:47+00:00 | [WARN	] RegisterAsync re-authorized
+2025-06-08T16:27:06+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-06-08T16:29:21+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-06-08T16:31:16+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-06-08T16:32:21+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-06-08T16:34:56+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-06-08T16:35:51+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-06-08T16:36:11+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-06-08T16:37:51+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-06-08T16:38:31+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-06-08T16:40:26+00:00 | [ERROR	] ServerPoll2 errorCode(8)

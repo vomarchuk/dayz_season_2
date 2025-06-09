@@ -1,0 +1,16 @@
+{
+    "ConfigVersion": 28,
+    "ID": 102,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Обхід території",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        2646.285889, 123.790215, 2200.620850
+    ],
+    "MaxDistance": 1.0,
+    "MarkerName": "Маяк",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

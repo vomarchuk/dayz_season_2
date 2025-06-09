@@ -1,0 +1,92 @@
+************************** 2025-05-24T02:54:07+00:00 **************************
+2025-05-24T02:54:07+00:00 | [INFO	] GameLabs v1.955 start for server 2ea7de53-49ce-4924-943d-f8b962b1ad4c
+2025-05-24T02:54:17+00:00 | [INFO	] Server up (GameLabs v1.955; terrain=chernarusplus;)
+2025-05-24T02:54:17+00:00 | [INFO	] RPC interface initiated and handler registered
+2025-05-24T02:54:51+00:00 | [WARN	] RegisterAsync re-authorized
+2025-05-24T02:55:10+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T03:01:35+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T03:54:47+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2025-05-24T03:54:47+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2025-05-24T03:54:47+00:00 | [WARN	] RegisterAsync re-authorized
+2025-05-24T03:59:05+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<bb59b020>> fired for already disconnected player [steam64=76561198119544941]
+2025-05-24T04:19:09+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T04:54:52+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2025-05-24T04:54:52+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2025-05-24T04:54:52+00:00 | [WARN	] RegisterAsync re-authorized
+2025-05-24T05:51:00+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T05:51:48+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T05:54:57+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2025-05-24T05:54:57+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2025-05-24T05:54:57+00:00 | [WARN	] RegisterAsync re-authorized
+2025-05-24T05:58:10+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T06:18:59+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T06:20:27+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<d8b15040>> fired for already disconnected player [steam64=76561199594092092]
+2025-05-24T06:28:09+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T06:41:23+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T06:50:13+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T06:55:02+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2025-05-24T06:55:02+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2025-05-24T06:55:02+00:00 | [WARN	] RegisterAsync re-authorized
+2025-05-24T06:57:39+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T06:59:21+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T07:04:35+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T07:05:40+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T07:21:12+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T07:21:26+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T07:21:36+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<d8b15040>> fired for already disconnected player [steam64=76561198119544941]
+2025-05-24T07:22:04+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T07:22:08+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T07:22:53+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T07:26:29+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T07:27:20+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<ea392330>> fired for already disconnected player [steam64=76561199053392414]
+2025-05-24T07:27:40+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<e2905070>> fired for already disconnected player [steam64=76561198271821338]
+2025-05-24T07:28:23+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T07:35:18+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T07:36:27+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T07:38:15+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T07:40:40+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<b61a9e20>> fired for already disconnected player [steam64=76561198068897748]
+2025-05-24T07:51:03+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T07:55:02+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<f0168020>> fired for already disconnected player [steam64=76561198406055009]
+2025-05-24T07:55:06+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2025-05-24T07:55:06+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2025-05-24T07:55:07+00:00 | [WARN	] RegisterAsync re-authorized
+2025-05-24T07:59:56+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T08:01:43+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T08:08:15+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<d82534e0>> fired for already disconnected player [steam64=76561199483109476]
+2025-05-24T08:10:49+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T08:11:47+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T08:12:01+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T08:12:48+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T08:12:49+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T08:13:41+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<f1286030>> fired for already disconnected player [steam64=76561198152576405]
+2025-05-24T08:19:07+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<d694e020>> fired for already disconnected player [steam64=76561198119544941]
+2025-05-24T08:21:03+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<e1cd7040>> fired for already disconnected player [steam64=76561198859579000]
+2025-05-24T08:21:20+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<f4ffc010>> fired for already disconnected player [steam64=76561199483109476]
+2025-05-24T08:23:45+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T08:24:01+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T08:27:51+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T08:30:42+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T08:30:57+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<d653e020>> fired for already disconnected player [steam64=76561198152576405]
+2025-05-24T08:31:18+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<f6c422d0>> fired for already disconnected player [steam64=76561198406055009]
+2025-05-24T08:36:58+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<e5a47050>> fired for already disconnected player [steam64=76561198104182080]
+2025-05-24T08:37:15+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T08:39:50+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<c335c010>> fired for already disconnected player [steam64=76561199483109476]
+2025-05-24T08:40:13+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T08:40:26+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T08:41:34+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T08:41:39+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T08:42:31+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T08:51:45+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<ce497030>> fired for already disconnected player [steam64=76561199023755511]
+2025-05-24T08:55:11+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2025-05-24T08:55:11+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2025-05-24T08:55:12+00:00 | [WARN	] RegisterAsync re-authorized
+2025-05-24T08:59:52+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T09:01:40+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T09:03:50+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T09:04:19+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T09:05:32+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T09:11:36+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T09:12:02+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<f69896c0>> fired for already disconnected player [steam64=76561197991463508]
+2025-05-24T09:12:36+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T09:14:01+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-05-24T09:16:07+00:00 | [ERROR	] PlayerConnect errorCode(5)

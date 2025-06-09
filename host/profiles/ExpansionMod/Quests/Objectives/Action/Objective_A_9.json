@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 9,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Непогано... Ти отримав трохи м'яса і кісток. Кістки на початку дуже цінний ресурс. За допомогою них можна скрафтити ніж, а також гачки для риболовлі коли навчишся. Спробуй зробити ніж взявши кістки в руки",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionCraftBoneKnife"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

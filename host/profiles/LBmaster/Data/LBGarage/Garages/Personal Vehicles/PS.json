@@ -1,0 +1,175 @@
+{
+    "version": 0,
+    "steamid": "PS",
+    "level": 0,
+    "additionalVehicleCount": 0,
+    "vehicles": [
+        {
+            "uniqueID": 34653,
+            "infinite": 0,
+            "hasKey": 1,
+            "wasHacked": 0,
+            "isBrandNewVehicle": 0,
+            "hasInsurance": 0,
+            "insuranceValue": 0,
+            "vehicleKeyHash1": 963391439,
+            "vehicleKeyHash2": 17971797,
+            "vehicleKeyHash3": -1,
+            "vehicleKeyHash4": -1,
+            "itemname": "Audi_RS6_ABT_Pink",
+            "fuelAmmount": 94.7244873046875,
+            "coolantAmmount": 6.0,
+            "oilAmmount": 4.0,
+            "brakeAmmount": 0.0,
+            "engineHealth": 1.0,
+            "fuelTankHealth": 1.0,
+            "vehicleHealth": 1.0,
+            "parkedInBySteamid": "76561198343165685",
+            "parkedInTimestamp": 1749380549,
+            "attachments": [
+                {
+                    "itemname": "Audi_RS6_ABT_Trunk_Black",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1621759142
+                },
+                {
+                    "itemname": "Audi_RS6_ABT_Cargo1_Pink",
+                    "health": 1.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1086415461
+                },
+                {
+                    "itemname": "Audi_RS6_ABT_Cargo2_Pink",
+                    "health": 0.9120438098907471,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -1086415460
+                },
+                {
+                    "itemname": "Audi_RS6_ABT_Driver_Pink",
+                    "health": 0.976492702960968,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -985646414
+                },
+                {
+                    "itemname": "Audi_RS6_ABT_CoDriver_Pink",
+                    "health": 0.7635431885719299,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -634055568
+                },
+                {
+                    "itemname": "SparkPlug",
+                    "health": 0.268911212682724,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -626843635
+                },
+                {
+                    "itemname": "Audi_RS6_ABT_Hood_Black",
+                    "health": 0.7828590869903565,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": -624844492
+                },
+                {
+                    "itemname": "CanisterGasoline",
+                    "health": 0.18000000715255738,
+                    "quantity": 10319.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 8192,
+                    "attSlot": -162093521
+                },
+                {
+                    "itemname": "MMG_camelback_black",
+                    "health": 0.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 5100557
+                },
+                {
+                    "itemname": "CarRadiator",
+                    "health": 0.5477455854415894,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 5271856
+                },
+                {
+                    "itemname": "HeadlightH7",
+                    "health": 0.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 673890682
+                },
+                {
+                    "itemname": "HeadlightH7",
+                    "health": 0.0,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 673892051
+                },
+                {
+                    "itemname": "CarBattery",
+                    "health": 0.5490437746047974,
+                    "quantity": 32.0,
+                    "remainingEnergy": 0.6308064460754395,
+                    "liquidType": 0,
+                    "attSlot": 1000100489
+                },
+                {
+                    "itemname": "Audi_RS6_ABT_Wheel",
+                    "health": 0.9532151222229004,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 1984197047
+                },
+                {
+                    "itemname": "Audi_RS6_ABT_Wheel",
+                    "health": 0.9696483612060547,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 1984197048
+                },
+                {
+                    "itemname": "Audi_RS6_ABT_Wheel",
+                    "health": 0.948112428188324,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 1984198416
+                },
+                {
+                    "itemname": "Audi_RS6_ABT_Wheel",
+                    "health": 0.961494505405426,
+                    "quantity": 0.0,
+                    "remainingEnergy": 1.0,
+                    "liquidType": 0,
+                    "attSlot": 1984198417
+                }
+            ],
+            "spawnCargoItems": [],
+            "storageFilename": "$profile:LBmaster/Data/LBGarage/Items/HY6CD5MH8XM-tqn52sC+.bin",
+            "wasImpounded": 0,
+            "impoundWaitTime": 0,
+            "impoundRebuyCost": 0
+        }
+    ],
+    "stolenVehicles": []
+}

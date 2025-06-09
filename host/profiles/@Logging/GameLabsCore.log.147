@@ -1,0 +1,15 @@
+************************** 2025-06-05T09:01:43+00:00 **************************
+2025-06-05T09:01:43+00:00 | [INFO	] GameLabs v1.955 start for server dd5ac1d0-8bdb-4b75-9055-15bead67e01f
+2025-06-05T09:01:54+00:00 | [INFO	] Server up (GameLabs v1.955; terrain=chernarusplus;)
+2025-06-05T09:01:54+00:00 | [INFO	] RPC interface initiated and handler registered
+2025-06-05T09:02:33+00:00 | [WARN	] RegisterAsync re-authorized
+2025-06-05T09:02:54+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-06-05T09:02:56+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-06-05T09:02:56+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-06-05T09:03:00+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-06-05T09:03:08+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-06-05T09:03:16+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<e1218020>> fired for already disconnected player [steam64=76561199076505655]
+2025-06-05T09:03:20+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<3f6b010>> fired for already disconnected player [steam64=76561198322633256]
+2025-06-05T09:03:27+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<810a3f20>> fired for already disconnected player [steam64=76561198847518258]
+2025-06-05T09:03:30+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<42120b0>> fired for already disconnected player [steam64=76561199639333047]
+2025-06-05T09:03:35+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<e1b57ff0>> fired for already disconnected player [steam64=76561199483109476]

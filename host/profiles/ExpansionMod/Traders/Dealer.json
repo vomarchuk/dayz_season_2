@@ -1,0 +1,26 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Барижка",
+    "MinRequiredReputation": 2000,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+        "TD_GRN2014_money1",
+        "TD_GRN2014_money2",
+        "TD_GRN2014_money5",
+        "TD_GRN2014_money10",
+        "TD_GRN2014_money20",
+        "TD_GRN2014_money50",
+        "TD_GRN2014_money100",
+        "TD_GRN2014_money200",
+        "TD_GRN2014_money500"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "DEALER"
+    ],
+    "Items": {}
+}

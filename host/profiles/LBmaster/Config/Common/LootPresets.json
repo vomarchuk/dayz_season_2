@@ -1,0 +1,1559 @@
+{
+    "version": 2,
+    "defaultItemConfigs": [
+        {
+            "presetName": "",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_IND",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "_IND",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_90%",
+            "individualChance": 1,
+            "chance": 0.8999999761581421,
+            "items": [],
+            "itemname": "_90%",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_80%",
+            "individualChance": 1,
+            "chance": 0.800000011920929,
+            "items": [],
+            "itemname": "_80%",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_70%",
+            "individualChance": 1,
+            "chance": 0.699999988079071,
+            "items": [],
+            "itemname": "_70%",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_60%",
+            "individualChance": 1,
+            "chance": 0.6000000238418579,
+            "items": [],
+            "itemname": "_60%",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_50%",
+            "individualChance": 1,
+            "chance": 0.5,
+            "items": [],
+            "itemname": "_50%",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_40%",
+            "individualChance": 1,
+            "chance": 0.4000000059604645,
+            "items": [],
+            "itemname": "_40%",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_30%",
+            "individualChance": 1,
+            "chance": 0.30000001192092898,
+            "items": [],
+            "itemname": "_30%",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_20%",
+            "individualChance": 1,
+            "chance": 0.20000000298023225,
+            "items": [],
+            "itemname": "_20%",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_10%",
+            "individualChance": 1,
+            "chance": 0.10000000149011612,
+            "items": [],
+            "itemname": "_10%",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_MAG",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "_MAG",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "mag"
+        },
+        {
+            "presetName": "_ROOT",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "_ROOT",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "root"
+        },
+        {
+            "presetName": "_BAT",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [
+                "Battery9V"
+            ],
+            "itemname": "_BAT",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_BAT_IND",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [
+                "Battery9V"
+            ],
+            "itemname": "_BAT_IND",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        }
+    ],
+    "base": [
+        {
+            "presetName": "Preset_Police_Chest",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [
+                "Preset_Police_weapons",
+                "Preset_Police_others",
+                "Preset_Police_med",
+                "WeaponCleaningKit",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "root": 1
+        },
+        {
+            "presetName": "Preset_Police_weapons",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [
+                "IMP_KelTecSUB2000",
+                "IMP_KelTecSUB2000_Supp",
+                "CZ61",
+                "UMP45",
+                "IMP_M870",
+                "MP5K",
+                "IMP_PP19Vityaz",
+                "Glock19",
+                "IMP_STM9"
+            ],
+            "root": 0
+        },
+        {
+            "presetName": "Preset_Police_others",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [
+                "CP_CannabisSeedsPackSkunk",
+                "CP_EmptyBag"
+            ],
+            "root": 0
+        },
+        {
+            "presetName": "Preset_Police_med",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [
+                "TerjeSurgicalKit",
+                "TerjeSurgicalTool_Ceramic"
+            ],
+            "root": 0
+        },
+        {
+            "presetName": "Preset_Medical_Chest",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [
+                "Preset_Medical_Injectors",
+                "Preset_Medical_Injectors",
+                "Preset_Medical_Tablets",
+                "Preset_Medical_Tablets",
+                "Preset_Medical_Tablets",
+                "Preset_Medical_Others",
+                "Preset_Medical_Others"
+            ],
+            "root": 1
+        },
+        {
+            "presetName": "Preset_Medical_Injectors",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [
+                "TerjeInjectorNeirox",
+                "TerjeInjectorErytromixelin",
+                "TerjeInjectorAmoxiclav",
+                "TerjeInjectorZivirol",
+                "AntiChemInjector",
+                "TerjeInjectorReanimatal",
+                "TerjeInjectorPromidol",
+                "Morphine",
+                "TerjeInjectorAmfitalicyne"
+            ],
+            "root": 0
+        },
+        {
+            "presetName": "Preset_Medical_Tablets",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [
+                "CharcoalTablets",
+                "TerjePillsParacetamol",
+                "TerjePillsNoopept",
+                "TerjePillsMagnesiumSulfate",
+                "TerjePillsRombiopental",
+                "PainkillerTablets",
+                "PurificationTablets"
+            ],
+            "root": 0
+        },
+        {
+            "presetName": "Preset_Medical_Others",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [
+                "TerjeSyringeNew",
+                "TerjePlaster",
+                "Heatpack",
+                "TerjeBandageHemostatic",
+                "TerjeSurgicalTool_Ceramic",
+                "BandageDressing",
+                "BloodTestKit",
+                "SalineBag",
+                "TerjeSurgicalKit",
+                "TerjeDrinkYaguar",
+                "TerjeDrinkGang",
+                "TerjeDrinkPrayboy"
+            ],
+            "root": 0
+        },
+        {
+            "presetName": "Preset_Spawn_01",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [
+                "Preset_Spawn_weapons_01",
+                "Preset_Spawn clothers",
+                "Preset_Spawn_others",
+                "Derringer_Pink",
+                "Roadflare_IND"
+            ],
+            "root": 1
+        },
+        {
+            "presetName": "Preset_Spawn_weapons_01",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [
+                "BaseballBat"
+            ],
+            "root": 0
+        },
+        {
+            "presetName": "Preset_Spawn_clothers_01",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [
+                "FB_retro_jacket_pink",
+                "FB_retro_pants_pink"
+            ],
+            "root": 0
+        },
+        {
+            "presetName": "Preset_Spawn_others",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [
+                "BandageDressing_BAT_IND",
+                "AmmoBox_357_30Rnd_ROOT"
+            ],
+            "root": 0
+        },
+        {
+            "presetName": "Preset_Craft_weapon_t1",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [
+                "M4A1",
+                "IMP_VSK94",
+                "IMP_FAMAS",
+                "Winchester70"
+            ],
+            "root": 1
+        },
+        {
+            "presetName": "Preset_Spawn_clothers_02",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [
+                "FB_retro_jacket_purple",
+                "FB_retro_pants_black"
+            ],
+            "root": 0
+        },
+        {
+            "presetName": "Preset_Spawn clothers",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [
+                "Preset_Spawn_clothers_01",
+                "Preset_Spawn_clothers_02",
+                "Preset_Spawn_clohters_03",
+                "FB_tapki_kletka_stich_yellow_IND",
+                "FB_cap_label_tan_IND"
+            ],
+            "root": 0
+        },
+        {
+            "presetName": "Preset_Spawn_clohters_03",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [
+                "FB_retro_jacket_red",
+                "FB_retro_pants_red"
+            ],
+            "root": 0
+        },
+        {
+            "presetName": "Preset_Money_low",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [
+                "TD_GRN2014_money10",
+                "TD_GRN2014_money20",
+                "TD_GRN2014_money50",
+                "TD_GRN2014_money1"
+            ],
+            "root": 1
+        },
+        {
+            "presetName": "Preset_Military_chest_weapon",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [
+                "IMP_AKAlfa",
+                "IMP_AN94",
+                "IMP_M590A1",
+                "IMP_G28_Tan",
+                "IMP_McMillan_CS5",
+                "IMP_ACR",
+                "IMP_SVD",
+                "IMP_SOK94",
+                "M79"
+            ],
+            "root": 0
+        },
+        {
+            "presetName": "Preset_Military_Chest_01",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [
+                "Preset_Military_chest_weapon",
+                "Preset_MK3",
+                "Preset_BagPack_assault",
+                "Preset_BagPack_Carrier",
+                "Preset_ammo_556x45",
+                "Preset_ammo_545x39",
+                "Preset_ammo_762x39",
+                "Preset_ammo_308",
+                "Preset_ammo_9x39",
+                "Preset_ammo_762x54",
+                "Preset_Helmet",
+                "Preset_suppresor"
+            ],
+            "root": 1
+        },
+        {
+            "presetName": "Preset_ammo_556x45",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [
+                "AmmoBox_556x45_20Rnd_IND",
+                "AmmoBox_556x45_20Rnd_IND",
+                "AmmoBox_556x45_20Rnd_IND",
+                "AmmoBox_556x45_20Rnd_IND",
+                "AmmoBox_556x45_20Rnd_IND",
+                "AmmoBox_556x45_20Rnd_IND",
+                "AmmoBox_556x45_20Rnd_IND",
+                "AmmoBox_556x45_20Rnd_IND",
+                "AmmoBox_556x45_20Rnd_IND",
+                "AmmoBox_556x45_20Rnd_IND"
+            ],
+            "root": 0
+        },
+        {
+            "presetName": "Preset_ammo_545x39",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [
+                "AmmoBox_545x39_20Rnd_IND",
+                "AmmoBox_545x39_20Rnd_IND",
+                "AmmoBox_545x39_20Rnd_IND",
+                "AmmoBox_545x39_20Rnd_IND",
+                "AmmoBox_545x39_20Rnd_IND",
+                "AmmoBox_545x39_20Rnd_IND",
+                "AmmoBox_545x39_20Rnd_IND",
+                "AmmoBox_545x39_20Rnd_IND",
+                "AmmoBox_545x39_20Rnd_IND",
+                "AmmoBox_545x39_20Rnd_IND"
+            ],
+            "root": 0
+        },
+        {
+            "presetName": "Preset_ammo_762x39",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [
+                "AmmoBox_762x39_20Rnd_IND",
+                "AmmoBox_762x39_20Rnd_IND",
+                "AmmoBox_762x39_20Rnd_IND",
+                "AmmoBox_762x39_20Rnd_IND",
+                "AmmoBox_762x39_20Rnd_IND",
+                "AmmoBox_762x39_20Rnd_IND",
+                "AmmoBox_762x39_20Rnd_IND",
+                "AmmoBox_762x39_20Rnd_IND",
+                "AmmoBox_762x39_20Rnd_IND",
+                "AmmoBox_762x39_20Rnd_IND"
+            ],
+            "root": 0
+        },
+        {
+            "presetName": "Preset_ammo_308",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [
+                "AmmoBox_308Win_20Rnd_IND",
+                "AmmoBox_308Win_20Rnd_IND",
+                "AmmoBox_308Win_20Rnd_IND",
+                "AmmoBox_308Win_20Rnd_IND",
+                "AmmoBox_308Win_20Rnd_IND",
+                "AmmoBox_308Win_20Rnd_IND",
+                "AmmoBox_308Win_20Rnd_IND",
+                "AmmoBox_308Win_20Rnd_IND",
+                "AmmoBox_308Win_20Rnd_IND",
+                "AmmoBox_308Win_20Rnd_IND"
+            ],
+            "root": 0
+        },
+        {
+            "presetName": "Preset_ammo_9x39",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [
+                "AmmoBox_9x39_20Rnd_IND",
+                "AmmoBox_9x39_20Rnd_IND",
+                "AmmoBox_9x39_20Rnd_IND",
+                "AmmoBox_9x39_20Rnd_IND",
+                "AmmoBox_9x39_20Rnd_IND",
+                "AmmoBox_9x39_20Rnd_IND",
+                "AmmoBox_9x39_20Rnd_IND",
+                "AmmoBox_9x39_20Rnd_IND",
+                "AmmoBox_9x39_20Rnd_IND",
+                "AmmoBox_9x39_20Rnd_IND"
+            ],
+            "root": 0
+        },
+        {
+            "presetName": "Preset_ammo_762x54",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [
+                "AmmoBox_762x54_20Rnd_IND",
+                "AmmoBox_762x54_20Rnd_IND",
+                "AmmoBox_762x54_20Rnd_IND",
+                "AmmoBox_762x54_20Rnd_IND",
+                "AmmoBox_762x54_20Rnd_IND",
+                "AmmoBox_762x54_20Rnd_IND",
+                "AmmoBox_762x54_20Rnd_IND",
+                "AmmoBox_762x54_20Rnd_IND",
+                "AmmoBox_762x54_20Rnd_IND",
+                "AmmoBox_762x54_20Rnd_IND"
+            ],
+            "root": 0
+        },
+        {
+            "presetName": "Preset_MK3",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [
+                "MMG_MK_III_Armor_alpine",
+                "MMG_MK_III_Armor_atacs",
+                "MMG_MK_III_Armor_black",
+                "MMG_MK_III_Armor_dark_woodland",
+                "MMG_MK_III_Armor_erdl",
+                "MMG_MK_III_Armor_green",
+                "MMG_MK_III_Armor_multicam",
+                "MMG_MK_III_Armor_multicam_tropic",
+                "MMG_MK_III_Armor_multicamblack",
+                "MMG_MK_III_Armor_tan",
+                "MMG_MK_III_Armor_ucp"
+            ],
+            "root": 0
+        },
+        {
+            "presetName": "Preset_BagPack_assault",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [
+                "MMG_assault_pack_alpine",
+                "MMG_assault_pack_atacs",
+                "MMG_assault_pack_black",
+                "MMG_assault_pack_dark_woodland",
+                "MMG_assault_pack_erdl",
+                "MMG_assault_pack_mct",
+                "MMG_assault_pack_multicam",
+                "MMG_assault_pack_multicamblack",
+                "MMG_assault_pack_olive",
+                "MMG_assault_pack_tan",
+                "MMG_assault_pack_ucp"
+            ],
+            "root": 0
+        },
+        {
+            "presetName": "Preset_BagPack_Carrier",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [
+                "MMG_carrier_backpack_alpine",
+                "MMG_carrier_backpack_atacs",
+                "MMG_carrier_backpack_black",
+                "MMG_carrier_backpack_dark_woodland",
+                "MMG_carrier_backpack_erdl",
+                "MMG_carrier_backpack_multicam",
+                "MMG_carrier_backpack_multicam_tropic",
+                "MMG_carrier_backpack_multicamblack",
+                "MMG_carrier_backpack_olive",
+                "MMG_carrier_backpack_tan",
+                "MMG_carrier_backpack_ucp"
+            ],
+            "root": 0
+        },
+        {
+            "presetName": "Preset_Helmet",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [
+                "FB_helmet_6b_47_cover_black",
+                "FB_helmet_6b_47_cover_olive",
+                "mmg_armored_helmet_green"
+            ],
+            "root": 0
+        },
+        {
+            "presetName": "Preset_suppresor",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [
+                "AK_Suppressor",
+                "M4_Suppressor",
+                "PistolSuppressor"
+            ],
+            "root": 0
+        },
+        {
+            "presetName": "Preset_Toxic_chest",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [
+                "Preset_Toxic_Craft_items_01",
+                "Preset_Toxic_Med_loot"
+            ],
+            "root": 0
+        },
+        {
+            "presetName": "Preset_Toxic_Craft_items_01",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [
+                "RIP_rubber",
+                "RIP_Glue",
+                "KIWI_WeaponCleaningKit"
+            ],
+            "root": 0
+        },
+        {
+            "presetName": "Preset_Toxic_Med_loot",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [
+                "VM_InjectorHP",
+                "VM_InjectorHP_MAX",
+                "AntiChemInjector",
+                "TerjeSurgicalKit"
+            ],
+            "root": 0
+        }
+    ],
+    "items": [
+        {
+            "presetName": "IMP_KelTecSUB2000",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [
+                "IMP_KelTecSUB2000_Mag_15Rnd",
+                "IMP_KelTecSUB2000_Mag_50Rnd",
+                "RIP_FilterSilencer",
+                "AmmoBox_9x19_25rnd",
+                "AmmoBox_9x19_25rnd",
+                "AmmoBox_9x19_25rnd_ROOT",
+                "AmmoBox_9x19_25rnd_ROOT",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "itemname": "IMP_KelTecSUB2000",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "hands"
+        },
+        {
+            "presetName": "IMP_KelTecSUB2000_Supp",
+            "individualChance": 0,
+            "chance": 0.5,
+            "items": [
+                "IMP_KelTecSUB2000_Mag_15Rnd",
+                "IMP_KelTecSUB2000_Mag_50Rnd",
+                "AmmoBox_9x19_25rnd",
+                "AmmoBox_9x19_25rnd",
+                "AmmoBox_9x19_25rnd_ROOT"
+            ],
+            "itemname": "IMP_KelTecSUB2000_Supp",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "hands"
+        },
+        {
+            "presetName": "IMP_KelTecSUB2000_Mag_15Rnd",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "IMP_KelTecSUB2000_Mag_15Rnd",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "mag"
+        },
+        {
+            "presetName": "IMP_KelTecSUB2000_Mag_50Rnd",
+            "individualChance": 0,
+            "chance": 0.5,
+            "items": [],
+            "itemname": "IMP_KelTecSUB2000_Mag_50Rnd",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "mag"
+        },
+        {
+            "presetName": "CZ61",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [
+                "Mag_CZ61_20Rnd_MAG",
+                "RIP_FilterSilencer",
+                "AmmoBox_380_35rnd",
+                "AmmoBox_380_35rnd",
+                "AmmoBox_380_35rnd_ROOT",
+                "AmmoBox_380_35rnd_ROOT"
+            ],
+            "itemname": "CZ61",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "hands"
+        },
+        {
+            "presetName": "RIP_FilterSilencer",
+            "individualChance": 1,
+            "chance": 0.20000000298023225,
+            "items": [],
+            "itemname": "RIP_FilterSilencer",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "att"
+        },
+        {
+            "presetName": "UMP45",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [
+                "Mag_UMP_25Rnd_MAG",
+                "RIP_FilterSilencer",
+                "AmmoBox_45ACP_25rnd",
+                "AmmoBox_45ACP_25rnd",
+                "AmmoBox_45ACP_25rnd_ROOT",
+                "AmmoBox_45ACP_25rnd_ROOT"
+            ],
+            "itemname": "UMP45",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "hands"
+        },
+        {
+            "presetName": "IMP_M870",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [
+                "FNP45_MRDSOptic",
+                "AmmoBox_00buck_10rnd_ROOT",
+                "AmmoBox_00buck_10rnd",
+                "AmmoBox_00buck_10rnd",
+                "AmmoBox_00buck_10rnd_ROOT",
+                "AmmoBox_00buck_10rnd_ROOT"
+            ],
+            "itemname": "IMP_M870",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "hands"
+        },
+        {
+            "presetName": "FNP45_MRDSOptic",
+            "individualChance": 1,
+            "chance": 0.699999988079071,
+            "items": [
+                "Battery9V"
+            ],
+            "itemname": "FNP45_MRDSOptic",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "att"
+        },
+        {
+            "presetName": "MP5K",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [
+                "Mag_MP5_30Rnd",
+                "Mag_MP5_15Rnd",
+                "RIP_FilterSilencer",
+                "MP5_RailHndgrd_50%",
+                "MP5_PlasticHndgrd_50%",
+                "FNP45_MRDSOptic",
+                "AmmoBox_9x19_25rnd",
+                "AmmoBox_9x19_25rnd",
+                "AmmoBox_9x19_25rnd_ROOT",
+                "AmmoBox_9x19_25rnd_ROOT"
+            ],
+            "itemname": "MP5K",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "hands"
+        },
+        {
+            "presetName": "Mag_MP5_30Rnd",
+            "individualChance": 0,
+            "chance": 0.6000000238418579,
+            "items": [],
+            "itemname": "Mag_MP5_30Rnd",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "mag"
+        },
+        {
+            "presetName": "Mag_MP5_15Rnd",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "Mag_MP5_15Rnd",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "mag"
+        },
+        {
+            "presetName": "IMP_PP19Vityaz",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [
+                "IMP_Mag_PP19Vityaz_30Rnd_MAG",
+                "IMP_Flashlight_Zenit2u",
+                "AmmoBox_9x19_25rnd",
+                "AmmoBox_9x19_25rnd",
+                "AmmoBox_9x19_25rnd_ROOT",
+                "AmmoBox_9x19_25rnd_ROOT"
+            ],
+            "itemname": "IMP_PP19Vityaz",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "hands"
+        },
+        {
+            "presetName": "IMP_Flashlight_Zenit2u",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [
+                "Battery9V"
+            ],
+            "itemname": "IMP_Flashlight_Zenit2u",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "Glock19",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [
+                "IMP_Mag_Glock_21Rnd",
+                "IMP_Mag_Glock_30Rnd",
+                "Mag_Glock_15Rnd",
+                "AmmoBox_9x19_25rnd",
+                "AmmoBox_9x19_25rnd",
+                "RIP_FilterSilencer",
+                "AmmoBox_9x19_25rnd_ROOT",
+                "AmmoBox_9x19_25rnd_ROOT",
+                "AmmoBox_9x19_25rnd_ROOT"
+            ],
+            "itemname": "Glock19",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "hands"
+        },
+        {
+            "presetName": "IMP_Mag_Glock_21Rnd",
+            "individualChance": 0,
+            "chance": 0.699999988079071,
+            "items": [],
+            "itemname": "IMP_Mag_Glock_21Rnd",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "mag"
+        },
+        {
+            "presetName": "IMP_Mag_Glock_30Rnd",
+            "individualChance": 0,
+            "chance": 0.5,
+            "items": [],
+            "itemname": "IMP_Mag_Glock_30Rnd",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "mag"
+        },
+        {
+            "presetName": "Mag_Glock_15Rnd",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "Mag_Glock_15Rnd",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "mag"
+        },
+        {
+            "presetName": "IMP_STM9",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [
+                "Mag_Glock_15Rnd",
+                "IMP_Mag_Glock_30Rnd",
+                "IMP_Mag_Glock_21Rnd",
+                "RIP_FilterSilencer",
+                "AmmoBox_9x19_25rnd",
+                "AmmoBox_9x19_25rnd",
+                "AmmoBox_9x19_25rnd_ROOT",
+                "AmmoBox_9x19_25rnd_ROOT",
+                "IMP_Bttstk_M4_Fortis_IND"
+            ],
+            "itemname": "IMP_STM9",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "hands"
+        },
+        {
+            "presetName": "AmmoBox_9x19_25rnd",
+            "individualChance": 1,
+            "chance": 0.699999988079071,
+            "items": [],
+            "itemname": "AmmoBox_9x19_25rnd",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "root"
+        },
+        {
+            "presetName": "AmmoBox_45ACP_25rnd",
+            "individualChance": 1,
+            "chance": 0.699999988079071,
+            "items": [],
+            "itemname": "AmmoBox_45ACP_25rnd",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "root"
+        },
+        {
+            "presetName": "AmmoBox_00buck_10rnd",
+            "individualChance": 1,
+            "chance": 0.699999988079071,
+            "items": [],
+            "itemname": "AmmoBox_00buck_10rnd",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "root"
+        },
+        {
+            "presetName": "AmmoBox_380_35rnd",
+            "individualChance": 1,
+            "chance": 0.699999988079071,
+            "items": [],
+            "itemname": "AmmoBox_380_35rnd",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "root"
+        },
+        {
+            "presetName": "CP_CannabisSeedsPackSkunk",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "CP_CannabisSeedsPackSkunk",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "root"
+        },
+        {
+            "presetName": "CP_EmptyBag",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "CP_EmptyBag",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "root"
+        },
+        {
+            "presetName": "TerjeSurgicalTool_Ceramic",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "TerjeSurgicalTool_Ceramic",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "TerjeSurgicalKit",
+            "individualChance": 0,
+            "chance": 0.6000000238418579,
+            "items": [],
+            "itemname": "TerjeSurgicalKit",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "WeaponCleaningKit",
+            "individualChance": 1,
+            "chance": 0.20000000298023225,
+            "items": [],
+            "itemname": "WeaponCleaningKit",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "root"
+        },
+        {
+            "presetName": "TerjeInjectorNeirox",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "TerjeInjectorNeirox",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "TerjeInjectorErytromixelin",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "TerjeInjectorErytromixelin",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "TerjeInjectorAmoxiclav",
+            "individualChance": 0,
+            "chance": 0.30000001192092898,
+            "items": [],
+            "itemname": "TerjeInjectorAmoxiclav",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "TerjeInjectorZivirol",
+            "individualChance": 0,
+            "chance": 0.30000001192092898,
+            "items": [],
+            "itemname": "TerjeInjectorZivirol",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "AntiChemInjector",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "AntiChemInjector",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "TerjeInjectorRabinucoline",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "TerjeInjectorRabinucoline",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "TerjeInjectorReanimatal",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "TerjeInjectorReanimatal",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "TerjeInjectorPromidol",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "TerjeInjectorPromidol",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "Morphine",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "Morphine",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "TerjeInjectorAmfitalicyne",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "TerjeInjectorAmfitalicyne",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "CharcoalTablets",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "CharcoalTablets",
+            "addToHotbar": 1,
+            "quantmin": 0.10000000149011612,
+            "quantmax": 1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "TerjePillsParacetamol",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "TerjePillsParacetamol",
+            "addToHotbar": 1,
+            "quantmin": 0.10000000149011612,
+            "quantmax": 1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "TerjePillsNoopept",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "TerjePillsNoopept",
+            "addToHotbar": 1,
+            "quantmin": 0.10000000149011612,
+            "quantmax": 1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "TerjePillsMagnesiumSulfate",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "TerjePillsMagnesiumSulfate",
+            "addToHotbar": 1,
+            "quantmin": 0.10000000149011612,
+            "quantmax": 1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "TerjePillsRombiopental",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "TerjePillsRombiopental",
+            "addToHotbar": 1,
+            "quantmin": 0.10000000149011612,
+            "quantmax": 1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "PainkillerTablets",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "PainkillerTablets",
+            "addToHotbar": 1,
+            "quantmin": 0.10000000149011612,
+            "quantmax": 1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "TerjeSyringeNew",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "TerjeSyringeNew",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "TerjePlaster",
+            "individualChance": 0,
+            "chance": 0.699999988079071,
+            "items": [],
+            "itemname": "TerjePlaster",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "Heatpack",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "Heatpack",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "TerjeBandageHemostatic",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "TerjeBandageHemostatic",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "TerjeSurgicalTool_Ceramic",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "TerjeSurgicalTool_Ceramic",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "BandageDressing",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "BandageDressing",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "BloodTestKit",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "BloodTestKit",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "SalineBag",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "SalineBag",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "PurificationTablets",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "PurificationTablets",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "TerjeSurgicalKit",
+            "individualChance": 0,
+            "chance": 0.20000000298023225,
+            "items": [],
+            "itemname": "TerjeSurgicalKit",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "TerjeDrinkYaguar",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "TerjeDrinkYaguar",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "TerjeDrinkGang",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "TerjeDrinkGang",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "TerjeDrinkPrayboy",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "TerjeDrinkPrayboy",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "FB_galoshi_black",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "FB_galoshi_black",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "FB_retro_jacket_pink",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "FB_retro_jacket_pink",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "FB_retro_jacket_purple",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "FB_retro_jacket_purple",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "FB_retro_jacket_red",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "FB_retro_jacket_red",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "FB_retro_pants_black",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "FB_retro_pants_black",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "FB_retro_pants_pink",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "FB_retro_pants_pink",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "FB_retro_pants_red",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "FB_retro_pants_red",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "TD_GRN2014_money10",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "TD_GRN2014_money10",
+            "addToHotbar": 0,
+            "quantmin": 0.00800000037997961,
+            "quantmax": 0.03999999910593033,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "TD_GRN2014_money20",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "TD_GRN2014_money20",
+            "addToHotbar": 0,
+            "quantmin": 0.0020000000949949028,
+            "quantmax": 0.007000000216066837,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "TD_GRN2014_money50",
+            "individualChance": 1,
+            "chance": 0.009999999776482582,
+            "items": [],
+            "itemname": "TD_GRN2014_money50",
+            "addToHotbar": 0,
+            "quantmin": 0.019999999552965165,
+            "quantmax": 0.02500000037252903,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "TD_GRN2014_money1",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "TD_GRN2014_money1",
+            "addToHotbar": 0,
+            "quantmin": 0.029999999329447748,
+            "quantmax": 0.09000000357627869,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "BaseballBat",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "BaseballBat",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "hands"
+        },
+        {
+            "presetName": "Derringer_Pink",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "Derringer_Pink",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "cargo"
+        },
+        {
+            "presetName": "RIP_rubber",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "RIP_rubber",
+            "addToHotbar": 1,
+            "quantmin": 0.05000000074505806,
+            "quantmax": 0.5,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "RIP_Glue",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "RIP_Glue",
+            "addToHotbar": 1,
+            "quantmin": 0.05000000074505806,
+            "quantmax": 0.5,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "KIWI_WeaponCleaningKit",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "KIWI_WeaponCleaningKit",
+            "addToHotbar": 1,
+            "quantmin": 0.05000000074505806,
+            "quantmax": 0.5,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "TraderPlus_Money_Euro1",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [],
+            "itemname": "TraderPlus_Money_Euro1",
+            "addToHotbar": 0,
+            "quantmin": 1.0,
+            "quantmax": 10.0,
+            "spawnIn": "any"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Запчастини для Nissan Skyline",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "Skyline_driverdoor",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Skyline_driverdoor_Blue",
+                "Skyline_driverdoor_Black",
+                "Skyline_driverdoor_Pink",
+                "Skyline_driverdoor_Orange",
+                "Skyline_driverdoor_Red"
+            ]
+        },
+        {
+            "ClassName": "Skyline_codriver_door",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Skyline_codriver_door_Blue",
+                "Skyline_codriver_door_Black",
+                "Skyline_codriver_door_Pink",
+                "Skyline_codriver_door_Orange",
+                "Skyline_codriver_door_Red"
+            ]
+        },
+        {
+            "ClassName": "Skyline_Trunk",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Skyline_Trunk_Blue",
+                "Skyline_Trunk_Black",
+                "Skyline_Trunk_Pink",
+                "Skyline_Trunk_Orange",
+                "Skyline_Trunk_Red"
+            ]
+        },
+        {
+            "ClassName": "Skyline_Hood",
+            "MaxPriceThreshold": 870,
+            "MinPriceThreshold": 870,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Skyline_Hood_Blue",
+                "Skyline_Hood_Black",
+                "Skyline_Hood_Pink",
+                "Skyline_Hood_Orange",
+                "Skyline_Hood_Red"
+            ]
+        },
+        {
+            "ClassName": "Skyline_Wheel",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}
