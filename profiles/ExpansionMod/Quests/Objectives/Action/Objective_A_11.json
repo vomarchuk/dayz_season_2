@@ -1,0 +1,15 @@
+{
+    "ConfigVersion": 28,
+    "ID": 11,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Зробити саморобну вудицю і викопай черв'яків",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionDigWorms",
+        "ActionDigWormsCB"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 3
+}

@@ -1,0 +1,80 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1020,
+    "Type": 1,
+    "Title": "Частина друга! Отруєна земля!",
+    "Descriptions": [
+        "Нещодавно группа моїх хлопців пішли шукати патрони до військових наметів біля села Мишкіно, як вияснилося цю місцевість охороняють військові, хоча бляха, які вони нахер військові, бандюки звичайні які все під себе хочуть загробастати, а нам простим людям, болт на 32, короче, я не буду довго толкувати все це, ці виблядки стріляють без розбору у все що рухається, хочу трохи порядку навести, завали їх, і получиш нагороду грошову!",
+        "Нещодавно группа моїх хлопців пішли шукати патрони до військових наметів біля села Мишкіно, як вияснилося цю місцевість охороняють військові, хоча бляха, які вони нахер військові, бандюки звичайні які все під себе хочуть загробастати, а нам простим людям, болт на 32, короче, я не буду довго толкувати все це, ці виблядки стріляють без розбору у все що рухається, хочу трохи порядку навести, завали їх, і получиш нагороду грошову!",
+        "Радий тебе бачити, живим!"
+    ],
+    "ObjectiveText": "Порядок",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "Ammo_308Win",
+            "Amount": 50,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "TD_GRN2014_money500",
+            "Amount": 2,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        5
+    ],
+    "QuestTurnInIDs": [
+        5
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1011,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 1002,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": -930200403,
+    "ReputationReward": 10,
+    "ReputationRequirement": 750,
+    "PreQuestIDs": [
+        1019
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}
