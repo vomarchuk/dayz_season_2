@@ -44,10 +44,10 @@
     "RewardsForGroupOwnerOnly": 0,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
-        9
+        5
     ],
     "QuestTurnInIDs": [
-        9
+        5
     ],
     "IsAchievement": 0,
     "Objectives": [
