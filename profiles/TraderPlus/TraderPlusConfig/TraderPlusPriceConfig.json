@@ -1845,9 +1845,9 @@
     {
       "CategoryName": "MMG goggles",
       "Products": [
-        "mmg_tac_goggles_red_green,1,-1,1,-1,1000",
-        "mmg_tac_goggles_red_black,1,-1,1,-1,1000",
-        "mmg_tac_goggles_red_tan,1,-1,1,-1,1000"
+        "mmg_tac_goggles_red_green,1,-1,1,-1,150",
+        "mmg_tac_goggles_red_black,1,-1,1,-1,150",
+        "mmg_tac_goggles_red_tan,1,-1,1,-1,150"
       ]
     },
     {
