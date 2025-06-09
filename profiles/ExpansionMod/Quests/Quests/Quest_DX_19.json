@@ -1,0 +1,56 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1019,
+    "Type": 1,
+    "Title": "Частина друга! Отруєна земля!",
+    "Descriptions": [
+        "Надіюся ти трошки відпочив, Стаф передав мені, що йому сподобалося те як ти вирішуєш питання, піди до нього, він якраз підготував тобі роботу!",
+        "Надіюся ти трошки відпочив, Стаф передав мені, що йому сподобалося те як ти вирішуєш питання, піди до нього, він якраз підготував тобі роботу!",
+        "О ти тут!"
+    ],
+    "ObjectiveText": "Відпочинок закінчено",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        2
+    ],
+    "QuestTurnInIDs": [
+        9
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1003,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": -930200403,
+    "ReputationReward": 0,
+    "ReputationRequirement": 700,
+    "PreQuestIDs": [
+        1018
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

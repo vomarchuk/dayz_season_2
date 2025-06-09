@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1011,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Бандити",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        1157.027832,
+        93.419983,
+        7240.453857
+    ],
+    "MaxDistance": 200.0,
+    "MarkerName": "",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}
