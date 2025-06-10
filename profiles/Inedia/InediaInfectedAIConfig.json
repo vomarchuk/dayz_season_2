@@ -1266,10 +1266,10 @@
       "highdef": 0.20000000298023224
     },
     "DamageToZombieBodyRangeMultiplier": {
-      "mediumdef": 0.600000011920929,
-      "all": 0.8000000059604645,
-      "lowdef": 0.8000000059604645,
-      "highdef": 0.40000000298023225
+      "mediumdef": 0.80,
+      "all": 1.0,
+      "lowdef": 1.0,
+      "highdef": 0.60
     },
     "DamageToZombieFromCarsMultiplier": {
       "mediumdef": 0.01000001192092898,
