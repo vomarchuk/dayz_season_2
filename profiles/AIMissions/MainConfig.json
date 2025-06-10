@@ -1705,6 +1705,16 @@
                     "Contents": []
                 },
                 {
+                    "ClassName": "Lockpick",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "CP_PlasticRoll",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
                     "ClassName": "EpoxyPutty",
                     "Attach": [],
                     "Contents": []

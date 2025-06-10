@@ -24,7 +24,7 @@
             "RequiredItemDamagePercent": 0,
             "TeleportActiveTimeSeconds": 0,
             "TeleportCooldownSeconds": 0,
-            "MissingItemMessage": ""
+            "MissingItemMessage": "Підійди ближче"
         },
         {
             "EnableTeleport": 1,
@@ -50,7 +50,7 @@
             "RequiredItemDamagePercent": 0,
             "TeleportActiveTimeSeconds": 0,
             "TeleportCooldownSeconds": 0,
-            "MissingItemMessage": ""
+            "MissingItemMessage": "Підійди ближче"
         },
         {
             "EnableTeleport": 1,
@@ -180,7 +180,7 @@
             "RequiredItemDamagePercent": 0,
             "TeleportActiveTimeSeconds": 0,
             "TeleportCooldownSeconds": 0,
-            "MissingItemMessage": ""
+            "MissingItemMessage": "Підійди ближче"
         },
         {
             "EnableTeleport": 1,
@@ -232,7 +232,7 @@
             "RequiredItemDamagePercent": 0,
             "TeleportActiveTimeSeconds": 0,
             "TeleportCooldownSeconds": 0,
-            "MissingItemMessage": ""
+            "MissingItemMessage": "Підійди ближче"
         },
         {
             "EnableTeleport": 1,
