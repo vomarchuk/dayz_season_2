@@ -17,20 +17,11 @@
             11141.043945
         ]
     ],
-    "LootItemsAmount": 2,
+    "LootItemsAmount": 1,
     "MaxDistance": 50.0,
     "Loot": [
         {
             "Name": "RIP_DocTube",
-            "Chance": 1.0,
-            "Attachments": [],
-            "QuantityPercent": -1,
-            "Max": 1,
-            "Min": 1,
-            "Variants": []
-        },
-        {
-            "Name": "TerjeBookAthletic3",
             "Chance": 1.0,
             "Attachments": [],
             "QuantityPercent": -1,
