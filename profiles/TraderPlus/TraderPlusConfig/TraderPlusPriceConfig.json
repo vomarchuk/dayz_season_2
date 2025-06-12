@@ -2159,6 +2159,31 @@
       ]
     },
     {
+      "CategoryName": "Visors",
+      "Products": [
+        "AP_maska_visor_smile,1,-1,1,-1,250",
+        "AP_maska_visor_ornament,1,-1,1,-1,250",
+        "AP_maska_visor_gold,1,-1,1,-1,250",
+        "AP_mich_visor_sand,1,-1,1,-1,250",
+        "AP_mich_visor_green,1,-1,1,-1,250",
+        "AP_mich_visor_black,1,-1,1,-1,250",
+        "AP_mich_visor_small_sand,1,-1,1,-1,250",
+        "AP_mich_visor_small_green,1,-1,1,-1,250",
+        "AP_mich_visor_small_black,1,-1,1,-1,250",
+        "AP_mich_ear_sand,1,-1,1,-1,250",
+        "AP_mich_ear_green,1,-1,1,-1,250",
+        "AP_mich_ear_black,1,-1,1,-1,250",
+        "AP_maska_visor_black,1,-1,1,-1,250",
+        "AP_maska_visor_green,1,-1,1,-1,250",
+        "AP_maska_visor_skull,1,-1,1,-1,250",
+        "AP_altyn_visor_black,1,-1,1,-1,250",
+        "AP_altyn_visor_green,1,-1,1,-1,250",
+        "AP_vulkan_visor_black,1,-1,1,-1,250",
+        "AP_vulkan_visor_green,1,-1,1,-1,250",
+        "AP_kiver_visor_black,1,-1,1,-1,250"
+      ]
+    },
+    {
       "CategoryName": "MMG Helmets",
       "Products": [
         "MMG_tactical_helmet_black,1,-1,1,-1,250",
