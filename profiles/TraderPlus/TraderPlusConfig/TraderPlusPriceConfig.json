@@ -1694,64 +1694,64 @@
     {
       "CategoryName": "Сет Залізний мрець",
       "Products": [
-        "VM_Iron_Revenant_Helmet,1,-1,0,30000,3000",
-        "VM_Iron_Revenant_Vest_V1,1,-1,0,100000,5000",
-        "VM_Iron_Revenant_Jacket_V1,1,-1,0,55000,5000",
-        "VM_Iron_Revenant_Pants_V1,1,-1,0,45000,4000",
-        "VM_Iron_Revenant_Boots,1,-1,0,30000,3000",
-        "VM_Iron_Revenant_Gloves,1,-1,0,30000,3000"
+        "VM_Iron_Revenant_Helmet,1,-1,0,50000,5000",
+        "VM_Iron_Revenant_Vest_V1,1,-1,0,120000,12000",
+        "VM_Iron_Revenant_Jacket_V1,1,-1,0,75000,7500",
+        "VM_Iron_Revenant_Pants_V1,1,-1,0,65000,6500",
+        "VM_Iron_Revenant_Boots,1,-1,0,50000,5000",
+        "VM_Iron_Revenant_Gloves,1,-1,0,50000,5000"
       ]
     },
     {
       "CategoryName": "Сет САТАНИ",
       "Products": [
-        "VM_Satana_Poncho,1,-1,0,30000,3000",
-        "VM_Satana_Mask,1,-1,0,30000,3000",
-        "VM_Satana_Vest_V1,1,-1,0,100000,5000",
-        "VM_Satana_Jacket_V1,1,-1,0,55000,5000",
-        "VM_Satana_Pants_V1,1,-1,0,45000,4000",
-        "VM_Satana_Shoes,1,-1,0,30000,3000",
-        "VM_Satana_Gloves,1,-1,0,30000,3000"
+        "VM_Satana_Poncho,1,-1,0,50000,5000",
+        "VM_Satana_Mask,1,-1,0,50000,5000",
+        "VM_Satana_Vest_V1,1,-1,0,120000,12000",
+        "VM_Satana_Jacket_V1,1,-1,0,75000,7500",
+        "VM_Satana_Pants_V1,1,-1,0,65000,6500",
+        "VM_Satana_Shoes,1,-1,0,50000,5000",
+        "VM_Satana_Gloves,1,-1,0,50000,5000"
       ]
     },
     {
       "CategoryName": "Сет Каскадера",
       "Products": [
-        "VM_Stuntman_Helmet,1,-1,0,30000,3000",
-        "VM_Stuntman_Mask,1,-1,0,30000,3000",
-        "VM_Stuntman_Vest_V1,1,-1,0,100000,5000",
-        "VM_Stuntman_Jacket_V1,1,-1,0,55000,5000",
-        "VM_Stuntman_Pants_V1,1,-1,0,45000,4000",
-        "VM_Stuntman_Shoes,1,-1,0,30000,3000",
-        "VM_Stuntman_Gloves,1,-1,0,30000,3000"
+        "VM_Stuntman_Helmet,1,-1,0,50000,5000",
+        "VM_Stuntman_Mask,1,-1,0,50000,5000",
+        "VM_Stuntman_Vest_V1,1,-1,0,120000,12000",
+        "VM_Stuntman_Jacket_V1,1,-1,0,75000,7500",
+        "VM_Stuntman_Pants_V1,1,-1,0,65000,6500",
+        "VM_Stuntman_Shoes,1,-1,0,50000,5000",
+        "VM_Stuntman_Gloves,1,-1,0,50000,5000"
       ]
     },
     {
       "CategoryName": "Сет Привида",
       "Products": [
-        "VM_Ghost_Helmet,1,-1,0,30000,3000",
-        "VM_Ghost_Vest_V1,1,-1,0,100000,10000",
-        "VM_Ghost_Jacket_V1,1,-1,0,55000,5000",
-        "VM_Ghost_Pants_V1,1,-1,0,45000,4000",
-        "VM_Ghost_Shoes,1,-1,0,30000,3000",
-        "VM_Ghost_Gloves,1,-1,0,30000,3000"
+        "VM_Ghost_Helmet,1,-1,0,50000,5000",
+        "VM_Ghost_Vest_V1,1,-1,0,120000,12000",
+        "VM_Ghost_Jacket_V1,1,-1,0,75000,7500",
+        "VM_Ghost_Pants_V1,1,-1,0,65000,6500",
+        "VM_Ghost_Shoes,1,-1,0,50000,5000",
+        "VM_Ghost_Gloves,1,-1,0,50000,5000"
       ]
     },
     {
       "CategoryName": "Сет FIXER",
       "Products": [
-        "VM_FIXHelmetBGIIO,1,-1,0,30000,3000",
-        "VM_FIXHelmetIIO,1,-1,0,30000,3000",
-        "VM_FIXvestBGIIO_V1,1,-1,0,100000,10000",
-        "VM_FIXvestIIO_V1,1,-1,0,100000,10000",
-        "VM_FIXtopsBGIIO_V1,1,-1,0,55000,5000",
-        "VM_FIXtopsIIO_V1,1,-1,0,55000,5000",
-        "VM_FIXpantsBGIIO_V1,1,-1,0,45000,4000",
-        "VM_FIXpantsIIO_V1,1,-1,0,45000,4000",
-        "VM_FIXshoesBGIIO,1,-1,0,30000,3000",
-        "VM_FIXshoesIIO,1,-1,0,30000,3000",
-        "VM_FIXglovesBGIIO,1,-1,0,30000,3000",
-        "VM_FIXglovesIIO,1,-1,0,30000,3000"
+        "VM_FIXHelmetBGIIO,1,-1,0,50000,5000",
+        "VM_FIXHelmetIIO,1,-1,0,50000,5000",
+        "VM_FIXvestBGIIO_V1,1,-1,0,120000,12000",
+        "VM_FIXvestIIO_V1,1,-1,0,120000,12000",
+        "VM_FIXtopsBGIIO_V1,1,-1,0,75000,7500",
+        "VM_FIXtopsIIO_V1,1,-1,0,75000,7500",
+        "VM_FIXpantsBGIIO_V1,1,-1,0,65000,6500",
+        "VM_FIXpantsIIO_V1,1,-1,0,65000,6500",
+        "VM_FIXshoesBGIIO,1,-1,0,50000,5000",
+        "VM_FIXshoesIIO,1,-1,0,50000,5000",
+        "VM_FIXglovesBGIIO,1,-1,0,50000,5000",
+        "VM_FIXglovesIIO,1,-1,0,50000,5000"
       ]
     },
     {
