@@ -49,9 +49,6 @@
 		<file name="kiwi_items.xml" type="types" />
 		<file name="sets.xml" type="types" />
 	</ce>
-	<ce folder="types/BBP_ce">
-		<file name="BBP_types.xml" type="types" />
-	</ce>
 	<!-- MMG -->
 	<ce folder="types/MMG_ce">
 		<file name="mmg_types_ADMINGEAR.xml" type="types" />
