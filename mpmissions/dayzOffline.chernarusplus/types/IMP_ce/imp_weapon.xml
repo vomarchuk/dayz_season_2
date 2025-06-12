@@ -2021,7 +2021,7 @@
     <type name="IMP_PistolGrip_AR_AR15MagpulMoe">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <min>0</min>
+        <min>1</min>
         <restock>0</restock>
         <nominal>1</nominal>
         <category name="weapons"/>
@@ -2111,7 +2111,7 @@
     <type name="IMP_ReceiverCover_AK_Izhmash">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <min>0</min>
+        <min>1</min>
         <restock>0</restock>
         <nominal>1</nominal>
         <category name="weapons"/>
