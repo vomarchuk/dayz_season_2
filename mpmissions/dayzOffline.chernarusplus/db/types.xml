@@ -1817,7 +1817,7 @@
         <nominal>0</nominal>
     </type>
     <type name="Aug">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>3600</restock>
         <min>0</min>
