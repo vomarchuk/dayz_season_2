@@ -7,7 +7,7 @@
         "Після того випадку в бункері я боюся відпускати Альошку одного. Відведи його на нашу дачу будь-ласка.",
         "Після того випадку в бункері я боюся відпускати Альошку самого. Відведи його на нашу дачу, будь ласка. \nЯкщо ведмедик не зараховується - забери з нього предмети і скинь його на землю, а потім підніми!",
         "Дякую тобі! Я дам тобі кращого ведмедика тільки НЕ ЗАБУДЬ ДIСТАТИ свої речі з ведмедика!! "
-   ],
+    ],
     "ObjectiveText": "Відведи Альошу",
     "FollowUpQuest": 312,
     "Repeatable": 0,
@@ -56,11 +56,13 @@
     "QuestColor": 0,
     "ReputationReward": 10,
     "ReputationRequirement": 750,
-    "PreQuestIDs": [310],
+    "PreQuestIDs": [
+        310
+    ],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 1,
-    "DeleteQuestItems": 1,
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
     "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},

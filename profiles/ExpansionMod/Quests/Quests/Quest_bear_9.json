@@ -7,7 +7,7 @@
         "Останнім часом розвелося дуже багато бандитів(ботів). Я боюся, щоб вони не забрали мого Тедді. Можеш вбити їх, щоб вони не думали приходити до нас?",
         "Останнім часом розвелося дуже багато бандитів(ботів). Я боюся, щоб вони не забрали мого Тедді. Можеш вбити їх, щоб вони не думали приходити до нас? \nЯкщо ведмедик не зараховується - забери з нього предмети і скинь його на землю, а потім підніми!",
         "Дякую тобі! Я дам тобі кращого ведмедика тільки НЕ ЗАБУДЬ ДIСТАТИ свої речі з ведмедика!! "
-   ],
+    ],
     "ObjectiveText": "Вбий бандитів(ботів)",
     "FollowUpQuest": 310,
     "Repeatable": 0,
@@ -56,11 +56,13 @@
     "QuestColor": 0,
     "ReputationReward": 10,
     "ReputationRequirement": 600,
-    "PreQuestIDs": [308],
+    "PreQuestIDs": [
+        308
+    ],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 1,
-    "DeleteQuestItems": 1,
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
     "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
