@@ -473,19 +473,11 @@
         <nominal>0</nominal>
     </type>
     <type name="RIP_rubber">
-        <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>10</quantmin>
-        <quantmax>60</quantmax>
-        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
-        <usage name="Village"/>
-        <value name="Tier4"/>
+        <min>0</min>
+        <restock>0</restock>
+        <nominal>0</nominal>
     </type>
     <type name="RIP_SBM20">
         <lifetime>28800</lifetime>
@@ -771,7 +763,7 @@
     <type name="RIP_OilFilter">
         <nominal>25</nominal>
         <lifetime>28800</lifetime>
-        <restock>1919</restock>
+        <restock>1151</restock>
         <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -796,7 +788,7 @@
     <type name="RIP_Collet">
         <nominal>25</nominal>
         <lifetime>28800</lifetime>
-        <restock>1919</restock>
+        <restock>1151</restock>
         <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -817,9 +809,6 @@
         <min>0</min>
         <restock>0</restock>
         <nominal>0</nominal>
-        <category name="quest"/>
-        <usage name="Office"/>
-        <usage name="Military"/>
     </type>
     <type name="RIP_FlashUSB1">
         <lifetime>28800</lifetime>
