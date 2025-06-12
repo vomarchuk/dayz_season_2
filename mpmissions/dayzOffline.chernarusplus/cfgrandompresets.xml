@@ -126,7 +126,7 @@
 		<item name="Crackers" chance="0.05" />
 		<item name="Chips" chance="0.05" />
 	</cargo>
-	<cargo chance="0.15" name="foodCity"> <!--same
+	<cargo chance="0.15" name="foodCity">		<!--same
 		as the one above - just preparing -->
 		<item name="SodaCan_Cola" chance="0.02" />
 		<item name="SodaCan_Pipsi" chance="0.02" />
@@ -181,7 +181,7 @@
 		<item name="Rag" chance="0.07" />
 		<item name="Flashlight" chance="0.07" />
 	</cargo>
-	<cargo chance="0.2" name="toolsCity"> <!--same
+	<cargo chance="0.2" name="toolsCity">		<!--same
 		as the one above - just preparing -->
 		<item name="DuctTape" chance="0.07" />
 		<item name="Battery9V" chance="0.07" />
@@ -421,8 +421,7 @@
 		<item name="TaloonBag_Orange" chance="0.10" />
 		<item name="TaloonBag_Violet" chance="0.10" />
 	</attachments>
-	<attachments chance="0.00" name="glassesVillage"> <!--was
-		chance="0.30"; removed coz of attachment slot is missing -->
+	<attachments chance="0.00" name="glassesVillage">		<!--was chance="0.30"; removed coz of attachment slot is missing -->
 		<item name="ThickFramesGlasses" chance="0.10" />
 		<item name="ThinFramesGlasses" chance="0.20" />
 		<item name="DesignerGlasses" chance="0.20" />
@@ -457,8 +456,7 @@
 		<item name="BaseballBat" chance="1.0" />
 		<item name="Machete" chance="1.0" />
 	</attachments>
-	<attachments chance="0.00" name="glassesCity"> <!--was
-		chance="0.20"; removed coz of attachment slot is missing -->
+	<attachments chance="0.00" name="glassesCity">		<!--was chance="0.20"; removed coz of attachment slot is missing -->
 		<item name="ThickFramesGlasses" chance="0.10" />
 		<item name="ThinFramesGlasses" chance="0.10" />
 		<item name="DesignerGlasses" chance="0.10" />
@@ -540,8 +538,7 @@
 		<item name="MilitaryBeret_CDF" chance="0.10" />
 		<item name="ZSh3PilotHelmet" chance="0.10" />
 	</attachments>
-	<attachments chance="0.00" name="glassesArmy"> <!--was
-		chance="0.10"; removed coz of attachment slot is missing -->
+	<attachments chance="0.00" name="glassesArmy">		<!--was chance="0.10"; removed coz of attachment slot is missing -->
 		<item name="TacticalGoggles" chance="0.10" />
 		<item name="AviatorGlasses" chance="0.25" />
 	</attachments>
