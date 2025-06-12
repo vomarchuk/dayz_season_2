@@ -1854,6 +1854,7 @@
       "CategoryName": "MMG Sniper Boonie",
       "Products": [
         "mmg_boonie_green,1,-1,1,-1,100",
+        "mmg_boonie_atacs,1,-1,1,-1,100",
         "mmg_boonie_black,1,-1,1,-1,100",
         "mmg_boonie_tan,1,-1,1,-1,100",
         "mmg_boonie_erdl,1,-1,1,-1,100",
