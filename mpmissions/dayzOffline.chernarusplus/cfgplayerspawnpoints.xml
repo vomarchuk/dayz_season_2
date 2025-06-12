@@ -204,7 +204,7 @@
             <min_dist_static>0.5</min_dist_static>
             <max_dist_static>2.0</max_dist_static>
         </spawn_params>
-       <generator_params>
+        <generator_params>
             <grid_density>4</grid_density>
             <grid_width>150</grid_width>
             <grid_height>150</grid_height>

@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
-    <type name="AP_zmb_kamikaze">
-        <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-       <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="AP_zmb_kamikaze_half">
-        <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-       <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="AP_vest_kamikaze">
-        <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-       <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>   
+   <type name="AP_zmb_kamikaze">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+   </type>
+   <type name="AP_zmb_kamikaze_half">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+   </type>
+   <type name="AP_vest_kamikaze">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+   </type>
    <type name="AP_zmb_voltage_miltary">
-        <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-       <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>      
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+   </type>
    <type name="AP_part_zmb_voltage_head">
-        <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-       <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>      
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+   </type>
    <type name="AP_document_secret_voltage">
-        <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-       <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>      
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+   </type>
    <type name="AP_document_secret_voltage_eng">
-        <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-       <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>      
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+   </type>
 </types>
