@@ -12,8 +12,8 @@
         <usage name="Town"/>
         <usage name="Village"/>
         <tag name="shelves"/>
-        <value name="Tier1" />
-        <value name="Tier2" />
+        <value name="Tier1"/>
+        <value name="Tier2"/>
     </type>
     <type name="TerjeBookAthletic2">
         <lifetime>28800</lifetime>
@@ -88,8 +88,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <usage name="Hunting"/>
         <tag name="shelves"/>
-        <value name="Tier1" />
-        <value name="Tier2" />
+        <value name="Tier1"/>
+        <value name="Tier2"/>
     </type>
     <type name="TerjeBookHunting2">
         <lifetime>28800</lifetime>
@@ -305,9 +305,9 @@
         <category name="MedicalTools"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-        <value name="Tier1" />
-        <value name="Tier2" />
-        <value name="Tier3" />
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
     </type>
     <type name="TerjeBookMedicine2">
         <lifetime>28800</lifetime>
@@ -327,7 +327,7 @@
         <category name="MedicalTools"/>
         <usage name="Medic"/>
         <tag name="shelves"/>
-        <value name="Tier4" />
+        <value name="Tier4"/>
     </type>
     <type name="TerjeBookMedicine4">
         <lifetime>28800</lifetime>
