@@ -3,7 +3,7 @@
   "DisableShootToUnlock": 0,
   "EnableGravecross": 1,
   "EnableAIGravecross": 0,
-  "GravecrossDeleteBody": 1,
+  "GravecrossDeleteBody": 0,
   "GravecrossTimeThreshold": 3600,
   "GravecrossSpawnTimeDelay": 5,
   "Mapping": {
