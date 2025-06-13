@@ -5,7 +5,7 @@
   "EnableAIGravecross": 0,
   "GravecrossDeleteBody": 0,
   "GravecrossTimeThreshold": 3600,
-  "GravecrossSpawnTimeDelay": 5,
+  "GravecrossSpawnTimeDelay": 1,
   "Mapping": {
     "UseCustomMappingModule": 0,
     "Mapping": [
