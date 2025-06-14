@@ -3665,10 +3665,10 @@
         <nominal>0</nominal>
     </type>
     <type name="IMP_Mag_VSK94_20Rnd">
-        <nominal>7</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
