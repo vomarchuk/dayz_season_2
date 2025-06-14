@@ -1,8 +1,8 @@
 {
     "ConfigVersion": 28,
-    "ID": 6,
+    "ID": 7,
     "ObjectiveType": 6,
-    "ObjectiveText": "Знайди документи",
+    "ObjectiveText": "Знайди хімічну речовину",
     "TimeLimit": -1,
     "Active": 1,
     "ShowDistance": 0,
@@ -12,26 +12,26 @@
     "MarkerVisibility": 4,
     "Positions": [
         [
-            2219.979736,
-            93.419983,
-            3270.975342
+            524.095703,
+            422.006317,
+            11149.398438
         ],
         [
-            2221.769775,
-            88.025826,
-            3269.068359
+            467.985107,
+            426.567627,
+            11197.252930
         ],
         [
-            2202.537842,
-            93.453445,
-            3275.693359
+            578.804565,
+            430.947906,
+            11247.179688
         ]
     ],
     "LootItemsAmount": 1,
     "MaxDistance": 50.0,
     "Loot": [
         {
-            "Name": "RIP_DocTube",
+            "Name": "Grenade_ChemGas",
             "Chance": 1.0,
             "Attachments": [],
             "QuantityPercent": -1,
