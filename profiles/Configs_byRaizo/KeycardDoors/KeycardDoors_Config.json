@@ -63,16 +63,16 @@
         "DoorScale": 2.0,
         "ActionName": "Відкрити ворота",
         "TimeForOpen": 10.0,
-        "TimeForClose": 2700.0,
+        "TimeForClose": 60.0,
         "EnableNotificationForOpen": 0,
         "NotificationForOpen": "",
         "NotificationTitle": "",
         "NotificationTime": 3.0,
         "NeedItem": {
             "Item": "",
-            "ModeFlag": 2,
+            "ModeFlag": 0,
             "ItemHealthDamage": 0.0,
-            "ItemQuantityDamage": 0.20
+            "ItemQuantityDamage": 0.0
         },
         "WhiteListAllow": 0,
         "WhiteList": [],
@@ -101,16 +101,16 @@
         "DoorScale": 1.50,
         "ActionName": "Відкрити ворота",
         "TimeForOpen": 10.0,
-        "TimeForClose": 2700.0,
+        "TimeForClose": 60.0,
         "EnableNotificationForOpen": 0,
         "NotificationForOpen": "",
         "NotificationTitle": "",
         "NotificationTime": 3.0,
         "NeedItem": {
             "Item": "",
-            "ModeFlag": 2,
+            "ModeFlag": 0,
             "ItemHealthDamage": 0.0,
-            "ItemQuantityDamage": 0.20
+            "ItemQuantityDamage": 0.0
         },
         "WhiteListAllow": 0,
         "WhiteList": [],
