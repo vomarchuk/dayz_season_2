@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1012,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Дістатися до Біатлон Арени",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        527.740295,
+        423.013489,
+        11181.334961
+    ],
+    "MaxDistance": 200.0,
+    "MarkerName": "",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

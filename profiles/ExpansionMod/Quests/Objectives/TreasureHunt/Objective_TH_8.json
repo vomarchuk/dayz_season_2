@@ -1,8 +1,8 @@
 {
     "ConfigVersion": 28,
-    "ID": 6,
+    "ID": 8,
     "ObjectiveType": 6,
-    "ObjectiveText": "Знайди документи",
+    "ObjectiveText": "Знайди польвову радіостанцію",
     "TimeLimit": -1,
     "Active": 1,
     "ShowDistance": 0,
@@ -12,26 +12,26 @@
     "MarkerVisibility": 4,
     "Positions": [
         [
-            2219.979736,
-            93.419983,
-            3270.975342
+            602.648010,
+            510.137115,
+            13668.799805
         ],
         [
-            2221.769775,
-            88.025826,
-            3269.068359
+            646.805542,
+            504.212921,
+            13666.916992
         ],
         [
-            2202.537842,
-            93.453445,
-            3275.693359
+            540.169495,
+            502.312042,
+            13637.760742
         ]
     ],
     "LootItemsAmount": 1,
     "MaxDistance": 50.0,
     "Loot": [
         {
-            "Name": "RIP_DocTube",
+            "Name": "BaseRadio",
             "Chance": 1.0,
             "Attachments": [],
             "QuantityPercent": -1,
