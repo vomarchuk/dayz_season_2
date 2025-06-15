@@ -227,8 +227,8 @@
             "MaxSpreadRadius": 20.0,
             "Chance": 1.0,
             "WaypointInterpolation": "",
-            "DespawnTime": 2100.0,
-            "RespawnTime": 2100.0,
+            "DespawnTime": 3600.0,
+            "RespawnTime": 3600.0,
             "LoadBalancingCategory": "HelicopterWreck",
             "ClassName": "Wreck_UH1Y"
         },
