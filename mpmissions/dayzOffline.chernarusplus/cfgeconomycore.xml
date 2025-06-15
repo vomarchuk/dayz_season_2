@@ -76,6 +76,9 @@
 		<file name="AP_equipme_types_1.5.xml" type="types" />
 		<file name="AP_equipme_Helmets.xml" type="types" />
 		<file name="AP_equipme_Visor.xml" type="types" />
+		<file name="AP_equipme_Belts.xml" type="types" />
+		<file name="AP_equipme_Vests.xml" type="types" />
+		<file name="AP_equipme_Bags.xml" type="types" />
 	</ce>
 	<!-- DBN  -->
 	<ce folder="types/DBN_ce">

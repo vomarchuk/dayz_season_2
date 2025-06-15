@@ -2214,6 +2214,46 @@
       ]
     },
     {
+      "CategoryName": "Pouches",
+      "Products": [
+        "AP_pouch_bl_magp_sand,1,-1,1,-1,150",
+        "AP_pouch_bl_magp_black,1,-1,1,-1,150",
+        "AP_pouch_rus_holster_sand,1,-1,1,-1,200",
+        "AP_pouch_rus_holster_emr,1,-1,1,-1,200",
+        "AP_pouch_rus_holster_winter,1,-1,1,-1,200",
+        "AP_pouch_mag_1_sand,1,-1,1,-1,250",
+        "AP_pouch_mag_1_sand2,1,-1,1,-1,250",
+        "AP_pouch_mag_1_black,1,-1,1,-1,250",
+        "AP_pouch_mag_1_green,1,-1,1,-1,250",
+        "AP_pouch_mag_1_camo,1,-1,1,-1,250",
+        "AP_pouch_mag_1_white,1,-1,1,-1,250"
+      ]
+    },
+    {
+      "CategoryName": "Holsters",
+      "Products": [
+        "AP_pouch_holster1_sand,1,-1,1,-1,150",
+        "AP_pouch_holster1_green,1,-1,1,-1,150",
+        "AP_pouch_holster1_black,1,-1,1,-1,150",
+        "AP_pouch_bl_holster1,1,-1,1,-1,150",
+        "AP_pouch_bl_holster2,1,-1,1,-1,150"
+      ]
+    },
+    {
+      "CategoryName": "Bottles",
+      "Products": [
+        "AP_canteen_sov,1,-1,1,-1,100",
+        "AP_canteen_sov_camo,1,-1,1,-1,100",
+        "AP_canteen_us_sand,1,-1,1,-1,100",
+        "AP_canteen_us_sand2,1,-1,1,-1,100",
+        "AP_canteen_us_black,1,-1,1,-1,100",
+        "AP_canteen_us_green,1,-1,1,-1,100",
+        "AP_canteen_us_camo,1,-1,1,-1,100",
+        "AP_canteen_us_white,1,-1,1,-1,100",
+        "AP_canteen_us2,1,-1,1,-1,100"
+      ]
+    },
+    {
       "CategoryName": "MMG Helmets",
       "Products": [
         "MMG_tactical_helmet_black,1,-1,1,-1,250",
