@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1009,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Польовва радіостанція",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "BaseRadio",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

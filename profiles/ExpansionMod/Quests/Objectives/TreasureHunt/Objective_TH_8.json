@@ -1,0 +1,43 @@
+{
+    "ConfigVersion": 28,
+    "ID": 8,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Знайди польвову радіостанцію",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ShowDistance": 0,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 0,
+    "MarkerName": "",
+    "MarkerVisibility": 4,
+    "Positions": [
+        [
+            602.648010,
+            510.137115,
+            13668.799805
+        ],
+        [
+            646.805542,
+            504.212921,
+            13666.916992
+        ],
+        [
+            540.169495,
+            502.312042,
+            13637.760742
+        ]
+    ],
+    "LootItemsAmount": 1,
+    "MaxDistance": 50.0,
+    "Loot": [
+        {
+            "Name": "BaseRadio",
+            "Chance": 1.0,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": 1,
+            "Min": 1,
+            "Variants": []
+        }
+    ]
+}

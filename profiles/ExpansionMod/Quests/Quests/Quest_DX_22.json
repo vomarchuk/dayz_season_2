@@ -1,0 +1,103 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1022,
+    "Type": 1,
+    "Title": "Частина друга! Отруєна земля!",
+    "Descriptions": [
+        "Кілька днів тому в радіоефірі пролунав дивний сигнал«мене хтось...я виж... допо…жіть...». Я досить часто сижу зі своєю рацією годинами переключаючись між частотами, і знаєш що? За весь цей час я почув два повідомлення, перший, це коли Стаф випив більше своєї порції і почав щось там бормотати собі під ніс походу забувши що не вимкнув рацію, а другий ось цей…Можливо ця людина ще спробує вийти на зв’язок, і я врятую йому життя! Але моя рація вже стара, і дуже часто не виконує свої завдання, сходи мені за новою і потужнішою, а я дам тобі те що знайшов на вилазці!",
+        "Кілька днів тому в радіоефірі пролунав дивний сигнал«мене хтось...я виж... допо…жіть...». Я досить часто сижу зі своєю рацією годинами переключаючись між частотами, і знаєш що? За весь цей час я почув два повідомлення, перший, це коли Стаф випив більше своєї порції і почав щось там бормотати собі під ніс походу забувши що не вимкнув рацію, а другий ось цей…Можливо ця людина ще спробує вийти на зв’язок, і я врятую йому життя! Але моя рація вже стара, і дуже часто не виконує свої завдання, сходи мені за новою і потужнішою, а я дам тобі те що знайшов на вилазці!",
+        "Дякую тобі, тепер я буду пробувати ще раз вловити якийсь сигнал… Інколи дуже хочеться бути корисним цьому світові! Тримай, як  і обіцяв, зброя, але як мені сказали, ти зможеш її вдосконалити, зробити смертоносною для всього! Але пам’ятай, зброя використана із злими намірами, тебе ж самого і вб’є! Бувай, займися своїми справами! Коли буде потрібно, я тебе знайду)"
+    ],
+    "ObjectiveText": "Радіотіси",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "Winchester70",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "IMP_FAMAS",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "M4A1",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "IMP_VSK94",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 1,
+    "RandomRewardAmount": 1,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        9
+    ],
+    "QuestTurnInIDs": [
+        9
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1013,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 8,
+            "ObjectiveType": 6
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 1009,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": -930200403,
+    "ReputationReward": 10,
+    "ReputationRequirement": 800,
+    "PreQuestIDs": [
+        1021
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

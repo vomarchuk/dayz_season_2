@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1013,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Дістатися до Радіотіс",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        599.262573,
+        511.288391,
+        13666.299805
+    ],
+    "MaxDistance": 200.0,
+    "MarkerName": "",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

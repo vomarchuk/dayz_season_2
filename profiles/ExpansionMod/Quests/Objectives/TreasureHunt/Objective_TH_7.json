@@ -1,0 +1,43 @@
+{
+    "ConfigVersion": 28,
+    "ID": 7,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Знайди хімічну речовину",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ShowDistance": 0,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 0,
+    "MarkerName": "",
+    "MarkerVisibility": 4,
+    "Positions": [
+        [
+            524.095703,
+            422.006317,
+            11149.398438
+        ],
+        [
+            467.985107,
+            426.567627,
+            11197.252930
+        ],
+        [
+            578.804565,
+            430.947906,
+            11247.179688
+        ]
+    ],
+    "LootItemsAmount": 1,
+    "MaxDistance": 50.0,
+    "Loot": [
+        {
+            "Name": "Grenade_ChemGas",
+            "Chance": 1.0,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": 1,
+            "Min": 1,
+            "Variants": []
+        }
+    ]
+}
