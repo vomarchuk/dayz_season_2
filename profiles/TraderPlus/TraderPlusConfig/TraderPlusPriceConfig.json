@@ -2111,6 +2111,30 @@
       ]
     },
     {
+      "CategoryName": "Tactical Pants",
+      "Products": [
+        "FB_tactical_pants_green,1,-1,1,-1,150",
+        "FB_tactical_pants_leather,1,-1,1,-1,150",
+        "FB_tactical_pants_pixel,1,-1,1,-1,150",
+        "FB_tactical_pants_grey,1,-1,1,-1,150",
+        "FB_tactical_pants_blue,1,-1,1,-1,150",
+        "FB_tactical_pants_black,1,-1,1,-1,150",
+        "FB_tactical_pants_tan,1,-1,1,-1,150",
+        "FB_tactical_pants_ADM,1,-1,1,-1,150"
+      ]
+    },
+    {
+      "CategoryName": "Tactical Jackets",
+      "Products": [
+        "FB_tactical_jacket_green,1,-1,1,-1,150",
+        "FB_tactical_jacket_leather,1,-1,1,-1,150",
+        "FB_tactical_jacket_grey,1,-1,1,-1,150",
+        "FB_tactical_jacket_black,1,-1,1,-1,150",
+        "FB_tactical_jacket_tan,1,-1,1,-1,150",
+        "FB_tactical_jacket_sand,1,-1,1,-1,150"
+      ]
+    },
+    {
       "CategoryName": "Helmets",
       "Products": [
         "AP_helm_sfera_sand,1,-1,1,-1,180",
